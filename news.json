@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T18:32:05.099701Z",
+  "generated_at": "2026-09-29T18:56:20.092923Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T17:39:06Z",
         "summary": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK."
+      },
+      {
+        "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed",
+        "url": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T17:31:30Z",
+        "summary": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt."
       },
       {
         "title": "First female prime minister named in Morocco after winning elections",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T13:58:02Z",
         "summary": "Andy Burnham has said social care in England should be reformed - what are the possible options?"
-      },
-      {
-        "title": "Avanti West Coast services to be nationalised from March",
-        "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T12:52:56Z",
-        "summary": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers."
       }
     ],
     "saudi": [
@@ -273,6 +273,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T17:39:06Z",
         "summary": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK."
+      },
+      {
+        "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed",
+        "url": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T17:31:30Z",
+        "summary": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt."
       },
       {
         "title": "First female prime minister named in Morocco after winning elections",
