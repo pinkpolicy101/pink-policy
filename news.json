@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-09-29T21:27:21.135763Z",
+  "generated_at": "2026-09-29T21:53:11.829951Z",
   "articles": {
     "world": [
       {
+        "title": "Trump rules out joint US-China venture to develop AI",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T21:45:01Z",
+        "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth."
+      },
+      {
         "title": "Former American Idol contestant and pastor found guilty of murdering wife",
         "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T21:16:17Z",
+        "published_at": "2026-09-29T21:34:59Z",
         "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
       },
       {
-        "title": "Trump rules out joint US-China venture to develop AI",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T20:24:18Z",
-        "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth."
+        "title": "Burnham to fight next election on pledge to change voting system",
+        "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T21:32:31Z",
+        "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform."
       },
       {
         "title": "The journalist who became king in Uganda",
@@ -73,12 +79,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr209vl2z9jqo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T16:07:50Z",
         "summary": "Big policy announcements and emotional moments as the prime minister delivers a speech to Labour's conference."
-      },
-      {
-        "title": "Burnham to fight next election on pledge to change voting system",
-        "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T15:55:34Z",
-        "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform."
       },
       {
         "title": "Watch: How did Burnham's speech go down in the conference hall?",
@@ -211,9 +211,15 @@
     ],
     "us": [
       {
+        "title": "Trump rules out joint US-China venture to develop AI",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T21:45:01Z",
+        "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth."
+      },
+      {
         "title": "Former American Idol contestant and pastor found guilty of murdering wife",
         "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T21:16:17Z",
+        "published_at": "2026-09-29T21:34:59Z",
         "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
       },
       {
@@ -229,10 +235,10 @@
         "summary": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade."
       },
       {
-        "title": "Trump rules out joint US-China venture to develop AI",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T20:24:18Z",
-        "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth."
+        "title": "How Lindsay Clancy's return to court after mistrial unfolded",
+        "url": "https://www.bbc.co.uk/news/videos/c64gvn7v1401o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T20:09:23Z",
+        "summary": "The BBC's Ione Wells describes what happened in court, as the US mother's defence for the first time argued there was not enough evidence to prove Clancy killed her children."
       },
       {
         "title": "Oura pulls $15bn stock market listing days after announcement",
@@ -751,6 +757,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T20:50:43Z",
         "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
+      },
+      {
+        "title": "How Lindsay Clancy's return to court after mistrial unfolded",
+        "url": "https://www.bbc.co.uk/news/videos/c64gvn7v1401o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T20:09:23Z",
+        "summary": "The BBC's Ione Wells describes what happened in court, as the US mother's defence for the first time argued there was not enough evidence to prove Clancy killed her children."
       },
       {
         "title": "Oura pulls $15bn stock market listing days after announcement",
