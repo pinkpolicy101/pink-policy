@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-09-29T20:28:54.488681Z",
+  "generated_at": "2026-09-29T20:53:17.103067Z",
   "articles": {
     "world": [
+      {
+        "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+        "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T20:50:43Z",
+        "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
+      },
       {
         "title": "Trump rules out joint US-China venture to develop AI",
         "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cvj64jg5prpgo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T16:47:53Z",
         "summary": "Kanishka Narayan says one of his top priorities is to have a plan in place if job losses are as bad as some fear."
-      },
-      {
-        "title": "Women protest in the streets of Delhi after string of sexual assaults",
-        "url": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T16:15:57Z",
-        "summary": "BBC correspondent Azadeh Moshiri reports from Delhi, where hundreds of women are protesting."
       }
     ],
     "saudi": [
@@ -210,6 +210,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+        "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T20:50:43Z",
+        "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
+      },
+      {
+        "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
+        "url": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T20:39:59Z",
+        "summary": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade."
+      },
       {
         "title": "Trump rules out joint US-China venture to develop AI",
         "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
@@ -253,12 +265,6 @@
         "summary": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen."
       },
       {
-        "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
-        "url": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-25T20:06:39Z",
-        "summary": "Kratom, found during an investigation into the deaths of two college students, has been sold in the US for around a decade."
-      },
-      {
         "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
         "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-25T18:41:13Z",
@@ -268,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+        "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T20:50:43Z",
+        "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
+      },
       {
         "title": "The journalist who became king in Uganda",
         "url": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
@@ -734,6 +746,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+        "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T20:50:43Z",
+        "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
+      },
       {
         "title": "Oura pulls $15bn stock market listing days after announcement",
         "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
