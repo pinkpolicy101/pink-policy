@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-09-29T17:16:31.014747Z",
+  "generated_at": "2026-09-29T17:32:04.663439Z",
   "articles": {
     "world": [
+      {
+        "title": "First female prime minister named in Morocco after winning elections",
+        "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T17:14:10Z",
+        "summary": "Her appointment by the king makes her only the second woman to lead a government in the Arab world."
+      },
       {
         "title": "What is the triple lock and why are people talking about it?",
         "url": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c83v4qe70r0ko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T12:10:54Z",
         "summary": "Sir Andrew Dilnot, who proposed reforms 15 years ago, says the cost of such a scheme would be \"very substantial\"."
-      },
-      {
-        "title": "Why the PM could finally drop the triple lock pension pledge",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdvmy1287yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T07:38:21Z",
-        "summary": "Andy Burnham said that he would make tough decisions to fund a new national care service."
       }
     ],
     "saudi": [
@@ -268,6 +268,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "First female prime minister named in Morocco after winning elections",
+        "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T17:14:10Z",
+        "summary": "Her appointment by the king makes her only the second woman to lead a government in the Arab world."
+      },
       {
         "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
         "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
