@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-09-29T18:56:20.092923Z",
+  "generated_at": "2026-09-29T19:28:21.011616Z",
   "articles": {
     "world": [
+      {
+        "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
+        "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T19:13:14Z",
+        "summary": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes."
+      },
       {
         "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
         "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c5vgyj8k3dzgo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T15:53:30Z",
         "summary": "Around 25% of arrivals under the UK Resettlement Scheme are expected to be Afghan women and girls and Palestinians."
-      },
-      {
-        "title": "Andy Burnham wants to fix social care - what are the options?",
-        "url": "https://www.bbc.co.uk/news/articles/cj4k54g0ldjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T13:58:02Z",
-        "summary": "Andy Burnham has said social care in England should be reformed - what are the possible options?"
       }
     ],
     "saudi": [
@@ -210,6 +210,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Oura pulls $15bn stock market listing days after announcement",
+        "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T17:17:07Z",
+        "summary": "The wearable technology company had been expected to list its shares in the US."
+      },
       {
         "title": "Trump rules out joint US-China venture to develop AI",
         "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
@@ -257,17 +263,17 @@
         "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-25T18:41:13Z",
         "summary": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant."
-      },
-      {
-        "title": "Xi visit to Washington all pomp but little progress so far",
-        "url": "https://www.bbc.co.uk/news/articles/c539me79z1yno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-24T21:57:25Z",
-        "summary": "The summit so far has focused on \"positive vibes\", says one analyst, with several pressing issues awaiting discussion."
       }
     ]
   },
   "archive": {
     "world": [
+      {
+        "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
+        "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T19:13:14Z",
+        "summary": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes."
+      },
       {
         "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
         "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
@@ -722,6 +728,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Oura pulls $15bn stock market listing days after announcement",
+        "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T17:17:07Z",
+        "summary": "The wearable technology company had been expected to list its shares in the US."
+      },
       {
         "title": "Trump rules out joint US-China venture to develop AI",
         "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
