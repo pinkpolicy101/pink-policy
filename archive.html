@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#fff8fa">
+  <title>Headline Archive | Pink Poli 101</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Serif+Display&family=DM+Sans:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="archive.css">
+  <script src="archive.js" defer></script>
+</head>
+<body>
+  <header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">PP</span><span>pink poli <b>101</b><small>POLITICS, MADE UNDERSTANDABLE</small></span></a><a class="archive-back" href="index.html">← Back to the home page</a></header>
+  <main class="section-wrap archive-page">
+    <p class="eyebrow">THE HEADLINE LIBRARY <i></i></p>
+    <h1>Stories worth revisiting.</h1>
+    <p class="archive-intro">Search earlier political headlines from approved publisher feeds. Every entry links to its original report and keeps the publisher's publication date.</p>
+    <div class="archive-updated"><span class="green-dot"></span><span id="archive-updated">Loading archive…</span></div>
+    <div class="archive-controls">
+      <label class="archive-search">Search headlines<input id="archive-search" type="search" placeholder="Try a country, institution, or topic"></label>
+      <label>Region<select id="archive-region"><option value="world">World</option><option value="saudi">Saudi politics</option><option value="us">U.S. politics</option></select></label>
+      <label>Date range<select id="archive-range"><option value="all">All archived dates</option><option value="30">Past 30 days</option><option value="90">Past 90 days</option><option value="older">Older than 90 days</option></select></label>
+      <label>Order<select id="archive-order"><option value="newest">Newest first</option><option value="oldest">Oldest first</option></select></label>
+    </div>
+    <p id="archive-count" class="archive-count" aria-live="polite"></p>
+    <div id="archive-results" class="archive-results" aria-live="polite"><p class="loading">✳<br>Loading saved headlines…</p></div>
+    <button id="archive-more" class="button outline archive-more" type="button" hidden>Load more stories</button>
+    <aside class="archive-note"><b>About this archive</b><p>Headlines are collected from publisher RSS feeds and kept for up to six months. The archive grows after the scheduled updater runs; it cannot recover older stories that were never included in a feed. Reporting and dates belong to the publisher, so open the source article to review its updates and context.</p></aside>
+  </main>
+  <footer><div class="footer-main"><a class="brand" href="index.html"><span class="brand-mark">PP</span><span>pink poli <b>101</b><small>POLITICS, MADE UNDERSTANDABLE</small></span></a><p>Curious, careful, and still learning.</p><a href="#top">Back to top ↑</a></div><div class="footer-bottom"><span>Student-made learning project</span><span>Check original sources for current facts.</span></div></footer>
+</body>
+</html>

@@ -1,8 +1,13 @@
 const TRUSTED = ["apnews.com", "reuters.com", "bbc.com", "bbc.co.uk", "news.un.org", "un.org", "spa.gov.sa", "mofa.gov.sa", "whitehouse.gov", "congress.gov", "supremecourt.gov", "fec.gov", "state.gov", "cfr.org"];
 const REGIONS = {
-  world: { label: "World", note: "Compare reporting across trusted outlets; check the original article for evidence, attribution and updates.", query: "(politics OR election OR diplomacy OR government OR parliament OR court OR legislature OR treaty) (domain:apnews.com OR domain:reuters.com OR domain:bbc.com OR domain:news.un.org)" },
-    saudi: { label: "Saudi", note: "For official positions, compare reporting with the linked Saudi institution or UN document where available.", query: "(politics OR election OR diplomacy OR government OR summit OR international relations OR United Nations) (domain:spa.gov.sa OR domain:mofa.gov.sa OR domain:news.un.org OR domain:reuters.com OR domain:apnews.com)" },
-    us: { label: "U.S.", note: "Check the primary record for the institution involved, then compare it with independent reporting.", query: "(politics OR election OR government OR Congress OR court OR legislature OR policy) (domain:apnews.com OR domain:reuters.com OR domain:bbc.com OR domain:congress.gov OR domain:whitehouse.gov OR domain:supremecourt.gov OR domain:fec.gov)" }
+  world: { label: "World", note: "Compare reporting across trusted outlets; check the original article for evidence, attribution and updates." },
+  saudi: { label: "Saudi", note: "For official positions, compare reporting with the linked Saudi institution or UN document where available." },
+  us: { label: "U.S.", note: "Check the primary record for the institution involved, then compare it with independent reporting." }
+};
+const SOURCE_PORTALS = {
+  world: [["BBC News: World", "https://www.bbc.com/news/world"], ["UN News", "https://news.un.org/en/"], ["Reuters: World", "https://www.reuters.com/world/"]],
+  saudi: [["Saudi Press Agency", "https://www.spa.gov.sa/en"], ["Saudi Ministry of Foreign Affairs", "https://www.mofa.gov.sa/en"], ["BBC News: Middle East", "https://www.bbc.com/news/world/middle_east"]],
+  us: [["Associated Press: Politics", "https://apnews.com/politics"], ["BBC News: U.S. & Canada", "https://www.bbc.com/news/us_and_canada"], ["U.S. Congress", "https://www.congress.gov/"]]
 };
 const SOURCES = { "United Nations": "https://www.un.org/", "UN Charter": "https://www.un.org/en/about-us/un-charter/full-text", "U.S. Constitution": "https://www.archives.gov/founding-docs/constitution-transcript", "College Board": "https://apcentral.collegeboard.org/courses", "Saudi Press Agency": "https://www.spa.gov.sa/en", "Saudi Ministry of Foreign Affairs": "https://www.mofa.gov.sa/en", "U.S. National Archives": "https://www.archives.gov/founding-docs", "Congress.gov": "https://www.congress.gov/" };
 const TERMS = [
@@ -54,31 +59,33 @@ function renderSaved() {
 function saveLink(title, url) { const items = stored("pinkpoli-bookmarks"); if (!items.some(x => x.url === url)) items.unshift({ title, url }); persist("pinkpoli-bookmarks", items.slice(0, 50)); renderSaved(); }
 function trustedUrl(raw) { try { const u = new URL(raw); return u.protocol === "https:" && TRUSTED.some(d => u.hostname === d || u.hostname.endsWith(`.${d}`)); } catch { return false; } }
 function publisher(host) { const map = [["spa.gov.sa", "Saudi Press Agency"], ["mofa.gov.sa", "Saudi Ministry of Foreign Affairs"], ["news.un.org", "UN News"], ["un.org", "United Nations"], ["apnews.com", "Associated Press"], ["reuters.com", "Reuters"], ["bbc.com", "BBC News"], ["bbc.co.uk", "BBC News"], ["whitehouse.gov", "The White House"], ["congress.gov", "U.S. Congress"], ["supremecourt.gov", "U.S. Supreme Court"], ["fec.gov", "Federal Election Commission"], ["state.gov", "U.S. Department of State"], ["cfr.org", "Council on Foreign Relations"]]; return map.find(([d]) => host === d || host.endsWith(`.${d}`))?.[1] || host; }
-function indexDate(value) { if (!value) return "Index time unavailable"; const d = new Date(`${value.slice(0,4)}-${value.slice(4,6)}-${value.slice(6,8)}T${value.slice(8,10)||"00"}:${value.slice(10,12)||"00"}:00Z`); return Number.isNaN(d.getTime()) ? "Index time unavailable" : `Indexed ${new Intl.DateTimeFormat(undefined, { dateStyle: "medium", timeStyle: "short" }).format(d)}`; }
+function publishedDate(value) { const date = new Date(value); return Number.isNaN(date.getTime()) ? "Publication date unavailable" : `Published ${new Intl.DateTimeFormat(undefined, { dateStyle: "medium" }).format(date)}`; }
 function renderNews(items, key) {
   const grid = $("#news-grid"), reg = REGIONS[key];
-  liveSearchResults = items.map(a => ({ title: a.title, detail: publisher(new URL(a.url).hostname) + " · recent report", url: a.url, keywords: a.title }));
-  if (!items.length) { grid.innerHTML = '<p class="loading">No matching articles are available from monitored sources right now.<br><a href="#resources">Browse trusted source portals →</a></p>'; return; }
-  grid.innerHTML = items.map(a => { const host = new URL(a.url).hostname.replace(/^www\./, ""); const title = esc(a.title); return `<article class="news-card"><div class="news-meta"><span class="news-source">${esc(publisher(host))}</span><span>·</span><span>${esc(indexDate(a.seendate || a.date))}</span><span class="news-region">${reg.label}</span></div><h3><a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${title}</a></h3><p class="news-context">${reg.note}</p><button class="save-button" data-save-title="${title}" data-save-url="${esc(a.url)}">♡ Save</button></article>`; }).join("");
+  liveSearchResults = items.map(a => ({ title: a.title, detail: publisher(new URL(a.url).hostname) + " · " + publishedDate(a.published_at), url: a.url, keywords: a.title }));
+  if (!items.length) {
+    grid.innerHTML = SOURCE_PORTALS[key].map(([title, url]) => `<article class="news-card source-card"><div class="news-meta"><span class="news-source">TRUSTED SOURCE</span><span class="news-region">${reg.label}</span></div><h3><a href="${url}" target="_blank" rel="noopener noreferrer">${esc(title)} ↗</a></h3><p class="news-context">No cached headlines yet. Open this publisher for its latest coverage.</p></article>`).join("");
+    return;
+  }
+  grid.innerHTML = items.map(a => { const host = new URL(a.url).hostname.replace(/^www\./, ""); const title = esc(a.title); const summary = esc(a.summary || reg.note); return `<article class="news-card"><div class="news-meta"><span class="news-source">${esc(publisher(host))}</span><span>·</span><span>${esc(publishedDate(a.published_at))}</span><span class="news-region">${reg.label}</span></div><h3><a href="${esc(a.url)}" target="_blank" rel="noopener noreferrer">${title}</a></h3><p class="news-context">${summary}</p><button class="save-button" data-save-title="${title}" data-save-url="${esc(a.url)}">♡ Save</button></article>`; }).join("");
 }
 async function fetchNews(key = regionKey) {
   regionKey = key; const reg = REGIONS[key], notice = $("#feed-notice");
   $$(".news-tab").forEach(t => { const on = t.dataset.region === key; t.classList.toggle("active", on); t.setAttribute("aria-selected", String(on)); });
   $("#news-grid").innerHTML = '<p class="loading">✳<br>Checking trusted publishers…</p>'; notice.hidden = true;
-  const url = new URL("https://api.gdeltproject.org/api/v2/doc/doc"); url.search = new URLSearchParams({ query: reg.query, mode: "ArtList", format: "json", sort: "DateDesc", maxrecords: "9" });
-  const ctrl = new AbortController(), timeout = setTimeout(() => ctrl.abort(), 10000);
   try {
-    const response = await fetch(url, { signal: ctrl.signal, headers: { Accept: "application/json" } }); if (!response.ok) throw new Error(`Feed returned ${response.status}`);
-    const payload = await response.json(), unique = new Map();
-    (payload.articles || []).forEach(a => { if (a.title && trustedUrl(a.url)) unique.set(a.url, a); });
-    const articles = [...unique.values()].slice(0, 6); renderNews(articles, key);
-    $("#news-status").textContent = articles.length ? `${articles.length} checked source${articles.length === 1 ? "" : "s"} · ${reg.label}` : "No matching coverage found";
-    $("#last-checked").textContent = `Feed checked ${new Intl.DateTimeFormat(undefined, { dateStyle: "medium", timeStyle: "short" }).format(new Date())}.`;
-    if (!articles.length) { notice.textContent = "No results passed the trusted-domain check. Source portals are available below."; notice.hidden = false; }
+    const response = await fetch(`./news.json?refresh=${Date.now()}`, { cache: "no-store" }); if (!response.ok) throw new Error(`News cache returned ${response.status}`);
+    const payload = await response.json();
+    const articles = (payload.articles?.[key] || []).filter(a => a.title && a.published_at && trustedUrl(a.url)).slice(0, 6);
+    renderNews(articles, key);
+    const updated = payload.generated_at ? new Intl.DateTimeFormat(undefined, { dateStyle: "medium", timeStyle: "short" }).format(new Date(payload.generated_at)) : "not yet";
+    $("#news-status").textContent = articles.length ? `${articles.length} recent stories · ${reg.label}` : `No cached stories · ${reg.label}`;
+    $("#last-checked").textContent = `Trusted-source cache updated ${updated}.`;
+    if (!articles.length) { notice.textContent = "There are no cached headlines for this section yet. Use the direct trusted-source links below while the scheduled update runs."; notice.hidden = false; }
   } catch (error) {
-    renderNews([], key); $("#news-status").textContent = "Live index unavailable"; $("#last-checked").textContent = "No current articles loaded; see trusted source portals below.";
-    notice.textContent = error.name === "AbortError" ? "The news index took too long to respond. No headlines were invented; try later or open a trusted source portal." : "The news index could not be reached. It may be offline or blocked by this network. No headlines were invented."; notice.hidden = false;
-  } finally { clearTimeout(timeout); }
+    renderNews([], key); $("#news-status").textContent = "Showing trusted source portals"; $("#last-checked").textContent = "The cached news file could not be loaded.";
+    notice.textContent = "Recent headlines are temporarily unavailable. These links open trusted publishers directly; no stories are being generated."; notice.hidden = false;
+  }
 }
 function renderTerms(filter = "") { const list = TERMS.filter(x => x.term.toLowerCase().includes(filter.toLowerCase())); $("#term-chips").innerHTML = list.length ? list.map(x => `<button class="term-chip" data-term="${esc(x.term)}">${esc(x.term)}</button>`).join("") : "<p class=deck>No matching term yet. Try another word.</p>"; }
 function showTerm(term) { const x = TERMS.find(t => t.term.toLowerCase() === term.toLowerCase()); if (!x) return; $$(".term-chip").forEach(b => b.classList.toggle("selected", b.dataset.term === x.term)); $("#definition-panel").innerHTML = `<small>QUICK DEFINITION</small><h3>${esc(x.term)}</h3><p>${esc(x.definition)}</p><div>Sources: ${x.sources.map(sourceLink).join(" ")}</div>`; }
@@ -91,7 +98,6 @@ function renderStudy() {
 }
 function answerQuestion(value) { const q = value.toLowerCase(), match = TERMS.find(t => q.includes(t.term.toLowerCase()) || t.term.toLowerCase().split(" ").some(w => w.length > 6 && q.includes(w))); if (match) return `<p><b>${esc(match.term)}</b> means ${esc(match.definition)}</p><p>Study source: ${match.sources.map(sourceLink).join(" ")}</p><p>This is a study definition, not a complete analysis. Check original materials and compare evidence.</p>`; return `<p>This question is not in the built-in study library yet, and this page cannot verify live political developments. Start with an official record or trusted report, then compare sources.</p><p>Start here: ${sourceLink("United Nations")} · ${sourceLink("College Board")} · ${sourceLink("Congress.gov")}</p>`; }
 const searchable = [...TERMS.map(x => ({ title:x.term, detail:x.definition, url:"#dictionary", keywords:x.term })), ...GUIDES.map(x => ({ title:x[0], detail:x[1], url:"#study", keywords:x[0] })), {title:"Saudi Politics",detail:"Diplomacy, Saudi institutions and official sources",url:"#saudi",keywords:"Saudi politics diplomacy government"},{title:"World Politics",detail:"International institutions and world news",url:"#world",keywords:"world politics international UN"},{title:"Trusted Resources",detail:"Official, educational, research and news sources",url:"#resources",keywords:"resources news sources"},{title:"Political Calendar",detail:"Official event and election schedules",url:"#calendar",keywords:"calendar election summit UN"}];
-function initSearch() { const form=$("#site-search"), input=$("#search-input"), box=$("#search-results"); const update=()=>{const q=input.value.trim().toLowerCase();if(!q){box.hidden=true;return}const found=searchable.filter(x=>`${x.title} ${x.detail} ${x.keywords}`.toLowerCase().includes(q)).slice(0,6);box.innerHTML=found.length?found.map(x=>`<a href="${x.url}"><b>${esc(x.title)}</b><small>${esc(x.detail)}</small></a>`).join(""):'<a href="#resources">No exact match. Browse trusted resources →</a>';box.hidden=false};input.addEventListener("input",update);form.addEventListener("submit",e=>{e.preventDefault();update();box.querySelector("a")?.click()});document.addEventListener("click",e=>{if(!form.contains(e.target))box.hidden=true});box.addEventListener("click",()=>box.hidden=true);}
 function initSearch() { const form=$("#site-search"), input=$("#search-input"), box=$("#search-results"); const update=()=>{const q=input.value.trim().toLowerCase();if(!q){box.hidden=true;return}const found=[...liveSearchResults,...searchable].filter(x=>`${x.title} ${x.detail} ${x.keywords}`.toLowerCase().includes(q)).slice(0,6);box.innerHTML=found.length?found.map(x=>`<a href="${esc(x.url)}"${x.url.startsWith("https:")?' target="_blank" rel="noopener noreferrer"':""}><b>${esc(x.title)}</b><small>${esc(x.detail)}</small></a>`).join(""):'<a href="#resources">No exact match. Browse trusted resources →</a>';box.hidden=false};input.addEventListener("input",update);form.addEventListener("submit",e=>{e.preventDefault();update();box.querySelector("a")?.click()});document.addEventListener("click",e=>{if(!form.contains(e.target))box.hidden=true});box.addEventListener("click",()=>box.hidden=true);}
 renderTerms();renderStudy();renderSaved();initSearch();$("#year").textContent=new Date().getFullYear();fetchNews();setInterval(()=>fetchNews(regionKey),15*60*1000);
 document.addEventListener("click", event => {
