@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-09-29T19:54:03.487385Z",
+  "generated_at": "2026-09-29T20:28:54.488681Z",
   "articles": {
     "world": [
+      {
+        "title": "Trump rules out joint US-China venture to develop AI",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T20:24:18Z",
+        "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth."
+      },
+      {
+        "title": "The journalist who became king in Uganda",
+        "url": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T19:35:19Z",
+        "summary": "Edward Rukidi Nyabongo I has been crowned king of Tooro in a ceremony attended by Uganda's President Museveni."
+      },
       {
         "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
         "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
@@ -15,7 +27,7 @@
         "summary": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK."
       },
       {
-        "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed",
+        "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
         "url": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T17:31:30Z",
         "summary": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt."
@@ -49,12 +61,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cqwyz4kvm2p4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T16:19:59Z",
         "summary": "The Prime Minister spoke through a number of his plans for how the Labour government will impact the nation."
-      },
-      {
-        "title": "Trump rules out joint US-China venture to develop AI",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T16:09:26Z",
-        "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth."
       },
       {
         "title": "Five takeaways from Andy Burnham's Labour conference speech",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T16:15:57Z",
         "summary": "BBC correspondent Azadeh Moshiri reports from Delhi, where hundreds of women are protesting."
-      },
-      {
-        "title": "Mahmood to reopen scheme to resettle refugees in the UK",
-        "url": "https://www.bbc.co.uk/news/articles/c5vgyj8k3dzgo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T15:53:30Z",
-        "summary": "Around 25% of arrivals under the UK Resettlement Scheme are expected to be Afghan women and girls and Palestinians."
       }
     ],
     "saudi": [
@@ -211,16 +211,16 @@
     ],
     "us": [
       {
+        "title": "Trump rules out joint US-China venture to develop AI",
+        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T20:24:18Z",
+        "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth."
+      },
+      {
         "title": "Oura pulls $15bn stock market listing days after announcement",
         "url": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T17:17:07Z",
         "summary": "The wearable technology company had been expected to list its shares in the US."
-      },
-      {
-        "title": "Trump rules out joint US-China venture to develop AI",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T16:09:26Z",
-        "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth."
       },
       {
         "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
@@ -268,6 +268,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "The journalist who became king in Uganda",
+        "url": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T19:35:19Z",
+        "summary": "Edward Rukidi Nyabongo I has been crowned king of Tooro in a ceremony attended by Uganda's President Museveni."
+      },
       {
         "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
         "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
