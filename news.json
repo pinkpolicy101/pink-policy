@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-09-29T21:53:11.829951Z",
+  "generated_at": "2026-09-29T22:27:06.947415Z",
   "articles": {
     "world": [
+      {
+        "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+        "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T22:13:36Z",
+        "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
+      },
+      {
+        "title": "Fires and blockades as students stage school protests across France",
+        "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T21:53:36Z",
+        "summary": "More than 400 people, mainly minors, were arrested on Tuesday, the country's interior minister says."
+      },
       {
         "title": "Trump rules out joint US-China venture to develop AI",
         "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T21:45:01Z",
         "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth."
-      },
-      {
-        "title": "Former American Idol contestant and pastor found guilty of murdering wife",
-        "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T21:34:59Z",
-        "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
       },
       {
         "title": "Burnham to fight next election on pledge to change voting system",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T18:04:41Z",
         "summary": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner."
-      },
-      {
-        "title": "UK needs plan in case of 'unprecedented' AI job losses, says minister",
-        "url": "https://www.bbc.co.uk/news/articles/cvj64jg5prpgo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T16:47:53Z",
-        "summary": "Kanishka Narayan says one of his top priorities is to have a plan in place if job losses are as bad as some fear."
       }
     ],
     "saudi": [
@@ -211,16 +211,16 @@
     ],
     "us": [
       {
+        "title": "Former American Idol contestant and pastor found guilty of murdering wife",
+        "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T22:13:36Z",
+        "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
+      },
+      {
         "title": "Trump rules out joint US-China venture to develop AI",
         "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T21:45:01Z",
         "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth."
-      },
-      {
-        "title": "Former American Idol contestant and pastor found guilty of murdering wife",
-        "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T21:34:59Z",
-        "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
       },
       {
         "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Fires and blockades as students stage school protests across France",
+        "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T21:53:36Z",
+        "summary": "More than 400 people, mainly minors, were arrested on Tuesday, the country's interior minister says."
+      },
       {
         "title": "Former American Idol contestant and pastor found guilty of murdering wife",
         "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
