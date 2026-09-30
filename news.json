@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-09-30T20:53:21.267135Z",
+  "generated_at": "2026-09-30T21:28:38.224129Z",
   "articles": {
     "world": [
+      {
+        "title": "UK believes Iran involved in RAF Fairford incident, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T21:26:59Z",
+        "summary": "Iran's foreign minister has responded, saying the PM was \"barking up the wrong tree\"."
+      },
       {
         "title": "PM: I'd be 'really concerned' if Man City owners sell club",
         "url": "https://www.bbc.co.uk/news/videos/ckz6zq6gjpvgo?at_medium=RSS&at_campaign=rss",
@@ -37,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T16:01:16Z",
         "summary": "The prime minister compares the allegations against Man City to the plight of his own club Everton."
-      },
-      {
-        "title": "UK believes Iran involved in RAF Fairford incident, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T15:59:51Z",
-        "summary": "The prime minister's comments come days after the suspects were released on the 'strictest possible bail conditions'."
       },
       {
         "title": "Household energy bills forecast to see biggest rise in four years",
@@ -205,10 +205,10 @@
     ],
     "us": [
       {
-        "title": "Hegseth confirms new firings of top-ranked US military, unveils plans for new base and autonomous warfare",
-        "url": "https://www.bbc.co.uk/news/articles/crq5xvnq8yzqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T20:48:24Z",
-        "summary": "Roughly 20 admirals and generals already have either resigned or been fired since Hegseth took over the defence department."
+        "title": "Watch: Why was the US execution of Christa Pike halted?",
+        "url": "https://www.bbc.co.uk/news/videos/cm3v4vkdl017o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T20:19:40Z",
+        "summary": "The 50-year-old Tennessee woman was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
       },
       {
         "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
@@ -269,12 +269,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T18:18:30Z",
         "summary": "The threatened proposal aims to protect US consumers from rising costs, but it could trigger major economic waves if it were to happen."
-      },
-      {
-        "title": "Why an international arrest warrant didn't stop Netanyahu's US trip",
-        "url": "https://www.bbc.co.uk/news/videos/ckq633lm11jeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-25T18:41:13Z",
-        "summary": "The BBC's Nada Tawfik explains why Israel's Benjamin Netanyahu was not arrested after speaking at the UN, despite an ICC arrest warrant."
       }
     ]
   },
@@ -884,6 +878,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Watch: Why was the US execution of Christa Pike halted?",
+        "url": "https://www.bbc.co.uk/news/videos/cm3v4vkdl017o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T20:19:40Z",
+        "summary": "The 50-year-old Tennessee woman was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
+      },
       {
         "title": "Hegseth expected to fire more top ranking US military",
         "url": "https://www.bbc.co.uk/news/articles/crq5xvnq8yzqo?at_medium=RSS&at_campaign=rss",
