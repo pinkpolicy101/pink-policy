@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T14:59:18.362546Z",
+  "generated_at": "2026-09-30T15:31:32.831945Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T14:36:45Z",
         "summary": "A typical household faces an annual gas and electricity bill of \u00a31,999 from January, based on a key forecast."
+      },
+      {
+        "title": "Grooming gangs inquiry expanded to Birmingham and Wales",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2zr39l716o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T14:24:55Z",
+        "summary": "Targeted investigations will be carried out as part of a national inquiry into child sexual abuse."
       },
       {
         "title": "Move to rejoin EU among options for UK, says Burnham",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T07:19:04Z",
         "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports."
-      },
-      {
-        "title": "Are Trump's US government funded ads illegal?",
-        "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T01:12:52Z",
-        "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government."
       }
     ],
     "saudi": [
@@ -205,9 +205,9 @@
     ],
     "us": [
       {
-        "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
+        "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
         "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T14:55:04Z",
+        "published_at": "2026-09-30T15:29:11Z",
         "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
       },
       {
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Grooming gangs inquiry expanded to Birmingham and Wales",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2zr39l716o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T14:24:55Z",
+        "summary": "Targeted investigations will be carried out as part of a national inquiry into child sexual abuse."
+      },
       {
         "title": "Burnham rejects Swinney's prediction that he will be 'last prime minister'",
         "url": "https://www.bbc.co.uk/news/videos/cky9z7z53n2yo?at_medium=RSS&at_campaign=rss",
