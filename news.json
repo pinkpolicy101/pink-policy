@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T10:55:32.180835Z",
+  "generated_at": "2026-09-30T11:26:51.372955Z",
   "articles": {
     "world": [
       {
@@ -13,6 +13,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T10:43:13Z",
         "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\"."
+      },
+      {
+        "title": "Luxury prison in Indonesia demolished after public outcry",
+        "url": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T10:41:03Z",
+        "summary": "Indonesian lawmakers on Wednesday ordered the demolition of a controversial luxury compound inside a penitentiary near the capital."
       },
       {
         "title": "Burnham to fight next election on pledge to change voting system",
@@ -73,12 +79,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T19:58:58Z",
         "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money."
-      },
-      {
-        "title": "The journalist who became king in Uganda",
-        "url": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T19:35:19Z",
-        "summary": "Edward Rukidi Nyabongo I has been crowned king of Tooro in a ceremony attended by Uganda's President Museveni."
       },
       {
         "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Luxury prison in Indonesia demolished after public outcry",
+        "url": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T10:41:03Z",
+        "summary": "Indonesian lawmakers on Wednesday ordered the demolition of a controversial luxury compound inside a penitentiary near the capital."
+      },
       {
         "title": "Singapore launches matchmaking service for government workers",
         "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
