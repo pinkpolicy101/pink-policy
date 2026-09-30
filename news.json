@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-30T11:55:18.917273Z",
+  "generated_at": "2026-09-30T12:37:45.349152Z",
   "articles": {
     "world": [
+      {
+        "title": "Botswana condemned for slaughtering elephants for independence celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T12:06:28Z",
+        "summary": "The government authorises the hunting of 23 elephants and dozens of other wild animals for independence day feasts."
+      },
       {
         "title": "Move to rejoin EU among options for UK, says Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T11:36:59Z",
         "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\"."
+      },
+      {
+        "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+        "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T11:36:23Z",
+        "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government."
       },
       {
         "title": "Household energy bills forecast to see biggest rise in four years",
@@ -105,12 +117,6 @@
         "summary": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that."
       },
       {
-        "title": "Spain announces ban on evictions after protests over 87-year-old woman's removal from flat",
-        "url": "https://www.bbc.co.uk/news/articles/cwm2qmjgy93do?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T16:23:58Z",
-        "summary": "The ban is part of a number of proposals that must be approved in parliament within 30 days."
-      },
-      {
         "title": "What did Andy Burnham promise at Labour conference?",
         "url": "https://www.bbc.co.uk/news/videos/cqwyz4kvm2p4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T16:19:59Z",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c9rk3ger1gjzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T08:58:37Z",
         "summary": "Young delegates at the Labour conference in Liverpool air their views."
-      },
-      {
-        "title": "UK tries to stop Trump's diesel export ban",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T07:19:04Z",
-        "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports."
       }
     ],
     "saudi": [
@@ -280,6 +280,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Botswana condemned for slaughtering elephants for independence celebrations",
+        "url": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T12:06:28Z",
+        "summary": "The government authorises the hunting of 23 elephants and dozens of other wild animals for independence day feasts."
+      },
+      {
+        "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
+        "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T11:36:23Z",
+        "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government."
+      },
       {
         "title": "Luxury prison in Indonesia demolished after public outcry",
         "url": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
