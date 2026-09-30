@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-09-30T09:56:00.863999Z",
+  "generated_at": "2026-09-30T10:29:26.258283Z",
   "articles": {
     "world": [
-      {
-        "title": "Israel-bound flight diverted after fight between pilots",
-        "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T09:54:19Z",
-        "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out."
-      },
       {
         "title": "Burnham to fight next election on pledge to change voting system",
         "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T09:45:32Z",
         "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform."
+      },
+      {
+        "title": "Singapore launches matchmaking service for government workers",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T09:42:36Z",
+        "summary": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate."
       },
       {
         "title": "Household energy bills forecast to see biggest rise in four years",
@@ -91,12 +91,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T17:39:06Z",
         "summary": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK."
-      },
-      {
-        "title": "First female prime minister named in Morocco after winning elections",
-        "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T17:14:10Z",
-        "summary": "Her appointment by the king makes her only the second woman to lead a government in the Arab world."
       },
       {
         "title": "What is the triple lock and why are people talking about it?",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/videos/c9rk3ger1gjzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T08:58:37Z",
         "summary": "Young delegates at the Labour conference in Liverpool air their views."
+      },
+      {
+        "title": "UK tries to stop Trump's diesel export ban",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T07:19:04Z",
+        "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports."
       }
     ],
     "saudi": [
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Singapore launches matchmaking service for government workers",
+        "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T09:42:36Z",
+        "summary": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate."
+      },
       {
         "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
         "url": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
