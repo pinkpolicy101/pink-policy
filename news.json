@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T06:58:17.032152Z",
+  "generated_at": "2026-09-30T07:30:38.325991Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T06:04:30Z",
         "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\"."
+      },
+      {
+        "title": "Household energy bills forecast to see biggest rise in four years",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T05:27:23Z",
+        "summary": "A typical household faces an annual gas and electricity bill of \u00a31,999 from January, based on a key forecast."
       },
       {
         "title": "Three takeaways from Trump's 'Super Intelligence' summit",
@@ -39,6 +45,12 @@
         "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform."
       },
       {
+        "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
+        "url": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T19:58:58Z",
+        "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money."
+      },
+      {
         "title": "The journalist who became king in Uganda",
         "url": "https://www.bbc.co.uk/news/videos/cry4z9jw3wvlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T19:35:19Z",
@@ -55,12 +67,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T17:39:06Z",
         "summary": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK."
-      },
-      {
-        "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case dismissal",
-        "url": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T17:31:30Z",
-        "summary": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt."
       },
       {
         "title": "First female prime minister named in Morocco after winning elections",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T18:07:25Z",
         "summary": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs."
-      },
-      {
-        "title": "Mahmood signals rethink on migrants' right to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T18:04:41Z",
-        "summary": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner."
       }
     ],
     "saudi": [
@@ -293,6 +293,12 @@
   "archive": {
     "world": [
       {
+        "title": "Household energy bills forecast to see biggest rise in four years",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T05:27:23Z",
+        "summary": "A typical household faces an annual gas and electricity bill of \u00a31,999 from January, based on a key forecast."
+      },
+      {
         "title": "Move to rejoin EU among options for UK, says Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T05:00:05Z",
@@ -327,6 +333,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T20:50:43Z",
         "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
+      },
+      {
+        "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
+        "url": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T19:58:58Z",
+        "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money."
       },
       {
         "title": "The journalist who became king in Uganda",
