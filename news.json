@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-09-30T02:54:33.087323Z",
+  "generated_at": "2026-09-30T03:28:24.644774Z",
   "articles": {
     "world": [
       {
         "title": "Three takeaways from Trump's 'Super Intelligence' summit",
         "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T02:41:34Z",
+        "published_at": "2026-09-30T03:23:17Z",
         "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence."
+      },
+      {
+        "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
+        "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T03:21:28Z",
+        "summary": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river."
       },
       {
         "title": "Former American Idol contestant and pastor found guilty of murdering wife",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T01:12:52Z",
         "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government."
-      },
-      {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T18:07:25Z",
-        "summary": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs."
       }
     ],
     "saudi": [
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
+        "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T03:21:28Z",
+        "summary": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river."
+      },
       {
         "title": "Three takeaways from Trump's 'Super Intelligence' summit",
         "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
