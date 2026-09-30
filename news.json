@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-09-30T09:29:34.417578Z",
+  "generated_at": "2026-09-30T09:56:00.863999Z",
   "articles": {
     "world": [
+      {
+        "title": "Israel-bound flight diverted after fight between pilots",
+        "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T09:54:19Z",
+        "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out."
+      },
+      {
+        "title": "Burnham to fight next election on pledge to change voting system",
+        "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T09:45:32Z",
+        "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform."
+      },
       {
         "title": "Household energy bills forecast to see biggest rise in four years",
         "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T09:08:22Z",
         "summary": "A typical household faces an annual gas and electricity bill of \u00a31,999 from January, based on a key forecast."
-      },
-      {
-        "title": "Israel-bound flight diverted after fight between pilots",
-        "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T09:02:59Z",
-        "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out."
       },
       {
         "title": "Move to rejoin EU among options for UK, says Burnham",
@@ -61,12 +67,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T21:53:36Z",
         "summary": "More than 400 people, mainly minors, were arrested on Tuesday, the country's interior minister says."
-      },
-      {
-        "title": "Burnham to fight next election on pledge to change voting system",
-        "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T21:32:31Z",
-        "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform."
       },
       {
         "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
