@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-09-30T03:54:44.979426Z",
+  "generated_at": "2026-09-30T04:29:02.356847Z",
   "articles": {
     "world": [
       {
         "title": "Three takeaways from Trump's 'Super Intelligence' summit",
         "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T03:23:17Z",
-        "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence."
+        "published_at": "2026-09-30T04:01:52Z",
+        "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
       },
       {
         "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
         "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T03:21:28Z",
         "summary": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river."
+      },
+      {
+        "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
+        "url": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T23:39:58Z",
+        "summary": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate."
       },
       {
         "title": "Former American Idol contestant and pastor found guilty of murdering wife",
@@ -25,12 +31,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T21:53:36Z",
         "summary": "More than 400 people, mainly minors, were arrested on Tuesday, the country's interior minister says."
-      },
-      {
-        "title": "Trump rules out joint US-China venture to develop AI",
-        "url": "https://www.bbc.co.uk/news/articles/cwly5lmvy38qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T21:45:01Z",
-        "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth."
       },
       {
         "title": "Burnham to fight next election on pledge to change voting system",
@@ -171,16 +171,16 @@
         "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports."
       },
       {
-        "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T03:50:40Z",
-        "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped."
-      },
-      {
         "title": "Are Trump's US government funded ads illegal?",
         "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T01:12:52Z",
         "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government."
+      },
+      {
+        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
+        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-28T18:07:25Z",
+        "summary": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs."
       }
     ],
     "saudi": [
@@ -210,6 +210,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T04:01:52Z",
+        "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
+      },
       {
         "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
         "url": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
@@ -297,6 +303,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T02:41:34Z",
         "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence."
+      },
+      {
+        "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
+        "url": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T23:39:58Z",
+        "summary": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate."
       },
       {
         "title": "Fires and blockades as students stage school protests across France",
@@ -776,6 +788,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T04:01:52Z",
+        "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
+      },
       {
         "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
         "url": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
