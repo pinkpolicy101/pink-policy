@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-09-30T12:37:45.349152Z",
+  "generated_at": "2026-09-30T13:01:03.694575Z",
   "articles": {
     "world": [
+      {
+        "title": "Burnham rejects Swinney's prediction that he will be 'last prime minister'",
+        "url": "https://www.bbc.co.uk/news/videos/cky9z7z53n2yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T12:59:05Z",
+        "summary": "John Swinney had referred to Andy Burnham as the \"last prime minister\"."
+      },
       {
         "title": "Botswana condemned for slaughtering elephants for independence celebrations",
         "url": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T09:10:03Z",
         "summary": "Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister."
-      },
-      {
-        "title": "Should Andy Burnham call an early general election?",
-        "url": "https://www.bbc.co.uk/news/videos/c9rk3ger1gjzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T08:58:37Z",
-        "summary": "Young delegates at the Labour conference in Liverpool air their views."
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Burnham rejects Swinney's prediction that he will be 'last prime minister'",
+        "url": "https://www.bbc.co.uk/news/videos/cky9z7z53n2yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T12:59:05Z",
+        "summary": "John Swinney had referred to Andy Burnham as the \"last prime minister\"."
+      },
       {
         "title": "Botswana condemned for slaughtering elephants for independence celebrations",
         "url": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
