@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-09-30T02:26:21.163498Z",
+  "generated_at": "2026-09-30T02:54:33.087323Z",
   "articles": {
     "world": [
+      {
+        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T02:41:34Z",
+        "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence."
+      },
       {
         "title": "Former American Idol contestant and pastor found guilty of murdering wife",
         "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T18:07:25Z",
         "summary": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs."
-      },
-      {
-        "title": "Mahmood signals rethink on migrants' right to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T18:04:41Z",
-        "summary": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner."
       }
     ],
     "saudi": [
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T02:41:34Z",
+        "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence."
+      },
       {
         "title": "Fires and blockades as students stage school protests across France",
         "url": "https://www.bbc.co.uk/news/videos/cmy0zey3ey2lo?at_medium=RSS&at_campaign=rss",
