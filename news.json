@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-09-30T08:55:39.993109Z",
+  "generated_at": "2026-09-30T09:29:34.417578Z",
   "articles": {
     "world": [
       {
+        "title": "Household energy bills forecast to see biggest rise in four years",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T09:08:22Z",
+        "summary": "A typical household faces an annual gas and electricity bill of \u00a31,999 from January, based on a key forecast."
+      },
+      {
         "title": "Israel-bound flight diverted after fight between pilots",
         "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T08:54:17Z",
+        "published_at": "2026-09-30T09:02:59Z",
         "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out."
       },
       {
@@ -13,6 +19,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T08:49:47Z",
         "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\"."
+      },
+      {
+        "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
+        "url": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T08:45:45Z",
+        "summary": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\"."
       },
       {
         "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
@@ -25,12 +37,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c6x2z0jgg34po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T07:37:41Z",
         "summary": "The triple lock, which was introduced but the Conservative-Lib Dem coalition in 2011, ensures state pensions rise by whichever is highest out of average earnings growth, consumer price index (CPI) inflation or 2.5%."
-      },
-      {
-        "title": "Household energy bills forecast to see biggest rise in four years",
-        "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T05:27:23Z",
-        "summary": "A typical household faces an annual gas and electricity bill of \u00a31,999 from January, based on a key forecast."
       },
       {
         "title": "Three takeaways from Trump's 'Super Intelligence' summit",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c9rk3ger1gjzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T08:58:37Z",
         "summary": "Young delegates at the Labour conference in Liverpool air their views."
-      },
-      {
-        "title": "UK tries to stop Trump's diesel export ban",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T07:19:04Z",
-        "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports."
       }
     ],
     "saudi": [
@@ -235,12 +235,6 @@
         "summary": "The US president continues to push back on calls to establish guardrails around artificial intelligence, arguing it will stifle growth."
       },
       {
-        "title": "US prosecutors reopen case of alleged gang rape at Cornell University",
-        "url": "https://www.bbc.co.uk/news/articles/c5wyzrm0n74ro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T21:09:00Z",
-        "summary": "It comes after the woman filed a civil lawsuit alleging she was drugged and raped at a fraternity house in 2024."
-      },
-      {
         "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
         "url": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T20:39:59Z",
@@ -292,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "'He will never walk free': Indian judge's letter promises child sex abuse survivor",
+        "url": "https://www.bbc.co.uk/news/articles/cq7832kn4252o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T08:45:45Z",
+        "summary": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\"."
+      },
       {
         "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
         "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
