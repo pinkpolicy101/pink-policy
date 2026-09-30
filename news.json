@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-30T16:54:51.522186Z",
+  "generated_at": "2026-09-30T17:28:35.625244Z",
   "articles": {
     "world": [
       {
+        "title": "PM: I'd be 'really concerned' if Man City owners sell club",
+        "url": "https://www.bbc.co.uk/news/videos/ckz6zq6gjpvgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T17:24:30Z",
+        "summary": "The Prime Minister has responded following the recent Manchester City charges."
+      },
+      {
         "title": "Grooming gangs inquiry expanded to Birmingham and Wales",
         "url": "https://www.bbc.co.uk/news/articles/cmx2zr39l716o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T16:16:09Z",
+        "published_at": "2026-09-30T17:15:54Z",
         "summary": "Targeted investigations will be carried out as part of a national inquiry into child sexual abuse."
+      },
+      {
+        "title": "UK-France 'one in, one out' migrant scheme scrapped",
+        "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T17:11:08Z",
+        "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago."
       },
       {
         "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cjr4vgnq71kpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T13:07:16Z",
         "summary": "The housing secretary used her Labour conference speech to announce protections for leaseholders facing 'injustice'."
-      },
-      {
-        "title": "Chris Mason: Burnham opens debate on huge issue of social care reform",
-        "url": "https://www.bbc.co.uk/news/articles/ckp840qp85l2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T10:16:06Z",
-        "summary": "The pitch from Andy Burnham is that there needs to be a willingness to say \"the things politicians usually avoid\", the BBC's political editor writes."
-      },
-      {
-        "title": "Andy Burnham: Northern PM's long journey to power",
-        "url": "https://www.bbc.co.uk/news/articles/cp8pml5z8p6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T10:15:52Z",
-        "summary": "The former mayor of Greater Manchester has had designs on the top job since 2010 when he first ran to be Labour leader."
       }
     ],
     "saudi": [
@@ -205,16 +205,16 @@
     ],
     "us": [
       {
+        "title": "Hegseth expected to fire more top-ranking US military",
+        "url": "https://www.bbc.co.uk/news/articles/crq5xvnq8yzqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T17:11:00Z",
+        "summary": "Roughly 20 admirals and generals have already either been fired or resigned since Hegseth took over the defence department."
+      },
+      {
         "title": "Execution of US murderer Christa Pike halted shortly before it was due to happen",
         "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T15:29:11Z",
         "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
-      },
-      {
-        "title": "Hegseth expected to fire more top ranking US military",
-        "url": "https://www.bbc.co.uk/news/articles/crq5xvnq8yzqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T15:19:16Z",
-        "summary": "Roughly 20 admirals and generals have already either been fired or resigned since Hegseth took over the defence department."
       },
       {
         "title": "US actor Chad Lowe 'heartbroken' by death of daughter Fiona aged 13",
@@ -286,6 +286,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "PM: I'd be 'really concerned' if Man City owners sell club",
+        "url": "https://www.bbc.co.uk/news/videos/ckz6zq6gjpvgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T17:24:30Z",
+        "summary": "The Prime Minister has responded following the recent Manchester City charges."
+      },
+      {
+        "title": "UK-France 'one in, one out' migrant scheme scrapped",
+        "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T17:11:08Z",
+        "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago."
+      },
       {
         "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
         "url": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
