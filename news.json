@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-09-30T22:28:02.028530Z",
+  "generated_at": "2026-09-30T22:54:21.616246Z",
   "articles": {
     "world": [
+      {
+        "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T22:38:33Z",
+        "summary": "The party says it would bring in new work requirements for young people claiming Universal Credit."
+      },
       {
         "title": "UK believes Iran involved in RAF Fairford incident, Burnham says",
         "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/crx2z07w8yxeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T14:37:39Z",
         "summary": "Burnham pledged to take more control of electricity prices by expanding renewables and and nuclear, with a more pragmatic approach to the North Sea."
-      },
-      {
-        "title": "Rayner announces crackdown on 'cowboy' leasehold property agents",
-        "url": "https://www.bbc.co.uk/news/articles/cjr4vgnq71kpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T13:07:16Z",
-        "summary": "The housing secretary used her Labour conference speech to announce protections for leaseholders facing 'injustice'."
       }
     ],
     "saudi": [
@@ -274,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T22:38:33Z",
+        "summary": "The party says it would bring in new work requirements for young people claiming Universal Credit."
+      },
       {
         "title": "PM: I'd be 'really concerned' if Man City owners sell club",
         "url": "https://www.bbc.co.uk/news/videos/ckz6zq6gjpvgo?at_medium=RSS&at_campaign=rss",
