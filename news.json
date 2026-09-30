@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-09-30T14:31:54.592139Z",
+  "generated_at": "2026-09-30T14:59:18.362546Z",
   "articles": {
     "world": [
+      {
+        "title": "Household energy bills forecast to see biggest rise in four years",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T14:36:45Z",
+        "summary": "A typical household faces an annual gas and electricity bill of \u00a31,999 from January, based on a key forecast."
+      },
       {
         "title": "Move to rejoin EU among options for UK, says Burnham",
         "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
@@ -25,12 +31,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T11:36:23Z",
         "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government."
-      },
-      {
-        "title": "Household energy bills forecast to see biggest rise in four years",
-        "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T10:47:49Z",
-        "summary": "A typical household faces an annual gas and electricity bill of \u00a31,999 from January, based on a key forecast."
       },
       {
         "title": "Luxury prison in Indonesia demolished after public outcry",
@@ -57,12 +57,6 @@
         "summary": "In the emotional letter, the judge describes the survivor as \"the bravest little girl this court has ever seen\"."
       },
       {
-        "title": "Crackdown on South Africa's unsafe streets ordered by president to keep women safe",
-        "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T08:40:01Z",
-        "summary": "The murders of 12 women near Johannesburg has caused a outcry about the scale of violence against women."
-      },
-      {
         "title": "Tories would keep the triple lock as it is, says party chairman",
         "url": "https://www.bbc.co.uk/news/videos/c6x2z0jgg34po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T07:37:41Z",
@@ -79,12 +73,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T03:21:28Z",
         "summary": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river."
-      },
-      {
-        "title": "US Supreme Court denies Christa Pike's last-ditch bid to halt execution",
-        "url": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T23:39:58Z",
-        "summary": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate."
       },
       {
         "title": "Fires and blockades as students stage school protests across France",
@@ -181,15 +169,21 @@
         "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T09:10:03Z",
         "summary": "Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister."
+      },
+      {
+        "title": "UK tries to stop Trump's diesel export ban",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T07:19:04Z",
+        "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports."
+      },
+      {
+        "title": "Are Trump's US government funded ads illegal?",
+        "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-29T01:12:52Z",
+        "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government."
       }
     ],
     "saudi": [
-      {
-        "title": "What we know about the Dubai-Israel plane incident after reported stabbing",
-        "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T14:24:13Z",
-        "summary": "The Saudi Arabian airport where the FlyDubai plane was diverted to said the captain and first officer were injured."
-      },
       {
         "title": "Iran must stop arming Houthis in Yemen, G7 says ahead of UN General Assembly",
         "url": "https://www.bbc.co.uk/news/articles/cwm2qpmepmlzo?at_medium=RSS&at_campaign=rss",
@@ -210,6 +204,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
+        "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T14:55:04Z",
+        "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
+      },
       {
         "title": "Three takeaways from Trump's 'Super Intelligence' summit",
         "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
@@ -860,6 +860,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Execution of US murderer Christa Pike halted an hour before it was due to happen",
+        "url": "https://www.bbc.co.uk/news/articles/cw20vxxn876no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T14:55:04Z",
+        "summary": "Pike was convicted and sentenced to death in 1996 for the murder of Colleen Slemmer."
+      },
       {
         "title": "Three takeaways from Trump's 'Super Intelligence' summit",
         "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
