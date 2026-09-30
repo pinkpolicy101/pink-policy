@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="theme-color" content="#fff8fa">
-  <meta name="description" content="A friendly, neutral political science study hub for students. Explore world politics, AP study tools, MUN research, and trusted sources.">
+  <meta name="description" content="Pink Poli 101 is a student-made political science hub for MUN research, country analysis, global politics, trusted sources, and AP civics study.">
   <title>Pink Poli 101 | Politics, made understandable</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -14,184 +14,210 @@
 </head>
 <body>
   <a class="skip-link" href="#main">Skip to content</a>
+
   <header class="site-header">
-    <a class="brand" href="#home" aria-label="Pink Poli 101 home"><span class="brand-mark">PP</span><span>pink poli <b>101</b><small>POLITICS, MADE UNDERSTANDABLE</small></span></a>
+    <a class="brand" href="#home" aria-label="Pink Poli 101 home">
+      <span class="brand-mark">PP</span>
+      <span>pink poli <b>101</b><small data-i18n="tagline">POLITICS, MADE UNDERSTANDABLE</small></span>
+    </a>
+
     <form class="search" id="site-search" role="search">
       <label class="sr-only" for="search-input">Search topics, countries, articles and terms</label>
       <input id="search-input" type="search" placeholder="Search topics, countries, terms...">
     </form>
-    <button class="language-toggle" id="language-toggle" aria-label="Toggle language">English / العربية</button>
+
+    <button class="language-toggle" id="language-toggle" type="button" aria-label="Toggle language">English / العربية</button>
     <button class="menu-toggle" id="menu-toggle" aria-expanded="false" aria-controls="primary-nav" aria-label="Open navigation">☰</button>
+
     <nav class="main-nav" id="primary-nav" aria-label="Main navigation">
       <a href="#home">Home</a>
-      <a href="#updates">Stay Updated</a>
-      <a href="archive.html">Headline Archive</a>
+      <a href="#updates">News</a>
       <a href="#countries">Countries</a>
       <a href="#mun">MUN Research</a>
+      <a href="#trusted">Sources</a>
       <a href="#dictionary">Vocabulary</a>
       <a href="#engagement">Political Voice</a>
-      <a href="#tips">Learn More</a>
       <a href="#feedback">Feedback</a>
     </nav>
   </header>
-  
+
   <main id="main">
-    <!-- HERO SECTION -->
     <section class="hero" id="home">
       <div class="hero-copy">
-        <p class="eyebrow"><span class="green-dot"></span> A STUDENT-MADE CIVICS CORNER</p>
-        <h1>Politics, minus<br>the <em>wait, what?</em></h1>
-        <p>Whether you're prepping for AP Exams, diving into Model UN, or just trying to understand the news—we've got you covered with real explanations, trusted sources, and tools for staying informed.</p>
+        <p class="eyebrow"><span class="green-dot"></span> <span data-i18n="heroEyebrow">A STUDENT-MADE CIVICS CORNER</span></p>
+        <h1 data-i18n="heroHeading">Politics, minus<br>the <em>wait, what?</em></h1>
+        <p data-i18n="heroIntro">From MUN research to country comparisons, this is a student-made space for understanding politics without the fluff. We focus on the real issues: governance, rights, power, conflict, and the people behind the headlines.</p>
         <div class="cta-buttons">
-          <a href="#updates" class="btn btn-primary">Read the News</a>
-          <a href="#mun" class="btn btn-secondary">MUN Research Tool</a>
+          <a href="#updates" class="btn btn-primary" data-i18n="newsBtn">Read the news</a>
+          <a href="#mun" class="btn btn-secondary" data-i18n="munBtn">MUN research tool</a>
         </div>
       </div>
     </section>
 
-    <!-- NEWS SECTION (Politics Only) -->
     <section class="section-wrap news-section" id="updates">
       <div class="section-heading">
         <div>
           <p class="eyebrow">THE BRIEFING DESK <i></i></p>
-          <h2>Stay updated</h2>
-          <p class="deck">Recent political news, explained. <strong>Politics only—no fluff, no distractions.</strong></p>
+          <h2 data-i18n="newsTitle">Stay updated</h2>
+          <p class="deck" data-i18n="newsDeck">Politics only. No lifestyle fluff. No celebrity gossip. Just political developments, public policy, elections, and global power struggles.</p>
         </div>
       </div>
+
       <div class="news-grid">
-        <!-- News articles will be populated here -->
         <article class="news-card">
           <span class="news-label">Politics</span>
-          <h3>Understanding Current Political Movements</h3>
-          <p>A dive into recent political developments and what they mean for policy and governance.</p>
+          <h3>Election strategy and democratic participation</h3>
+          <p>How campaigns, civic engagement, and voter turnout shape outcomes in modern democracies.</p>
           <a href="#" class="news-link">Read More →</a>
         </article>
+
         <article class="news-card">
           <span class="news-label">Politics</span>
-          <h3>Global Elections and Their Impact</h3>
-          <p>How elections across the world shape international relations and domestic policy.</p>
+          <h3>International law and conflict resolution</h3>
+          <p>What treaties, sanctions, and diplomacy tell us about how states respond to crisis and power imbalance.</p>
           <a href="#" class="news-link">Read More →</a>
         </article>
+
         <article class="news-card featured">
           <span class="news-label">Politics</span>
-          <h3>Palestine: Understanding the Conflict and Movement</h3>
-          <p>A comprehensive overview of Palestinian politics, the Palestinian movement, and the humanitarian and political dimensions of the Israeli-Palestinian conflict. Why solidarity with Palestine matters in global politics.</p>
+          <h3>Palestine: solidarity, rights, and global politics</h3>
+          <p>Understanding Palestine is not a side issue. It is central to debates over sovereignty, occupation, rights, and international responsibility.</p>
           <a href="#" class="news-link">Read More →</a>
         </article>
       </div>
-      <p class="section-note">All news is strictly political content—focused on policy, governance, elections, international relations, and political movements.</p>
+
+      <p class="section-note">Strictly political coverage only: policy, governance, international relations, elections, public institutions, rights, diplomacy, and conflict.</p>
     </section>
 
-    <!-- COUNTRIES SECTION -->
     <section class="section-wrap countries-section" id="countries">
       <div class="section-heading">
         <div>
           <p class="eyebrow">AROUND THE WORLD <i></i></p>
-          <h2>Politics has a place everywhere.</h2>
-          <p class="deck">Explore political systems, current events, and governance structures from different countries and regions.</p>
+          <h2 data-i18n="countriesTitle">Politics is global</h2>
+          <p class="deck">Explore how political systems, leadership, conflict, rights, and regional power operate beyond one country.</p>
         </div>
       </div>
-      <div class="countries-grid">
-        <div class="country-card">
+
+      <div class="country-grid">
+        <article class="country-card">
           <h3>Saudi Arabia</h3>
-          <p>Understanding Saudi political structure, Vision 2030, and regional influence.</p>
-          <a href="#" class="country-link">Explore →</a>
-        </div>
-        <div class="country-card">
+          <p>State structure, policy reform, domestic politics, and regional influence.</p>
+          <a href="#trusted" class="country-link">Trusted sources →</a>
+        </article>
+        <article class="country-card">
           <h3>United States</h3>
-          <p>Federal system, elections, Congress, and American political movements.</p>
-          <a href="#" class="country-link">Explore →</a>
-        </div>
-        <div class="country-card">
-          <h3>Palestine & Israel</h3>
-          <p>The Israeli-Palestinian conflict, Palestinian governance, and current political issues.</p>
-          <a href="#" class="country-link">Explore →</a>
-        </div>
-        <div class="country-card">
+          <p>Federalism, elections, parties, courts, and civil rights.</p>
+          <a href="#trusted" class="country-link">Trusted sources →</a>
+        </article>
+        <article class="country-card">
+          <h3>Palestine</h3>
+          <p>Occupation, rights, diplomacy, statehood, and the politics of solidarity.</p>
+          <a href="#palestine" class="country-link">Explore →</a>
+        </article>
+        <article class="country-card">
           <h3>United Kingdom</h3>
-          <p>Parliamentary democracy, the Crown, and British political institutions.</p>
-          <a href="#" class="country-link">Explore →</a>
-        </div>
-        <div class="country-card">
-          <h3>China</h3>
-          <p>One-party system, governance structure, and China's global political role.</p>
-          <a href="#" class="country-link">Explore →</a>
-        </div>
-        <div class="country-card">
-          <h3>India</h3>
-          <p>World's largest democracy, federal structure, and political diversity.</p>
-          <a href="#" class="country-link">Explore →</a>
-        </div>
-        <div class="country-card">
+          <p>Parliament, monarchy, party politics, and constitutional institutions.</p>
+          <a href="#trusted" class="country-link">Trusted sources →</a>
+        </article>
+        <article class="country-card">
+          <h3>Turkey</h3>
+          <p>Hybrid governance, geopolitical strategy, and regional power.</p>
+          <a href="#trusted" class="country-link">Trusted sources →</a>
+        </article>
+        <article class="country-card">
           <h3>Brazil</h3>
-          <p>Democratic system, political movements, and regional leadership.</p>
-          <a href="#" class="country-link">Explore →</a>
-        </div>
-        <div class="country-card">
+          <p>Democracy, inequality, social movements, and regional leadership.</p>
+          <a href="#trusted" class="country-link">Trusted sources →</a>
+        </article>
+        <article class="country-card">
+          <h3>India</h3>
+          <p>One of the world’s biggest democracies, federal politics, and caste debates.</p>
+          <a href="#trusted" class="country-link">Trusted sources →</a>
+        </article>
+        <article class="country-card">
+          <h3>China</h3>
+          <p>One-party state, policy strategy, political control, and global influence.</p>
+          <a href="#trusted" class="country-link">Trusted sources →</a>
+        </article>
+        <article class="country-card">
+          <h3>Egypt</h3>
+          <p>Military power, state institutions, reform debates, and Arab politics.</p>
+          <a href="#trusted" class="country-link">Trusted sources →</a>
+        </article>
+        <article class="country-card">
+          <h3>South Africa</h3>
+          <p>Democratic transition, inequality, activism, and post-apartheid politics.</p>
+          <a href="#trusted" class="country-link">Trusted sources →</a>
+        </article>
+        <article class="country-card">
+          <h3>France</h3>
+          <p>Presidential politics, secularism, migration, and European governance.</p>
+          <a href="#trusted" class="country-link">Trusted sources →</a>
+        </article>
+        <article class="country-card">
           <h3>Japan</h3>
-          <p>Constitutional monarchy, Diet system, and East Asian politics.</p>
-          <a href="#" class="country-link">Explore →</a>
-        </div>
+          <p>Constitutional monarchy, bureaucracy, and East Asian security politics.</p>
+          <a href="#trusted" class="country-link">Trusted sources →</a>
+        </article>
       </div>
     </section>
 
-    <!-- MUN RESEARCH TOOL -->
     <section class="study-band" id="mun">
       <div class="section-wrap">
         <div class="section-heading">
           <div>
             <p class="eyebrow">MODEL UN TOOLKIT <i></i></p>
-            <h2>MUN Research Made Easy</h2>
-            <p class="deck">Find relevant UN topics, government sources, and policy briefs for your committee.</p>
+            <h2>MUN research lab</h2>
+            <p class="deck">Add your committee, country, and topic to find relevant UN resolutions, trusted government sources, and policy-focused research.</p>
           </div>
         </div>
-        
+
         <div class="mun-tool">
           <form id="mun-search-form" class="mun-search-form">
             <div class="form-group">
-              <label for="mun-committee">Select Your Committee:</label>
+              <label for="mun-committee">Committee</label>
               <select id="mun-committee" name="committee">
-                <option value="">-- Choose a Committee --</option>
+                <option value="">Choose a committee</option>
                 <option value="ga">General Assembly (GA)</option>
                 <option value="sc">Security Council (SC)</option>
                 <option value="ecosoc">ECOSOC</option>
-                <option value="icc">International Court of Justice (ICJ)</option>
-                <option value="icrc">International Committee of Red Cross</option>
                 <option value="unhrc">UN Human Rights Council</option>
                 <option value="unesco">UNESCO</option>
+                <option value="unwomen">UN Women</option>
                 <option value="unep">UN Environment Programme</option>
-                <option value="wto">World Trade Organization</option>
+                <option value="who">World Health Organization</option>
+                <option value="icc">International Criminal Court</option>
                 <option value="crisis">Crisis Committee</option>
-                <option value="specialized">Specialized Agencies</option>
+                <option value="special">Specialized Agency</option>
               </select>
             </div>
 
             <div class="form-group">
-              <label for="mun-country">Representing Which Country?</label>
-              <input type="text" id="mun-country" name="country" placeholder="e.g., Saudi Arabia, Palestine, United States" autocomplete="off">
+              <label for="mun-country">Country or delegation</label>
+              <input id="mun-country" name="country" type="text" placeholder="e.g. Palestine, Saudi Arabia, United States">
             </div>
 
             <div class="form-group">
-              <label for="mun-topic">Topic/Issue:</label>
-              <input type="text" id="mun-topic" name="topic" placeholder="e.g., Climate Change, Palestinian Rights, Trade Policy">
+              <label for="mun-topic">Topic</label>
+              <input id="mun-topic" name="topic" type="text" placeholder="e.g. climate change, education access, conflict resolution">
             </div>
 
-            <button type="submit" class="btn btn-primary">Find Research Resources</button>
+            <button type="submit" class="btn btn-primary">Find research</button>
           </form>
 
-          <div id="mun-results" class="mun-results" style="display: none;">
-            <h3>Research Resources for Your Position:</h3>
-            <div class="results-container">
-              <div class="result-category">
-                <h4>UN Documents & Resolutions</h4>
+          <div id="mun-results" class="mun-results" hidden>
+            <h3>Research results</h3>
+            <div class="result-grid">
+              <div class="result-card">
+                <h4>UN documents</h4>
                 <ul id="un-docs-list"></ul>
               </div>
-              <div class="result-category">
-                <h4>Government Sources</h4>
+              <div class="result-card">
+                <h4>Government sources</h4>
                 <ul id="gov-sources-list"></ul>
               </div>
-              <div class="result-category">
-                <h4>Related Policy Briefs</h4>
+              <div class="result-card">
+                <h4>Policy briefs</h4>
                 <ul id="briefs-list"></ul>
               </div>
             </div>
@@ -200,437 +226,251 @@
       </div>
     </section>
 
-    <!-- POLITICAL ENGAGEMENT SECTION -->
+    <section class="trusted-band" id="trusted">
+      <div class="section-wrap">
+        <div class="section-heading">
+          <div>
+            <p class="eyebrow">GOOD SOURCES MATTER <i></i></p>
+            <h2>Trusted government and policy sources</h2>
+            <p class="deck">Use official sources when possible, and compare them with independent reporting before forming conclusions.</p>
+          </div>
+        </div>
+
+        <div class="source-grid">
+          <div class="source-card">
+            <h3>Global institutions</h3>
+            <ul>
+              <li><a href="https://www.un.org/" target="_blank" rel="noreferrer">United Nations</a></li>
+              <li><a href="https://news.un.org/en/" target="_blank" rel="noreferrer">UN News</a></li>
+              <li><a href="https://www.who.int/" target="_blank" rel="noreferrer">WHO</a></li>
+              <li><a href="https://www.worldbank.org/" target="_blank" rel="noreferrer">World Bank</a></li>
+            </ul>
+          </div>
+          <div class="source-card">
+            <h3>United States</h3>
+            <ul>
+              <li><a href="https://www.whitehouse.gov/" target="_blank" rel="noreferrer">White House</a></li>
+              <li><a href="https://www.congress.gov/" target="_blank" rel="noreferrer">Congress.gov</a></li>
+              <li><a href="https://www.state.gov/" target="_blank" rel="noreferrer">U.S. State Department</a></li>
+              <li><a href="https://www.cia.gov/" target="_blank" rel="noreferrer">CIA</a></li>
+            </ul>
+          </div>
+          <div class="source-card">
+            <h3>Saudi Arabia</h3>
+            <ul>
+              <li><a href="https://www.spa.gov.sa/en" target="_blank" rel="noreferrer">Saudi Press Agency</a></li>
+              <li><a href="https://www.mofa.gov.sa/en" target="_blank" rel="noreferrer">Ministry of Foreign Affairs</a></li>
+              <li><a href="https://www.gaca.gov.sa/" target="_blank" rel="noreferrer">GACA</a></li>
+              <li><a href="https://www.ksa.gov.sa/" target="_blank" rel="noreferrer">Kingdom of Saudi Arabia</a></li>
+            </ul>
+          </div>
+          <div class="source-card">
+            <h3>Palestine</h3>
+            <ul>
+              <li><a href="https://www.mofa.pna.ps/" target="_blank" rel="noreferrer">Palestinian Ministry of Foreign Affairs</a></li>
+              <li><a href="https://www.un.org/unispal/" target="_blank" rel="noreferrer">UNISPAL</a></li>
+              <li><a href="https://www.btselem.org/" target="_blank" rel="noreferrer">B'Tselem</a></li>
+              <li><a href="https://www.aljazeera.com/" target="_blank" rel="noreferrer">Al Jazeera</a></li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="palestine-band" id="palestine">
+      <div class="section-wrap palestine-layout">
+        <div>
+          <p class="eyebrow">PALESTINE & GLOBAL POLITICS <i></i></p>
+          <h2>Talking about Palestine is political education.</h2>
+          <p>Palestine is not a side topic in international relations. It is central to questions about occupation, human rights, diplomacy, colonialism, sovereignty, and the role of international institutions.</p>
+          <p><strong>Being pro-Palestine</strong> means supporting Palestinian rights, self-determination, dignity, and freedom from unlawful occupation. It is not “anti-Semitic by default” and it is not “anti-peace”; it is a political stance rooted in human rights law and international accountability.</p>
+        </div>
+        <div class="callout-box">
+          <h3>What to keep in mind</h3>
+          <ul>
+            <li>Study the history, not just the current headlines.</li>
+            <li>Distinguish between criticism of policy and hostility toward people.</li>
+            <li>Learn about the legal and political frameworks behind the conflict.</li>
+            <li>Follow multiple credible sources before forming a final view.</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
     <section class="engagement-band" id="engagement">
       <div class="section-wrap">
         <div class="section-heading">
           <div>
             <p class="eyebrow">POLITICAL VOICE <i></i></p>
-            <h2>Silence is Political</h2>
+            <h2>Silence is political</h2>
           </div>
         </div>
-        <div class="engagement-content">
+
+        <div class="engagement-grid">
           <div class="engagement-card">
-            <h3>Why Silence Matters</h3>
-            <p><strong>Not taking a stance is itself a political position.</strong> Staying silent about injustice, political issues, or social movements has political consequences. It's a choice—and importantly, <strong>it's a privilege.</strong></p>
-            <p>Not everyone has the freedom, safety, or security to speak. Some people face real consequences for political speech. Others have systemic barriers preventing their voices from being heard. Understanding this is key to understanding global politics.</p>
+            <h3>Why silence matters</h3>
+            <p><strong>Choosing not to speak is not neutral.</strong> It often reflects comfort, safety, access, and privilege. Some people can speak freely; others cannot. That difference matters in political life.</p>
           </div>
           <div class="engagement-card">
-            <h3>Finding Your Voice</h3>
-            <p>Whether you're learning about Palestine, voter suppression, climate policy, or international human rights—your voice and informed perspective matter. Here are ways to engage:</p>
-            <ul>
-              <li><strong>Educate yourself</strong> using trusted sources and diverse perspectives</li>
-              <li><strong>Participate</strong> in Model UN, debates, or student government</li>
-              <li><strong>Organize</strong> with peers who share your political values</li>
-              <li><strong>Advocate</strong> for causes you believe in</li>
-              <li><strong>Vote</strong> when you're able (check your local voting age)</li>
-              <li><strong>Hold others accountable</strong> through community organizing</li>
-            </ul>
+            <h3>Privilege exists</h3>
+            <p>Having the option to stay silent is a privilege. People who are safe, wealthy, protected, or politically empowered can ignore public issues without immediate consequence.</p>
           </div>
           <div class="engagement-card">
-            <h3>Privilege & Political Space</h3>
-            <p>Having the ability to speak freely, protest safely, or organize without fear is a privilege. Many people around the world—including Palestinians, journalists in authoritarian states, and marginalized communities—don't have this freedom.</p>
-            <p>Understanding who gets to speak and who is silenced is central to political science. Use your voice responsibly and amplify those who have been marginalized.</p>
+            <h3>What to do instead</h3>
+            <p>Learn, ask questions, listen to marginalized voices, and use your platform responsibly. Being informed is one of the best political skills you can build.</p>
           </div>
         </div>
       </div>
     </section>
 
-    <!-- DICTIONARY SECTION - EXPANDED -->
     <section class="section-wrap dictionary-section" id="dictionary">
       <div class="dictionary-heading">
         <div>
           <p class="eyebrow">THE WORDS BEHIND THE HEADLINES <i></i></p>
-          <h2>Political science, plain explained</h2>
-          <p class="deck">Master the vocabulary of politics. Search, learn, and understand key terms you'll see everywhere.</p>
-        </div>
-      </div>
-      
-      <div class="dictionary-controls">
-        <input type="search" id="dictionary-search" placeholder="Search terms..." class="dictionary-search">
-        <div class="category-filter">
-          <button class="filter-btn active" data-filter="all">All Terms</button>
-          <button class="filter-btn" data-filter="governance">Governance</button>
-          <button class="filter-btn" data-filter="ideology">Ideology</button>
-          <button class="filter-btn" data-filter="international">International</button>
-          <button class="filter-btn" data-filter="rights">Rights & Freedoms</button>
-          <button class="filter-btn" data-filter="systems">Political Systems</button>
+          <h2>Political science vocabulary, expanded</h2>
+          <p class="deck">A bigger set of foundations for understanding political systems, governance, rights, power, and global relations.</p>
         </div>
       </div>
 
       <div class="dictionary-list">
-        <!-- GOVERNANCE TERMS -->
-        <div class="dict-entry" data-category="governance">
-          <dt>Autocracy</dt>
-          <dd>A system of government where one person holds absolute power. Examples: monarchies, dictatorships.</dd>
-        </div>
-        <div class="dict-entry" data-category="governance">
-          <dt>Democracy</dt>
-          <dd>Government by the people, typically through representatives. Citizens have a say in decision-making through voting.</dd>
-        </div>
-        <div class="dict-entry" data-category="governance">
-          <dt>Oligarchy</dt>
-          <dd>A system where power rests with a small number of people. These people might be distinguished by wealth, family ties, or corporate power.</dd>
-        </div>
-        <div class="dict-entry" data-category="governance">
-          <dt>Bureaucracy</dt>
-          <dd>A system of administration where government functions are handled by departments and agencies staffed by appointed officials.</dd>
-        </div>
-        <div class="dict-entry" data-category="governance">
-          <dt>Separation of Powers</dt>
-          <dd>Division of government into branches (legislative, executive, judicial) to prevent concentration of power.</dd>
-        </div>
-        <div class="dict-entry" data-category="governance">
-          <dt>Federalism</dt>
-          <dd>A system where power is divided between a central government and smaller political units (states, provinces). Example: USA.</dd>
-        </div>
-        <div class="dict-entry" data-category="governance">
-          <dt>Parliamentary System</dt>
-          <dd>Government where the executive (Prime Minister) is part of the legislature and answerable to it. Example: UK, India.</dd>
-        </div>
-        <div class="dict-entry" data-category="governance">
-          <dt>Presidential System</dt>
-          <dd>Government where the president is both head of state and head of government, separate from the legislature. Example: USA.</dd>
-        </div>
-        <div class="dict-entry" data-category="governance">
-          <dt>Checks and Balances</dt>
-          <dd>System where each branch of government can limit the powers of the others to prevent abuse of power.</dd>
-        </div>
-        <div class="dict-entry" data-category="governance">
-          <dt>Veto</dt>
-          <dd>The power to reject a proposal or law. Often held by the executive branch or one chamber of legislature.</dd>
-        </div>
-        <div class="dict-entry" data-category="governance">
-          <dt>Impeachment</dt>
-          <dd>Formal process of charging a government official with a crime or misconduct, potentially leading to removal from office.</dd>
-        </div>
-        <div class="dict-entry" data-category="governance">
-          <dt>Legislation</dt>
-          <dd>Laws made by a legislative body (parliament, congress, assembly).</dd>
-        </div>
-
-        <!-- IDEOLOGY TERMS -->
-        <div class="dict-entry" data-category="ideology">
-          <dt>Liberalism</dt>
-          <dd>Political ideology emphasizing individual rights, democratic governance, free markets, and limited government intervention.</dd>
-        </div>
-        <div class="dict-entry" data-category="ideology">
-          <dt>Conservatism</dt>
-          <dd>Political ideology favoring traditional values, limited social change, lower taxes, and strong national defense.</dd>
-        </div>
-        <div class="dict-entry" data-category="ideology">
-          <dt>Socialism</dt>
-          <dd>Political ideology advocating for collective or state ownership of means of production and more equal distribution of resources.</dd>
-        </div>
-        <div class="dict-entry" data-category="ideology">
-          <dt>Communism</dt>
-          <dd>Political ideology aiming for a classless, stateless society where goods are communally owned. Based on Marx's theory.</dd>
-        </div>
-        <div class="dict-entry" data-category="ideology">
-          <dt>Fascism</dt>
-          <dd>Authoritarian ideology characterized by ultranationalism, dictatorial power, and suppression of opposition.</dd>
-        </div>
-        <div class="dict-entry" data-category="ideology">
-          <dt>Populism</dt>
-          <dd>Political approach appealing to "the people" against elites. Can be left-wing or right-wing.</dd>
-        </div>
-        <div class="dict-entry" data-category="ideology">
-          <dt>Nationalism</dt>
-          <dd>Political ideology emphasizing national sovereignty, cultural identity, and prioritizing national interests.</dd>
-        </div>
-        <div class="dict-entry" data-category="ideology">
-          <dt>Anarchism</dt>
-          <dd>Political ideology opposing all forms of hierarchical authority and the state, advocating for voluntary cooperation.</dd>
-        </div>
-
-        <!-- INTERNATIONAL TERMS -->
-        <div class="dict-entry" data-category="international">
-          <dt>Sovereignty</dt>
-          <dd>The power of a state to govern itself without interference from other countries.</dd>
-        </div>
-        <div class="dict-entry" data-category="international">
-          <dt>Diplomacy</dt>
-          <dd>Negotiation between countries to resolve conflicts and build relationships without military force.</dd>
-        </div>
-        <div class="dict-entry" data-category="international">
-          <dt>Treaty</dt>
-          <dd>Formal agreement between countries on matters like trade, defense, or human rights.</dd>
-        </div>
-        <div class="dict-entry" data-category="international">
-          <dt>Sanctions</dt>
-          <dd>Penalties (trade restrictions, freezing assets) imposed by one or more countries against another to influence behavior.</dd>
-        </div>
-        <div class="dict-entry" data-category="international">
-          <dt>Colonialism</dt>
-          <dd>Practice of a country controlling and settling in another territory, establishing political and economic dominance.</dd>
-        </div>
-        <div class="dict-entry" data-category="international">
-          <dt>Imperialism</dt>
-          <dd>Policy of extending a country's power through colonization, military force, or other means.</dd>
-        </div>
-        <div class="dict-entry" data-category="international">
-          <dt>United Nations (UN)</dt>
-          <dd>International organization founded in 1945 to maintain international peace, security, and cooperation.</dd>
-        </div>
-        <div class="dict-entry" data-category="international">
-          <dt>NATO</dt>
-          <dd>North Atlantic Treaty Organization. Military and political alliance between North American and European countries.</dd>
-        </div>
-        <div class="dict-entry" data-category="international">
-          <dt>Soft Power</dt>
-          <dd>Ability to influence others through culture, values, and persuasion rather than military or economic coercion.</dd>
-        </div>
-        <div class="dict-entry" data-category="international">
-          <dt>Hard Power</dt>
-          <dd>Ability to influence through military strength and economic coercion.</dd>
-        </div>
-        <div class="dict-entry" data-category="international">
-          <dt>Geopolitics</dt>
-          <dd>Study of how geography and territorial control influence political power and international relations.</dd>
-        </div>
-
-        <!-- RIGHTS & FREEDOMS -->
-        <div class="dict-entry" data-category="rights">
-          <dt>Human Rights</dt>
-          <dd>Universal, inalienable rights belonging to all people: right to life, freedom from torture, freedom of expression, etc.</dd>
-        </div>
-        <div class="dict-entry" data-category="rights">
-          <dt>Civil Rights</dt>
-          <dd>Rights guaranteeing equal treatment and freedom from discrimination based on race, gender, religion, etc.</dd>
-        </div>
-        <div class="dict-entry" data-category="rights">
-          <dt>Freedom of Expression</dt>
-          <dd>Right to express opinions and ideas without censorship, though sometimes subject to reasonable limits.</dd>
-        </div>
-        <div class="dict-entry" data-category="rights">
-          <dt>Freedom of Assembly</dt>
-          <dd>Right to peacefully gather and organize with others, including for protests and demonstrations.</dd>
-        </div>
-        <div class="dict-entry" data-category="rights">
-          <dt>Due Process</dt>
-          <dd>Right to fair treatment and legal procedures when accused of a crime. Protects against arbitrary government action.</dd>
-        </div>
-        <div class="dict-entry" data-category="rights">
-          <dt>Apartheid</dt>
-          <dd>System of institutionalized racial segregation and discrimination, historically in South Africa and currently discussed regarding Israeli policies toward Palestinians.</dd>
-        </div>
-        <div class="dict-entry" data-category="rights">
-          <dt>Genocide</dt>
-          <dd>Deliberate attempt to destroy a national, ethnic, racial, or religious group. A crime against humanity.</dd>
-        </div>
-
-        <!-- POLITICAL SYSTEMS -->
-        <div class="dict-entry" data-category="systems">
-          <dt>Election</dt>
-          <dd>Process by which citizens choose representatives or leaders through voting.</dd>
-        </div>
-        <div class="dict-entry" data-category="systems">
-          <dt>Political Party</dt>
-          <dd>Organization of individuals with shared political beliefs and goals, working to gain political power.</dd>
-        </div>
-        <div class="dict-entry" data-category="systems">
-          <dt>Cabinet</dt>
-          <dd>Group of ministers responsible for government departments, advising the head of government.</dd>
-        </div>
-        <div class="dict-entry" data-category="systems">
-          <dt>Amendment</dt>
-          <dd>Formal change or addition to a constitution or law.</dd>
-        </div>
-        <div class="dict-entry" data-category="systems">
-          <dt>Constitution</dt>
-          <dd>Fundamental document outlining the structure, powers, and procedures of government and citizens' rights.</dd>
-        </div>
-        <div class="dict-entry" data-category="systems">
-          <dt>Lobby</dt>
-          <dd>To seek to influence politicians on an issue. Lobbyists represent groups' interests to government.</dd>
-        </div>
-        <div class="dict-entry" data-category="systems">
-          <dt>Referendum</dt>
-          <dd>Direct vote by the public on a specific law or policy, bypassing elected representatives.</dd>
-        </div>
-        <div class="dict-entry" data-category="systems">
-          <dt>Grassroots Movement</dt>
-          <dd>Political movement initiated by regular people at the community level, growing from the ground up.</dd>
-        </div>
-        <div class="dict-entry" data-category="systems">
-          <dt>Coalition Government</dt>
-          <dd>Government formed by alliance of two or more political parties sharing power.</dd>
-        </div>
-        <div class="dict-entry" data-category="systems">
-          <dt>Polarization</dt>
-          <dd>Tendency of society to divide into opposing groups with increasingly conflicting beliefs and values.</dd>
-        </div>
+        <div class="dict-entry"><dt>Autocracy</dt><dd>Rule by one person or a small elite with little accountability to the public.</dd></div>
+        <div class="dict-entry"><dt>Democracy</dt><dd>Government by the people, usually through elected representatives and participation.</dd></div>
+        <div class="dict-entry"><dt>Authoritarianism</dt><dd>A political system where power is concentrated and opposition or dissent is heavily restricted.</dd></div>
+        <div class="dict-entry"><dt>Bureaucracy</dt><dd>Government departments and agencies that implement laws and policy.</dd></div>
+        <div class="dict-entry"><dt>Federalism</dt><dd>Power divided between a national government and regional governments.</dd></div>
+        <div class="dict-entry"><dt>Parliamentary system</dt><dd>Executive power is tied to the legislature and usually accountable to it.</dd></div>
+        <div class="dict-entry"><dt>Presidential system</dt><dd>Executive power is separated from the legislature and usually elected directly.</dd></div>
+        <div class="dict-entry"><dt>Checks and balances</dt><dd>Rules that limit power by giving branches of government ways to restrain each other.</dd></div>
+        <div class="dict-entry"><dt>Civil society</dt><dd>Organizations and groups outside government that help shape public life, such as NGOs, unions, and communities.</dd></div>
+        <div class="dict-entry"><dt>Human rights</dt><dd>Rights inherent to all human beings, including dignity, freedom, safety, and equal treatment.</dd></div>
+        <div class="dict-entry"><dt>Soft power</dt><dd>Influence gained through culture, diplomacy, and persuasion rather than force.</dd></div>
+        <div class="dict-entry"><dt>Hard power</dt><dd>Influence achieved through military strength, coercion, or economic pressure.</dd></div>
+        <div class="dict-entry"><dt>Sovereignty</dt><dd>A state’s authority to govern itself and make decisions in its territory.</dd></div>
+        <div class="dict-entry"><dt>Sanctions</dt><dd>Penalties imposed to pressure states or actors to change behavior.</dd></div>
+        <div class="dict-entry"><dt>Diplomacy</dt><dd>Negotiation and communication between states to manage conflict and cooperation.</dd></div>
+        <div class="dict-entry"><dt>Nationalism</dt><dd>A belief in national identity, loyalty, and priority of the nation-state.</dd></div>
+        <div class="dict-entry"><dt>Populism</dt><dd>A political style that claims to represent “the people” against elites.</dd></div>
+        <div class="dict-entry"><dt>Legitimacy</dt><dd>The reason people accept a government or institution as rightful and lawful.</dd></div>
+        <div class="dict-entry"><dt>Rule of law</dt><dd>The principle that laws apply to everyone, including those in power.</dd></div>
+        <div class="dict-entry"><dt>Referendum</dt><dd>A vote by citizens on a specific policy or constitutional question.</dd></div>
+        <div class="dict-entry"><dt>Lobbying</dt><dd>Attempts to influence government decisions by organized pressure from groups or individuals.</dd></div>
+        <div class="dict-entry"><dt>Propaganda</dt><dd>Information designed to shape public opinion, often in a biased or manipulative way.</dd></div>
+        <div class="dict-entry"><dt>Political socialization</dt><dd>The process through which people become aware of and form political beliefs.</dd></div>
+        <div class="dict-entry"><dt>Geopolitics</dt><dd>The study of how geography, territory, and resources affect political power and strategy.</dd></div>
+        <div class="dict-entry"><dt>Occupation</dt><dd>When one state or power controls territory in a way that often violates sovereignty or rights.</dd></div>
+        <div class="dict-entry"><dt>International law</dt><dd>Rules agreed by states and institutions to govern relations between countries and protect rights.</dd></div>
+        <div class="dict-entry"><dt>Self-determination</dt><dd>The right of peoples to decide their own political future and governance.</dd></div>
       </div>
     </section>
 
-    <!-- EDUCATION TIPS SECTION -->
     <section class="tips-band" id="tips">
       <div class="section-wrap">
         <div class="section-heading">
           <div>
-            <p class="eyebrow">LEVEL UP <i></i></p>
-            <h2>Tips for Becoming More Educated About Politics</h2>
-            <p class="deck">Want to go deeper? Here's how to expand your political knowledge.</p>
+            <p class="eyebrow">LEARN BETTER <i></i></p>
+            <h2>How to get more educated about political science</h2>
+            <p class="deck">Being well-informed is not automatic—it has to be built through habits, sources, and curiosity.</p>
           </div>
         </div>
 
         <div class="tips-grid">
-          <div class="tip-card">
-            <h3>📰 Read Multiple News Sources</h3>
-            <p>Don't rely on one outlet. Read center, left, and right-leaning sources to understand different perspectives. Cross-check facts with trusted news organizations.</p>
-            <p><strong>Try:</strong> BBC, Reuters, AP News, NPR, Al Jazeera, The Guardian</p>
-          </div>
-
-          <div class="tip-card">
-            <h3>📚 Read the Actual Documents</h3>
-            <p>Skip the summaries sometimes. Read UN resolutions, government policy papers, court decisions. This is where real political debate happens.</p>
-            <p><strong>Try:</strong> UN.org, Congress.gov, Government white papers, Supreme Court opinions</p>
-          </div>
-
-          <div class="tip-card">
-            <h3>🎤 Listen to Diverse Voices</h3>
-            <p>Seek out podcasts, videos, and articles from people directly affected by politics—activists, journalists, policymakers from different countries.</p>
-            <p><strong>Try:</strong> Democracy Now!, Al Jazeera, BBC World Service, Middle East Eye</p>
-          </div>
-
-          <div class="tip-card">
-            <h3>🌍 Learn About Places You Disagree With</h3>
-            <p>Understand authoritarian systems, different economic models, and opposing ideologies. You don't have to agree to understand.</p>
-            <p><strong>Why:</strong> Understanding your "enemy" makes you stronger politically</p>
-          </div>
-
-          <div class="tip-card">
-            <h3>🤝 Join Model UN or Debate</h3>
-            <p>Researching and defending different positions forces you to understand nuance. You'll learn faster through hands-on experience.</p>
-          </div>
-
-          <div class="tip-card">
-            <h3>💭 Question Everything (Including Yourself)</h3>
-            <p>Ask: Who benefits from this narrative? What's the evidence? What am I not being told? Be skeptical of all sources, including ones that agree with you.</p>
-          </div>
-
-          <div class="tip-card">
-            <h3>🌐 Study International Relations</h3>
-            <p>Understand how countries interact, why conflicts happen, and how international law works. World politics affects you.</p>
-          </div>
-
-          <div class="tip-card">
-            <h3>📊 Learn Data & Statistics</h3>
-            <p>Political claims rely on data. Learn to read charts, understand polling, and spot misleading statistics.</p>
-          </div>
-
-          <div class="tip-card">
-            <h3>🔗 Connect History to Current Events</h3>
-            <p>Understand colonial history, Cold War politics, and past conflicts. Today's politics are rooted in history.</p>
-            <p><strong>Example:</strong> Understanding Palestinian displacement requires knowing 1948, 1967, and ongoing occupation</p>
-          </div>
-
-          <div class="tip-card">
-            <h3>✍️ Follow Political Accounts & Scholars</h3>
-            <p>Follow academics, journalists, and activists on social media who break down politics clearly.</p>
-            <p><strong>Try:</strong> Professors, journalists, Middle East scholars, human rights organizations</p>
-          </div>
-
-          <div class="tip-card">
-            <h3>🏛️ Understand Your Own Government First</h3>
-            <p>Know how your local and national government works before studying others. It's foundational.</p>
-          </div>
-
-          <div class="tip-card">
-            <h3>🎓 Take Courses & Get Certified</h3>
-            <p>AP Government, International Relations, Comparative Politics. Formal education gives you structure and vocabulary.</p>
-          </div>
+          <article class="tip-card">
+            <h3>Read more than one source</h3>
+            <p>Compare reporting from independent outlets and official sources. One outlet is never enough.</p>
+          </article>
+          <article class="tip-card">
+            <h3>Read primary documents</h3>
+            <p>UN resolutions, policy papers, government statements, court rulings, and constitutions are more useful than summaries.</p>
+          </article>
+          <article class="tip-card">
+            <h3>Learn history</h3>
+            <p>Modern politics makes more sense when you understand colonialism, conflict, ideology, and precedent.</p>
+          </article>
+          <article class="tip-card">
+            <h3>Follow trusted institutions</h3>
+            <p>Reliable journalism, NGOs, university research centers, and official state documents all matter.</p>
+          </article>
+          <article class="tip-card">
+            <h3>Practice thinking in arguments</h3>
+            <p>Ask: Who benefits? What evidence is given? What is missing? What are the trade-offs?</p>
+          </article>
+          <article class="tip-card">
+            <h3>Learn outside your bubble</h3>
+            <p>Study countries, histories, and political systems you don’t personally relate to. Political literacy grows by comparison.</p>
+          </article>
+          <article class="tip-card">
+            <h3>Use MUN or debate</h3>
+            <p>Researching a policy position builds stronger analytical habits than passive reading alone.</p>
+          </article>
+          <article class="tip-card">
+            <h3>Accept that opinions can change</h3>
+            <p>Political learning is not about winning arguments quickly; it is about developing better understanding over time.</p>
+          </article>
         </div>
       </div>
     </section>
 
-    <!-- FEEDBACK SECTION -->
     <section class="section-wrap feedback-section" id="feedback">
       <div class="section-heading">
         <div>
-          <p class="eyebrow">WE WANT TO HEAR FROM YOU <i></i></p>
-          <h2>Help us make this better</h2>
-          <p class="deck">Have a suggestion? Found something confusing? Want to contribute? Tell us how we can improve Pink Poli 101.</p>
+          <p class="eyebrow">HELP US IMPROVE <i></i></p>
+          <h2>Suggest ideas for the website</h2>
+          <p class="deck">Have a suggestion, missing topic, or improvement idea? Add it here so the website keeps getting better.</p>
         </div>
       </div>
 
       <form id="feedback-form" class="feedback-form">
         <div class="form-group">
-          <label for="feedback-name">Your Name (optional)</label>
-          <input type="text" id="feedback-name" name="name" placeholder="What should we call you?">
+          <label for="feedback-name">Your name (optional)</label>
+          <input type="text" id="feedback-name" name="name" placeholder="Your name">
         </div>
 
         <div class="form-group">
-          <label for="feedback-email">Your Email (optional, for follow-up)</label>
+          <label for="feedback-email">Email (optional)</label>
           <input type="email" id="feedback-email" name="email" placeholder="your@email.com">
         </div>
 
         <div class="form-group">
-          <label for="feedback-type">Type of Feedback:</label>
-          <select id="feedback-type" name="type" required>
-            <option value="">-- Select --</option>
-            <option value="suggestion">Suggestion for improvement</option>
-            <option value="missing-content">Missing content or topic</option>
-            <option value="bug">Bug or technical issue</option>
-            <option value="resource">Suggest a resource to add</option>
-            <option value="contribution">I want to contribute</option>
+          <label for="feedback-type">Suggestion type</label>
+          <select id="feedback-type" name="type">
+            <option value="">Choose one</option>
+            <option value="improvement">Site improvement</option>
+            <option value="content">Missing content</option>
+            <option value="sources">Trusted source</option>
+            <option value="country">Country addition</option>
+            <option value="mun">MUN tool idea</option>
             <option value="other">Other</option>
           </select>
         </div>
 
         <div class="form-group">
-          <label for="feedback-topic">What section does this relate to? (optional)</label>
-          <input type="text" id="feedback-topic" name="topic" placeholder="e.g., Vocabulary, News, MUN Tool...">
+          <label for="feedback-message">Your suggestion</label>
+          <textarea id="feedback-message" name="message" rows="6" placeholder="Tell us what would make this website better..." required></textarea>
         </div>
 
-        <div class="form-group">
-          <label for="feedback-message">Your Feedback:</label>
-          <textarea id="feedback-message" name="message" rows="6" placeholder="Tell us your thoughts..." required></textarea>
-        </div>
-
-        <button type="submit" class="btn btn-primary">Send Feedback</button>
+        <button type="submit" class="btn btn-primary">Send suggestion</button>
       </form>
 
-      <p class="feedback-note">Thank you for helping us build a better resource for political science students. All feedback is valuable!</p>
-    </section>
-
-    <!-- ABOUT SECTION -->
-    <section class="section-wrap about-section" id="about">
-      <div class="about-seal">PP<small>101</small></div>
-      <div>
-        <p class="eyebrow">A NOTE FROM THE STUDENT BEHIND THE NOTES <i></i></p>
-        <h2>Why Pink Poli 101 exists</h2>
-        <p>Politics shouldn't be confusing. Whether you're prepping for AP Exams, diving into Model UN, or just trying to understand the world—you deserve clear, honest explanations.</p>
-        <p>This site is built by a student, for students. Everything here is designed to make political science accessible, regardless of your background or starting point.</p>
-        <p><strong>We believe:</strong></p>
-        <ul>
-          <li>Politics affects everyone—so everyone should understand it</li>
-          <li>Silence on political issues is itself political—and a privilege</li>
-          <li>Information should be free and accessible to all</li>
-          <li>You deserve multiple perspectives, not just one narrative</li>
-          <li>Learning about global issues like Palestine is essential to understanding world politics</li>
-        </ul>
-      </div>
+      <div id="feedback-status" class="feedback-status" aria-live="polite"></div>
+      <div id="feedback-list" class="feedback-list"></div>
     </section>
   </main>
 
   <footer>
     <div class="footer-main">
       <a class="brand" href="#home"><span class="brand-mark">PP</span><span>pink poli <b>101</b><small>POLITICS, MADE UNDERSTANDABLE</small></span></a>
-      <p>Curious, care about the world? You're already a political science student.</p>
+      <p>Made for students who want to understand power, rights, policy, and the world more clearly.</p>
       <div class="footer-links">
-        <a href="#home">Home</a>
         <a href="#updates">News</a>
         <a href="#countries">Countries</a>
-        <a href="#mun">MUN Tool</a>
+        <a href="#mun">MUN Research</a>
         <a href="#dictionary">Vocabulary</a>
-        <a href="#engagement">Political Voice</a>
         <a href="#feedback">Feedback</a>
       </div>
     </div>
     <div class="footer-bottom">
-      <p>&copy; 2024 Pink Poli 101. Student-created, community-driven.</p>
-      <p><a href="#feedback">Have feedback? We'd love to hear it.</a></p>
+      <p>© <span id="year">2026</span> Pink Poli 101</p>
+      <p>Student-created, politically curious, and always learning.</p>
     </div>
   </footer>
 
