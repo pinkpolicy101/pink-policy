@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-09-30T04:55:24.433345Z",
+  "generated_at": "2026-09-30T05:28:24.509782Z",
   "articles": {
     "world": [
+      {
+        "title": "Move to rejoin EU among options for UK, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T05:00:05Z",
+        "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\"."
+      },
       {
         "title": "Three takeaways from Trump's 'Super Intelligence' summit",
         "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
@@ -19,12 +25,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwe879654mj7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T23:39:58Z",
         "summary": "The Tennessee inmate has been awaiting execution since she was sentenced to death in 1996 for the murder of a teenage classmate."
-      },
-      {
-        "title": "Former American Idol contestant and pastor found guilty of murdering wife",
-        "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T22:13:36Z",
-        "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
       },
       {
         "title": "Fires and blockades as students stage school protests across France",
@@ -129,12 +129,6 @@
         "summary": "The housing secretary used her Labour conference speech to announce protections for leaseholders facing 'injustice'."
       },
       {
-        "title": "French hard-right leader accuses opponents of 'total war' after claims of antisemitism",
-        "url": "https://www.bbc.co.uk/news/articles/cmn45k85gj34o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T12:20:02Z",
-        "summary": "National Rally President Jordan Bardella says he will sue for libel over comments he is accused of making as a young activist."
-      },
-      {
         "title": "Chris Mason: Burnham opens debate on huge issue of social care reform",
         "url": "https://www.bbc.co.uk/news/articles/ckp840qp85l2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T10:16:06Z",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T18:07:25Z",
         "summary": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs."
+      },
+      {
+        "title": "Mahmood signals rethink on migrants' right to remain",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-28T18:04:41Z",
+        "summary": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner."
       }
     ],
     "saudi": [
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Move to rejoin EU among options for UK, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T05:00:05Z",
+        "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\"."
+      },
       {
         "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
         "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
