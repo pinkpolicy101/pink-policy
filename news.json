@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T08:56:01.529531Z",
+  "generated_at": "2026-10-01T09:30:12.851508Z",
   "articles": {
     "world": [
       {
@@ -15,7 +15,13 @@
         "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers."
       },
       {
-        "title": "BBC needs funding reform, but corporation should not overspend on internationl hits, MPs say",
+        "title": "Japan raises permanent residency fee by 20 times",
+        "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T02:57:43Z",
+        "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population."
+      },
+      {
+        "title": "BBC needs funding reform, but broadcaster should not overspend on international hits, MPs say",
         "url": "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T00:20:51Z",
         "summary": "The issue is one of several raised by an influential committee as debate about the BBC's future continues."
@@ -175,19 +181,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T16:43:39Z",
         "summary": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that."
-      },
-      {
-        "title": "What did Andy Burnham promise at Labour conference?",
-        "url": "https://www.bbc.co.uk/news/videos/cqwyz4kvm2p4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T16:19:59Z",
-        "summary": "The Prime Minister spoke through a number of his plans for how the Labour government will impact the nation."
       }
     ],
     "saudi": [
       {
         "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T08:25:47Z",
+        "published_at": "2026-10-01T09:22:35Z",
         "summary": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says."
       },
       {
@@ -291,6 +291,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T07:29:23Z",
         "summary": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts."
+      },
+      {
+        "title": "Japan raises permanent residency fee by 20 times",
+        "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T02:57:43Z",
+        "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population."
       },
       {
         "title": "BBC should not overspend on shows such as Suits and Schitt's Creek, MPs say",
