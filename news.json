@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-09-30T23:52:47.249009Z",
+  "generated_at": "2026-10-01T00:37:27.645611Z",
   "articles": {
     "world": [
       {
+        "title": "BBC should not overspend on shows such as Suits and Schitt's Creek, MPs say",
+        "url": "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T00:20:51Z",
+        "summary": "The issue is one of several raised by an influential committee as debate about the BBC's future continues."
+      },
+      {
         "title": "US Supreme Court allows execution of Christa Pike to go ahead",
         "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T23:42:10Z",
-        "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before judges from a lower court paused the execution."
+        "published_at": "2026-10-01T00:19:20Z",
+        "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution."
       },
       {
         "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
@@ -19,6 +25,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T22:38:33Z",
         "summary": "The party says it would bring in new work requirements for young people claiming Universal Credit."
+      },
+      {
+        "title": "Employers should teach primary-age children about work, says Milburn",
+        "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T21:40:31Z",
+        "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers."
       },
       {
         "title": "UK believes Iran involved in RAF Fairford incident, Burnham says",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr209vl2z9jqo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T16:07:50Z",
         "summary": "Big policy announcements and emotional moments as the prime minister delivers a speech to Labour's conference."
-      },
-      {
-        "title": "Watch: How did Burnham's speech go down in the conference hall?",
-        "url": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T15:31:27Z",
-        "summary": "The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care."
-      },
-      {
-        "title": "Burnham says public body will invest in electricity grid",
-        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T15:14:39Z",
-        "summary": "The prime minister said he wants to reduce energy costs in his first conference speech as Labour leader."
       }
     ],
     "saudi": [
@@ -207,8 +207,8 @@
       {
         "title": "US Supreme Court allows execution of Christa Pike to go ahead",
         "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T23:42:10Z",
-        "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before judges from a lower court paused the execution."
+        "published_at": "2026-10-01T00:19:20Z",
+        "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution."
       },
       {
         "title": "Watch: Why was the US execution of Christa Pike halted?",
@@ -281,6 +281,12 @@
   "archive": {
     "world": [
       {
+        "title": "BBC should not overspend on shows such as Suits and Schitt's Creek, MPs say",
+        "url": "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T00:20:51Z",
+        "summary": "The issue is one of several raised by an influential committee as debate about the BBC's future continues."
+      },
+      {
         "title": "US Supreme Court allows execution of Christa Pike to go ahead",
         "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T23:42:10Z",
@@ -297,6 +303,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T22:38:33Z",
         "summary": "The party says it would bring in new work requirements for young people claiming Universal Credit."
+      },
+      {
+        "title": "Employers should teach primary-age children about work, says Milburn",
+        "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T21:40:31Z",
+        "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers."
       },
       {
         "title": "PM: I'd be 'really concerned' if Man City owners sell club",
