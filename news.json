@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-01T07:55:11.935228Z",
+  "generated_at": "2026-10-01T08:32:03.349331Z",
   "articles": {
     "world": [
+      {
+        "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+        "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T07:29:23Z",
+        "summary": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts."
+      },
       {
         "title": "Employers should teach primary-age children about work, says Milburn",
         "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
@@ -21,7 +27,7 @@
         "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing."
       },
       {
-        "title": "Vape prices to rise as new tax takes effect",
+        "title": "Vape tax comes into effect - but prices won't rise yet",
         "url": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T23:02:11Z",
         "summary": "Vaping is about to becoming more expensive due to a new tax on products."
@@ -175,20 +181,14 @@
         "url": "https://www.bbc.co.uk/news/videos/cqwyz4kvm2p4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T16:19:59Z",
         "summary": "The Prime Minister spoke through a number of his plans for how the Labour government will impact the nation."
-      },
-      {
-        "title": "Five takeaways from Andy Burnham's Labour conference speech",
-        "url": "https://www.bbc.co.uk/news/articles/cr209vl2z9jqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T16:07:50Z",
-        "summary": "Big policy announcements and emotional moments as the prime minister delivers a speech to Labour's conference."
       }
     ],
     "saudi": [
       {
-        "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
+        "title": "Too early to say if Iran involved in Dubai-Tel Aviv flight attack, Israeli PM says",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T07:27:25Z",
-        "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says."
+        "published_at": "2026-10-01T08:25:47Z",
+        "summary": "A pilot who stabbed another pilot on an Israel-bound plane is being investigated in Saudi Arabia, Benjamin Netanyahu says."
       },
       {
         "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+        "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T07:29:23Z",
+        "summary": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts."
+      },
       {
         "title": "BBC should not overspend on shows such as Suits and Schitt's Creek, MPs say",
         "url": "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo?at_medium=RSS&at_campaign=rss",
