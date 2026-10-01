@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-01T15:30:24.801662Z",
+  "generated_at": "2026-10-01T15:56:12.771238Z",
   "articles": {
     "world": [
       {
         "title": "Burnham's Man City comments 'completely out of touch', Tories say",
         "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T15:27:06Z",
+        "published_at": "2026-10-01T15:38:46Z",
         "summary": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches."
+      },
+      {
+        "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T15:38:13Z",
+        "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
+      },
+      {
+        "title": "Lib Dem MPs criticise Davey over pension triple lock response",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyey1w8q78o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T15:32:32Z",
+        "summary": "Sir Ed questioned the PM's plans to change the triple lock, telling the BBC removing it \"would put more pensioners into poverty\"."
+      },
+      {
+        "title": "Hundreds of criminals start leaving prison under new early release scheme",
+        "url": "https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T15:18:22Z",
+        "summary": "Around 4,500 inmates are expected to be released early by June 2027 under a scheme designed to stop prisons becoming full."
       },
       {
         "title": "I'm unaware of bin strike latest, says Greens deputy",
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T04:01:52Z",
         "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
-      },
-      {
-        "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
-        "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T19:13:14Z",
-        "summary": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes."
-      },
-      {
-        "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
-        "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T17:39:06Z",
-        "summary": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK."
-      },
-      {
-        "title": "What is the triple lock and why are people talking about it?",
-        "url": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T17:09:46Z",
-        "summary": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases."
       }
     ],
     "saudi": [
@@ -235,12 +235,6 @@
         "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
       },
       {
-        "title": "Former American Idol contestant and pastor found guilty of murdering wife",
-        "url": "https://www.bbc.co.uk/news/articles/c5rm9gv7n07xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T22:13:36Z",
-        "summary": "Caleb Flynn weeps in court as he is convicted of shooting his wife, Ashley, dead in their Ohio home."
-      },
-      {
         "title": "What is kratom, the 'gas station heroin' alarming officials in the US?",
         "url": "https://www.bbc.co.uk/news/articles/cjn5ddzekwnro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T20:39:59Z",
@@ -275,10 +269,28 @@
   "archive": {
     "world": [
       {
+        "title": "Netanyahu says flight attacker 'underwent Islamist radical indoctrination'",
+        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T15:38:13Z",
+        "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
+      },
+      {
+        "title": "Lib Dem MPs criticise Davey over pension triple lock response",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyey1w8q78o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T15:32:32Z",
+        "summary": "Sir Ed questioned the PM's plans to change the triple lock, telling the BBC removing it \"would put more pensioners into poverty\"."
+      },
+      {
         "title": "Burnham's Man City comments 'completely out of touch', Tories say",
         "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T15:27:06Z",
         "summary": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches."
+      },
+      {
+        "title": "Hundreds of criminals start leaving prison under new early release scheme",
+        "url": "https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T15:18:22Z",
+        "summary": "Around 4,500 inmates are expected to be released early by June 2027 under a scheme designed to stop prisons becoming full."
       },
       {
         "title": "I'm unaware of bin strike latest, says Greens deputy",
