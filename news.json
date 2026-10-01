@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-01T01:28:05.156904Z",
+  "generated_at": "2026-10-01T01:54:12.974419Z",
   "articles": {
     "world": [
+      {
+        "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+        "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T01:45:09Z",
+        "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution."
+      },
       {
         "title": "BBC should not overspend on shows such as Suits and Schitt's Creek, MPs say",
         "url": "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T00:20:51Z",
         "summary": "The issue is one of several raised by an influential committee as debate about the BBC's future continues."
-      },
-      {
-        "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-        "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T00:19:20Z",
-        "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution."
       },
       {
         "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
@@ -205,16 +205,16 @@
     ],
     "us": [
       {
+        "title": "US Supreme Court allows execution of Christa Pike to go ahead",
+        "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T01:45:09Z",
+        "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution."
+      },
+      {
         "title": "California bans child marriage, a practice still legal in 32 US states",
         "url": "https://www.bbc.co.uk/news/articles/c6rm9mnn0w3eo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T00:57:04Z",
         "summary": "Gov Gavin Newsom called it a \"long overdue measure to protect young Californians\"."
-      },
-      {
-        "title": "US Supreme Court allows execution of Christa Pike to go ahead",
-        "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T00:19:20Z",
-        "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before a lower court paused the execution."
       },
       {
         "title": "Watch: Why was the US execution of Christa Pike halted?",
