@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-01T14:31:54.716312Z",
+  "generated_at": "2026-10-01T14:56:23.946129Z",
   "articles": {
     "world": [
+      {
+        "title": "I'm unaware of bin strike latest, says Greens deputy",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyzy55e78vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T14:54:24Z",
+        "summary": "Greens deputy leader admits she had not been briefed about Birmingham bin strike."
+      },
+      {
+        "title": "Tories committed to pension triple lock, deputy leader says",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyzypvl4l1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T14:31:50Z",
+        "summary": "Alex Bughart says pensioners are a 'special case' as there is nothing they can do to increase their income."
+      },
       {
         "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
         "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T16:43:39Z",
         "summary": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that."
-      },
-      {
-        "title": "What did Andy Burnham promise at Labour conference?",
-        "url": "https://www.bbc.co.uk/news/videos/cqwyz4kvm2p4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T16:19:59Z",
-        "summary": "The Prime Minister spoke through a number of his plans for how the Labour government will impact the nation."
-      },
-      {
-        "title": "Five takeaways from Andy Burnham's Labour conference speech",
-        "url": "https://www.bbc.co.uk/news/articles/cr209vl2z9jqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T16:07:50Z",
-        "summary": "Big policy announcements and emotional moments as the prime minister delivers a speech to Labour's conference."
       }
     ],
     "saudi": [
@@ -274,6 +274,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "I'm unaware of bin strike latest, says Greens deputy",
+        "url": "https://www.bbc.co.uk/news/videos/c6wyzy55e78vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T14:54:24Z",
+        "summary": "Greens deputy leader admits she had not been briefed about Birmingham bin strike."
+      },
+      {
+        "title": "Tories committed to pension triple lock, deputy leader says",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyzypvl4l1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T14:31:50Z",
+        "summary": "Alex Bughart says pensioners are a 'special case' as there is nothing they can do to increase their income."
+      },
       {
         "title": "Water system a 'disaster', Green deputy leader says",
         "url": "https://www.bbc.co.uk/news/articles/cm9w4wyw9g9yo?at_medium=RSS&at_campaign=rss",
