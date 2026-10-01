@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-01T09:30:12.851508Z",
+  "generated_at": "2026-10-01T09:56:17.199869Z",
   "articles": {
     "world": [
+      {
+        "title": "'Why does it have to be OAPs versus young people?'",
+        "url": "https://www.bbc.co.uk/news/videos/cmx2z23znn0do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T09:43:37Z",
+        "summary": "Should the triple lock on pensions end? Entrepreneur Tim Allan and comedian James Gardner speak alongside the BBC Debate Night audience."
+      },
       {
         "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
         "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
@@ -21,10 +27,10 @@
         "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population."
       },
       {
-        "title": "BBC needs funding reform, but broadcaster should not overspend on international hits, MPs say",
+        "title": "MPs recommend BBC charter renewal is scrapped and licence fee is extended beyond TV",
         "url": "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T00:20:51Z",
-        "summary": "The issue is one of several raised by an influential committee as debate about the BBC's future continues."
+        "summary": "An parliamentary committee has published a new report as debate about the BBC's future continues."
       },
       {
         "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T17:09:46Z",
         "summary": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases."
-      },
-      {
-        "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
-        "url": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T16:43:39Z",
-        "summary": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that."
       }
     ],
     "saudi": [
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "'Why does it have to be OAPs versus young people?'",
+        "url": "https://www.bbc.co.uk/news/videos/cmx2z23znn0do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T09:43:37Z",
+        "summary": "Should the triple lock on pensions end? Entrepreneur Tim Allan and comedian James Gardner speak alongside the BBC Debate Night audience."
+      },
       {
         "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
         "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
