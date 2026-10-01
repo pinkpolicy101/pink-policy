@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-01T12:59:57.950240Z",
+  "generated_at": "2026-10-01T13:32:10.689320Z",
   "articles": {
     "world": [
+      {
+        "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
+        "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T13:20:12Z",
+        "summary": "The party says it would bring in new work requirements for young people claiming Universal Credit."
+      },
+      {
+        "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
+        "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T13:13:33Z",
+        "summary": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts."
+      },
       {
         "title": "Water system a 'disaster', Green deputy leader says",
         "url": "https://www.bbc.co.uk/news/articles/cm9w4wyw9g9yo?at_medium=RSS&at_campaign=rss",
@@ -9,16 +21,10 @@
         "summary": "Rachel Millward says her party would nationalise water companies to reverse years of \u201cradical underinvestment\"."
       },
       {
-        "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
-        "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T11:00:28Z",
-        "summary": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts."
-      },
-      {
-        "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
-        "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T10:33:07Z",
-        "summary": "The party says it would bring in new work requirements for young people claiming Universal Credit."
+        "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T11:37:46Z",
+        "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
       },
       {
         "title": "'Why does it have to be OAPs versus young people?'",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T17:09:46Z",
         "summary": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases."
-      },
-      {
-        "title": "Faisal Islam: Triple lock move is significant, but it's a gamble",
-        "url": "https://www.bbc.co.uk/news/articles/cwp93d078j8no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T16:43:39Z",
-        "summary": "I had expected him to try to forge a political consensus on this thorny issue at this stage, but he has gone further than that."
       }
     ],
     "saudi": [
@@ -279,6 +279,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cm9w4wyw9g9yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T12:16:29Z",
         "summary": "Rachel Millward says her party would nationalise water companies to reverse years of \u201cradical underinvestment\"."
+      },
+      {
+        "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T11:37:46Z",
+        "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
       },
       {
         "title": "'Why does it have to be OAPs versus young people?'",
