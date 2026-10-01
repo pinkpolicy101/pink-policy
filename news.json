@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-01T21:55:02.718795Z",
+  "generated_at": "2026-10-01T22:25:31.150035Z",
   "articles": {
     "world": [
+      {
+        "title": "Why Andy Burnham's about-turn on Manchester City matters",
+        "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T22:22:43Z",
+        "summary": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football."
+      },
       {
         "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
         "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c6x2z0jgg34po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T07:37:41Z",
         "summary": "The triple lock, which was introduced but the Conservative-Lib Dem coalition in 2011, ensures state pensions rise by whichever is highest out of average earnings growth, consumer price index (CPI) inflation or 2.5%."
-      },
-      {
-        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T04:01:52Z",
-        "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
       }
     ],
     "saudi": [
@@ -268,6 +268,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Why Andy Burnham's about-turn on Manchester City matters",
+        "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T22:22:43Z",
+        "summary": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football."
+      },
       {
         "title": "PM warned Rosebank oil field could breach West Bank sanctions",
         "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
