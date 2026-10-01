@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-01T18:33:14.462646Z",
+  "generated_at": "2026-10-01T18:56:53.612669Z",
   "articles": {
     "world": [
+      {
+        "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
+        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T18:48:46Z",
+        "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
+      },
+      {
+        "title": "PM warned Rosebank oil field could breach West Bank sanctions",
+        "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T18:38:22Z",
+        "summary": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm."
+      },
       {
         "title": "Fires break out at French schools as students protest nationwide",
         "url": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T18:22:29Z",
         "summary": "The French government holds a crisis meeting as demonstrations grow and become violent in places."
-      },
-      {
-        "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
-        "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T18:19:14Z",
-        "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
       },
       {
         "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T04:01:52Z",
         "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
-      },
-      {
-        "title": "Chris Mason: Burnham delivers deeply political speech with a personal core",
-        "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T19:13:14Z",
-        "summary": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes."
       }
     ],
     "saudi": [
@@ -265,12 +265,6 @@
         "summary": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents."
       },
       {
-        "title": "Are Trump's US government funded ads illegal?",
-        "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T01:12:52Z",
-        "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government."
-      },
-      {
         "title": "What a US diesel export ban could mean for you",
         "url": "https://www.bbc.co.uk/news/articles/cky9z3r00l9eo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T18:18:30Z",
@@ -280,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "PM warned Rosebank oil field could breach West Bank sanctions",
+        "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T18:38:22Z",
+        "summary": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm."
+      },
       {
         "title": "Fires break out at French schools as students protest nationwide",
         "url": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
