@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T06:35:26.734350Z",
+  "generated_at": "2026-10-01T06:59:24.543845Z",
   "articles": {
     "world": [
       {
@@ -9,10 +9,16 @@
         "summary": "The issue is one of several raised by an influential committee as debate about the BBC's future continues."
       },
       {
-        "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
+        "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
         "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T23:10:06Z",
         "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing."
+      },
+      {
+        "title": "Vape prices to rise as new tax takes effect",
+        "url": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T23:02:11Z",
+        "summary": "Vaping is about to becoming more expensive due to a new tax on products."
       },
       {
         "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
@@ -175,19 +181,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cr209vl2z9jqo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T16:07:50Z",
         "summary": "Big policy announcements and emotional moments as the prime minister delivers a speech to Labour's conference."
-      },
-      {
-        "title": "Watch: How did Burnham's speech go down in the conference hall?",
-        "url": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T15:31:27Z",
-        "summary": "The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care."
       }
     ],
     "saudi": [
       {
         "title": "Too early to say what motive for Dubai-Tel Aviv flight attack was, Israeli PM says",
         "url": "https://www.bbc.co.uk/news/articles/cqgmrm7xd8wyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T03:43:06Z",
+        "published_at": "2026-10-01T06:42:43Z",
         "summary": "A pilot who stabbed another pilot on an Israel-bound plane is under investigation in Saudi Arabia, Benjamin Netanyahu says."
       },
       {
@@ -303,6 +303,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T23:10:06Z",
         "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing."
+      },
+      {
+        "title": "Vape prices to rise as new tax takes effect",
+        "url": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T23:02:11Z",
+        "summary": "Vaping is about to becoming more expensive due to a new tax on products."
       },
       {
         "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
