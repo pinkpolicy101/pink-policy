@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-02T16:29:37.805748Z",
+  "generated_at": "2026-10-02T16:55:29.385749Z",
   "articles": {
     "world": [
+      {
+        "title": "Greens can move Labour in the right direction, says Polanski",
+        "url": "https://www.bbc.co.uk/news/articles/cmx239469krpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T16:32:36Z",
+        "summary": "The Green leader tells his autumn conference that a vote for his party can force changes from Andy Burnham."
+      },
       {
         "title": "Is UK politics 'boomer-centric'?",
         "url": "https://www.bbc.co.uk/news/videos/c9n73ly655ero?at_medium=RSS&at_campaign=rss",
@@ -15,16 +21,16 @@
         "summary": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay."
       },
       {
+        "title": "Spanish PM S\u00e1nchez loses key housing crisis vote after eviction of woman, 87",
+        "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T15:30:12Z",
+        "summary": "The defeat raises pressure on S\u00e1nchez to call a snap election, after a series of scandals affecting his party and allies."
+      },
+      {
         "title": "First minister told Burnham 'do not undermine Wales'",
         "url": "https://www.bbc.co.uk/news/videos/c6gqw28kvd5ko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T15:08:00Z",
         "summary": "Wales' first minister spoke at Plaid Cymru's autumn conference at Venue Cymru in Llandudno on Friday afternoon."
-      },
-      {
-        "title": "Greens can move Labour in the right direction, says Polanski",
-        "url": "https://www.bbc.co.uk/news/articles/cmx239469krpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T14:34:55Z",
-        "summary": "The Green leader tells his autumn conference that a vote for his party can force changes from Andy Burnham."
       },
       {
         "title": "Tories aim to be election-ready ahead of party conference",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmx2zr39l716o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T17:15:54Z",
         "summary": "Targeted investigations will be carried out as part of a national inquiry into child sexual abuse."
-      },
-      {
-        "title": "UK-France 'one in, one out' migrant scheme scrapped",
-        "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T17:11:08Z",
-        "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago."
       }
     ],
     "saudi": [
@@ -261,6 +261,12 @@
         "url": "https://www.bbc.co.uk/news/videos/c9n73ly655ero?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T16:13:08Z",
         "summary": "An hour of debate with Miatta Fahnbulleh, Julia Lopez, Suella Braverman and Oli Dugmore."
+      },
+      {
+        "title": "Spanish PM S\u00e1nchez loses key housing crisis vote after eviction of woman, 87",
+        "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T15:30:12Z",
+        "summary": "The defeat raises pressure on S\u00e1nchez to call a snap election, after a series of scandals affecting his party and allies."
       },
       {
         "title": "First minister told Burnham 'do not undermine Wales'",
