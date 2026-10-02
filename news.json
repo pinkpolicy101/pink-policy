@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T09:30:04.790439Z",
+  "generated_at": "2026-10-02T09:55:20.063559Z",
   "articles": {
     "world": [
       {
@@ -13,12 +13,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T09:02:43Z",
         "summary": "Rhun ap Iorwerth will address members at Plaid's first conference since winning the Senedd election."
-      },
-      {
-        "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T08:54:00Z",
-        "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
       },
       {
         "title": "Zack Polanski to call for three-year cap on private rent rises",
@@ -73,12 +67,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T19:59:24Z",
         "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
-      },
-      {
-        "title": "Fires break out at French schools as students protest nationwide",
-        "url": "https://www.bbc.co.uk/news/articles/c6d080d1e3l4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T19:19:00Z",
-        "summary": "The French government holds a crisis meeting as demonstrations grow and become violent in places."
       },
       {
         "title": "PM warned Rosebank oil field could breach West Bank sanctions",
@@ -181,6 +169,18 @@
         "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T17:11:08Z",
         "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago."
+      },
+      {
+        "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
+        "url": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T16:14:23Z",
+        "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money."
+      },
+      {
+        "title": "Brexit referendum 'possible' in Labour election manifesto, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-09-30T16:06:23Z",
+        "summary": "The PM says a referendum wouldn't be the right thing now but the UK needs to consider its options for the future."
       }
     ],
     "saudi": [
