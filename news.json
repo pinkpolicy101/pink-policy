@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T06:33:44.505767Z",
+  "generated_at": "2026-10-02T06:58:34.358358Z",
   "articles": {
     "world": [
       {
@@ -13,6 +13,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T05:26:06Z",
         "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
+      },
+      {
+        "title": "First minister demands 'new deal' for Wales before Plaid Cymru conference",
+        "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T05:18:28Z",
+        "summary": "Rhun ap Iorwerth will address members at Plaid's first conference since winning the Senedd election."
       },
       {
         "title": "How Gen Z TikToks are shaping Kenyan politics",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T16:06:23Z",
         "summary": "The PM says a referendum wouldn't be the right thing now but the UK needs to consider its options for the future."
-      },
-      {
-        "title": "Burnham 'really concerned' if Man City owners sell up after rule breaches",
-        "url": "https://www.bbc.co.uk/news/articles/crkgwvv8xvw0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T16:01:16Z",
-        "summary": "The prime minister compares the allegations against Man City to the plight of his own club Everton."
       }
     ],
     "saudi": [
@@ -273,6 +273,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cq74e4jg9leno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T05:31:54Z",
         "summary": "In his speech to his party's conference, the Green leader will frame housing as a key issue of generational fairness."
+      },
+      {
+        "title": "First minister demands 'new deal' for Wales before Plaid Cymru conference",
+        "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T05:18:28Z",
+        "summary": "Rhun ap Iorwerth will address members at Plaid's first conference since winning the Senedd election."
       },
       {
         "title": "How Gen Z TikToks are shaping Kenyan politics",
