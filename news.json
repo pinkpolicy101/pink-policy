@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T19:54:27.979797Z",
+  "generated_at": "2026-10-02T20:26:48.930902Z",
   "articles": {
     "world": [
       {
@@ -27,7 +27,7 @@
         "summary": "An hour of debate with Miatta Fahnbulleh, Julia Lopez, Suella Braverman and Oli Dugmore."
       },
       {
-        "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal with Scotland",
+        "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal to Scotland",
         "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T15:40:31Z",
         "summary": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay."
@@ -204,6 +204,12 @@
       }
     ],
     "us": [
+      {
+        "title": "How widely used is the death penalty in the US?",
+        "url": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T19:56:28Z",
+        "summary": "The death penalty is back in the news after Christa Pike survived two lethal injection attempts in Tennessee - but how widely used is it in the US?"
+      },
       {
         "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
         "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
@@ -1094,6 +1100,12 @@
       }
     ],
     "us": [
+      {
+        "title": "How widely used is the death penalty in the US?",
+        "url": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T19:56:28Z",
+        "summary": "The death penalty is back in the news after Christa Pike survived two lethal injection attempts in Tennessee - but how widely used is it in the US?"
+      },
       {
         "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
         "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
