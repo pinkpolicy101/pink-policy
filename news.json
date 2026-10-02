@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-02T20:55:23.921055Z",
+  "generated_at": "2026-10-02T21:27:30.560843Z",
   "articles": {
     "world": [
+      {
+        "title": "Tories promise to build 50,000 new prison places",
+        "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T21:11:04Z",
+        "summary": "The party says its proposals would stop prisoners being released early and cut crime."
+      },
       {
         "title": "Widdecombe suspect charged with planning terror act against Farage",
         "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
@@ -129,12 +135,6 @@
         "summary": "Alex Bughart says pensioners are a 'special case' as there is nothing they can do to increase their income."
       },
       {
-        "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
-        "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T13:20:12Z",
-        "summary": "The party says it would bring in new work requirements for young people claiming Universal Credit."
-      },
-      {
         "title": "Water system a 'disaster', Green deputy leader says",
         "url": "https://www.bbc.co.uk/news/articles/cm9w4wyw9g9yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T12:16:29Z",
@@ -205,6 +205,12 @@
     ],
     "us": [
       {
+        "title": "Ex-US congressman sentenced to 10 years in prison for $50m lobbying scheme",
+        "url": "https://www.bbc.co.uk/news/articles/crz98wnx4n1wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T21:05:03Z",
+        "summary": "River's ex-housemate, Secretary of State Marco Rubio, testified he had no idea about his activities."
+      },
+      {
         "title": "US murderer Christa Pike unconscious and on ventilator after failed execution, lawyers say",
         "url": "https://www.bbc.co.uk/news/articles/c3kgqw7zvz47o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T20:32:07Z",
@@ -268,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Tories promise to build 50,000 new prison places",
+        "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T21:11:04Z",
+        "summary": "The party says its proposals would stop prisoners being released early and cut crime."
+      },
       {
         "title": "Widdecombe suspect charged with planning terror act against Farage",
         "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
@@ -1100,6 +1112,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Ex-US congressman sentenced to 10 years in prison for $50m lobbying scheme",
+        "url": "https://www.bbc.co.uk/news/articles/crz98wnx4n1wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T21:05:03Z",
+        "summary": "River's ex-housemate, Secretary of State Marco Rubio, testified he had no idea about his activities."
+      },
       {
         "title": "How widely used is the death penalty in the US?",
         "url": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
