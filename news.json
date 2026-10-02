@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-02T12:58:19.014419Z",
+  "generated_at": "2026-10-02T13:30:39.556375Z",
   "articles": {
     "world": [
+      {
+        "title": "School protests send shivers down French government's spine",
+        "url": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T12:43:02Z",
+        "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield."
+      },
       {
         "title": "First minister demands 'new deal' for Wales, before Plaid Cymru conference",
         "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
@@ -67,12 +73,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crje8edqyej9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T19:59:24Z",
         "summary": "Israel's prime minister says the pilot who tried to take over the Flydubai plane clearly intended to \"down the plane\"."
-      },
-      {
-        "title": "PM warned Rosebank oil field could breach West Bank sanctions",
-        "url": "https://www.bbc.co.uk/news/articles/cmrl6lz454lgo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T18:38:22Z",
-        "summary": "Campaigners and Green Party leader Zack Polanski raise concerns about Rosebank's ties to an Israeli firm."
       },
       {
         "title": "Lib Dem MPs criticise Davey over pension triple lock response",
@@ -205,6 +205,12 @@
     ],
     "us": [
       {
+        "title": "US jobs market sees sharp slowdown in September",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T13:28:15Z",
+        "summary": "Unemployment rose slightly to 4.2% in September as American employers paused hiring."
+      },
+      {
         "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
         "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T08:54:00Z",
@@ -250,6 +256,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "School protests send shivers down French government's spine",
+        "url": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T12:43:02Z",
+        "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield."
+      },
       {
         "title": "I wasn't going to let others die, says Indian pilot who opened cockpit door during attack",
         "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
@@ -1034,6 +1046,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US jobs market sees sharp slowdown in September",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T13:28:15Z",
+        "summary": "Unemployment rose slightly to 4.2% in September as American employers paused hiring."
+      },
       {
         "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
         "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
