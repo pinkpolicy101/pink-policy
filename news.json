@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-02T03:54:54.044644Z",
+  "generated_at": "2026-10-02T04:29:00.562719Z",
   "articles": {
     "world": [
+      {
+        "title": "Move to stop charges for parents to sit by children on flights",
+        "url": "https://www.bbc.co.uk/news/articles/c3n070vxkjl9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T03:55:17Z",
+        "summary": "The government says sitting together can currently cost a parent and child up to \u00a3104 on a return journey."
+      },
       {
         "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
         "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
@@ -27,7 +33,7 @@
         "summary": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes."
       },
       {
-        "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+        "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
         "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T22:21:16Z",
         "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cky9z7z53n2yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T12:59:05Z",
         "summary": "John Swinney had referred to Andy Burnham as the \"last prime minister\"."
-      },
-      {
-        "title": "Burnham to fight next election on pledge to change voting system",
-        "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T09:45:32Z",
-        "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform."
       }
     ],
     "saudi": [
@@ -268,6 +268,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Move to stop charges for parents to sit by children on flights",
+        "url": "https://www.bbc.co.uk/news/articles/c3n070vxkjl9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T03:55:17Z",
+        "summary": "The government says sitting together can currently cost a parent and child up to \u00a3104 on a return journey."
+      },
       {
         "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
         "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
