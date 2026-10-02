@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-02T14:57:21.137848Z",
+  "generated_at": "2026-10-02T15:30:47.883197Z",
   "articles": {
     "world": [
       {
         "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal with Scotland",
         "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T14:45:04Z",
+        "published_at": "2026-10-02T15:13:11Z",
         "summary": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay."
+      },
+      {
+        "title": "First minister told Burnham 'do not undermine Wales'",
+        "url": "https://www.bbc.co.uk/news/videos/c6gqw28kvd5ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T15:08:00Z",
+        "summary": "Wales' first minister spoke at Plaid Cymru's autumn conference at Venue Cymru in Llandudno on Friday afternoon."
       },
       {
         "title": "Greens can move Labour in the right direction, says Polanski",
@@ -127,12 +133,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T11:37:46Z",
         "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
-      },
-      {
-        "title": "'Why does it have to be OAPs versus young people?'",
-        "url": "https://www.bbc.co.uk/news/videos/cmx2z23znn0do?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T09:43:37Z",
-        "summary": "Should the triple lock on pensions end? Entrepreneur Tim Allan and comedian James Gardner speak alongside the BBC Debate Night audience."
       },
       {
         "title": "Employers should teach primary-age children about work, says Milburn",
@@ -256,6 +256,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "First minister told Burnham 'do not undermine Wales'",
+        "url": "https://www.bbc.co.uk/news/videos/c6gqw28kvd5ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T15:08:00Z",
+        "summary": "Wales' first minister spoke at Plaid Cymru's autumn conference at Venue Cymru in Llandudno on Friday afternoon."
+      },
       {
         "title": "Greens can move Labour in the right direction, says Polanski",
         "url": "https://www.bbc.co.uk/news/articles/cmx239469krpo?at_medium=RSS&at_campaign=rss",
