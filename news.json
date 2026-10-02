@@ -1,17 +1,29 @@
 {
-  "generated_at": "2026-10-02T06:58:34.358358Z",
+  "generated_at": "2026-10-02T07:29:53.149401Z",
   "articles": {
     "world": [
       {
+        "title": "Greens take aim at landlord 'super earners'",
+        "url": "https://www.bbc.co.uk/news/videos/crje8eq3xvjyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T07:26:16Z",
+        "summary": "The vast majority of landlords are super earners - Green Party"
+      },
+      {
         "title": "Zack Polanski to call for three-year cap on private rent rises",
         "url": "https://www.bbc.co.uk/news/articles/cq74e4jg9leno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T05:31:54Z",
+        "published_at": "2026-10-02T07:11:30Z",
         "summary": "In his speech to his party's conference, the Green leader will frame housing as a key issue of generational fairness."
       },
       {
-        "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+        "title": "Move to stop charges for parents to sit by children on flights",
+        "url": "https://www.bbc.co.uk/news/articles/c3n070vxkjl9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T07:00:57Z",
+        "summary": "The government says sitting together can currently cost a parent and child up to \u00a3104 on a return journey."
+      },
+      {
+        "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
         "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T05:26:06Z",
+        "published_at": "2026-10-02T06:59:30Z",
         "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
       },
       {
@@ -25,12 +37,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c9lykydmjlxro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T05:17:02Z",
         "summary": "How Gen Z TikToks are shaping Kenyan politics."
-      },
-      {
-        "title": "Move to stop charges for parents to sit by children on flights",
-        "url": "https://www.bbc.co.uk/news/articles/c3n070vxkjl9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T03:55:17Z",
-        "summary": "The government says sitting together can currently cost a parent and child up to \u00a3104 on a return journey."
       },
       {
         "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T16:14:23Z",
         "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money."
-      },
-      {
-        "title": "Brexit referendum 'possible' in Labour election manifesto, says Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T16:06:23Z",
-        "summary": "The PM says a referendum wouldn't be the right thing now but the UK needs to consider its options for the future."
       }
     ],
     "saudi": [
@@ -268,6 +268,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Greens take aim at landlord 'super earners'",
+        "url": "https://www.bbc.co.uk/news/videos/crje8eq3xvjyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T07:26:16Z",
+        "summary": "The vast majority of landlords are super earners - Green Party"
+      },
       {
         "title": "Zack Polanski to call for three-year cap on private rent rises",
         "url": "https://www.bbc.co.uk/news/articles/cq74e4jg9leno?at_medium=RSS&at_campaign=rss",
