@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-02T15:55:54.047236Z",
+  "generated_at": "2026-10-02T16:29:37.805748Z",
   "articles": {
     "world": [
+      {
+        "title": "Is UK politics 'boomer-centric'?",
+        "url": "https://www.bbc.co.uk/news/videos/c9n73ly655ero?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T16:13:08Z",
+        "summary": "An hour of debate with Miatta Fahnbulleh, Julia Lopez, Suella Braverman and Oli Dugmore."
+      },
       {
         "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal with Scotland",
         "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
@@ -103,12 +109,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T15:18:22Z",
         "summary": "Around 4,500 inmates are expected to be released early by June 2027 under a scheme designed to stop prisons becoming full."
-      },
-      {
-        "title": "I'm unaware of bin strike latest, says Greens deputy",
-        "url": "https://www.bbc.co.uk/news/videos/c6wyzy55e78vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T14:54:24Z",
-        "summary": "Greens deputy leader admits she had not been briefed about Birmingham bin strike."
       },
       {
         "title": "Tories committed to pension triple lock, deputy leader says",
@@ -256,6 +256,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Is UK politics 'boomer-centric'?",
+        "url": "https://www.bbc.co.uk/news/videos/c9n73ly655ero?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T16:13:08Z",
+        "summary": "An hour of debate with Miatta Fahnbulleh, Julia Lopez, Suella Braverman and Oli Dugmore."
+      },
       {
         "title": "First minister told Burnham 'do not undermine Wales'",
         "url": "https://www.bbc.co.uk/news/videos/c6gqw28kvd5ko?at_medium=RSS&at_campaign=rss",
