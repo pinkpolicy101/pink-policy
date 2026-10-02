@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-02T14:31:12.039136Z",
+  "generated_at": "2026-10-02T14:57:21.137848Z",
   "articles": {
     "world": [
+      {
+        "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal with Scotland",
+        "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T14:45:04Z",
+        "summary": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay."
+      },
+      {
+        "title": "Greens can move Labour in the right direction, says Polanski",
+        "url": "https://www.bbc.co.uk/news/articles/cmx239469krpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T14:34:55Z",
+        "summary": "The Green leader tells his autumn conference that a vote for his party can force changes from Andy Burnham."
+      },
       {
         "title": "Tories aim to be election-ready ahead of party conference",
         "url": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T17:11:08Z",
         "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago."
-      },
-      {
-        "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
-        "url": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T16:14:23Z",
-        "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money."
-      },
-      {
-        "title": "Brexit referendum 'possible' in Labour election manifesto, says Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T16:06:23Z",
-        "summary": "The PM says a referendum wouldn't be the right thing now but the UK needs to consider its options for the future."
       }
     ],
     "saudi": [
@@ -256,6 +256,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Greens can move Labour in the right direction, says Polanski",
+        "url": "https://www.bbc.co.uk/news/articles/cmx239469krpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T14:34:55Z",
+        "summary": "The Green leader tells his autumn conference that a vote for his party can force changes from Andy Burnham."
+      },
       {
         "title": "Tories aim to be election-ready ahead of party conference",
         "url": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
