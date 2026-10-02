@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-02T03:28:34.926357Z",
+  "generated_at": "2026-10-02T03:54:54.044644Z",
   "articles": {
     "world": [
+      {
+        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T03:09:13Z",
+        "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\"."
+      },
       {
         "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
         "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T00:50:49Z",
         "summary": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches."
+      },
+      {
+        "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
+        "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T23:46:12Z",
+        "summary": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing."
       },
       {
         "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
@@ -105,12 +117,6 @@
         "summary": "An parliamentary committee has published a new report as debate about the BBC's future continues."
       },
       {
-        "title": "Rosenberg: Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T23:10:06Z",
-        "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing."
-      },
-      {
         "title": "Vape tax comes into effect - but prices won't rise yet",
         "url": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T23:02:11Z",
@@ -169,12 +175,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cky9z7z53n2yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T12:59:05Z",
         "summary": "John Swinney had referred to Andy Burnham as the \"last prime minister\"."
-      },
-      {
-        "title": "Luxury prison in Indonesia demolished after public outcry",
-        "url": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T10:41:03Z",
-        "summary": "Indonesian lawmakers on Wednesday ordered the demolition of a controversial luxury compound inside a penitentiary near the capital."
       },
       {
         "title": "Burnham to fight next election on pledge to change voting system",
@@ -268,6 +268,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T03:09:13Z",
+        "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\"."
+      },
+      {
+        "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
+        "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T23:46:12Z",
+        "summary": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing."
+      },
       {
         "title": "Why Andy Burnham's about-turn on Manchester City matters",
         "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
