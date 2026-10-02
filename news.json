@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-02T04:55:00.477615Z",
+  "generated_at": "2026-10-02T05:27:40.868516Z",
   "articles": {
     "world": [
+      {
+        "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T05:26:06Z",
+        "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
+      },
+      {
+        "title": "How Gen Z TikToks are shaping Kenyan politics",
+        "url": "https://www.bbc.co.uk/news/videos/c9lykydmjlxro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T05:17:02Z",
+        "summary": "How Gen Z TikToks are shaping Kenyan politics."
+      },
       {
         "title": "Move to stop charges for parents to sit by children on flights",
         "url": "https://www.bbc.co.uk/news/articles/c3n070vxkjl9o?at_medium=RSS&at_campaign=rss",
@@ -31,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T22:22:43Z",
         "summary": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes."
-      },
-      {
-        "title": "US pressures Europe over diesel reserves as Trump threatens export ban",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T22:21:16Z",
-        "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
       },
       {
         "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T14:36:45Z",
         "summary": "A typical household faces an annual gas and electricity bill of \u00a31,999 from January, based on a key forecast."
-      },
-      {
-        "title": "Burnham rejects Swinney's prediction that he will be 'last prime minister'",
-        "url": "https://www.bbc.co.uk/news/videos/cky9z7z53n2yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T12:59:05Z",
-        "summary": "John Swinney had referred to Andy Burnham as the \"last prime minister\"."
       }
     ],
     "saudi": [
@@ -268,6 +268,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "How Gen Z TikToks are shaping Kenyan politics",
+        "url": "https://www.bbc.co.uk/news/videos/c9lykydmjlxro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T05:17:02Z",
+        "summary": "How Gen Z TikToks are shaping Kenyan politics."
+      },
       {
         "title": "Move to stop charges for parents to sit by children on flights",
         "url": "https://www.bbc.co.uk/news/articles/c3n070vxkjl9o?at_medium=RSS&at_campaign=rss",
