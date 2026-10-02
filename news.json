@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T02:54:14.750917Z",
+  "generated_at": "2026-10-02T03:28:34.926357Z",
   "articles": {
     "world": [
       {
@@ -13,6 +13,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T22:22:43Z",
         "summary": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football, the BBC's political editor writes."
+      },
+      {
+        "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T22:21:16Z",
+        "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
       },
       {
         "title": "Netanyahu says Flydubai attacker had 'Islamist radical indoctrination'",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T09:45:32Z",
         "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform."
-      },
-      {
-        "title": "Tories would keep the triple lock as it is, says party chairman",
-        "url": "https://www.bbc.co.uk/news/videos/c6x2z0jgg34po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T07:37:41Z",
-        "summary": "The triple lock, which was introduced but the Conservative-Lib Dem coalition in 2011, ensures state pensions rise by whichever is highest out of average earnings growth, consumer price index (CPI) inflation or 2.5%."
       }
     ],
     "saudi": [
@@ -273,6 +273,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c5kg0gwwpyx8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T22:22:43Z",
         "summary": "The prime minister's comments on Man City were revealing on several levels - and leapt on by many in football."
+      },
+      {
+        "title": "US says Europe should ready fuel supplies as Trump threatens diesel ban",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-01T22:21:16Z",
+        "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
       },
       {
         "title": "PM warned Rosebank oil field could breach West Bank sanctions",
