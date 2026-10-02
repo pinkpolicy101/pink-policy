@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-02T18:32:05.965221Z",
+  "generated_at": "2026-10-02T18:56:19.041178Z",
   "articles": {
     "world": [
+      {
+        "title": "Widdecombe suspect charged with planning terror act against Farage",
+        "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T18:46:36Z",
+        "summary": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\"."
+      },
+      {
+        "title": "Polanski calls for three-year cap on rents",
+        "url": "https://www.bbc.co.uk/news/videos/cqlyeg7rx4rjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T18:43:30Z",
+        "summary": "Polanski says we need to tackle the \"scandalous cost of private rents\" as he speaks at the Green conference."
+      },
       {
         "title": "Greens can move Labour in the right direction, says Polanski",
         "url": "https://www.bbc.co.uk/news/articles/cmx239469krpo?at_medium=RSS&at_campaign=rss",
@@ -37,12 +49,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T14:09:25Z",
         "summary": "The party will focus on the economy and welfare, as Kemi Badenoch tells her team to prepare for a possible early election."
-      },
-      {
-        "title": "Polanski calls for 'national fair rent guarantee'",
-        "url": "https://www.bbc.co.uk/news/videos/cqlyeg7rx4rjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T13:33:57Z",
-        "summary": "Polanski says we need to tackle the \"scandalous cost of private rents\"."
       },
       {
         "title": "School protests send shivers down French government's spine",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/ckz6zq6gjpvgo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T17:24:30Z",
         "summary": "The Prime Minister has responded following the recent Manchester City charges."
-      },
-      {
-        "title": "Grooming gangs inquiry expanded to Birmingham and Wales",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2zr39l716o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T17:15:54Z",
-        "summary": "Targeted investigations will be carried out as part of a national inquiry into child sexual abuse."
       }
     ],
     "saudi": [
@@ -256,6 +256,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Widdecombe suspect charged with planning terror act against Farage",
+        "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T18:46:36Z",
+        "summary": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\"."
+      },
       {
         "title": "Is UK politics 'boomer-centric'?",
         "url": "https://www.bbc.co.uk/news/videos/c9n73ly655ero?at_medium=RSS&at_campaign=rss",
