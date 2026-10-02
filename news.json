@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-02T07:29:53.149401Z",
+  "generated_at": "2026-10-02T07:55:13.313039Z",
   "articles": {
     "world": [
+      {
+        "title": "I wasn't going to let others die, says Indian pilot who opened cockpit door during attack",
+        "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T07:42:09Z",
+        "summary": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi."
+      },
+      {
+        "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T07:31:52Z",
+        "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
+      },
       {
         "title": "Greens take aim at landlord 'super earners'",
         "url": "https://www.bbc.co.uk/news/videos/crje8eq3xvjyo?at_medium=RSS&at_campaign=rss",
@@ -19,12 +31,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c3n070vxkjl9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T07:00:57Z",
         "summary": "The government says sitting together can currently cost a parent and child up to \u00a3104 on a return journey."
-      },
-      {
-        "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T06:59:30Z",
-        "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
       },
       {
         "title": "First minister demands 'new deal' for Wales before Plaid Cymru conference",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c64gvnv4eqylo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T17:11:08Z",
         "summary": "Some 1,500 people have been removed to France since the scheme began just over a year ago."
-      },
-      {
-        "title": "Could changing the pension triple lock pay for Burnham's big social care plan?",
-        "url": "https://www.bbc.co.uk/news/articles/c63reg9dnex9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T16:14:23Z",
-        "summary": "Burnham said he wants to change the pensions triple lock from 2030 to pay for his social care reform, but analysts have questioned whether it will raise enough money."
       }
     ],
     "saudi": [
@@ -268,6 +268,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "I wasn't going to let others die, says Indian pilot who opened cockpit door during attack",
+        "url": "https://www.bbc.co.uk/news/articles/c639m98gde00o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T07:42:09Z",
+        "summary": "Capt Smit Machchhar, who was stabbed during the flight, speaks to Indian Prime Minister Narendra Modi."
+      },
       {
         "title": "Greens take aim at landlord 'super earners'",
         "url": "https://www.bbc.co.uk/news/videos/crje8eq3xvjyo?at_medium=RSS&at_campaign=rss",
