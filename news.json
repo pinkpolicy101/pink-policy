@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-02T13:56:22.938972Z",
+  "generated_at": "2026-10-02T14:31:12.039136Z",
   "articles": {
     "world": [
+      {
+        "title": "Tories aim to be election-ready ahead of party conference",
+        "url": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T14:09:25Z",
+        "summary": "The party will focus on the economy and welfare, as Kemi Badenoch tells her team to prepare for a possible early election."
+      },
       {
         "title": "Polanski calls for 'national fair rent guarantee'",
         "url": "https://www.bbc.co.uk/news/videos/cqlyeg7rx4rjo?at_medium=RSS&at_campaign=rss",
@@ -13,12 +19,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c69wzjjxex8po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T12:43:02Z",
         "summary": "A movement that started nearly two weeks ago has spread, and in France young people on the streets spells trouble, writes Hugh Schofield."
-      },
-      {
-        "title": "First minister demands 'new deal' for Wales, before Plaid Cymru conference",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T11:23:22Z",
-        "summary": "Rhun ap Iorwerth will address members at Plaid's first conference since winning the Senedd election."
       },
       {
         "title": "'I was not going to let others die' - pilot of Flydubai flight describes cockpit attack by co-pilot",
@@ -205,9 +205,9 @@
     ],
     "us": [
       {
-        "title": "US jobs market sees sharp slowdown in September",
+        "title": "US jobs market sees sharp slowdown ahead of midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T13:28:15Z",
+        "published_at": "2026-10-02T14:30:48Z",
         "summary": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away."
       },
       {
@@ -256,6 +256,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Tories aim to be election-ready ahead of party conference",
+        "url": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T14:09:25Z",
+        "summary": "The party will focus on the economy and welfare, as Kemi Badenoch tells her team to prepare for a possible early election."
+      },
       {
         "title": "Polanski calls for 'national fair rent guarantee'",
         "url": "https://www.bbc.co.uk/news/videos/cqlyeg7rx4rjo?at_medium=RSS&at_campaign=rss",
