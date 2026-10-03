@@ -1,7 +1,37 @@
 {
-  "generated_at": "2026-10-03T11:10:46.408795Z",
+  "generated_at": "2026-10-03T14:35:31.580849Z",
   "articles": {
     "world": [
+      {
+        "title": "Tories pledge to build 50,000 new prison places",
+        "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T14:17:52Z",
+        "summary": "The party says its proposals would stop prisoners being released early and cut crime."
+      },
+      {
+        "title": "Why has Brazil accused the US of election interference?",
+        "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T13:52:13Z",
+        "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington."
+      },
+      {
+        "title": "Protesters across Spain demand action over housing crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T13:34:11Z",
+        "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament."
+      },
+      {
+        "title": "Greens would offer two-year jobs to unemployed under-24s",
+        "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T12:51:14Z",
+        "summary": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\"."
+      },
+      {
+        "title": "Will Spain's housing crisis lead to a snap election?",
+        "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T12:26:30Z",
+        "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis."
+      },
       {
         "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
         "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
@@ -19,12 +49,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmx239469krpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T07:08:35Z",
         "summary": "The Green leader tells his autumn conference that a vote for his party can force changes from Andy Burnham."
-      },
-      {
-        "title": "Tories pledge to build 50,000 new prison places",
-        "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T06:56:19Z",
-        "summary": "The party says its proposals would stop prisoners being released early and cut crime."
       },
       {
         "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
@@ -49,12 +73,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T15:40:31Z",
         "summary": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay."
-      },
-      {
-        "title": "Spanish PM S\u00e1nchez loses key housing crisis vote after eviction of woman, 87",
-        "url": "https://www.bbc.co.uk/news/articles/c623dlk4y75mo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T15:30:12Z",
-        "summary": "The defeat raises pressure on S\u00e1nchez to call a snap election, after a series of scandals affecting his party and allies."
       },
       {
         "title": "First minister told Burnham 'do not undermine Wales'",
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T02:57:43Z",
         "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population."
-      },
-      {
-        "title": "MPs recommend BBC charter renewal is scrapped and licence fee is extended beyond TV",
-        "url": "https://www.bbc.co.uk/news/articles/cr89j4g7v05wo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T00:20:51Z",
-        "summary": "An parliamentary committee has published a new report as debate about the BBC's future continues."
-      },
-      {
-        "title": "Vape tax comes into effect - but prices won't rise yet",
-        "url": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T23:02:11Z",
-        "summary": "Vaping is about to becoming more expensive due to a new tax on products."
-      },
-      {
-        "title": "UK believes Iran involved in RAF Fairford incident, Burnham says",
-        "url": "https://www.bbc.co.uk/news/articles/cjwyz59k5y75o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T21:26:59Z",
-        "summary": "Iran's foreign minister has responded, saying the PM was \"barking up the wrong tree\"."
       }
     ],
     "saudi": [
@@ -204,6 +204,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Why has Brazil accused the US of election interference?",
+        "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T13:52:13Z",
+        "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington."
+      },
       {
         "title": "Ex-US congressman sentenced to 10 years in prison for $50m lobbying scheme",
         "url": "https://www.bbc.co.uk/news/articles/crz98wnx4n1wo?at_medium=RSS&at_campaign=rss",
@@ -256,6 +262,30 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Why has Brazil accused the US of election interference?",
+        "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T13:52:13Z",
+        "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington."
+      },
+      {
+        "title": "Protesters across Spain demand action over housing crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T13:34:11Z",
+        "summary": "More than 50 protests are taking place on Saturday after the government failed to get emergency legislation through parliament."
+      },
+      {
+        "title": "Greens would offer two-year jobs to unemployed under-24s",
+        "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T12:51:14Z",
+        "summary": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\"."
+      },
+      {
+        "title": "Will Spain's housing crisis lead to a snap election?",
+        "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T12:26:30Z",
+        "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis."
+      },
       {
         "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
         "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
@@ -1106,6 +1136,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Why has Brazil accused the US of election interference?",
+        "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T13:52:13Z",
+        "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington."
+      },
       {
         "title": "Ex-US congressman sentenced to 10 years in prison for $50m lobbying scheme",
         "url": "https://www.bbc.co.uk/news/articles/crz98wnx4n1wo?at_medium=RSS&at_campaign=rss",
