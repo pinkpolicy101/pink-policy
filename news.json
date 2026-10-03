@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-02T23:52:00.239872Z",
+  "generated_at": "2026-10-03T00:33:42.781146Z",
   "articles": {
     "world": [
+      {
+        "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+        "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T23:06:00Z",
+        "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\"."
+      },
       {
         "title": "Widdecombe suspect charged with planning terror act against Farage",
         "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
@@ -91,12 +97,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T00:50:49Z",
         "summary": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches."
-      },
-      {
-        "title": "Making politics 'fun, trendy, sexy': How Gen Z could shape Kenya's next election",
-        "url": "https://www.bbc.co.uk/news/articles/cwly7v7kk17mo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T23:46:12Z",
-        "summary": "A voter mobilisation campaign has registered huge numbers of young people but it is not clear who they are backing."
       },
       {
         "title": "Chris Mason: Why Andy Burnham's about-turn on Manchester City matters",
@@ -262,6 +262,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "US road rage killer's sentence quashed because AI video of victim was shown in court",
+        "url": "https://www.bbc.co.uk/news/articles/cwgkvygg5nzvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T23:06:00Z",
+        "summary": "The Arizona appeals court ruled that airing an AI message from the dead victim \"crossed that line\"."
+      },
       {
         "title": "Tories promise to build 50,000 new prison places",
         "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
