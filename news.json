@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T02:16:23.089949Z",
+  "generated_at": "2026-10-04T04:09:00.987490Z",
   "articles": {
     "world": [
       {
         "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
         "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T02:04:11Z",
+        "published_at": "2026-10-04T03:42:15Z",
         "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament."
       },
       {
@@ -27,7 +27,7 @@
         "summary": "The Conservative leader says she would scrap the \u201ccliff edge\u201d cap on childcare in an interview with Laura Kuenssberg."
       },
       {
-        "title": "Tories pledge to scrap \u00a3100,000 childcare 'cliff edge'",
+        "title": "Tories pledge to remove \u00a3100,000 childcare 'cliff edge'",
         "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T21:03:22Z",
         "summary": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so."
@@ -204,6 +204,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Debris found from plane that went missing off US coast",
+        "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T03:49:06Z",
+        "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
+      },
       {
         "title": "Why has Brazil accused the US of election interference?",
         "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
@@ -1166,6 +1172,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Debris found from plane that went missing off US coast",
+        "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T03:49:06Z",
+        "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
+      },
       {
         "title": "Why has Brazil accused the US of election interference?",
         "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
