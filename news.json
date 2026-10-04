@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-04T21:21:02.547490Z",
+  "generated_at": "2026-10-04T21:56:21.438904Z",
   "articles": {
     "world": [
+      {
+        "title": "Polls close in Brazil as Lula and Fl\u00e1vio Bolsonaro remain neck and neck",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T21:11:49Z",
+        "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October."
+      },
       {
         "title": "Green Party members back 'Zionism is racism' motion",
         "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T14:09:25Z",
         "summary": "The party will focus on the economy and welfare, as Kemi Badenoch tells her team to prepare for a possible early election."
-      },
-      {
-        "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
-        "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T00:50:49Z",
-        "summary": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches."
       }
     ],
     "saudi": [
@@ -198,6 +198,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US removes all bombers from UK air base",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T21:47:58Z",
+        "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US."
+      },
       {
         "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
         "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
@@ -262,6 +268,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Polls close in Brazil as Lula and Fl\u00e1vio Bolsonaro remain neck and neck",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T21:11:49Z",
+        "summary": "If no candidate gets more than 50% of the vote, the election will go to a run-off on 25 October."
+      },
       {
         "title": "Green Party members back 'Zionism is racism' motion",
         "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
@@ -1244,6 +1256,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US removes all bombers from UK air base",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T21:47:58Z",
+        "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US."
+      },
       {
         "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
         "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
