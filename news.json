@@ -1,15 +1,21 @@
 {
-  "generated_at": "2026-10-04T18:22:35.740808Z",
+  "generated_at": "2026-10-04T21:21:02.547490Z",
   "articles": {
     "world": [
       {
         "title": "Green Party members back 'Zionism is racism' motion",
         "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T18:08:52Z",
+        "published_at": "2026-10-04T20:51:36Z",
         "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton."
       },
       {
-        "title": "Indian police accused of sexual harassment against journalists at protest",
+        "title": "What to know about Brazil's election as Lula and Fl\u00e1vio Bolsonaro face off",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T20:14:49Z",
+        "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival."
+      },
+      {
+        "title": "Indian police accused of sexually harassing journalists at protest",
         "url": "https://www.bbc.co.uk/news/articles/c9e8lvm6nrr3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T17:01:19Z",
         "summary": "The allegations were made after police detained dozens of protesters demanding the resignation of the election chief over changes to voter rolls."
@@ -67,12 +73,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T11:04:47Z",
         "summary": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\"."
-      },
-      {
-        "title": "What to know about Brazil's election pitting Lula against Fl\u00e1vio Bolsonaro",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T11:03:20Z",
-        "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival."
       },
       {
         "title": "Badenoch says Tory policy is to keep pension triple lock",
@@ -199,6 +199,18 @@
     ],
     "us": [
       {
+        "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
+        "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T18:25:50Z",
+        "summary": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire."
+      },
+      {
+        "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+        "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T14:36:57Z",
+        "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action."
+      },
+      {
         "title": "Debris found from plane that went missing off US coast",
         "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T03:49:06Z",
@@ -233,12 +245,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T08:54:00Z",
         "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
-      },
-      {
-        "title": "Trump says 'some' munitions are low as Iran war grinds on",
-        "url": "https://www.bbc.co.uk/news/articles/cm4gjgzjrvp5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T16:02:07Z",
-        "summary": "He also said in an interview with Time magazine that it was possible the US could ramp up strikes on Iran after November's elections."
       },
       {
         "title": "Three takeaways from Trump's 'Super Intelligence' summit",
@@ -1238,6 +1244,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
+        "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T18:25:50Z",
+        "summary": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire."
+      },
+      {
+        "title": "US Marine arrested over murder of woman in Okinawa, Japan",
+        "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T14:36:57Z",
+        "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action."
+      },
       {
         "title": "Debris found from plane that went missing off US coast",
         "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
