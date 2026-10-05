@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-05T14:34:10.442272Z",
+  "generated_at": "2026-10-05T14:58:29.493377Z",
   "articles": {
     "world": [
+      {
+        "title": "Artist 'taking legal advice' over Tories' use of Andy Burnham portrait",
+        "url": "https://www.bbc.co.uk/news/articles/cj62yg157prxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T14:53:32Z",
+        "summary": "Manchester illustrator Stan Chow says he was not asked permission for use of his cartoon."
+      },
+      {
+        "title": "Tensions exposed among Greens by 'Zionism is racism' conference vote",
+        "url": "https://www.bbc.co.uk/news/articles/cjr4yx9663q6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T14:40:20Z",
+        "summary": "What may be troubling for the Greens institutionally is what this episode reveals about some of the dynamics in the party."
+      },
+      {
+        "title": "Did eviction of an 87-year-old trigger snap election in Spain?",
+        "url": "https://www.bbc.co.uk/news/videos/ck054grg30mdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T14:36:27Z",
+        "summary": "Spanish Prime Minister Pedro S\u00e1nchez has called an early election for 29 November after recent defeats on legislation aimed at addressing the country's housing crisis."
+      },
       {
         "title": "What is the Green Party's 'Zionism is racism' motion?",
         "url": "https://www.bbc.co.uk/news/videos/cke8r159n0d0o?at_medium=RSS&at_campaign=rss",
@@ -13,12 +31,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T13:16:00Z",
         "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
-      },
-      {
-        "title": "Artist 'taking legal advice' over Tories' use of Andy Burnham portrait",
-        "url": "https://www.bbc.co.uk/news/articles/cj62yg157prxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T13:09:37Z",
-        "summary": "Manchester illustrator Stan Chow says he was not asked permission for use of his cartoon."
       },
       {
         "title": "Jewish Greens chair says she could leave party over 'Zionism is racism' motion",
@@ -106,7 +118,7 @@
       },
       {
         "title": "Currently",
-        "url": "https://www.bbc.co.uk/sounds/play/m0032f96?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T13:00:00Z",
         "summary": "What if you could map the outcome of an election before a single vote was cast?"
       },
@@ -141,12 +153,6 @@
         "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada."
       },
       {
-        "title": "People shouldn't be punished for working harder, Badenoch says",
-        "url": "https://www.bbc.co.uk/news/videos/cwp8g1l5dlgno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T21:16:55Z",
-        "summary": "The Conservative leader says she would scrap the \u201ccliff edge\u201d cap on childcare in an interview with Laura Kuenssberg."
-      },
-      {
         "title": "Greens would offer two-year jobs to unemployed under-24s",
         "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T17:08:40Z",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmx239469krpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T07:08:35Z",
         "summary": "The Green leader tells his autumn conference that a vote for his party can force changes from Andy Burnham."
-      },
-      {
-        "title": "First minister demands 'new deal' from Andy Burnham to make Wales equal to Scotland",
-        "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T15:40:31Z",
-        "summary": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay."
       }
     ],
     "saudi": [
@@ -262,6 +262,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Tensions exposed among Greens by 'Zionism is racism' conference vote",
+        "url": "https://www.bbc.co.uk/news/articles/cjr4yx9663q6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T14:40:20Z",
+        "summary": "What may be troubling for the Greens institutionally is what this episode reveals about some of the dynamics in the party."
+      },
+      {
+        "title": "Did eviction of an 87-year-old trigger snap election in Spain?",
+        "url": "https://www.bbc.co.uk/news/videos/ck054grg30mdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T14:36:27Z",
+        "summary": "Spanish Prime Minister Pedro S\u00e1nchez has called an early election for 29 November after recent defeats on legislation aimed at addressing the country's housing crisis."
+      },
       {
         "title": "What is the Green Party's 'Zionism is racism' motion?",
         "url": "https://www.bbc.co.uk/news/videos/cke8r159n0d0o?at_medium=RSS&at_campaign=rss",
@@ -391,6 +403,12 @@
       {
         "title": "Currently",
         "url": "https://www.bbc.co.uk/sounds/play/m0032f96?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T13:00:00Z",
+        "summary": "What if you could map the outcome of an election before a single vote was cast?"
+      },
+      {
+        "title": "Currently",
+        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T13:00:00Z",
         "summary": "What if you could map the outcome of an election before a single vote was cast?"
       },
