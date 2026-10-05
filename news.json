@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-05T05:33:21.967359Z",
+  "generated_at": "2026-10-05T05:56:48.940988Z",
   "articles": {
     "world": [
+      {
+        "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
+        "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T05:35:36Z",
+        "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton."
+      },
+      {
+        "title": "'Don't axe Youth Parliament' pleads teen member",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglm3381p1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T05:27:55Z",
+        "summary": "The government plans to no longer fund the scheme launched to get young people into politics."
+      },
       {
         "title": "Watch: How Brazil's dramatic election unfolded",
         "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
@@ -27,10 +39,10 @@
         "summary": "With neither candidate getting more than 50% of the vote, the election will go to a run-off on 25 October."
       },
       {
-        "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T20:51:36Z",
-        "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton."
+        "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
+        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T21:35:30Z",
+        "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham."
       },
       {
         "title": "Indian police accused of sexually harassing journalists at protest",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T15:40:31Z",
         "summary": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay."
-      },
-      {
-        "title": "Tories aim to be election-ready ahead of party conference",
-        "url": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T14:09:25Z",
-        "summary": "The party will focus on the economy and welfare, as Kemi Badenoch tells her team to prepare for a possible early election."
-      },
-      {
-        "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
-        "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T00:50:49Z",
-        "summary": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches."
       }
     ],
     "saudi": [
@@ -269,6 +269,12 @@
   "archive": {
     "world": [
       {
+        "title": "'Don't axe Youth Parliament' pleads teen member",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglm3381p1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T05:27:55Z",
+        "summary": "The government plans to no longer fund the scheme launched to get young people into politics."
+      },
+      {
         "title": "Watch: How Brazil's dramatic election unfolded",
         "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T04:51:24Z",
@@ -285,6 +291,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T03:37:41Z",
         "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow."
+      },
+      {
+        "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
+        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T21:35:30Z",
+        "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham."
       },
       {
         "title": "Polls close in Brazil as Lula and Fl\u00e1vio Bolsonaro remain neck and neck",
