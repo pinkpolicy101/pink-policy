@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T15:32:15.871189Z",
+  "generated_at": "2026-10-05T15:57:22.120468Z",
   "articles": {
     "world": [
       {
@@ -9,10 +9,22 @@
         "summary": "How would young Tories vote if the Conservative Party didn't exist?"
       },
       {
+        "title": "Ex-Manchester leader defends deals with Man City owners",
+        "url": "https://www.bbc.co.uk/news/articles/c9gkv7pdd620o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T15:25:06Z",
+        "summary": "Veteran former council leader Sir Richard Leese says the relationship has been beneficial to the city."
+      },
+      {
         "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
         "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T15:23:58Z",
         "summary": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle."
+      },
+      {
+        "title": "Would the Conservatives' plan make new houses \u00a350,000 cheaper?",
+        "url": "https://www.bbc.co.uk/news/articles/c32l4n8yprglo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T15:19:46Z",
+        "summary": "BBC Verify looks into the shadow chancellor's plan to cut some building regulations to reduce construction costs."
       },
       {
         "title": "Artist 'taking legal advice' over Tories' use of Andy Burnham portrait",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T14:17:52Z",
         "summary": "The party says its proposals would stop prisoners being released early and cut crime."
-      },
-      {
-        "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T10:27:57Z",
-        "summary": "The Conservative leader is expected to set out a return to core conservative principles at the party\u2019s annual conference."
-      },
-      {
-        "title": "Widdecombe suspect charged with planning terror act against Farage",
-        "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T08:44:29Z",
-        "summary": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\"."
       }
     ],
     "saudi": [
@@ -269,10 +269,22 @@
         "summary": "How would young Tories vote if the Conservative Party didn't exist?"
       },
       {
+        "title": "Ex-Manchester leader defends deals with Man City owners",
+        "url": "https://www.bbc.co.uk/news/articles/c9gkv7pdd620o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T15:25:06Z",
+        "summary": "Veteran former council leader Sir Richard Leese says the relationship has been beneficial to the city."
+      },
+      {
         "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
         "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T15:23:58Z",
         "summary": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle."
+      },
+      {
+        "title": "Would the Conservatives' plan make new houses \u00a350,000 cheaper?",
+        "url": "https://www.bbc.co.uk/news/articles/c32l4n8yprglo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T15:19:46Z",
+        "summary": "BBC Verify looks into the shadow chancellor's plan to cut some building regulations to reduce construction costs."
       },
       {
         "title": "Tensions exposed among Greens by 'Zionism is racism' conference vote",
