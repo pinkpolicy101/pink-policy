@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-05T04:31:34.730481Z",
+  "generated_at": "2026-10-05T05:13:29.239095Z",
   "articles": {
     "world": [
+      {
+        "title": "Watch: How Brazil's dramatic election unfolded",
+        "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T04:51:24Z",
+        "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
+      },
+      {
+        "title": "France closes up to 500 schools Monday over student protests",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T04:49:14Z",
+        "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says."
+      },
+      {
+        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T03:37:41Z",
+        "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow."
+      },
       {
         "title": "Brazil election goes to run-off as right-wing Fl\u00e1vio Bolsonaro wins first round",
         "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
@@ -13,12 +31,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T20:51:36Z",
         "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton."
-      },
-      {
-        "title": "What to know about Brazil's election as Lula and Fl\u00e1vio Bolsonaro face off",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyz0r2n0djo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T20:14:49Z",
-        "summary": "Polls suggest the election will be a closely run contest between the left-wing incumbent and his right-wing rival."
       },
       {
         "title": "Indian police accused of sexually harassing journalists at protest",
@@ -43,12 +55,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwjdmkgemmd4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T15:23:36Z",
         "summary": "Darren Millar says Rhun ap Iorwerth has failed to improve public services or help Welsh businesses."
-      },
-      {
-        "title": "US Marine arrested over murder of woman in Japan's Okinawa",
-        "url": "https://www.bbc.co.uk/news/articles/cme3xw4yy28do?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T14:36:57Z",
-        "summary": "Japan's government lodged a formal protest with the US, demanding that military officials take action."
       },
       {
         "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
@@ -85,18 +91,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cmed3094q7qqo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T09:01:34Z",
         "summary": "The Conservative Party leader speaks to the BBC's Laura Kuenssberg as the Tories launch their party conference in Birmingham."
-      },
-      {
-        "title": "'Anger in the streets': Tens of thousands protest in Spain over housing crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kej47095no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T03:42:15Z",
-        "summary": "More than 50 protests took place on Saturday after the government failed to get emergency legislation through parliament."
-      },
-      {
-        "title": "Cornell president says university 'must do better' after frat house rape allegations",
-        "url": "https://www.bbc.co.uk/news/articles/ckly0leelnz4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T00:11:25Z",
-        "summary": "Michael Kotlikoff described the allegations of a woman who says she was drugged and gang raped as \"deeply disturbing\"."
       },
       {
         "title": "Why Canada is wargaming a (long shot) US invasion",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T14:09:25Z",
         "summary": "The party will focus on the economy and welfare, as Kemi Badenoch tells her team to prepare for a possible early election."
+      },
+      {
+        "title": "Man City not 'above the rules', says No 10 after backlash to Burnham remarks",
+        "url": "https://www.bbc.co.uk/news/articles/cj3v4vn3ydw1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-02T00:50:49Z",
+        "summary": "The prime minister said he would be \"really concerned\" if the club's owners sell up after Premier League rule breaches."
       }
     ],
     "saudi": [
@@ -199,16 +199,16 @@
     ],
     "us": [
       {
+        "title": "US removes all bombers from UK air base",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T04:58:56Z",
+        "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US."
+      },
+      {
         "title": "Rescuers suspend search for survivors after plane went missing off US coast",
         "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T23:29:18Z",
         "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
-      },
-      {
-        "title": "US removes all bombers from UK air base",
-        "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T21:57:32Z",
-        "summary": "A statement says all bombers deployed to RAF Fairford have been \"re-deployed to their home stations\" in the US."
       },
       {
         "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
@@ -268,6 +268,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Watch: How Brazil's dramatic election unfolded",
+        "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T04:51:24Z",
+        "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
+      },
+      {
+        "title": "France closes up to 500 schools Monday over student protests",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T04:49:14Z",
+        "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says."
+      },
+      {
+        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T03:37:41Z",
+        "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow."
+      },
       {
         "title": "Polls close in Brazil as Lula and Fl\u00e1vio Bolsonaro remain neck and neck",
         "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
