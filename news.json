@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-05T11:56:18.366957Z",
+  "generated_at": "2026-10-05T12:36:16.344419Z",
   "articles": {
     "world": [
+      {
+        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T12:21:32Z",
+        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
+      },
+      {
+        "title": "Jewish Greens chair says she could leave party over 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1dxe50nyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T11:23:02Z",
+        "summary": "The motion, which has divided senior party figures, backs a \"single democratic Palestinian state in all of historic Palestine\"."
+      },
       {
         "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
         "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
@@ -33,12 +45,6 @@
         "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city."
       },
       {
-        "title": "Polanski banned from Israel after party's motion declaring 'Zionism is racism'",
-        "url": "https://www.bbc.co.uk/news/articles/c6jdm5n1vy7go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T05:35:36Z",
-        "summary": "The vote has caused divisions among figures at the top of the party at its conference in Brighton."
-      },
-      {
         "title": "'Don't axe Youth Parliament' pleads teen member",
         "url": "https://www.bbc.co.uk/news/articles/c6kglm3381p1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T05:27:55Z",
@@ -49,12 +55,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T04:51:24Z",
         "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
-      },
-      {
-        "title": "France closes up to 500 schools Monday over student protests",
-        "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T04:49:14Z",
-        "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says."
       },
       {
         "title": "Right-wing Fl\u00e1vio Bolsonaro wins first round of Brazil election",
@@ -205,10 +205,10 @@
     ],
     "us": [
       {
-        "title": "US removes all bombers from RAF Fairford base",
-        "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T10:39:09Z",
-        "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase."
+        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T12:21:32Z",
+        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
       },
       {
         "title": "Trump chooses top spy boss to run new AI taskforce",
@@ -262,6 +262,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T12:21:32Z",
+        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
+      },
+      {
+        "title": "Jewish Greens chair says she could leave party over 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1dxe50nyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T11:23:02Z",
+        "summary": "The motion, which has divided senior party figures, backs a \"single democratic Palestinian state in all of historic Palestine\"."
+      },
       {
         "title": "Spanish PM S\u00e1nchez calls early election after housing protests",
         "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
@@ -1310,6 +1322,12 @@
       }
     ],
     "us": [
+      {
+        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T12:21:32Z",
+        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
+      },
       {
         "title": "Trump chooses top spy boss to run new AI taskforce",
         "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
