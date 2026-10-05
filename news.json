@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-05T18:34:21.106450Z",
+  "generated_at": "2026-10-05T21:31:42.000443Z",
   "articles": {
     "world": [
+      {
+        "title": "Spain PM pins hopes on housing crisis to help win snap election",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T19:30:50Z",
+        "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro S\u00e1nchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid."
+      },
       {
         "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
         "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
@@ -13,6 +19,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T17:23:28Z",
         "summary": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham."
+      },
+      {
+        "title": "First minister rejects call to resign over Drumcree row",
+        "url": "https://www.bbc.co.uk/news/articles/cm70pwp8kw6po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T16:28:28Z",
+        "summary": "Facing questions in the Stormont assembly, O'Neill said she was \"proud\" to stand with the residents and \"will continue to stand with them\"."
       },
       {
         "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
@@ -67,18 +79,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm4g1dxe50nyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T11:23:02Z",
         "summary": "The motion, which has divided senior party figures, backs a \"single democratic Palestinian state in all of historic Palestine\"."
-      },
-      {
-        "title": "Spanish PM S\u00e1nchez calls early election after housing protests",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T10:18:47Z",
-        "summary": "S\u00e1nchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis."
-      },
-      {
-        "title": "Trump chooses top spy boss to run new AI taskforce",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T10:03:38Z",
-        "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow."
       },
       {
         "title": "Watch: How Spain's housing crisis has resulted in an early general election",
@@ -211,6 +211,30 @@
     ],
     "us": [
       {
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T21:24:34Z",
+        "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
+      },
+      {
+        "title": "Former American Idol contestant sentenced to life in prison for murdering wife",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn5djx1pko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T20:30:05Z",
+        "summary": "Caleb Flynn, a former music pastor from Ohio, fatally shot his wife Ashley in February before trying to cover it up."
+      },
+      {
+        "title": "US 'watching closely' after plague researcher dies in Russia, Rubio says",
+        "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T19:55:00Z",
+        "summary": "The US says it is monitoring the case of a lab technician who died at a plague research centre in Siberia."
+      },
+      {
+        "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
+        "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T19:23:17Z",
+        "summary": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire."
+      },
+      {
         "title": "UK insists military base is safe after US withdraws bombers",
         "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T16:13:35Z",
@@ -247,22 +271,10 @@
         "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
       },
       {
-        "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
-        "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T18:25:50Z",
-        "summary": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire."
-      },
-      {
         "title": "Why has Brazil accused the US of election interference?",
         "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T13:52:13Z",
         "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington."
-      },
-      {
-        "title": "Ex-US congressman sentenced to 10 years in prison for $50m lobbying scheme",
-        "url": "https://www.bbc.co.uk/news/articles/crz98wnx4n1wo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T21:05:03Z",
-        "summary": "River's ex-housemate, Secretary of State Marco Rubio, testified he had no idea about his activities."
       },
       {
         "title": "How widely used is the death penalty in the US?",
@@ -274,6 +286,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Spain PM pins hopes on housing crisis to help win snap election",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn81qqde0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T19:30:50Z",
+        "summary": "Calling of a snap election was not a knee-jerk reaction from Pedro S\u00e1nchez but a carefully thought-out manoeuvre, Guy Hedgecoe reports from Madrid."
+      },
+      {
+        "title": "First minister rejects call to resign over Drumcree row",
+        "url": "https://www.bbc.co.uk/news/articles/cm70pwp8kw6po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T16:28:28Z",
+        "summary": "Facing questions in the Stormont assembly, O'Neill said she was \"proud\" to stand with the residents and \"will continue to stand with them\"."
+      },
       {
         "title": "How would young Tories vote if the Conservative Party didn't exist?",
         "url": "https://www.bbc.co.uk/news/videos/cr0j0w3dv890o?at_medium=RSS&at_campaign=rss",
@@ -1406,6 +1430,24 @@
       }
     ],
     "us": [
+      {
+        "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T21:24:34Z",
+        "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
+      },
+      {
+        "title": "Former American Idol contestant sentenced to life in prison for murdering wife",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn5djx1pko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T20:30:05Z",
+        "summary": "Caleb Flynn, a former music pastor from Ohio, fatally shot his wife Ashley in February before trying to cover it up."
+      },
+      {
+        "title": "US 'watching closely' after plague researcher dies in Russia, Rubio says",
+        "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T19:55:00Z",
+        "summary": "The US says it is monitoring the case of a lab technician who died at a plague research centre in Siberia."
+      },
       {
         "title": "Watch: What caused the US to remove its bombers from UK base in such a hurry?",
         "url": "https://www.bbc.co.uk/news/videos/cq99zvdk5235o?at_medium=RSS&at_campaign=rss",
