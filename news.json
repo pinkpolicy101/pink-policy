@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-05T21:55:10.855195Z",
+  "generated_at": "2026-10-05T22:26:48.385297Z",
   "articles": {
     "world": [
+      {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T21:41:53Z",
+        "summary": "His last book, Adam and Eve, is set to release this month."
+      },
       {
         "title": "I won't accept exclusion, says Polanski after criticism of Zionist motion",
         "url": "https://www.bbc.co.uk/news/articles/cjy56yxxwy3po?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T14:17:52Z",
         "summary": "The party says its proposals would stop prisoners being released early and cut crime."
-      },
-      {
-        "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T10:27:57Z",
-        "summary": "The Conservative leader is expected to set out a return to core conservative principles at the party\u2019s annual conference."
       }
     ],
     "saudi": [
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T21:41:53Z",
+        "summary": "His last book, Adam and Eve, is set to release this month."
+      },
       {
         "title": "I won't accept exclusion, says Polanski after criticism of Zionist motion",
         "url": "https://www.bbc.co.uk/news/articles/cjy56yxxwy3po?at_medium=RSS&at_campaign=rss",
