@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T23:25:03.633047Z",
+  "generated_at": "2026-10-05T23:51:40.069650Z",
   "articles": {
     "world": [
       {
@@ -13,6 +13,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cjy56yxxwy3po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T22:51:19Z",
         "summary": "Labour MPs and the European Greens have demanded clarity from the Green Party over a \"Zionism is racism\" motion."
+      },
+      {
+        "title": "Tories pledge \u00a310bn 'Britannia Shield' air defence system",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T22:39:20Z",
+        "summary": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions."
       },
       {
         "title": "Author and former politician Jeffrey Archer dies aged 86",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T17:08:40Z",
         "summary": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\"."
-      },
-      {
-        "title": "Tories pledge to build 50,000 new prison places",
-        "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T14:17:52Z",
-        "summary": "The party says its proposals would stop prisoners being released early and cut crime."
       }
     ],
     "saudi": [
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Tories pledge \u00a310bn 'Britannia Shield' air defence system",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T22:39:20Z",
+        "summary": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions."
+      },
       {
         "title": "Author and former politician Jeffrey Archer dies aged 86",
         "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
