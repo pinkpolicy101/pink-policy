@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-05T17:28:28.696249Z",
+  "generated_at": "2026-10-05T17:55:57.117360Z",
   "articles": {
     "world": [
+      {
+        "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
+        "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T17:46:59Z",
+        "summary": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle."
+      },
       {
         "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
         "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T17:23:28Z",
         "summary": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham."
-      },
-      {
-        "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
-        "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T16:33:42Z",
-        "summary": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle."
       },
       {
         "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
@@ -49,12 +49,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cjr4yx9663q6o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T14:40:20Z",
         "summary": "What may be troubling for the Greens institutionally is what this episode reveals about some of the dynamics in the party."
-      },
-      {
-        "title": "Yemeni government forces say they have 'secured' Bab al-Mandab Strait",
-        "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T14:37:17Z",
-        "summary": "Houthi-run media deny the government has made advances in the Dhubab area, which overlooks the strategic Red Sea waterway."
       },
       {
         "title": "Did eviction of an 87-year-old trigger snap election in Spain?",
@@ -112,7 +106,7 @@
       },
       {
         "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8klv?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T23:30:00Z",
         "summary": "James Copnall speaks to Olara Otunnu, veteran Ugandan diplomat, about his UN vision"
       },
@@ -181,9 +175,21 @@
         "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T10:27:57Z",
         "summary": "The Conservative leader is expected to set out a return to core conservative principles at the party\u2019s annual conference."
+      },
+      {
+        "title": "Widdecombe suspect charged with planning terror act against Farage",
+        "url": "https://www.bbc.co.uk/news/articles/cv1j3lgrl6gko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T08:44:29Z",
+        "summary": "Counter terror police say the further charge comes after a \"hugely intensive and complex investigation\"."
       }
     ],
     "saudi": [
+      {
+        "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+        "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T17:49:59Z",
+        "summary": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis."
+      },
       {
         "title": "Yemen's government announces all-out war to reclaim land from Houthis",
         "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
@@ -1350,6 +1356,12 @@
       }
     ],
     "saudi": [
+      {
+        "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+        "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T17:49:59Z",
+        "summary": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis."
+      },
       {
         "title": "Yemen's government announces all-out war to reclaim land from Houthis",
         "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
