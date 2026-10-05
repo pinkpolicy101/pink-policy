@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-05T10:56:24.888978Z",
+  "generated_at": "2026-10-05T11:30:00.395013Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T10:44:51Z",
         "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham."
+      },
+      {
+        "title": "Spanish PM S\u00e1nchez calls early election after housing protests",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T10:18:47Z",
+        "summary": "S\u00e1nchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis."
       },
       {
         "title": "Trump chooses top spy boss to run new AI taskforce",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T15:40:31Z",
         "summary": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay."
-      },
-      {
-        "title": "Tories aim to be election-ready ahead of party conference",
-        "url": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T14:09:25Z",
-        "summary": "The party will focus on the economy and welfare, as Kemi Badenoch tells her team to prepare for a possible early election."
       }
     ],
     "saudi": [
@@ -262,6 +262,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Spanish PM S\u00e1nchez calls early election after housing protests",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx39k49xw0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T10:18:47Z",
+        "summary": "S\u00e1nchez says Spain will head to the polls on 29 November after recent defeats on measures aimed at addressing the country's housing crisis."
+      },
       {
         "title": "How Spain's housing crisis has resulted in an early general election",
         "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
