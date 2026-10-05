@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-05T08:57:27.354487Z",
+  "generated_at": "2026-10-05T09:33:14.697355Z",
   "articles": {
     "world": [
+      {
+        "title": "How Spain's housing crisis has resulted in an early general election",
+        "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T09:03:30Z",
+        "summary": "his series of measures to tackle the housing crisis was defeated in parliament on Friday"
+      },
       {
         "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
         "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
@@ -153,12 +159,6 @@
         "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington."
       },
       {
-        "title": "Will Spain's housing crisis lead to a snap election?",
-        "url": "https://www.bbc.co.uk/news/videos/cmgj9vz2zxelo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T12:26:30Z",
-        "summary": "The BBC's Guy Hedgecoe is in Madrid, where a series of marches have been scheduled, after Spain's Congress rejected measures aimed at tackling the country's housing crisis."
-      },
-      {
         "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
         "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T10:27:57Z",
@@ -207,7 +207,7 @@
       {
         "title": "US removes all bombers from UK air base",
         "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T08:28:37Z",
+        "published_at": "2026-10-05T09:20:45Z",
         "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase."
       },
       {
@@ -217,9 +217,9 @@
         "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore."
       },
       {
-        "title": "Rescuers suspend search for survivors after plane went missing off US coast",
-        "url": "https://www.bbc.co.uk/news/articles/cme3x85013llo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T23:29:18Z",
+        "title": "All six passengers presumed dead after plane went missing off US coast",
+        "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T04:00:35Z",
         "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
       },
       {
@@ -274,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "How Spain's housing crisis has resulted in an early general election",
+        "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T09:03:30Z",
+        "summary": "his series of measures to tackle the housing crisis was defeated in parliament on Friday"
+      },
       {
         "title": "'Don't axe Youth Parliament' pleads teen member",
         "url": "https://www.bbc.co.uk/news/articles/c6kglm3381p1o?at_medium=RSS&at_campaign=rss",
@@ -1315,6 +1321,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T08:22:41Z",
         "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore."
+      },
+      {
+        "title": "All six passengers presumed dead after plane went missing off US coast",
+        "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T04:00:35Z",
+        "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
       },
       {
         "title": "US removes all bombers from UK air base",
