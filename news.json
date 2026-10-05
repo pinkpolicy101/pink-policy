@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-05T13:59:36.628723Z",
+  "generated_at": "2026-10-05T14:34:10.442272Z",
   "articles": {
     "world": [
+      {
+        "title": "What is the Green Party's 'Zionism is racism' motion?",
+        "url": "https://www.bbc.co.uk/news/videos/cke8r159n0d0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T14:07:02Z",
+        "summary": "Israel's foreign ministry says it has banned Green Party leader Zack Polanski from entering the country, after party members adopted a motion declaring Zionism a form of racism."
+      },
       {
         "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
         "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T13:16:00Z",
         "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
+      },
+      {
+        "title": "Artist 'taking legal advice' over Tories' use of Andy Burnham portrait",
+        "url": "https://www.bbc.co.uk/news/articles/cj62yg157prxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T13:09:37Z",
+        "summary": "Manchester illustrator Stan Chow says he was not asked permission for use of his cartoon."
       },
       {
         "title": "Jewish Greens chair says she could leave party over 'Zionism is racism' motion",
@@ -141,12 +153,6 @@
         "summary": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\"."
       },
       {
-        "title": "'Really tough': Badenoch on threats to politicians",
-        "url": "https://www.bbc.co.uk/news/videos/cm78p5qej87no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T16:56:07Z",
-        "summary": "The Conservative leader calls for a \"crack down\" on threats to politicians in an interview with Laura Kuenssberg."
-      },
-      {
         "title": "Tories pledge to build 50,000 new prison places",
         "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T14:17:52Z",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr0j3jdj64x7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T15:40:31Z",
         "summary": "Rhun ap Iorwerth demands the UK government devolve policing, justice and welfare powers to Cardiff Bay."
-      },
-      {
-        "title": "Tories aim to be election-ready ahead of party conference",
-        "url": "https://www.bbc.co.uk/news/articles/cr0qxq7jwg9go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T14:09:25Z",
-        "summary": "The party will focus on the economy and welfare, as Kemi Badenoch tells her team to prepare for a possible early election."
       }
     ],
     "saudi": [
@@ -262,6 +262,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "What is the Green Party's 'Zionism is racism' motion?",
+        "url": "https://www.bbc.co.uk/news/videos/cke8r159n0d0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T14:07:02Z",
+        "summary": "Israel's foreign ministry says it has banned Green Party leader Zack Polanski from entering the country, after party members adopted a motion declaring Zionism a form of racism."
+      },
+      {
+        "title": "Artist 'taking legal advice' over Tories' use of Andy Burnham portrait",
+        "url": "https://www.bbc.co.uk/news/articles/cj62yg157prxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T13:09:37Z",
+        "summary": "Manchester illustrator Stan Chow says he was not asked permission for use of his cartoon."
+      },
       {
         "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
         "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
