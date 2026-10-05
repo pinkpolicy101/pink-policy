@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-05T15:57:22.120468Z",
+  "generated_at": "2026-10-05T16:30:58.331228Z",
   "articles": {
     "world": [
+      {
+        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T16:13:35Z",
+        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
+      },
       {
         "title": "How would young Tories vote if the Conservative Party didn't exist?",
         "url": "https://www.bbc.co.uk/news/videos/cr0j0w3dv890o?at_medium=RSS&at_campaign=rss",
@@ -57,12 +63,6 @@
         "summary": "Israel's foreign ministry says it has banned Green Party leader Zack Polanski from entering the country, after party members adopted a motion declaring Zionism a form of racism."
       },
       {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T13:16:00Z",
-        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
-      },
-      {
         "title": "Jewish Greens chair says she could leave party over 'Zionism is racism' motion",
         "url": "https://www.bbc.co.uk/news/articles/cm4g1dxe50nyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T11:23:02Z",
@@ -91,12 +91,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T09:03:30Z",
         "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday"
-      },
-      {
-        "title": "Ethiopian rebel forces withdraw from Tigray regional capital",
-        "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T08:29:12Z",
-        "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city."
       },
       {
         "title": "'Don't axe Youth Parliament' pleads teen member",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/ck9qrqq53nj3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T14:17:52Z",
         "summary": "The party says its proposals would stop prisoners being released early and cut crime."
+      },
+      {
+        "title": "Kemi Badenoch has cemented her image. Now she wants to put her party back on the big stage",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8e887716vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-03T10:27:57Z",
+        "summary": "The Conservative leader is expected to set out a return to core conservative principles at the party\u2019s annual conference."
       }
     ],
     "saudi": [
@@ -205,10 +205,22 @@
     ],
     "us": [
       {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
+        "title": "UK insists military base is safe after US withdraws bombers",
         "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T13:16:00Z",
+        "published_at": "2026-10-05T16:13:35Z",
         "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
+      },
+      {
+        "title": "Watch: What caused the US to remove its bombers from UK base in such a hurry?",
+        "url": "https://www.bbc.co.uk/news/videos/cq99zvdk5235o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T15:47:35Z",
+        "summary": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations in America."
+      },
+      {
+        "title": "Nobel Prize awarded for revealing inner workings of the brain",
+        "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T11:04:37Z",
+        "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work."
       },
       {
         "title": "Trump chooses top spy boss to run new AI taskforce",
@@ -251,12 +263,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T19:56:28Z",
         "summary": "The death penalty is back in the news after Christa Pike survived two lethal injection attempts in Tennessee - but how widely used is it in the US?"
-      },
-      {
-        "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T08:54:00Z",
-        "summary": "President Donald Trump has threatened to ban diesel exports in a bid to ease prices in the US ahead of the November elections."
       }
     ]
   },
@@ -1383,10 +1389,22 @@
     ],
     "us": [
       {
+        "title": "Watch: What caused the US to remove its bombers from UK base in such a hurry?",
+        "url": "https://www.bbc.co.uk/news/videos/cq99zvdk5235o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T15:47:35Z",
+        "summary": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations in America."
+      },
+      {
         "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
         "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T12:21:32Z",
         "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
+      },
+      {
+        "title": "Nobel Prize awarded for revealing inner workings of the brain",
+        "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T11:04:37Z",
+        "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work."
       },
       {
         "title": "Trump chooses top spy boss to run new AI taskforce",
