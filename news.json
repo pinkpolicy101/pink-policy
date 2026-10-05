@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-05T09:33:14.697355Z",
+  "generated_at": "2026-10-05T09:57:27.739442Z",
   "articles": {
     "world": [
+      {
+        "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
+        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T09:57:06Z",
+        "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham."
+      },
       {
         "title": "How Spain's housing crisis has resulted in an early general election",
         "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
@@ -13,12 +19,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqm249v07j4xo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T08:29:12Z",
         "summary": "Two residents in Mekelle tell the BBC pro-government forces have taken control of the city."
-      },
-      {
-        "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T07:25:27Z",
-        "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham."
       },
       {
         "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
@@ -205,7 +205,7 @@
     ],
     "us": [
       {
-        "title": "US removes all bombers from UK air base",
+        "title": "US removes all bombers from RAF Fairford base",
         "url": "https://www.bbc.co.uk/news/articles/cmwyve191dlko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T09:20:45Z",
         "summary": "No reason has been given for the withdrawal, but it follows a major incident last week when police were alerted to \"suspicious vehicles\" near the airbase."
@@ -247,12 +247,6 @@
         "summary": "The death penalty is back in the news after Christa Pike survived two lethal injection attempts in Tennessee - but how widely used is it in the US?"
       },
       {
-        "title": "US jobs market sees sharp slowdown ahead of midterm elections",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d6gg0642yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T14:30:48Z",
-        "summary": "Unemployment rose slightly as American employers paused hiring with midterm elections just a month away."
-      },
-      {
         "title": "US pressures Europe to release diesel reserves as Trump threatens export ban",
         "url": "https://www.bbc.co.uk/news/articles/c5zjzjgdeneeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T08:54:00Z",
@@ -263,12 +257,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T04:01:52Z",
         "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI."
-      },
-      {
-        "title": "'I was lured into a trap': Evan Gershkovich on moment that led to 16 months in Russian jail",
-        "url": "https://www.bbc.co.uk/news/articles/ck9qr8jy8ynyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T12:43:04Z",
-        "summary": "The US journalist says he realised he was a \"a pawn in a greater game\" when he was not interrogated or tortured by FSB agents."
       }
     ]
   },
