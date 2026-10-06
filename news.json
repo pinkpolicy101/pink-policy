@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-06T06:59:52.693335Z",
+  "generated_at": "2026-10-06T07:30:11.020012Z",
   "articles": {
     "world": [
+      {
+        "title": "Tories pledge \u00a310bn British 'Iron Dome' air defence system",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T06:59:49Z",
+        "summary": "The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions."
+      },
       {
         "title": "OpenAI admits response to Australian government hacks 'not good enough'",
         "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T06:53:17Z",
         "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments."
+      },
+      {
+        "title": "Nigeria mourns as 32 killed in military plane crash",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T06:33:13Z",
+        "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
       },
       {
         "title": "Author and former politician Jeffrey Archer dies aged 86",
@@ -31,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T23:29:02Z",
         "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month."
-      },
-      {
-        "title": "Tories pledge \u00a310bn British 'Iron Dome' air defence system",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T22:39:20Z",
-        "summary": "The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions."
       },
       {
         "title": "Fl\u00e1vio Bolsonaro rides right-wing wave to win first round of Brazil election",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T11:04:47Z",
         "summary": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\"."
-      },
-      {
-        "title": "Badenoch says Tory policy is to keep pension triple lock",
-        "url": "https://www.bbc.co.uk/news/videos/cmed3094q7qqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T09:01:34Z",
-        "summary": "The Conservative Party leader speaks to the BBC's Laura Kuenssberg as the Tories launch their party conference in Birmingham."
       }
     ],
     "saudi": [
@@ -219,14 +219,14 @@
       {
         "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
         "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T04:25:22Z",
+        "published_at": "2026-10-06T07:02:24Z",
         "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
       },
       {
         "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
         "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T02:22:24Z",
-        "summary": "Nidal Malik Hasan killed 13 unarmed US soldiers and injured another 32 and his execution will be the first by the US military since 1961."
+        "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base."
       },
       {
         "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Nigeria mourns as 32 killed in military plane crash",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T06:33:13Z",
+        "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
+      },
       {
         "title": "OpenAI admits response to Australian government hacks 'not good enough'",
         "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
