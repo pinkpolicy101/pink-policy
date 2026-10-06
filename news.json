@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-06T15:56:30.273230Z",
+  "generated_at": "2026-10-06T16:31:28.254772Z",
   "articles": {
     "world": [
+      {
+        "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T16:00:03Z",
+        "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds."
+      },
       {
         "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
         "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T04:51:24Z",
         "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
-      },
-      {
-        "title": "I'm a classic old-school Conservative, says Kemi Badenoch",
-        "url": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T16:20:02Z",
-        "summary": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles."
       }
     ],
     "saudi": [
@@ -219,14 +219,14 @@
       {
         "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
         "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T14:15:06Z",
+        "published_at": "2026-10-06T16:22:37Z",
         "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran."
       },
       {
         "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
         "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T13:31:56Z",
-        "summary": "US televangelist Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy."
+        "summary": "Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy."
       },
       {
         "title": "US 'watching closely' after plague researcher dies in Russia",
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T16:00:03Z",
+        "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds."
+      },
       {
         "title": "Alliance MLAs walk out over Muir no confidence vote",
         "url": "https://www.bbc.co.uk/news/videos/c69vzndzdglno?at_medium=RSS&at_campaign=rss",
