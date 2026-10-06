@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-06T13:57:08.848546Z",
+  "generated_at": "2026-10-06T14:30:43.851024Z",
   "articles": {
     "world": [
+      {
+        "title": "Badenoch's \u00a310bn air defence plan points to growing concern over protecting UK's skies",
+        "url": "https://www.bbc.co.uk/news/articles/cm86zqg553q8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T13:26:25Z",
+        "summary": "The government and the Conservatives both agree the UK needs better air defences in an increasingly dangerous world."
+      },
       {
         "title": "Nigeria mourns 25 killed as military plane crashes into swamp",
         "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T11:59:35Z",
         "summary": "Katie Amess questions if anything has changed to protect politicians five years after her father's death."
-      },
-      {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T11:19:58Z",
-        "summary": "Speaking to the BBC, the justice secretary vows to reduce delays in the system after scrapping plans from the previous government."
       }
     ],
     "saudi": [
@@ -217,10 +217,10 @@
     ],
     "us": [
       {
-        "title": "California leaders hit back after Trump says Iran can 'take out' LA and San Diego",
+        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
         "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T13:06:59Z",
-        "summary": "The US president said rising gas prices were a \"small price to pay for keeping the world safe\" at an election rally in Nebraska."
+        "published_at": "2026-10-06T14:15:06Z",
+        "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran."
       },
       {
         "title": "All six passengers presumed dead after plane went missing off US coast",
@@ -298,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Badenoch's \u00a310bn air defence plan points to growing concern over protecting UK's skies",
+        "url": "https://www.bbc.co.uk/news/articles/cm86zqg553q8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T13:26:25Z",
+        "summary": "The government and the Conservatives both agree the UK needs better air defences in an increasingly dangerous world."
+      },
       {
         "title": "Young Tories on if their party should do a deal with Reform UK",
         "url": "https://www.bbc.co.uk/news/videos/c670p4n98d4no?at_medium=RSS&at_campaign=rss",
