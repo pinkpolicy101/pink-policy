@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-10-06T14:57:35.277607Z",
+  "generated_at": "2026-10-06T15:29:03.289011Z",
   "articles": {
     "world": [
+      {
+        "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
+        "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T15:20:37Z",
+        "summary": "Use our interactive tracker to explore the latest migration statistics for the UK"
+      },
       {
         "title": "Alliance MLAs walk out over Muir no confidence vote",
         "url": "https://www.bbc.co.uk/news/videos/c69vzndzdglno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T14:50:03Z",
         "summary": "A no-confidence motion in agriculture and environment minister was called over a controversial cattle cull."
+      },
+      {
+        "title": "AfD candidate elected speaker of German regional parliament for first time",
+        "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T14:44:03Z",
+        "summary": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment."
+      },
+      {
+        "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+        "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T14:30:48Z",
+        "summary": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements."
+      },
+      {
+        "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T13:48:49Z",
+        "summary": "The bestselling author and former politician died on Monday at the age of 86."
       },
       {
         "title": "Badenoch's \u00a310bn air defence plan points to growing concern over protecting UK's skies",
@@ -43,12 +67,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T10:05:22Z",
         "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections."
-      },
-      {
-        "title": "Author and former politician Jeffrey Archer dies aged 86",
-        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T09:17:05Z",
-        "summary": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month."
       },
       {
         "title": "I won't accept exclusion within Green Party, says Polanski after criticism of Zionism motion",
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T16:20:02Z",
         "summary": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles."
-      },
-      {
-        "title": "'Get on with the day job' - Welsh Tory leader attacks first minister's independence push",
-        "url": "https://www.bbc.co.uk/news/articles/cwjdmkgemmd4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T15:23:36Z",
-        "summary": "Darren Millar says Rhun ap Iorwerth has failed to improve public services or help Welsh businesses."
-      },
-      {
-        "title": "Scottish Tory leader Findlay says SNP's indy 'obsession' is dangerously irresponsible",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8gn9r69r5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T13:10:51Z",
-        "summary": "Russell Findlay tells the Conservative Party's UK conference that breaking up the United Kingdom would be \"a gift to our enemies\"."
-      },
-      {
-        "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T11:59:35Z",
-        "summary": "Katie Amess questions if anything has changed to protect politicians five years after her father's death."
       }
     ],
     "saudi": [
@@ -223,10 +223,10 @@
         "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran."
       },
       {
-        "title": "All six passengers presumed dead after plane went missing off US coast",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T11:23:57Z",
-        "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
+        "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T13:31:56Z",
+        "summary": "US televangelist Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy."
       },
       {
         "title": "US 'watching closely' after plague researcher dies in Russia",
@@ -257,12 +257,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T21:57:26Z",
         "summary": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes."
-      },
-      {
-        "title": "Former American Idol contestant sentenced to life in prison for murdering wife",
-        "url": "https://www.bbc.co.uk/news/articles/c65yn5djx1pko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T20:30:05Z",
-        "summary": "Caleb Flynn, a former music pastor from Ohio, fatally shot his wife Ashley in February before trying to cover it up."
       },
       {
         "title": "Trump: US 'had a threat' that led to withdrawal of bombers at RAF Fairford",
@@ -303,6 +297,24 @@
         "url": "https://www.bbc.co.uk/news/videos/c69vzndzdglno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T14:50:03Z",
         "summary": "A no-confidence motion in agriculture and environment minister was called over a controversial cattle cull."
+      },
+      {
+        "title": "AfD candidate elected speaker of German regional parliament for first time",
+        "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T14:44:03Z",
+        "summary": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment."
+      },
+      {
+        "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+        "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T14:30:48Z",
+        "summary": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements."
+      },
+      {
+        "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T13:48:49Z",
+        "summary": "The bestselling author and former politician died on Monday at the age of 86."
       },
       {
         "title": "Badenoch's \u00a310bn air defence plan points to growing concern over protecting UK's skies",
@@ -1526,6 +1538,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T13:31:56Z",
+        "summary": "US televangelist Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy."
+      },
       {
         "title": "California leaders hit back after Trump says Iran can 'take out' LA and San Diego",
         "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
