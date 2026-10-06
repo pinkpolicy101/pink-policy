@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-06T05:55:04.004330Z",
+  "generated_at": "2026-10-06T06:34:34.365549Z",
   "articles": {
     "world": [
+      {
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T06:00:53Z",
+        "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments."
+      },
       {
         "title": "Author and former politician Jeffrey Archer dies aged 86",
         "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
@@ -13,12 +19,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T02:37:46Z",
         "summary": "The Parti Qu\u00e9b\u00e9cois, which secured a minority, has vowed to hold an independence referendum in the years to come."
-      },
-      {
-        "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T01:58:29Z",
-        "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising."
       },
       {
         "title": "I won't accept exclusion within Green Party, says Polanski after criticism of Zionism motion",
@@ -33,10 +33,10 @@
         "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month."
       },
       {
-        "title": "Tories pledge \u00a310bn 'Britannia Shield' air defence system",
+        "title": "Tories pledge \u00a310bn British 'Iron Dome' air defence system",
         "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T22:39:20Z",
-        "summary": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions."
+        "summary": "The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions."
       },
       {
         "title": "Fl\u00e1vio Bolsonaro rides right-wing wave to win first round of Brazil election",
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "OpenAI admits response to Australian government hacks 'not good enough'",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T06:00:53Z",
+        "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments."
+      },
       {
         "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
         "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
