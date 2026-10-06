@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T02:28:20.706003Z",
+  "generated_at": "2026-10-06T02:55:09.512671Z",
   "articles": {
     "world": [
       {
@@ -211,6 +211,12 @@
     ],
     "us": [
       {
+        "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T01:58:29Z",
+        "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising."
+      },
+      {
         "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
         "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T21:46:22Z",
@@ -245,18 +251,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cq99zvdk5235o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T15:47:35Z",
         "summary": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations in America."
-      },
-      {
-        "title": "Nobel Prize awarded for revealing inner workings of the brain",
-        "url": "https://www.bbc.co.uk/news/articles/c5ev3ypmzly8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T11:04:37Z",
-        "summary": "US psychiatrist and neurologist Karl Deisseroth and his German colleagues Peter Hegemann and Georg Nagel have been awarded for their work."
-      },
-      {
-        "title": "Trump chooses top spy boss to run new AI taskforce",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T10:03:38Z",
-        "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow."
       },
       {
         "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
@@ -1454,6 +1448,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T01:58:29Z",
+        "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising."
+      },
       {
         "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
         "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
