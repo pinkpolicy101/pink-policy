@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-06T21:27:35.416960Z",
+  "generated_at": "2026-10-06T21:53:26.810952Z",
   "articles": {
     "world": [
+      {
+        "title": "Green member behind Zionism motion named as 'close friend' of jailed al-Qaeda supporter in court",
+        "url": "https://www.bbc.co.uk/news/articles/ckm23709pjz7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T21:41:58Z",
+        "summary": "Lubna Speitan offered to testify on behalf of Minh Quang Pham, who was jailed for 40 years after a Heathrow bomb plot investigation."
+      },
       {
         "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
         "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T09:03:30Z",
         "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday"
-      },
-      {
-        "title": "'Don't axe Youth Parliament' pleads teen member",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglm3381p1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T05:27:55Z",
-        "summary": "The government plans to no longer fund the scheme launched to get young people into politics."
       }
     ],
     "saudi": [
@@ -217,9 +217,9 @@
     ],
     "us": [
       {
-        "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
+        "title": "US death row inmate Christa Pike conscious and speaking after failed execution, lawyers say",
         "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T21:09:41Z",
+        "published_at": "2026-10-06T21:39:09Z",
         "summary": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday."
       },
       {
@@ -235,7 +235,7 @@
         "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran."
       },
       {
-        "title": "Ex-US spy found with $40m in gold bars pleads guilty to wire fraud",
+        "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
         "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T19:53:45Z",
         "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said."
@@ -304,6 +304,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Green member behind Zionism motion named as 'close friend' of jailed al-Qaeda supporter in court",
+        "url": "https://www.bbc.co.uk/news/articles/ckm23709pjz7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T21:41:58Z",
+        "summary": "Lubna Speitan offered to testify on behalf of Minh Quang Pham, who was jailed for 40 years after a Heathrow bomb plot investigation."
+      },
       {
         "title": "A separatist party just won power in Quebec - what does that mean?",
         "url": "https://www.bbc.co.uk/news/videos/cjr4yl39pg4ro?at_medium=RSS&at_campaign=rss",
