@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T05:28:55.004539Z",
+  "generated_at": "2026-10-06T05:55:04.004330Z",
   "articles": {
     "world": [
       {
@@ -215,6 +215,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T04:25:22Z",
         "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
+      },
+      {
+        "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T02:22:24Z",
+        "summary": "Nidal Malik Hasan killed 13 unarmed US soldiers and injured another 32 and his execution will be the first by the US military since 1961."
       },
       {
         "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
@@ -1466,6 +1472,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T02:22:24Z",
+        "summary": "Nidal Malik Hasan killed 13 unarmed US soldiers and injured another 32 and his execution will be the first by the US military since 1961."
+      },
       {
         "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
         "url": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
