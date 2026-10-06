@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:31:29.433351Z",
+  "generated_at": "2026-10-06T18:57:03.227089Z",
   "articles": {
     "world": [
       {
@@ -217,6 +217,12 @@
     ],
     "us": [
       {
+        "title": "Amazon wins global rights to stream Emmys in six-year deal",
+        "url": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T17:51:59Z",
+        "summary": "The gala is leaving traditional US broadcast networks for live worldwide streaming."
+      },
+      {
         "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
         "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T16:22:37Z",
@@ -239,12 +245,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T07:02:24Z",
         "summary": "The Pentagon confirmed on Sunday it had removed the B1 bombers from the base in England back to their home stations in America."
-      },
-      {
-        "title": "Fort Hood shooter to be executed by firing squad - a first for US military since World War Two",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T02:22:24Z",
-        "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base."
       },
       {
         "title": "What are the US midterms? A simple guide",
@@ -1562,6 +1562,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Amazon wins global rights to stream Emmys in six-year deal",
+        "url": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T17:51:59Z",
+        "summary": "The gala is leaving traditional US broadcast networks for live worldwide streaming."
+      },
       {
         "title": "US televangelist Jim Bakker, disgraced from sex scandal and fraud, dies at 86",
         "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
