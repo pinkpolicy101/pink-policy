@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-06T02:55:09.512671Z",
+  "generated_at": "2026-10-06T03:28:25.666110Z",
   "articles": {
     "world": [
+      {
+        "title": "Author and former politician Jeffrey Archer dies aged 86",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T03:19:57Z",
+        "summary": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month."
+      },
+      {
+        "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+        "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T02:37:46Z",
+        "summary": "The Parti Qu\u00e9b\u00e9cois, which secured a minority, has vowed to hold an independence referendum in the years to come."
+      },
+      {
+        "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T01:58:29Z",
+        "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising."
+      },
       {
         "title": "I won't accept exclusion, says Polanski after criticism of Zionism motion",
         "url": "https://www.bbc.co.uk/news/articles/cjy56yxxwy3po?at_medium=RSS&at_campaign=rss",
@@ -25,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T22:39:20Z",
         "summary": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions."
-      },
-      {
-        "title": "Author and former politician Jeffrey Archer dies aged 86",
-        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T21:41:53Z",
-        "summary": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month."
       },
       {
         "title": "Spain PM pins hopes on housing crisis to help win snap election",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T11:04:47Z",
         "summary": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\"."
-      },
-      {
-        "title": "Badenoch says Tory policy is to keep pension triple lock",
-        "url": "https://www.bbc.co.uk/news/videos/cmed3094q7qqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T09:01:34Z",
-        "summary": "The Conservative Party leader speaks to the BBC's Laura Kuenssberg as the Tories launch their party conference in Birmingham."
-      },
-      {
-        "title": "Why Canada is wargaming a (long shot) US invasion",
-        "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T23:30:06Z",
-        "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada."
       }
     ],
     "saudi": [
@@ -280,6 +280,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+        "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T02:37:46Z",
+        "summary": "The Parti Qu\u00e9b\u00e9cois, which secured a minority, has vowed to hold an independence referendum in the years to come."
+      },
+      {
+        "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T01:58:29Z",
+        "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising."
+      },
       {
         "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
         "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
