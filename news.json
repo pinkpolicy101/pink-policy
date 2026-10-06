@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-06T20:54:30.773900Z",
+  "generated_at": "2026-10-06T21:27:35.416960Z",
   "articles": {
     "world": [
+      {
+        "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T21:18:45Z",
+        "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds."
+      },
       {
         "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
         "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
@@ -25,12 +31,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cqrmyz489g38o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T17:08:59Z",
         "summary": "Kemi Badenoch wants Reform voters to 'come back'"
-      },
-      {
-        "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T17:00:03Z",
-        "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds."
       },
       {
         "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
@@ -217,10 +217,16 @@
     ],
     "us": [
       {
+        "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
+        "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T21:09:41Z",
+        "summary": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday."
+      },
+      {
         "title": "How drunk is too drunk? Cornell rape allegations expose 'loopholes' in consent laws",
         "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T20:40:01Z",
-        "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help victims."
+        "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims."
       },
       {
         "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
@@ -1568,6 +1574,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
+        "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T21:09:41Z",
+        "summary": "Pike, 50, continues to receive critical medical care while handcuffed in hospital, according to a statement from her lawyers on Tuesday."
+      },
       {
         "title": "How drunk is too drunk? Cornell rape allegations expose 'loopholes' in consent laws",
         "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
