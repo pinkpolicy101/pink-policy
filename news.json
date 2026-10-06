@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-10-06T07:55:41.301739Z",
+  "generated_at": "2026-10-06T08:30:59.539433Z",
   "articles": {
     "world": [
       {
+        "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T08:16:57Z",
+        "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
+      },
+      {
         "title": "Tories pledge \u00a310bn British 'Iron Dome' air defence system",
         "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T06:59:49Z",
+        "published_at": "2026-10-06T08:04:07Z",
         "summary": "The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions."
       },
       {
@@ -13,12 +19,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T06:53:17Z",
         "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments."
-      },
-      {
-        "title": "Nigeria mourns as 32 killed in military plane crash",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T06:33:13Z",
-        "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
       },
       {
         "title": "Author and former politician Jeffrey Archer dies aged 86",
@@ -217,6 +217,12 @@
     ],
     "us": [
       {
+        "title": "US 'watching closely' after plague researcher dies in Russia",
+        "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T07:58:19Z",
+        "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia."
+      },
+      {
         "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
         "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T07:02:24Z",
@@ -235,7 +241,7 @@
         "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising."
       },
       {
-        "title": "A simple guide to the US midterms",
+        "title": "What are the US midterms? A simple guide",
         "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T23:40:58Z",
         "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump\u2019s presidency."
@@ -245,12 +251,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T21:57:26Z",
         "summary": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes."
-      },
-      {
-        "title": "US 'watching closely' after plague researcher dies in Russia",
-        "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T21:33:49Z",
-        "summary": "Donald Trump says the US was looking \"very strongly\" at the case of a lab technician who died at a research centre in Siberia."
       },
       {
         "title": "Former American Idol contestant sentenced to life in prison for murdering wife",
