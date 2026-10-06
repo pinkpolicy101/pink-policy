@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T07:30:11.020012Z",
+  "generated_at": "2026-10-06T07:55:41.301739Z",
   "articles": {
     "world": [
       {
@@ -43,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T23:29:02Z",
         "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month."
-      },
-      {
-        "title": "Fl\u00e1vio Bolsonaro rides right-wing wave to win first round of Brazil election",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6je4jen6po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T20:42:19Z",
-        "summary": "Fl\u00e1vio Bolsonaro's success could be the latest example of a resurgence of right-wing support in Latin America."
       },
       {
         "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
@@ -181,13 +175,19 @@
         "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T11:04:47Z",
         "summary": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\"."
+      },
+      {
+        "title": "Badenoch says Tory policy is to keep pension triple lock",
+        "url": "https://www.bbc.co.uk/news/videos/cmed3094q7qqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-04T09:01:34Z",
+        "summary": "The Conservative Party leader speaks to the BBC's Laura Kuenssberg as the Tories launch their party conference in Birmingham."
       }
     ],
     "saudi": [
       {
         "title": "Yemeni military says it has 'secured' Red Sea waterway",
         "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T04:29:53Z",
+        "published_at": "2026-10-06T07:43:07Z",
         "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait."
       },
       {
@@ -235,6 +235,18 @@
         "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising."
       },
       {
+        "title": "A simple guide to the US midterms",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T23:40:58Z",
+        "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump\u2019s presidency."
+      },
+      {
+        "title": "What prompted the US bombers to leave RAF Fairford?",
+        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T21:57:26Z",
+        "summary": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes."
+      },
+      {
         "title": "US 'watching closely' after plague researcher dies in Russia",
         "url": "https://www.bbc.co.uk/news/articles/cv5yn3nwp5n5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T21:33:49Z",
@@ -247,16 +259,16 @@
         "summary": "Caleb Flynn, a former music pastor from Ohio, fatally shot his wife Ashley in February before trying to cover it up."
       },
       {
+        "title": "Trump: US 'had a threat' that led to withdrawal of bombers at RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/videos/c3vgxwg081yqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T20:16:16Z",
+        "summary": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations in America."
+      },
+      {
         "title": "Girl, 12, fatally shot in US during 'dispute over parking space'",
         "url": "https://www.bbc.co.uk/news/articles/cwr5y48p89vvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T19:23:17Z",
         "summary": "Police in Baltimore have said the young girl was not a target of the shooting but was caught in the crossfire."
-      },
-      {
-        "title": "UK insists military base is safe after US withdraws bombers",
-        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T16:13:35Z",
-        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
       },
       {
         "title": "Watch: What caused the US to remove its bombers from UK base in such a hurry?",
@@ -269,12 +281,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T08:22:41Z",
         "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore."
-      },
-      {
-        "title": "All six passengers presumed dead after plane went missing off US coast",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4g8r6nr9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T04:00:35Z",
-        "summary": "The aircraft lost communication with flight controllers after significantly dropping in altitude, according to flight data."
       },
       {
         "title": "Why has Brazil accused the US of election interference?",
@@ -1509,6 +1515,18 @@
         "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising."
       },
       {
+        "title": "A simple guide to the US midterms",
+        "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T23:40:58Z",
+        "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump\u2019s presidency."
+      },
+      {
+        "title": "What prompted the US bombers to leave RAF Fairford?",
+        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T21:57:26Z",
+        "summary": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes."
+      },
+      {
         "title": "Trump says 'threat' led US to pull bombers from RAF Fairford",
         "url": "https://www.bbc.co.uk/news/articles/cwj3413e5m1lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T21:24:34Z",
@@ -1519,6 +1537,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c65yn5djx1pko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T20:30:05Z",
         "summary": "Caleb Flynn, a former music pastor from Ohio, fatally shot his wife Ashley in February before trying to cover it up."
+      },
+      {
+        "title": "Trump: US 'had a threat' that led to withdrawal of bombers at RAF Fairford",
+        "url": "https://www.bbc.co.uk/news/videos/c3vgxwg081yqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T20:16:16Z",
+        "summary": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations in America."
       },
       {
         "title": "US 'watching closely' after plague researcher dies in Russia, Rubio says",
