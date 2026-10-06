@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-06T09:56:01.957993Z",
+  "generated_at": "2026-10-06T10:29:43.792274Z",
   "articles": {
     "world": [
+      {
+        "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
+        "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T10:13:02Z",
+        "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
+      },
+      {
+        "title": "Indian opposition MPs detained in protest against election chief",
+        "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T10:05:22Z",
+        "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections."
+      },
       {
         "title": "Tories pledge \u00a310bn British 'Iron Dome' air defence system",
         "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
@@ -13,12 +25,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T09:17:05Z",
         "summary": "Archer sold more than 300 million books in his five-decade writing career, and his last book, Adam and Eve, was due to be released later this month."
-      },
-      {
-        "title": "Nigeria mourns 32 killed as military plane crashes into swamp",
-        "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T09:02:03Z",
-        "summary": "President Bola Tinubu describes the crash as a \"painful moment\" for the military and the entire nation."
       },
       {
         "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T11:04:47Z",
         "summary": "The Conservative leader tells the BBC the earnings threshold for government support stops people \"working harder\"."
-      },
-      {
-        "title": "Badenoch says Tory policy is to keep pension triple lock",
-        "url": "https://www.bbc.co.uk/news/videos/cmed3094q7qqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T09:01:34Z",
-        "summary": "The Conservative Party leader speaks to the BBC's Laura Kuenssberg as the Tories launch their party conference in Birmingham."
       }
     ],
     "saudi": [
@@ -298,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Indian opposition MPs detained in protest against election chief",
+        "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T10:05:22Z",
+        "summary": "Opposition leaders have alleged that CEC Gyanesh Kumar manipulated voter rolls to favour Prime Minister Narendra Modi's party during elections."
+      },
       {
         "title": "Nigeria mourns as 32 killed in military plane crash",
         "url": "https://www.bbc.co.uk/news/articles/ck1wvjer20qqo?at_medium=RSS&at_campaign=rss",
