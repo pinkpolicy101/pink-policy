@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T06:34:34.365549Z",
+  "generated_at": "2026-10-06T06:59:52.693335Z",
   "articles": {
     "world": [
       {
         "title": "OpenAI admits response to Australian government hacks 'not good enough'",
         "url": "https://www.bbc.co.uk/news/articles/cmx2qne2j88wo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T06:00:53Z",
+        "published_at": "2026-10-06T06:53:17Z",
         "summary": "Top executive Jason Kwon tells hearing company has added \"more precautions\" to its training environments."
       },
       {
@@ -189,6 +189,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T04:29:53Z",
         "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait."
+      },
+      {
+        "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+        "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T22:28:02Z",
+        "summary": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment."
       },
       {
         "title": "Yemen's government announces all-out war to reclaim land from Houthis",
@@ -1428,6 +1434,12 @@
       }
     ],
     "saudi": [
+      {
+        "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
+        "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T22:28:02Z",
+        "summary": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment."
+      },
       {
         "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
         "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
