@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-06T16:31:28.254772Z",
+  "generated_at": "2026-10-06T16:56:56.669823Z",
   "articles": {
     "world": [
+      {
+        "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
+        "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T16:51:59Z",
+        "summary": "The Parti Qu\u00e9b\u00e9cois, which secured a minority, has vowed to hold an independence referendum in the years to come."
+      },
+      {
+        "title": "Why Tories are talking about winning the next election",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly02ry5982o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T16:49:05Z",
+        "summary": "Kemi Badenoch is more popular than her party right now - Tories are hoping it will rub off on them."
+      },
       {
         "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
         "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
@@ -55,12 +67,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c670p4n98d4no?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T11:49:28Z",
         "summary": "Young Tories on if their party should do a deal with Reform UK."
-      },
-      {
-        "title": "Separatist party projected to win Quebec election, adding new test to Canada's unity",
-        "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T11:42:52Z",
-        "summary": "The Parti Qu\u00e9b\u00e9cois, which secured a minority, has vowed to hold an independence referendum in the years to come."
       },
       {
         "title": "Tories pledge \u00a310bn for British anti-missile defence system",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6kglm3381p1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T05:27:55Z",
         "summary": "The government plans to no longer fund the scheme launched to get young people into politics."
-      },
-      {
-        "title": "Watch: How Brazil's dramatic election unfolded",
-        "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T04:51:24Z",
-        "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
       }
     ],
     "saudi": [
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Why Tories are talking about winning the next election",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly02ry5982o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T16:49:05Z",
+        "summary": "Kemi Badenoch is more popular than her party right now - Tories are hoping it will rub off on them."
+      },
       {
         "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
         "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
