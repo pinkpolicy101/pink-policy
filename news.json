@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-06T00:39:02.817265Z",
+  "generated_at": "2026-10-06T00:59:50.296473Z",
   "articles": {
     "world": [
+      {
+        "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T23:29:02Z",
+        "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month."
+      },
       {
         "title": "Right-wing Fl\u00e1vio Bolsonaro wins first round of Brazil election",
         "url": "https://www.bbc.co.uk/news/articles/ck1l34ed592no?at_medium=RSS&at_campaign=rss",
@@ -175,20 +181,14 @@
         "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T23:30:06Z",
         "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada."
-      },
-      {
-        "title": "Greens would offer two-year jobs to unemployed under-24s",
-        "url": "https://www.bbc.co.uk/news/articles/c693z5w5eypdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T17:08:40Z",
-        "summary": "Co-deputy leader Mothin Ali tells the party's conference many young people are \"bored, desperate and lost\"."
       }
     ],
     "saudi": [
       {
-        "title": "Yemeni military says it has retaken Mokha and 'secured' Red Sea waterway",
+        "title": "Yemeni military says it has 'secured' Red Sea waterway",
         "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T17:49:59Z",
-        "summary": "Saudi-backed forces say they seized the port city of Mocha, near the Bab al-Mandab Strait, at the start of an offensive against the Houthis."
+        "published_at": "2026-10-06T00:51:43Z",
+        "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait."
       },
       {
         "title": "Yemen's government announces all-out war to reclaim land from Houthis",
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
+        "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-05T23:29:02Z",
+        "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month."
+      },
       {
         "title": "Tories pledge \u00a310bn 'Britannia Shield' air defence system",
         "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
