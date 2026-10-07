@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T07:31:38.747945Z",
+  "generated_at": "2026-10-07T07:56:03.506606Z",
   "articles": {
     "world": [
       {
         "title": "Battle of ideas looming in British politics, Badenoch to say",
         "url": "https://www.bbc.co.uk/news/articles/c8r4ylp6657zo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T06:50:58Z",
+        "published_at": "2026-10-07T07:35:19Z",
         "summary": "The Tory leader has been seeking to reframe the way the public views her party, which has yet to recover in the polls since the last election."
       },
       {
@@ -259,6 +259,12 @@
         "summary": "Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy."
       },
       {
+        "title": "Trump on Iran: 'Let them take out LA, let them take out San Diego'",
+        "url": "https://www.bbc.co.uk/news/videos/c3lyl28llz10o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T13:11:15Z",
+        "summary": "The White House said Trump was warning of the risk a nuclear Iran with his comments at a Nebraska rally."
+      },
+      {
         "title": "What are the US midterms? A simple guide",
         "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T23:40:58Z",
@@ -287,18 +293,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T08:22:41Z",
         "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore."
-      },
-      {
-        "title": "Why has Brazil accused the US of election interference?",
-        "url": "https://www.bbc.co.uk/news/videos/c3eweld0nddeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T13:52:13Z",
-        "summary": "The Latin American country will vote for its next president, as Lula da Silva and Bolsonaro clash over sovereignty, security and ties with Washington."
-      },
-      {
-        "title": "How widely used is the death penalty in the US?",
-        "url": "https://www.bbc.co.uk/news/videos/c54g1e3yxv0ko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T19:56:28Z",
-        "summary": "The death penalty is back in the news after Christa Pike survived two lethal injection attempts in Tennessee - but how widely used is it in the US?"
       }
     ]
   },
@@ -1651,6 +1645,12 @@
         "url": "https://www.bbc.co.uk/news/articles/ckly02gd1xppo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T13:31:56Z",
         "summary": "US televangelist Jim Bakker co-founded The PTL Club with his then-wife Tammy Faye before being jailed for fraud and conspiracy."
+      },
+      {
+        "title": "Trump on Iran: 'Let them take out LA, let them take out San Diego'",
+        "url": "https://www.bbc.co.uk/news/videos/c3lyl28llz10o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T13:11:15Z",
+        "summary": "The White House said Trump was warning of the risk a nuclear Iran with his comments at a Nebraska rally."
       },
       {
         "title": "California leaders hit back after Trump says Iran can 'take out' LA and San Diego",
