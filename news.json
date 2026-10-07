@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-07T06:34:17.002425Z",
+  "generated_at": "2026-10-07T07:00:18.123146Z",
   "articles": {
     "world": [
+      {
+        "title": "Battle of ideas looming in British politics, Badenoch to say",
+        "url": "https://www.bbc.co.uk/news/articles/c8r4ylp6657zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T06:50:58Z",
+        "summary": "The Tory leader has been seeking to reframe the way the public views her party, which has yet to recover in the polls since the last election."
+      },
+      {
+        "title": "Ex-Welsh Green Party deputy says Zionism motion 'pointless' after quitting party",
+        "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T06:45:59Z",
+        "summary": "Phil Davies told BBC Wales the motion would not improve the lives of the Palestinian people."
+      },
       {
         "title": "The Republican candidates walking a Trump tightrope",
         "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T05:00:21Z",
         "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party."
-      },
-      {
-        "title": "Battle of ideas looming in British politics, Badenoch to say",
-        "url": "https://www.bbc.co.uk/news/articles/c8r4ylp6657zo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T04:42:55Z",
-        "summary": "The Tory leader has been seeking to reframe the way the public views her party, which has yet to recover in the polls since the last election."
       },
       {
         "title": "Green member behind Zionism motion named as 'close friend' of jailed al-Qaeda supporter in court",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T09:03:30Z",
         "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday"
-      },
-      {
-        "title": "'Don't axe Youth Parliament' pleads teen member",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglm3381p1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T05:27:55Z",
-        "summary": "The government plans to no longer fund the scheme launched to get young people into politics."
       }
     ],
     "saudi": [
@@ -223,7 +223,7 @@
         "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection."
       },
       {
-        "title": "How drunk is too drunk? Cornell rape allegations expose 'loopholes' in consent laws",
+        "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
         "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T20:40:01Z",
         "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims."
@@ -304,6 +304,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Ex-Welsh Green Party deputy says Zionism motion 'pointless' after quitting party",
+        "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T06:45:59Z",
+        "summary": "Phil Davies told BBC Wales the motion would not improve the lives of the Palestinian people."
+      },
       {
         "title": "The Republican candidates walking a Trump tightrope",
         "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
