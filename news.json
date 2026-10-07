@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-07T13:57:24.341398Z",
+  "generated_at": "2026-10-07T14:30:54.475790Z",
   "articles": {
     "world": [
+      {
+        "title": "The big test facing Badenoch after her conference speech",
+        "url": "https://www.bbc.co.uk/news/videos/cmdxwvxwg9kpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T14:18:39Z",
+        "summary": "Despite Badenoch's personal poll ratings going up, the Conservative party is languishing behind."
+      },
       {
         "title": "Watch: The big test facing Badenoch after her conference speech",
         "url": "https://www.bbc.co.uk/news/videos/c9y7ld7ndzr7o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cj62yg157prxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T14:53:32Z",
         "summary": "Manchester illustrator Stan Chow says he was not asked permission for use of his cartoon."
-      },
-      {
-        "title": "Tensions exposed among Greens by 'Zionism is racism' conference vote",
-        "url": "https://www.bbc.co.uk/news/articles/cjr4yx9663q6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T14:40:20Z",
-        "summary": "What may be troubling for the Greens institutionally is what this episode reveals about some of the dynamics in the party."
       }
     ],
     "saudi": [
@@ -298,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "The big test facing Badenoch after her conference speech",
+        "url": "https://www.bbc.co.uk/news/videos/cmdxwvxwg9kpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T14:18:39Z",
+        "summary": "Despite Badenoch's personal poll ratings going up, the Conservative party is languishing behind."
+      },
       {
         "title": "Watch: The big test facing Badenoch after her conference speech",
         "url": "https://www.bbc.co.uk/news/videos/c9y7ld7ndzr7o?at_medium=RSS&at_campaign=rss",
