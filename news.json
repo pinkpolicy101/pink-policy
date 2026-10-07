@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-07T16:00:15.754583Z",
+  "generated_at": "2026-10-07T16:32:19.196980Z",
   "articles": {
     "world": [
+      {
+        "title": "Tories united behind Badenoch - but party still needs to win over voters",
+        "url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T16:31:06Z",
+        "summary": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls."
+      },
+      {
+        "title": "Israelis demand accountability over 7 October failures three years after attacks",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T16:00:18Z",
+        "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry."
+      },
       {
         "title": "Kemi Badenoch: 'Our drama queens have joined Reform'",
         "url": "https://www.bbc.co.uk/news/videos/cmzxjdly2elno?at_medium=RSS&at_campaign=rss",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T16:13:35Z",
         "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
-      },
-      {
-        "title": "Ex-Manchester leader defends deals with Man City owners",
-        "url": "https://www.bbc.co.uk/news/articles/c9gkv7pdd620o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T15:25:06Z",
-        "summary": "Veteran former council leader Sir Richard Leese says the relationship has been beneficial to the city."
-      },
-      {
-        "title": "Would the Conservatives' plan make new houses \u00a350,000 cheaper?",
-        "url": "https://www.bbc.co.uk/news/articles/c32l4n8yprglo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T15:19:46Z",
-        "summary": "BBC Verify looks into the shadow chancellor's plan to cut some building regulations to reduce construction costs."
       }
     ],
     "saudi": [
@@ -292,6 +292,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Tories united behind Badenoch - but party still needs to win over voters",
+        "url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T16:31:06Z",
+        "summary": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls."
+      },
+      {
+        "title": "Israelis demand accountability over 7 October failures three years after attacks",
+        "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T16:00:18Z",
+        "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry."
+      },
       {
         "title": "Kemi Badenoch: 'Our drama queens have joined Reform'",
         "url": "https://www.bbc.co.uk/news/videos/cmzxjdly2elno?at_medium=RSS&at_campaign=rss",
