@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-07T04:57:01.174041Z",
+  "generated_at": "2026-10-07T05:29:55.382949Z",
   "articles": {
     "world": [
+      {
+        "title": "The Republican candidates walking a Trump tightrope",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T05:00:21Z",
+        "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party."
+      },
       {
         "title": "Green member behind Zionism motion named as 'close friend' of jailed al-Qaeda supporter in court",
         "url": "https://www.bbc.co.uk/news/articles/ckm23709pjz7o?at_medium=RSS&at_campaign=rss",
@@ -13,6 +19,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T21:18:45Z",
         "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds."
+      },
+      {
+        "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+        "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T19:53:45Z",
+        "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said."
       },
       {
         "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm4g1dxe50nyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T11:23:02Z",
         "summary": "The motion, which has divided senior party figures, backs a \"single democratic Palestinian state in all of historic Palestine\"."
-      },
-      {
-        "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-        "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T09:03:30Z",
-        "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday"
-      },
-      {
-        "title": "'Don't axe Youth Parliament' pleads teen member",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglm3381p1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T05:27:55Z",
-        "summary": "The government plans to no longer fund the scheme launched to get young people into politics."
       }
     ],
     "saudi": [
@@ -305,10 +305,22 @@
   "archive": {
     "world": [
       {
+        "title": "The Republican candidates walking a Trump tightrope",
+        "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T05:00:21Z",
+        "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party."
+      },
+      {
         "title": "Green member behind Zionism motion named as 'close friend' of jailed al-Qaeda supporter in court",
         "url": "https://www.bbc.co.uk/news/articles/ckm23709pjz7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T21:41:58Z",
         "summary": "Lubna Speitan offered to testify on behalf of Minh Quang Pham, who was jailed for 40 years after a Heathrow bomb plot investigation."
+      },
+      {
+        "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
+        "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T19:53:45Z",
+        "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said."
       },
       {
         "title": "A separatist party just won power in Quebec - what does that mean?",
