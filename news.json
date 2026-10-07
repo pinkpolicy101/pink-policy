@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-07T10:56:42.593234Z",
+  "generated_at": "2026-10-07T11:28:53.350994Z",
   "articles": {
     "world": [
       {
-        "title": "India's first bank rate hike since 2023 signals growing inflation concerns",
-        "url": "https://www.bbc.co.uk/news/articles/c5j9kngz3j1go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T10:44:02Z",
-        "summary": "The hike reflects a global shift towards tighter monetary policy as central banks battle inflation fuelled by Middle East conflict."
+        "title": "'Battle for soul of this nation is coming', says Badenoch",
+        "url": "https://www.bbc.co.uk/news/videos/c623d8j0x7n2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T11:23:22Z",
+        "summary": "The leader of the Conservative party opened her speech saying the current government would \"make every single person in this country poorer\"."
+      },
+      {
+        "title": "Reform internal inquiry says party did not break law over donations sting",
+        "url": "https://www.bbc.co.uk/news/articles/ckly020edl45o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T11:01:13Z",
+        "summary": "Officials were recorded by undercover journalists discussing a potential way to secure foreign donations to the party."
       },
       {
         "title": "Young Tories say how Britain could be better",
@@ -103,12 +109,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T13:48:49Z",
         "summary": "The bestselling author and former politician died on Monday at the age of 86."
-      },
-      {
-        "title": "Young Tories on if their party should do a deal with Reform UK",
-        "url": "https://www.bbc.co.uk/news/videos/c670p4n98d4no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T11:49:28Z",
-        "summary": "Young Tories on if their party should do a deal with Reform UK."
       },
       {
         "title": "Tories pledge \u00a310bn for British anti-missile defence system",
@@ -298,6 +298,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "'Battle for soul of this nation is coming', says Badenoch",
+        "url": "https://www.bbc.co.uk/news/videos/c623d8j0x7n2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T11:23:22Z",
+        "summary": "The leader of the Conservative party opened her speech saying the current government would \"make every single person in this country poorer\"."
+      },
+      {
+        "title": "Reform internal inquiry says party did not break law over donations sting",
+        "url": "https://www.bbc.co.uk/news/articles/ckly020edl45o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T11:01:13Z",
+        "summary": "Officials were recorded by undercover journalists discussing a potential way to secure foreign donations to the party."
+      },
       {
         "title": "India's first bank rate hike since 2023 signals growing inflation concerns",
         "url": "https://www.bbc.co.uk/news/articles/c5j9kngz3j1go?at_medium=RSS&at_campaign=rss",
