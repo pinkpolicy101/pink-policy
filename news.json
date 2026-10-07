@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T05:55:54.615265Z",
+  "generated_at": "2026-10-07T06:34:17.002425Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cm93z74e0n9zo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T05:00:21Z",
         "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party."
+      },
+      {
+        "title": "Battle of ideas looming in British politics, Badenoch to say",
+        "url": "https://www.bbc.co.uk/news/articles/c8r4ylp6657zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T04:42:55Z",
+        "summary": "The Tory leader has been seeking to reframe the way the public views her party, which has yet to recover in the polls since the last election."
       },
       {
         "title": "Green member behind Zionism motion named as 'close friend' of jailed al-Qaeda supporter in court",
@@ -25,6 +31,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T19:53:45Z",
         "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said."
+      },
+      {
+        "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T19:25:08Z",
+        "summary": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to \u00a34,500 for fabricated evidence."
       },
       {
         "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6kglm3381p1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T05:27:55Z",
         "summary": "The government plans to no longer fund the scheme launched to get young people into politics."
-      },
-      {
-        "title": "Watch: How Brazil's dramatic election unfolded",
-        "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T04:51:24Z",
-        "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
-      },
-      {
-        "title": "I'm a classic old-school Conservative, says Kemi Badenoch",
-        "url": "https://www.bbc.co.uk/news/articles/cx7vp6d5pgn1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T16:20:02Z",
-        "summary": "The Tory leader seeks to echo Margaret Thatcher as she sets out her guiding political principles."
       }
     ],
     "saudi": [
@@ -311,6 +311,12 @@
         "summary": "Some running in November's elections are deciding whether to distance themselves from an unpopular president who still dominates his party."
       },
       {
+        "title": "Battle of ideas looming in British politics, Badenoch to say",
+        "url": "https://www.bbc.co.uk/news/articles/c8r4ylp6657zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T04:42:55Z",
+        "summary": "The Tory leader has been seeking to reframe the way the public views her party, which has yet to recover in the polls since the last election."
+      },
+      {
         "title": "Green member behind Zionism motion named as 'close friend' of jailed al-Qaeda supporter in court",
         "url": "https://www.bbc.co.uk/news/articles/ckm23709pjz7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T21:41:58Z",
@@ -321,6 +327,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T19:53:45Z",
         "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said."
+      },
+      {
+        "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T19:25:08Z",
+        "summary": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to \u00a34,500 for fabricated evidence."
       },
       {
         "title": "A separatist party just won power in Quebec - what does that mean?",
