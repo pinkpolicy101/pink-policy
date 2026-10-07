@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T15:39:35.144913Z",
+  "generated_at": "2026-10-07T16:00:15.754583Z",
   "articles": {
     "world": [
       {
@@ -13,6 +13,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmwyq4yq0y6do?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T15:26:25Z",
         "summary": "It has emerged Lubna Speitan was listed in court documents as a \"close friend\" of a man later jailed for supporting al-Qaeda."
+      },
+      {
+        "title": "Badenoch pledges inheritance tax changes as she pitches Tories as 'no-nonsense' party",
+        "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T14:33:11Z",
+        "summary": "The Opposition leader made the pledge as she said the Tories face a \"battle for the soul of the this nation\"."
       },
       {
         "title": "The big test facing Badenoch after her conference speech",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c32l4n8yprglo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T15:19:46Z",
         "summary": "BBC Verify looks into the shadow chancellor's plan to cut some building regulations to reduce construction costs."
-      },
-      {
-        "title": "Artist 'taking legal advice' over Tories' use of Andy Burnham portrait",
-        "url": "https://www.bbc.co.uk/news/articles/cj62yg157prxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T14:53:32Z",
-        "summary": "Manchester illustrator Stan Chow says he was not asked permission for use of his cartoon."
       }
     ],
     "saudi": [
@@ -221,12 +221,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T10:12:36Z",
         "summary": "A medical expert advising her legal team says the murderer of Colleen Slemmer is communicating in a \"basic way\"."
-      },
-      {
-        "title": "Fort Hood attacker to be executed by firing squad - a first for US military since World War Two",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ezkkkrpy1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T02:06:23Z",
-        "summary": "Nidal Malik Hasan killed 13 unarmed soldiers and injured another 32 in the deadliest ever non-combat attack on an American military base."
       },
       {
         "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
@@ -309,6 +303,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmwyq4yq0y6do?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T15:26:25Z",
         "summary": "It has emerged Lubna Speitan was listed in court documents as a \"close friend\" of a man later jailed for supporting al-Qaeda."
+      },
+      {
+        "title": "Badenoch pledges inheritance tax changes as she pitches Tories as 'no-nonsense' party",
+        "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T14:33:11Z",
+        "summary": "The Opposition leader made the pledge as she said the Tories face a \"battle for the soul of the this nation\"."
       },
       {
         "title": "The big test facing Badenoch after her conference speech",
