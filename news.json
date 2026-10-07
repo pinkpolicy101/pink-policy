@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T13:03:21.762289Z",
+  "generated_at": "2026-10-07T13:32:21.911847Z",
   "articles": {
     "world": [
       {
@@ -13,6 +13,12 @@
         "url": "https://www.bbc.co.uk/news/videos/cme3x1d7d9e4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T12:11:27Z",
         "summary": "Kemi Badenoch spoke of dividing lines between the Conservative party and Reform UK, vowing to not allow a coalition."
+      },
+      {
+        "title": "Widdecombe suspect accused of trying to break into Farage's home",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0lj6v3g9vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T11:53:50Z",
+        "summary": "Joshua Kerry, 28, appeared at Westminster Magistrates' Court and was remanded in custody."
       },
       {
         "title": "'Battle for soul of this nation is coming', says Badenoch",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cj62yg157prxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T14:53:32Z",
         "summary": "Manchester illustrator Stan Chow says he was not asked permission for use of his cartoon."
-      },
-      {
-        "title": "Tensions exposed among Greens by 'Zionism is racism' conference vote",
-        "url": "https://www.bbc.co.uk/news/articles/cjr4yx9663q6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T14:40:20Z",
-        "summary": "What may be troubling for the Greens institutionally is what this episode reveals about some of the dynamics in the party."
       }
     ],
     "saudi": [
@@ -303,6 +303,12 @@
         "url": "https://www.bbc.co.uk/news/videos/cme3x1d7d9e4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T12:11:27Z",
         "summary": "Kemi Badenoch spoke of dividing lines between the Conservative party and Reform UK, vowing to not allow a coalition."
+      },
+      {
+        "title": "Widdecombe suspect accused of trying to break into Farage's home",
+        "url": "https://www.bbc.co.uk/news/articles/ckj0lj6v3g9vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T11:53:50Z",
+        "summary": "Joshua Kerry, 28, appeared at Westminster Magistrates' Court and was remanded in custody."
       },
       {
         "title": "'Battle for soul of this nation is coming', says Badenoch",
