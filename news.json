@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-07T10:30:11.440455Z",
+  "generated_at": "2026-10-07T10:56:42.593234Z",
   "articles": {
     "world": [
+      {
+        "title": "India's first bank rate hike since 2023 signals growing inflation concerns",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9kngz3j1go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T10:44:02Z",
+        "summary": "The hike reflects a global shift towards tighter monetary policy as central banks battle inflation fuelled by Middle East conflict."
+      },
       {
         "title": "Young Tories say how Britain could be better",
         "url": "https://www.bbc.co.uk/news/videos/cwly32329mxeo?at_medium=RSS&at_campaign=rss",
@@ -21,7 +27,7 @@
         "summary": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row."
       },
       {
-        "title": "India's opposition leader dragged onto bus as police break up protest",
+        "title": "India's opposition leader dragged on to bus as police break up protest",
         "url": "https://www.bbc.co.uk/news/articles/crpdgvx82831o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T07:45:47Z",
         "summary": "Opposition leaders allege that CEC Gyanesh Kumar manipulated voter rolls to favour PM Narendra Modi's party."
@@ -43,12 +49,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T21:18:45Z",
         "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds."
-      },
-      {
-        "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
-        "url": "https://www.bbc.co.uk/news/articles/cr3wvq965dngo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T19:53:45Z",
-        "summary": "David Rush, who also confessed to providing secrets to a foreign government, had revealed the existence of a \"clandestine human source\", prosecutors said."
       },
       {
         "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
@@ -298,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "India's first bank rate hike since 2023 signals growing inflation concerns",
+        "url": "https://www.bbc.co.uk/news/articles/c5j9kngz3j1go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T10:44:02Z",
+        "summary": "The hike reflects a global shift towards tighter monetary policy as central banks battle inflation fuelled by Middle East conflict."
+      },
       {
         "title": "Young Tories say how Britain could be better",
         "url": "https://www.bbc.co.uk/news/videos/cwly32329mxeo?at_medium=RSS&at_campaign=rss",
