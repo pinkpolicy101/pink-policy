@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T07:00:18.123146Z",
+  "generated_at": "2026-10-07T07:31:38.747945Z",
   "articles": {
     "world": [
       {
@@ -13,6 +13,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T06:45:59Z",
         "summary": "Phil Davies told BBC Wales the motion would not improve the lives of the Palestinian people."
+      },
+      {
+        "title": "The candidates hoping to be London's second Tory mayor",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lvjlp0d5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T05:14:46Z",
+        "summary": "The Tory party has closed applications to be their candidate for mayor and there are four hopefuls."
       },
       {
         "title": "The Republican candidates walking a Trump tightrope",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm4g1dxe50nyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T11:23:02Z",
         "summary": "The motion, which has divided senior party figures, backs a \"single democratic Palestinian state in all of historic Palestine\"."
-      },
-      {
-        "title": "Watch: How Spain's housing crisis has resulted in an early general election",
-        "url": "https://www.bbc.co.uk/news/videos/c83vqk2k2k20o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T09:03:30Z",
-        "summary": "A series of measures to tackle the housing crisis were defeated in parliament on Friday"
       }
     ],
     "saudi": [
@@ -219,7 +219,7 @@
       {
         "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
         "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T00:56:59Z",
+        "published_at": "2026-10-07T07:07:22Z",
         "summary": "Experts and lawyers called the apparent recovery unprecedented, noting she is believed to be the only known person to survive a lethal injection."
       },
       {
@@ -309,6 +309,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T06:45:59Z",
         "summary": "Phil Davies told BBC Wales the motion would not improve the lives of the Palestinian people."
+      },
+      {
+        "title": "The candidates hoping to be London's second Tory mayor",
+        "url": "https://www.bbc.co.uk/news/articles/cwe8lvjlp0d5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T05:14:46Z",
+        "summary": "The Tory party has closed applications to be their candidate for mayor and there are four hopefuls."
       },
       {
         "title": "The Republican candidates walking a Trump tightrope",
