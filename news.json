@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-07T19:00:14.019189Z",
+  "generated_at": "2026-10-07T19:29:19.742721Z",
   "articles": {
     "world": [
       {
@@ -217,6 +217,12 @@
     ],
     "us": [
       {
+        "title": "Western civilisation at risk of 'atrophy, servitude and decline', Rubio says",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxl5696l5xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T18:47:40Z",
+        "summary": "In a speech overlooking the Acropolis, the US Secretary of State also said the US believes Europe \"can awaken from its long slumber\"."
+      },
+      {
         "title": "US death row inmate Christa Pike awake and speaking after failed execution, lawyers say",
         "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T10:12:36Z",
@@ -245,12 +251,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw1m4l3jrxlgo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T19:49:17Z",
         "summary": "US authorities say the 30-year-old has been charged with conspiracy to murder persons in a foreign country. Six children died in the attack."
-      },
-      {
-        "title": "Amazon wins global rights to stream Emmys in six-year deal",
-        "url": "https://www.bbc.co.uk/news/articles/cqd09g77mygko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T19:08:21Z",
-        "summary": "The gala is leaving traditional US broadcast networks for live worldwide streaming."
       },
       {
         "title": "Trump on Iran: 'Let them take out LA, let them take out San Diego'",
@@ -1694,6 +1694,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Western civilisation at risk of 'atrophy, servitude and decline', Rubio says",
+        "url": "https://www.bbc.co.uk/news/articles/cmzxl5696l5xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T18:47:40Z",
+        "summary": "In a speech overlooking the Acropolis, the US Secretary of State also said the US believes Europe \"can awaken from its long slumber\"."
+      },
       {
         "title": "US death row inmate Christa Pike conscious after failed execution, lawyers say",
         "url": "https://www.bbc.co.uk/news/articles/c8kgezxn54qko?at_medium=RSS&at_campaign=rss",
