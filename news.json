@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T05:29:29.276438Z",
+  "generated_at": "2026-10-08T05:56:09.826220Z",
   "articles": {
     "world": [
       {
@@ -9,10 +9,16 @@
         "summary": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany."
       },
       {
-        "title": "France's school protests: what lies behind the anger",
+        "title": "France's school protests: What lies behind the anger",
         "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T03:38:46Z",
         "summary": "Students' blockades and marches spring from real grievances \u2013 and from France's habit of settling policy on the street."
+      },
+      {
+        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T23:18:40Z",
+        "summary": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies."
       },
       {
         "title": "Former Venezuelan President Nicol\u00e1s Maduro expected to face more charges this week",
@@ -175,15 +181,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T23:29:02Z",
         "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month."
-      },
-      {
-        "title": "It's been a terrible year for farming, Jeremy Clarkson tells Tory conference",
-        "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T17:46:59Z",
-        "summary": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle."
       }
     ],
     "saudi": [
+      {
+        "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T03:32:35Z",
+        "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict."
+      },
       {
         "title": "Yemeni military says it has 'secured' Red Sea waterway",
         "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
@@ -291,6 +297,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T03:38:46Z",
         "summary": "Students' blockades and marches spring from real grievances \u2013 and from France's habit of settling policy on the street."
+      },
+      {
+        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T23:18:40Z",
+        "summary": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies."
       },
       {
         "title": "Burnham to hold security talks with German chancellor in Berlin",
@@ -1650,6 +1662,12 @@
       }
     ],
     "saudi": [
+      {
+        "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T03:32:35Z",
+        "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict."
+      },
       {
         "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
         "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
