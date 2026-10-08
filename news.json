@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T14:58:12.454102Z",
+  "generated_at": "2026-10-08T15:32:18.213981Z",
   "articles": {
     "world": [
       {
         "title": "UK and Germany will face threats together, says Burnham in Berlin",
         "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T14:03:10Z",
+        "published_at": "2026-10-08T15:25:08Z",
         "summary": "Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\"."
       },
       {
@@ -48,7 +48,7 @@
         "title": "Former Venezuelan President Nicol\u00e1s Maduro expected to face more charges this week",
         "url": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T22:50:00Z",
-        "summary": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports."
+        "summary": "Federal prosecutors in New York filed an updated indictment on Thursday"
       },
       {
         "title": "Tories united behind Badenoch - but party still needs to win over voters",
@@ -223,16 +223,22 @@
     ],
     "us": [
       {
-        "title": "What happened in Christa Pike's failed US execution, and how did she survive?",
-        "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T10:04:29Z",
-        "summary": "The murderer of Colleen Slemmer is said to be walking and talking in limited ways after two doses of lethal injection."
+        "title": "Venezuela's ex-leader Nicol\u00e1s Maduro charged with conspiracy to commit torture",
+        "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T15:07:59Z",
+        "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power."
       },
       {
         "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T08:13:52Z",
+        "published_at": "2026-10-08T15:02:32Z",
         "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections."
+      },
+      {
+        "title": "What happened in Christa Pike's failed US execution, and how did she survive?",
+        "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T10:04:29Z",
+        "summary": "The murderer of Colleen Slemmer is said to be walking and talking in limited ways after two doses of lethal injection."
       },
       {
         "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
@@ -1736,6 +1742,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Venezuela's ex-leader Nicol\u00e1s Maduro charged with conspiracy to commit torture",
+        "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T15:07:59Z",
+        "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power."
+      },
       {
         "title": "What happened in Christa Pike's failed US execution, and how did she survive?",
         "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
