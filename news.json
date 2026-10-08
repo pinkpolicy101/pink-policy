@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-07T23:53:22.891281Z",
+  "generated_at": "2026-10-08T00:38:33.670878Z",
   "articles": {
     "world": [
+      {
+        "title": "Burnham to hold security talks with German chancellor in Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T23:01:31Z",
+        "summary": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany."
+      },
       {
         "title": "Tories united behind Badenoch - but party still needs to win over voters",
         "url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm70pwp8kw6po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T16:28:28Z",
         "summary": "Facing questions in the Stormont assembly, O'Neill said she was \"proud\" to stand with the residents and \"will continue to stand with them\"."
-      },
-      {
-        "title": "No 10 insists RAF Fairford is safe after US withdraws bombers",
-        "url": "https://www.bbc.co.uk/news/articles/cmy56yvv1kxxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T16:13:35Z",
-        "summary": "US media reported a new threat led to the bombers being removed on Sunday, following an incident near the base last week."
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Burnham to hold security talks with German chancellor in Berlin",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T23:01:31Z",
+        "summary": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany."
+      },
       {
         "title": "Tories united behind Badenoch - but party still needs to win over voters",
         "url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
