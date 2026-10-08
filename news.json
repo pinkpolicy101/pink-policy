@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-08T09:30:51.304233Z",
+  "generated_at": "2026-10-08T09:58:04.170029Z",
   "articles": {
     "world": [
+      {
+        "title": "Clubs fear political interference in Man City appeal",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T09:16:56Z",
+        "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments."
+      },
       {
         "title": "Burnham to meet German chancellor in Berlin to discuss security and EU ties",
         "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T13:48:49Z",
         "summary": "The bestselling author and former politician died on Monday at the age of 86."
-      },
-      {
-        "title": "Tories pledge \u00a310bn for British anti-missile defence system",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T11:20:36Z",
-        "summary": "The Conservatives say their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions."
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Clubs fear political interference in Man City appeal",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T09:16:56Z",
+        "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments."
+      },
       {
         "title": "Holborn and St Pancras by-election gets under way",
         "url": "https://www.bbc.co.uk/news/articles/ck24059mlzm8o?at_medium=RSS&at_campaign=rss",
