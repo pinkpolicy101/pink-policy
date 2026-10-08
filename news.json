@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T16:33:35.330362Z",
+  "generated_at": "2026-10-08T16:58:30.774218Z",
   "articles": {
     "world": [
       {
@@ -229,6 +229,12 @@
         "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power."
       },
       {
+        "title": "US deportations to African countries unlawful and exploit suffering - rights group",
+        "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T15:44:02Z",
+        "summary": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data."
+      },
+      {
         "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T15:02:32Z",
@@ -239,12 +245,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T10:04:29Z",
         "summary": "The murderer of Colleen Slemmer is said to be walking and talking in limited ways after two doses of lethal injection."
-      },
-      {
-        "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
-        "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T03:02:06Z",
-        "summary": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections."
       },
       {
         "title": "Watch: What we know about Christa Pike's \u2018shock\u2019 recovery in hospital",
@@ -1742,6 +1742,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US deportations to African countries unlawful and exploit suffering - rights group",
+        "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T15:44:02Z",
+        "summary": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data."
+      },
       {
         "title": "Venezuela's ex-leader Nicol\u00e1s Maduro charged with conspiracy to commit torture",
         "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
