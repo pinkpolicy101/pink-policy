@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T02:54:49.045942Z",
+  "generated_at": "2026-10-08T03:29:42.223157Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T23:01:31Z",
         "summary": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany."
+      },
+      {
+        "title": "Former Venezuelan President Nicol\u00e1s Maduro expected to face more charges this week",
+        "url": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T22:50:00Z",
+        "summary": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports."
       },
       {
         "title": "Tories united behind Badenoch - but party still needs to win over voters",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T17:23:28Z",
         "summary": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham."
-      },
-      {
-        "title": "First minister rejects call to resign over Drumcree row",
-        "url": "https://www.bbc.co.uk/news/articles/cm70pwp8kw6po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T16:28:28Z",
-        "summary": "Facing questions in the Stormont assembly, O'Neill said she was \"proud\" to stand with the residents and \"will continue to stand with them\"."
       }
     ],
     "saudi": [
@@ -216,6 +216,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T03:02:06Z",
+        "summary": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections."
+      },
       {
         "title": "Watch: What we know about Christa Pike's \u2018shock\u2019 recovery in hospital",
         "url": "https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss",
@@ -285,6 +291,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T23:01:31Z",
         "summary": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany."
+      },
+      {
+        "title": "Former Venezuelan President Nicol\u00e1s Maduro expected to face more charges this week",
+        "url": "https://www.bbc.co.uk/news/articles/cx62y37r1p8eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-07T22:50:00Z",
+        "summary": "The new charges are expected to accuse Maduro and his wife of playing a role in the torture of Americans in Venezuelan prisons, US media reports."
       },
       {
         "title": "Tories united behind Badenoch - but party still needs to win over voters",
@@ -1688,6 +1700,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T03:02:06Z",
+        "summary": "Lawyers for Jamaal Howard had asked a judge to pause the execution after Christa Pike's botched lethal injections."
+      },
       {
         "title": "From brain dead to \u2018shock\u2019 recovery - what we know about Christa Pike",
         "url": "https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss",
