@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-08T03:56:54.619281Z",
+  "generated_at": "2026-10-08T04:30:09.173095Z",
   "articles": {
     "world": [
+      {
+        "title": "France's school protests: what lies behind the anger",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T03:38:46Z",
+        "summary": "Students' blockades and marches spring from real grievances \u2013 and from France's habit of settling policy on the street."
+      },
       {
         "title": "Burnham to hold security talks with German chancellor in Berlin",
         "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq0ldwr166ggo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T17:46:59Z",
         "summary": "The former Top Gear presenter and star of Clarkson's Farm also said farmers were being \"attacked\" from every angle."
-      },
-      {
-        "title": "Shadow chancellor vows to cut at least one tax in every Tory budget",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T17:23:28Z",
-        "summary": "Shadow ministers unveiled a series of policies on day two of the Conservative Party conference in Birmingham."
       }
     ],
     "saudi": [
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "France's school protests: what lies behind the anger",
+        "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T03:38:46Z",
+        "summary": "Students' blockades and marches spring from real grievances \u2013 and from France's habit of settling policy on the street."
+      },
       {
         "title": "Burnham to hold security talks with German chancellor in Berlin",
         "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
