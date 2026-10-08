@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-08T06:36:43.328622Z",
+  "generated_at": "2026-10-08T07:02:18.759738Z",
   "articles": {
     "world": [
+      {
+        "title": "Holborn and St Pancras by-election gets under way",
+        "url": "https://www.bbc.co.uk/news/articles/ck24059mlzm8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T06:00:40Z",
+        "summary": "Voters in north London are going to the polls to choose a new MP after Sir Keir Starmer resigned."
+      },
       {
         "title": "Burnham to hold security talks with German chancellor in Berlin",
         "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cjy56yxxwy3po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T08:32:44Z",
         "summary": "Labour MPs and the European Greens have demanded clarity from the Green Party over a \"Zionism is racism\" motion."
-      },
-      {
-        "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
-        "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T23:29:02Z",
-        "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month."
       }
     ],
     "saudi": [
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Holborn and St Pancras by-election gets under way",
+        "url": "https://www.bbc.co.uk/news/articles/ck24059mlzm8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T06:00:40Z",
+        "summary": "Voters in north London are going to the polls to choose a new MP after Sir Keir Starmer resigned."
+      },
       {
         "title": "France's school protests: what lies behind the anger",
         "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
