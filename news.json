@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-08T21:29:39.085478Z",
+  "generated_at": "2026-10-08T21:56:24.360376Z",
   "articles": {
     "world": [
       {
@@ -223,9 +223,21 @@
     ],
     "us": [
       {
+        "title": "Fort Hood shooter's execution by firing squad will be livestreamed, Pentagon says",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T21:55:22Z",
+        "summary": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday."
+      },
+      {
+        "title": "What Americans think about the death penalty",
+        "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T21:49:14Z",
+        "summary": "The BBC spoke to Americans and international tourists in Washington DC about their views on the death penalty following the botched execution of Christa Pike in Tennessee."
+      },
+      {
         "title": "White House blocks Microsoft from foreign worker hiring program",
         "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T19:57:04Z",
+        "published_at": "2026-10-08T21:37:35Z",
         "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad."
       },
       {
@@ -271,22 +283,10 @@
         "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump\u2019s presidency."
       },
       {
-        "title": "What prompted the US bombers to leave RAF Fairford?",
-        "url": "https://www.bbc.co.uk/news/articles/ck87z09xe82qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T21:57:26Z",
-        "summary": "The mass evacuation of American bombers from the UK points to concern in the Pentagon, our security correspondent writes."
-      },
-      {
         "title": "Watch: What caused the US to remove its bombers from UK base in such a hurry?",
         "url": "https://www.bbc.co.uk/news/videos/cq99zvdk5235o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T15:47:35Z",
         "summary": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations in America."
-      },
-      {
-        "title": "'Not again': Arrest of US marine for murder reignites protests in Japan's Okinawa",
-        "url": "https://www.bbc.co.uk/news/articles/cwgkv70gg1j3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T08:22:41Z",
-        "summary": "For many locals on this island, the arrest has brought decades of frustration back to the fore."
       }
     ]
   },
@@ -1754,6 +1754,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Fort Hood shooter's execution by firing squad will be livestreamed, Pentagon says",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T21:55:22Z",
+        "summary": "\"We'll make sure that people are able to watch it,\" the US Defence Secretary Pete Hegseth said on Thursday."
+      },
+      {
+        "title": "What Americans think about the death penalty",
+        "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T21:49:14Z",
+        "summary": "The BBC spoke to Americans and international tourists in Washington DC about their views on the death penalty following the botched execution of Christa Pike in Tennessee."
+      },
       {
         "title": "White House blocks Microsoft from foreign worker hiring program",
         "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
