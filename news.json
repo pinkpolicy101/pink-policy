@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-08T07:57:16.470199Z",
+  "generated_at": "2026-10-08T08:32:02.936950Z",
   "articles": {
     "world": [
+      {
+        "title": "Burnham to meet German chancellor in Berlin to discuss security and EU ties",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T08:15:56Z",
+        "summary": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during the PM's first official visit to Germany."
+      },
       {
         "title": "Holborn and St Pancras by-election gets under way",
         "url": "https://www.bbc.co.uk/news/articles/ck24059mlzm8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T06:00:40Z",
         "summary": "Voters in north London are going to the polls to choose a new MP after Sir Keir Starmer resigned."
-      },
-      {
-        "title": "Burnham to hold security talks with German chancellor in Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T04:45:56Z",
-        "summary": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during Burnham's first official visit to Germany."
       },
       {
         "title": "'Come all the way' back to EU, French finance minister tells UK",
@@ -223,6 +223,12 @@
     ],
     "us": [
       {
+        "title": "Christa Pike now walking after US execution went wrong, lawyer tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T08:13:52Z",
+        "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections."
+      },
+      {
         "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
         "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T03:02:06Z",
@@ -233,24 +239,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T20:01:05Z",
         "summary": "The US death row inmate's legal team said at a press conference that she is now \"conscious and speaking\" after her failed execution."
-      },
-      {
-        "title": "Western civilisation at risk of 'atrophy, servitude and decline', Rubio says",
-        "url": "https://www.bbc.co.uk/news/articles/cmzxl5696l5xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T18:47:40Z",
-        "summary": "In a speech overlooking the Acropolis, the US Secretary of State also said the US believes Europe \"can awaken from its long slumber\"."
-      },
-      {
-        "title": "Drinking and consent - Cornell rape allegations expose 'loopholes' in laws",
-        "url": "https://www.bbc.co.uk/news/articles/c9e8l0ep8d1mo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T20:40:01Z",
-        "summary": "The BBC speaks to experts about current US state sexual assault laws and why some believe changing them will help alleged victims."
-      },
-      {
-        "title": "White House defends Trump comment to let Iran 'take out' LA and San Diego",
-        "url": "https://www.bbc.co.uk/news/articles/c6r7yn8pknyxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T20:15:31Z",
-        "summary": "Gavin Newsom called the remarks \"deranged\", but the White House said Trump was warning of the risk of a nuclear Iran."
       },
       {
         "title": "Ex-US spy who stashed gold bars in his home admits to $200m scam",
@@ -1736,6 +1724,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Christa Pike now walking after US execution went wrong, lawyer tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T08:13:52Z",
+        "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections."
+      },
       {
         "title": "Texas carries out first US execution since Christa Pike's botched lethal injections",
         "url": "https://www.bbc.co.uk/news/articles/cw4g1j2z5zvzo?at_medium=RSS&at_campaign=rss",
