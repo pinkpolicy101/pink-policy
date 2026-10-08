@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-08T11:56:21.094396Z",
+  "generated_at": "2026-10-08T12:37:08.390234Z",
   "articles": {
     "world": [
       {
-        "title": "German chancellor greets Burnham with military honours on Berlin visit",
+        "title": "Italy overhauls electoral system after fiercely contested debate",
+        "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T12:32:12Z",
+        "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power."
+      },
+      {
+        "title": "UK and Germany will face threats together, says Burnham in Berlin",
         "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T10:48:15Z",
-        "summary": "Downing Street said deeper co-operation in the face of rising hybrid threats from Russia would be high on the agenda during the PM's first official visit to Germany."
+        "published_at": "2026-10-08T12:14:51Z",
+        "summary": "Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\"."
       },
       {
         "title": "Clubs fear political interference in Man City appeal",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T15:20:37Z",
         "summary": "Use our interactive tracker to explore the latest migration statistics for the UK"
-      },
-      {
-        "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
-        "url": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T13:48:49Z",
-        "summary": "The bestselling author and former politician died on Monday at the age of 86."
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Italy overhauls electoral system after fiercely contested debate",
+        "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T12:32:12Z",
+        "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power."
+      },
       {
         "title": "Clubs fear political interference in Man City appeal",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss",
