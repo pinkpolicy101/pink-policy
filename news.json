@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-09T17:27:41.640140Z",
+  "generated_at": "2026-10-09T17:55:51.845606Z",
   "articles": {
     "world": [
+      {
+        "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
+        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T17:43:03Z",
+        "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
+      },
       {
         "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
         "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T17:14:16Z",
         "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\""
-      },
-      {
-        "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
-        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T17:12:03Z",
-        "summary": "The European Union described the move against the International Criminal Court as \"deeply regrettable\"."
       },
       {
         "title": "Burnham promises to curb non-compete rules in job contracts",
@@ -219,8 +219,14 @@
       {
         "title": "US unveils sanctions on ICC in move court condems as 'assault on rule of law'",
         "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T17:12:03Z",
-        "summary": "The European Union described the move against the International Criminal Court as \"deeply regrettable\"."
+        "published_at": "2026-10-09T17:43:03Z",
+        "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
+      },
+      {
+        "title": "US immigration officials defend ICE agents who shot man in same car as child",
+        "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T17:36:09Z",
+        "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said."
       },
       {
         "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
@@ -233,12 +239,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T21:49:14Z",
         "summary": "The BBC spoke to Americans and international tourists in Washington DC about their views on the death penalty following the botched execution of Christa Pike in Tennessee."
-      },
-      {
-        "title": "White House blocks Microsoft from foreign worker hiring programme",
-        "url": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T21:37:35Z",
-        "summary": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad."
       },
       {
         "title": "Venezuela's ex-leader Nicol\u00e1s Maduro charged with conspiracy to commit torture",
@@ -1868,6 +1868,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US immigration officials defend ICE agents who shot man in same car as child",
+        "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T17:36:09Z",
+        "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said."
+      },
       {
         "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
         "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
