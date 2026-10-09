@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-09T18:31:29.939855Z",
+  "generated_at": "2026-10-09T18:57:55.764101Z",
   "articles": {
     "world": [
       {
         "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
         "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T17:43:03Z",
+        "published_at": "2026-10-09T18:40:10Z",
         "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
       },
       {
@@ -217,9 +217,15 @@
     ],
     "us": [
       {
+        "title": "Commentator Katie Zacharia picked as new White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T18:52:06Z",
+        "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group."
+      },
+      {
         "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
         "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T17:43:03Z",
+        "published_at": "2026-10-09T18:40:10Z",
         "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
       },
       {
@@ -1868,6 +1874,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Commentator Katie Zacharia picked as new White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T18:52:06Z",
+        "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group."
+      },
       {
         "title": "US immigration officials defend ICE agents who shot man in same car as child",
         "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
