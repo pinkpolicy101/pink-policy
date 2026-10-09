@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-09T14:34:04.533307Z",
+  "generated_at": "2026-10-09T14:59:06.221613Z",
   "articles": {
     "world": [
       {
         "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
         "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T14:27:47Z",
-        "summary": "Deputy party leader Daisy Cooper says the vast majority of our MPs support Ed... and are furious at this distraction.\""
+        "published_at": "2026-10-09T14:42:06Z",
+        "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\""
+      },
+      {
+        "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
+        "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T14:35:31Z",
+        "summary": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman."
       },
       {
         "title": "Polanski vows to stay as Green leader as he faces criticism after by-election defeat",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T19:25:08Z",
         "summary": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to \u00a34,500 for fabricated evidence."
-      },
-      {
-        "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
-        "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T19:17:44Z",
-        "summary": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements."
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
+        "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T14:35:31Z",
+        "summary": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman."
+      },
       {
         "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
         "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
