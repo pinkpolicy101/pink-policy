@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-09T10:31:26.258585Z",
+  "generated_at": "2026-10-09T10:57:02.683150Z",
   "articles": {
     "world": [
       {
         "title": "Polanski vows to stay on as Green leader as criticism mounts",
         "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T10:11:22Z",
+        "published_at": "2026-10-09T10:56:34Z",
         "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
       },
       {
         "title": "Labour sees off Green challenge to win Holborn by-election",
         "url": "https://www.bbc.co.uk/news/articles/cqly3xjy1g11o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T09:32:22Z",
+        "published_at": "2026-10-09T10:31:29Z",
         "summary": "Labour's Sagal Abdi-Wali beats Green Party leader Zack Polanski to hold the north London seat."
+      },
+      {
+        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T10:07:04Z",
+        "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government."
       },
       {
         "title": "Polanski challenged over whether he thinks Israel has right to exist",
@@ -51,12 +57,6 @@
         "summary": "BBC Political editor Chris Mason discusses the by-election outcome and what it means for the Greens Party."
       },
       {
-        "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-        "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T19:10:06Z",
-        "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election."
-      },
-      {
         "title": "UK and Germany will face threats together, says Burnham in Berlin",
         "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T15:25:08Z",
@@ -85,12 +85,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T04:02:26Z",
         "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world."
-      },
-      {
-        "title": "France's school protests: What lies behind the anger",
-        "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T03:38:46Z",
-        "summary": "Students' blockades and marches spring from real grievances \u2013 and from France's habit of settling policy on the street."
       },
       {
         "title": "Tories united behind Badenoch - but party still needs to win over voters",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T15:20:37Z",
         "summary": "Use our interactive tracker to explore the latest migration statistics for the UK"
+      },
+      {
+        "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T13:48:49Z",
+        "summary": "The bestselling author and former politician died on Monday at the age of 86."
       }
     ],
     "saudi": [
@@ -285,6 +285,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T10:11:22Z",
         "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
+      },
+      {
+        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T10:07:04Z",
+        "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government."
       },
       {
         "title": "Polanski asked if he thinks Israel has a right to exist",
