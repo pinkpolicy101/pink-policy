@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-09T09:57:02.472658Z",
+  "generated_at": "2026-10-09T10:31:26.258585Z",
   "articles": {
     "world": [
+      {
+        "title": "Polanski vows to stay on as Green leader as criticism mounts",
+        "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T10:11:22Z",
+        "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
+      },
       {
         "title": "Labour sees off Green challenge to win Holborn by-election",
         "url": "https://www.bbc.co.uk/news/articles/cqly3xjy1g11o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T09:32:22Z",
         "summary": "Labour's Sagal Abdi-Wali beats Green Party leader Zack Polanski to hold the north London seat."
-      },
-      {
-        "title": "I would not have voted for Zionism motion, Polanski says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T08:48:53Z",
-        "summary": "A motion declaring Zionism a form of racism was passed by Green Party members on Sunday."
       },
       {
         "title": "Polanski challenged over whether he thinks Israel has right to exist",
@@ -185,6 +185,12 @@
     ],
     "saudi": [
       {
+        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T10:07:04Z",
+        "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government."
+      },
+      {
         "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
         "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T03:32:35Z",
@@ -195,18 +201,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T07:43:07Z",
         "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait."
-      },
-      {
-        "title": "Saudi Arabia urged to spare man sentenced to death over Facebook post",
-        "url": "https://www.bbc.co.uk/news/articles/cq14d438vx24o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T22:28:02Z",
-        "summary": "Anojan Sivarasa faces execution after he was found guilty of blasphemy over a Facebook comment."
-      },
-      {
-        "title": "Yemen's government announces all-out war to reclaim land from Houthis",
-        "url": "https://www.bbc.co.uk/news/articles/cx8dzj9vpp01o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T16:51:30Z",
-        "summary": "The Yemeni president's announcement comes amid an exchange of strikes between the Houthis and the Saudi-led coalition."
       },
       {
         "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -286,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Polanski vows to stay on as Green leader as criticism mounts",
+        "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T10:11:22Z",
+        "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
+      },
       {
         "title": "Polanski asked if he thinks Israel has a right to exist",
         "url": "https://www.bbc.co.uk/news/videos/ckq6ngrzpdzlo?at_medium=RSS&at_campaign=rss",
@@ -1752,6 +1752,12 @@
       }
     ],
     "saudi": [
+      {
+        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T10:07:04Z",
+        "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government."
+      },
       {
         "title": "Three people killed in Houthi attacks on Saudi Arabia airports, officials say",
         "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
