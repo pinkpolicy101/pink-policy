@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-09T15:57:58.835191Z",
+  "generated_at": "2026-10-09T16:30:11.336369Z",
   "articles": {
     "world": [
+      {
+        "title": "Burnham promises to curb non-compete rules in job contracts",
+        "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T16:15:30Z",
+        "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\"."
+      },
+      {
+        "title": "US imposes sanctions on International Criminal Court",
+        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T16:06:59Z",
+        "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate."
+      },
       {
         "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
         "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
@@ -25,12 +37,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T13:50:25Z",
         "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government."
-      },
-      {
-        "title": "Burnham promises to curb non-compete rules in job contracts",
-        "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T13:02:47Z",
-        "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\"."
       },
       {
         "title": "Polanski challenged over whether he thinks Israel has right to exist",
@@ -91,12 +97,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T15:25:08Z",
         "summary": "Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\"."
-      },
-      {
-        "title": "Italy approves elections overhaul as opposition accuse Meloni of 'scam'",
-        "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T12:32:12Z",
-        "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power."
       },
       {
         "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
@@ -217,12 +217,6 @@
     ],
     "us": [
       {
-        "title": "Hurricane Isaias strengthens to a major category three storm",
-        "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T12:54:28Z",
-        "summary": "El Ni\u00f1o has led to a quiet season so far but the first Atlantic hurricane of the year is set to make landfall later on Friday into Saturday across the US Gulf Coast."
-      },
-      {
         "title": "What Americans think about the death penalty",
         "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T21:49:14Z",
@@ -269,17 +263,17 @@
         "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T23:40:58Z",
         "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump\u2019s presidency."
-      },
-      {
-        "title": "Watch: What caused the US to remove its bombers from UK base in such a hurry?",
-        "url": "https://www.bbc.co.uk/news/videos/cq99zvdk5235o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T15:47:35Z",
-        "summary": "The Pentagon confirmed on Sunday it had removed its bombers - thought to be about a dozen B-1s - from the base back to their home stations in America."
       }
     ]
   },
   "archive": {
     "world": [
+      {
+        "title": "US imposes sanctions on International Criminal Court",
+        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T16:06:59Z",
+        "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate."
+      },
       {
         "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
         "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
