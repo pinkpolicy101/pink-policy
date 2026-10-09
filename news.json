@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-09T11:28:20.276017Z",
+  "generated_at": "2026-10-09T11:56:22.392848Z",
   "articles": {
     "world": [
       {
         "title": "Polanski vows to stay on as Green leader as criticism mounts",
         "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T11:15:38Z",
+        "published_at": "2026-10-09T11:42:48Z",
         "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
+      },
+      {
+        "title": "France promises 3,000 extra teachers in first step to calm student protests",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T11:35:00Z",
+        "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students."
       },
       {
         "title": "'Deeply personal moment': Watch Sagal Abdi-Wali's by-election victory speech",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T15:20:37Z",
         "summary": "Use our interactive tracker to explore the latest migration statistics for the UK"
-      },
-      {
-        "title": "Queen pays tribute to 'irrepressible' Jeffrey Archer",
-        "url": "https://www.bbc.co.uk/news/articles/cm3wvq4jj64yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T13:48:49Z",
-        "summary": "The bestselling author and former politician died on Monday at the age of 86."
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "France promises 3,000 extra teachers in first step to calm student protests",
+        "url": "https://www.bbc.co.uk/news/articles/c6vg98lw017po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T11:35:00Z",
+        "summary": "Education minister Edouard Geffray makes the offer after another day of sometimes violent demonstrations by high-school students."
+      },
       {
         "title": "'Deeply personal moment': Watch Sagal Abdi-Wali's by-election victory speech",
         "url": "https://www.bbc.co.uk/news/videos/c95yn70e678po?at_medium=RSS&at_campaign=rss",
