@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T19:28:36.477533Z",
+  "generated_at": "2026-10-09T19:53:59.744476Z",
   "articles": {
     "world": [
       {
@@ -217,9 +217,15 @@
     ],
     "us": [
       {
+        "title": "Michigan Senate debate spotlights increase in anti-Muslim rhetoric as midterms race heats up",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yndgnwez1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T19:45:29Z",
+        "summary": "\"You going after my mom?\" El-Sayed shot back as Rogers seemed to imply his opponent might have a family member on a \"watchlist\"."
+      },
+      {
         "title": "Trump announces deal with Putin to release Russian diesel",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T19:24:38Z",
+        "published_at": "2026-10-09T19:32:07Z",
         "summary": "Diesel prices in the US have doubled since the war with Iran began in February, putting pressure on Republicans ahead of the midterms."
       },
       {
@@ -1874,6 +1880,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Michigan Senate debate spotlights increase in anti-Muslim rhetoric as midterms race heats up",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yndgnwez1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T19:45:29Z",
+        "summary": "\"You going after my mom?\" El-Sayed shot back as Rogers seemed to imply his opponent might have a family member on a \"watchlist\"."
+      },
       {
         "title": "Trump announces deal with Putin to release Russian diesel",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
