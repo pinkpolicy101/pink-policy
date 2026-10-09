@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-09T19:53:59.744476Z",
+  "generated_at": "2026-10-09T20:27:56.775282Z",
   "articles": {
     "world": [
+      {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T20:13:23Z",
+        "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended."
+      },
       {
         "title": "Polanski vows to stay as Green leader as he faces criticism after by-election defeat",
         "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T19:25:08Z",
         "summary": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to \u00a34,500 for fabricated evidence."
-      },
-      {
-        "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
-        "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T19:17:44Z",
-        "summary": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements."
       }
     ],
     "saudi": [
@@ -217,22 +217,16 @@
     ],
     "us": [
       {
+        "title": "Commentator Katie Zacharia picked as new White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T19:58:27Z",
+        "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group."
+      },
+      {
         "title": "Michigan Senate debate spotlights increase in anti-Muslim rhetoric as midterms race heats up",
         "url": "https://www.bbc.co.uk/news/articles/ck5yndgnwez1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T19:45:29Z",
         "summary": "\"You going after my mom?\" El-Sayed shot back as Rogers seemed to imply his opponent might have a family member on a \"watchlist\"."
-      },
-      {
-        "title": "Trump announces deal with Putin to release Russian diesel",
-        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T19:32:07Z",
-        "summary": "Diesel prices in the US have doubled since the war with Iran began in February, putting pressure on Republicans ahead of the midterms."
-      },
-      {
-        "title": "Commentator Katie Zacharia picked as new White House press secretary",
-        "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T19:22:33Z",
-        "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group."
       },
       {
         "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
@@ -244,7 +238,7 @@
         "title": "US immigration officials defend ICE agents who shot man in same car as child",
         "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T17:36:09Z",
-        "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said."
+        "summary": "Oscar Bergal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said."
       },
       {
         "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
@@ -271,12 +265,6 @@
         "summary": "The US death row inmate's legal team said at a press conference that she is now \"conscious and speaking\" after her failed execution."
       },
       {
-        "title": "Trump on Iran: 'Let them take out LA, let them take out San Diego'",
-        "url": "https://www.bbc.co.uk/news/videos/c3lyl28llz10o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T13:11:15Z",
-        "summary": "The White House said Trump was warning of the risk a nuclear Iran with his comments at a Nebraska rally."
-      },
-      {
         "title": "What are the US midterms? A simple guide",
         "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T23:40:58Z",
@@ -286,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T20:13:23Z",
+        "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended."
+      },
       {
         "title": "US imposes sanctions on International Criminal Court",
         "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
