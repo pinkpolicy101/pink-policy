@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-09T16:30:11.336369Z",
+  "generated_at": "2026-10-09T16:58:02.023468Z",
   "articles": {
     "world": [
+      {
+        "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
+        "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T16:30:04Z",
+        "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\""
+      },
       {
         "title": "Burnham promises to curb non-compete rules in job contracts",
         "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
@@ -13,12 +19,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T16:06:59Z",
         "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate."
-      },
-      {
-        "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
-        "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T15:18:58Z",
-        "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\""
       },
       {
         "title": "Polanski vows to stay as Green leader as he faces criticism after by-election defeat",
@@ -99,12 +99,6 @@
         "summary": "Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\"."
       },
       {
-        "title": "Watch: Why was the sign at the British consulate in East Jerusalem removed?",
-        "url": "https://www.bbc.co.uk/news/videos/c962yz01l7mmo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T12:01:55Z",
-        "summary": "The consulate, first established in 1838, was set to be closed by the Israeli government in retaliation for UK sanctions."
-      },
-      {
         "title": "Clubs fear political interference in Man City appeal",
         "url": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T09:16:56Z",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T19:25:08Z",
         "summary": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to \u00a34,500 for fabricated evidence."
+      },
+      {
+        "title": "UK to make last-ditch effort to stop Israel closing East Jerusalem consulate",
+        "url": "https://www.bbc.co.uk/news/articles/c5n4922n00wgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T19:17:44Z",
+        "summary": "Israel has threatened to close the consulate, which handles UK relations with Palestinians in the city, over British sanctions on Israeli settlements."
       }
     ],
     "saudi": [
@@ -217,6 +217,18 @@
     ],
     "us": [
       {
+        "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
+        "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T16:19:36Z",
+        "summary": "Protests against sexual violence took place across more than 40 US states on 8 October."
+      },
+      {
+        "title": "US imposes sanctions on International Criminal Court",
+        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T16:06:59Z",
+        "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate."
+      },
+      {
         "title": "What Americans think about the death penalty",
         "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T21:49:14Z",
@@ -233,12 +245,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T17:38:59Z",
         "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power."
-      },
-      {
-        "title": "US deportations to African countries unlawful and exploit suffering - rights group",
-        "url": "https://www.bbc.co.uk/news/articles/c9p8gn55433jo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T17:16:32Z",
-        "summary": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data."
       },
       {
         "title": "What happened in Christa Pike's failed US execution, and how did she survive?",
@@ -1862,6 +1868,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
+        "url": "https://www.bbc.co.uk/news/videos/cmy83pp3904vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T16:19:36Z",
+        "summary": "Protests against sexual violence took place across more than 40 US states on 8 October."
+      },
+      {
+        "title": "US imposes sanctions on International Criminal Court",
+        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T16:06:59Z",
+        "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate."
+      },
       {
         "title": "Hurricane Isaias forecast to strengthen to category three before landfall in US",
         "url": "https://www.bbc.co.uk/weather/articles/cw146l6pnvx0o?at_medium=RSS&at_campaign=rss",
