@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-09T03:30:46.512866Z",
+  "generated_at": "2026-10-09T03:57:25.408790Z",
   "articles": {
     "world": [
+      {
+        "title": "Questions remain for Green Party leader Zack Polanski",
+        "url": "https://www.bbc.co.uk/news/videos/ck0j010j6ej8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T03:48:51Z",
+        "summary": "BBC Political editor Chris Mason discusses the by-election outcome and what it means for the Greens Party."
+      },
       {
         "title": "Sagal Abdi-Wali's victory speech after by-election win",
         "url": "https://www.bbc.co.uk/news/videos/c6y0ene4797xo?at_medium=RSS&at_campaign=rss",
@@ -109,12 +115,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cmdxwvxwg9kpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T14:18:39Z",
         "summary": "Despite Badenoch's personal poll ratings going up, the Conservative party is languishing behind."
-      },
-      {
-        "title": "Watch: The big test facing Badenoch after her conference speech",
-        "url": "https://www.bbc.co.uk/news/videos/c9y7ld7ndzr7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T13:41:31Z",
-        "summary": "The big test facing Kemi Badenoch after her conference speech"
       },
       {
         "title": "Reform internal inquiry says party did not break law over donations sting",
@@ -225,7 +225,7 @@
       {
         "title": "Fort Hood attacker's execution by firing squad will be livestreamed, Pentagon says",
         "url": "https://www.bbc.co.uk/news/articles/cmy0r96xygx6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T01:25:33Z",
+        "published_at": "2026-10-09T03:36:12Z",
         "summary": "The US Defence Secretary says the execution will be public, but a legal expert says the \"unprecedented\" decision is on \"uncertain legal terrain\"."
       },
       {
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Questions remain for Green Party leader Zack Polanski",
+        "url": "https://www.bbc.co.uk/news/videos/ck0j010j6ej8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T03:48:51Z",
+        "summary": "BBC Political editor Chris Mason discusses the by-election outcome and what it means for the Greens Party."
+      },
       {
         "title": "Sagal Abdi-Wali's victory speech after by-election win",
         "url": "https://www.bbc.co.uk/news/videos/c6y0ene4797xo?at_medium=RSS&at_campaign=rss",
