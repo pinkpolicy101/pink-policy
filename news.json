@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-09T07:57:23.896722Z",
+  "generated_at": "2026-10-09T08:32:01.872686Z",
   "articles": {
     "world": [
+      {
+        "title": "Polanski asked if he thinks Israel has a right to exist",
+        "url": "https://www.bbc.co.uk/news/videos/ckq6ngrzpdzlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T08:27:31Z",
+        "summary": "The Green Party leader spoke to the Today programme after coming second in the Holborn and St Pancras by-election."
+      },
       {
         "title": "Polanski questioned on Green Party's Zionism motion",
         "url": "https://www.bbc.co.uk/news/videos/cvkgkzgk50lzo?at_medium=RSS&at_campaign=rss",
@@ -43,12 +49,6 @@
         "url": "https://www.bbc.co.uk/news/videos/ck0j010j6ej8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T03:48:51Z",
         "summary": "BBC Political editor Chris Mason discusses the by-election outcome and what it means for the Greens Party."
-      },
-      {
-        "title": "Sagal Abdi-Wali's victory speech after by-election win",
-        "url": "https://www.bbc.co.uk/news/videos/c6y0ene4797xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T03:24:37Z",
-        "summary": "The newly elected Labour MP told the crowd, \"whether you voted for me or not my commitment to this community runs deep\"."
       },
       {
         "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
@@ -109,12 +109,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c9kgj8nn8n0yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T16:23:32Z",
         "summary": "BBC Verify looks into the party's move to overhaul the tax that is levied on inherited wealth."
-      },
-      {
-        "title": "Israelis demand accountability over 7 October failures three years after attacks",
-        "url": "https://www.bbc.co.uk/news/articles/c5zjx7xx3487o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T16:00:18Z",
-        "summary": "Prime Minister Benjamin Netanyahu has refused to take any personal responsibility for what happened or order a state inquiry."
       },
       {
         "title": "Greens investigate party member behind Zionism motion",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cm86zqg553q8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T17:27:19Z",
         "summary": "The government and the Conservatives both agree the UK needs better air defences in an increasingly dangerous world."
+      },
+      {
+        "title": "Why Tories are talking about winning the next election",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly02ry5982o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T16:49:05Z",
+        "summary": "Kemi Badenoch is more popular than her party right now - Tories are hoping it will rub off on them."
       }
     ],
     "saudi": [
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Polanski asked if he thinks Israel has a right to exist",
+        "url": "https://www.bbc.co.uk/news/videos/ckq6ngrzpdzlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T08:27:31Z",
+        "summary": "The Green Party leader spoke to the Today programme after coming second in the Holborn and St Pancras by-election."
+      },
       {
         "title": "Polanski questioned on Green Party's Zionism motion",
         "url": "https://www.bbc.co.uk/news/videos/cvkgkzgk50lzo?at_medium=RSS&at_campaign=rss",
