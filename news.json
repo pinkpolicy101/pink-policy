@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-10-09T01:56:44.710629Z",
+  "generated_at": "2026-10-09T02:27:59.467482Z",
   "articles": {
     "world": [
       {
+        "title": "Labour sees off Green challenge to win Holborn by-election",
+        "url": "https://www.bbc.co.uk/news/articles/cqly3xjy1g11o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T02:27:13Z",
+        "summary": "Labour's Sagal Abdi-Wali beats Green Party leader Zack Polanski to hold the north London seat."
+      },
+      {
         "title": "Polanski failed to show leadership over Zionism motion, ex-Green leader says",
         "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T23:56:16Z",
+        "published_at": "2026-10-09T02:16:59Z",
         "summary": "Caroline Lucas tells the BBC Zack Polanski should have taken part in a vote on a motion declaring Zionism a form of racism."
       },
       {
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6ly02ry5982o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T16:49:05Z",
         "summary": "Kemi Badenoch is more popular than her party right now - Tories are hoping it will rub off on them."
-      },
-      {
-        "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
-        "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T15:20:37Z",
-        "summary": "Use our interactive tracker to explore the latest migration statistics for the UK"
       }
     ],
     "saudi": [
@@ -253,12 +253,6 @@
         "summary": "More than 500 migrants have been expelled from the US to African countries, HRW says, citing US data."
       },
       {
-        "title": "Christa Pike now walking after failed US execution, lawyer tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c60rln74yzvxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T15:02:32Z",
-        "summary": "A lawyer says the murderer of Colleen Slemmer is moving around her hospital room after surviving two lethal injections."
-      },
-      {
         "title": "What happened in Christa Pike's failed US execution, and how did she survive?",
         "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T10:04:29Z",
@@ -292,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Labour sees off Green challenge to win Holborn by-election",
+        "url": "https://www.bbc.co.uk/news/articles/cqly3xjy1g11o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T02:27:13Z",
+        "summary": "Labour's Sagal Abdi-Wali beats Green Party leader Zack Polanski to hold the north London seat."
+      },
       {
         "title": "Burnham calls on Polanski to reverse Green Party's Zionism motion",
         "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
