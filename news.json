@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-10-09T08:32:01.872686Z",
+  "generated_at": "2026-10-09T08:57:42.212374Z",
   "articles": {
     "world": [
       {
-        "title": "Polanski asked if he thinks Israel has a right to exist",
+        "title": "I would not have voted for Zionism motion, Polanski says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T08:48:53Z",
+        "summary": "A motion declaring Zionism a form of racism was passed by Green Party members on Sunday."
+      },
+      {
+        "title": "Labour sees off Green challenge to win Holborn by-election",
+        "url": "https://www.bbc.co.uk/news/articles/cqly3xjy1g11o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T08:44:38Z",
+        "summary": "Labour's Sagal Abdi-Wali beats Green Party leader Zack Polanski to hold the north London seat."
+      },
+      {
+        "title": "Polanski challenged over whether he thinks Israel has right to exist",
         "url": "https://www.bbc.co.uk/news/videos/ckq6ngrzpdzlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T08:27:31Z",
         "summary": "The Green Party leader spoke to the Today programme after coming second in the Holborn and St Pancras by-election."
@@ -13,12 +25,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cvkgkzgk50lzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T07:25:07Z",
         "summary": "The Green Party leader speaks to BBC Breakfast after he lost the Holborn and St Pancras by-election."
-      },
-      {
-        "title": "I would not have voted for Zionism motion, Polanski says",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T07:12:47Z",
-        "summary": "A motion declaring Zionism a form of racism was passed by Green Party members on Sunday."
       },
       {
         "title": "Chris Mason: Questions remain for Green Party leader Zack Polanski",
@@ -31,12 +37,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm70p821d6w4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T06:35:56Z",
         "summary": "The Green leader faces pressure over his response to a party motion declaring Zionism a form of racism, as well as his by-election loss."
-      },
-      {
-        "title": "Labour sees off Green challenge to win Holborn by-election",
-        "url": "https://www.bbc.co.uk/news/articles/cqly3xjy1g11o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T06:10:27Z",
-        "summary": "Labour's Sagal Abdi-Wali beats Green Party leader Zack Polanski to hold the north London seat."
       },
       {
         "title": "Zack Polanski on by-election loss",
@@ -91,12 +91,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6n9rgg80z94o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T03:38:46Z",
         "summary": "Students' blockades and marches spring from real grievances \u2013 and from France's habit of settling policy on the street."
-      },
-      {
-        "title": "New York court hears arguments in ongoing 9/11 families' lawsuit against Saudi Arabia",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrxlylj72o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T23:18:40Z",
-        "summary": "The families allege that men with links to the Saudi government helped those who carried out the 2001 attacks, something the country denies."
       },
       {
         "title": "Tories united behind Badenoch - but party still needs to win over voters",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c6ly02ry5982o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T16:49:05Z",
         "summary": "Kemi Badenoch is more popular than her party right now - Tories are hoping it will rub off on them."
+      },
+      {
+        "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
+        "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T15:20:37Z",
+        "summary": "Use our interactive tracker to explore the latest migration statistics for the UK"
       }
     ],
     "saudi": [
