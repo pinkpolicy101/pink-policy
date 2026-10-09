@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T22:29:09.439411Z",
+  "generated_at": "2026-10-09T22:55:59.843069Z",
   "articles": {
     "world": [
       {
@@ -219,8 +219,14 @@
       {
         "title": "Commentator Katie Zacharia picked as new White House press secretary",
         "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T22:00:21Z",
+        "published_at": "2026-10-09T22:41:21Z",
         "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group."
+      },
+      {
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T22:30:22Z",
+        "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
       },
       {
         "title": "Michigan Senate debate spotlights increase in anti-Muslim rhetoric as midterms race heats up",
@@ -1874,6 +1880,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T22:30:22Z",
+        "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
+      },
       {
         "title": "Michigan Senate debate spotlights increase in anti-Muslim rhetoric as midterms race heats up",
         "url": "https://www.bbc.co.uk/news/articles/ck5yndgnwez1o?at_medium=RSS&at_campaign=rss",
