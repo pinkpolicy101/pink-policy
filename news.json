@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-09T18:57:55.764101Z",
+  "generated_at": "2026-10-09T19:28:36.477533Z",
   "articles": {
     "world": [
+      {
+        "title": "Polanski vows to stay as Green leader as he faces criticism after by-election defeat",
+        "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T19:26:53Z",
+        "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
+      },
       {
         "title": "US unveils sanctions on ICC in move court condemns as 'assault on rule of law'",
         "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
@@ -19,12 +25,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T16:15:30Z",
         "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\"."
-      },
-      {
-        "title": "Polanski vows to stay as Green leader as he faces criticism after by-election defeat",
-        "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T15:16:54Z",
-        "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
       },
       {
         "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
@@ -217,9 +217,15 @@
     ],
     "us": [
       {
+        "title": "Trump announces deal with Putin to release Russian diesel",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T19:24:38Z",
+        "summary": "Diesel prices in the US have doubled since the war with Iran began in February, putting pressure on Republicans ahead of the midterms."
+      },
+      {
         "title": "Commentator Katie Zacharia picked as new White House press secretary",
         "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T18:52:06Z",
+        "published_at": "2026-10-09T19:22:33Z",
         "summary": "The conservative commentator currently works as a communications adviser at Trump Media & Technology Group."
       },
       {
@@ -245,12 +251,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T21:49:14Z",
         "summary": "The BBC spoke to Americans and international tourists in Washington DC about their views on the death penalty following the botched execution of Christa Pike in Tennessee."
-      },
-      {
-        "title": "Venezuela's ex-leader Nicol\u00e1s Maduro charged with conspiracy to commit torture",
-        "url": "https://www.bbc.co.uk/news/articles/c5pvgn7xvxpzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T17:38:59Z",
-        "summary": "The new accusations relate to the alleged torture of US citizens held in Venezuela while Maduro was in power."
       },
       {
         "title": "What happened in Christa Pike's failed US execution, and how did she survive?",
@@ -1874,6 +1874,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Trump announces deal with Putin to release Russian diesel",
+        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T19:24:38Z",
+        "summary": "Diesel prices in the US have doubled since the war with Iran began in February, putting pressure on Republicans ahead of the midterms."
+      },
       {
         "title": "Commentator Katie Zacharia picked as new White House press secretary",
         "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
