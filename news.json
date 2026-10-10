@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T15:26:57.461825Z",
+  "generated_at": "2026-10-10T15:54:11.642390Z",
   "articles": {
     "world": [
       {
@@ -25,12 +25,6 @@
         "url": "https://www.bbc.co.uk/sounds/play/m0032qm8?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-10T05:00:00Z",
         "summary": "Conservative Party Leader and Leader of the Opposition."
-      },
-      {
-        "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-        "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T04:07:11Z",
-        "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay."
       },
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -181,9 +175,21 @@
         "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T08:13:22Z",
         "summary": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row."
+      },
+      {
+        "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-06T21:18:45Z",
+        "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds."
       }
     ],
     "saudi": [
+      {
+        "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T15:05:55Z",
+        "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport."
+      },
       {
         "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
         "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
@@ -195,12 +201,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwn8d5rx22rdo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T03:32:35Z",
         "summary": "The Houthis have claimed responsibility for the attacks, which mark an escalation in the conflict."
-      },
-      {
-        "title": "Yemeni military says it has 'secured' Red Sea waterway",
-        "url": "https://www.bbc.co.uk/news/articles/cw8rzd6lp0xpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T07:43:07Z",
-        "summary": "Saudi-backed forces gave conflicting reports of whether they had also seized the port city of Mokha, near the Bab al-Mandab Strait."
       },
       {
         "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -217,10 +217,16 @@
     ],
     "us": [
       {
-        "title": "Hurricane Isaias downgraded after making landfall in Florida",
-        "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T11:55:12Z",
-        "summary": "Hundreds of thousands of households are without power in Florida and Alabama as Isaias continues its path across south-eastern US."
+        "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T15:23:47Z",
+        "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\"."
+      },
+      {
+        "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
+        "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T09:17:36Z",
+        "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong."
       },
       {
         "title": "US immigration officials defend ICE agents who shot man in same car as child",
@@ -1855,6 +1861,12 @@
     ],
     "saudi": [
       {
+        "title": "Saudi capital airport hit again, sparking evacuations, reports say",
+        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T15:05:55Z",
+        "summary": "The suspected attack comes a day after Yemen's Houthi rebels claimed two deadly attacks on the Riyadh airport."
+      },
+      {
         "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
         "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T10:07:04Z",
@@ -1922,6 +1934,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Nobel peace laureate says US sanctions on ICC 'unacceptable'",
+        "url": "https://www.bbc.co.uk/news/articles/cqkgjrpmr47vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T15:23:47Z",
+        "summary": "Navi Pillay says the Trump administrations' sweeping penalties on the international tribunal were \"unheard of\"."
+      },
+      {
+        "title": "Public executions in the US stopped nearly a century ago - why are they resuming now?",
+        "url": "https://www.bbc.co.uk/news/articles/c6kgq7rqdql7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T09:17:36Z",
+        "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong."
+      },
       {
         "title": "Hurricane Isaias downgraded after making landfall in Florida",
         "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
