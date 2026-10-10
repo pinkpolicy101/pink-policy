@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-09T23:54:06.658108Z",
+  "generated_at": "2026-10-10T00:39:53.906009Z",
   "articles": {
     "world": [
       {
-        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
+        "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T21:54:28Z",
-        "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended."
+        "published_at": "2026-10-10T00:19:26Z",
+        "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
+      },
+      {
+        "title": "Thousands of security personnel deployed as Delhi braces for \u2018cockroach\u2019 protest",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T23:02:07Z",
+        "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering."
+      },
+      {
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T22:30:22Z",
+        "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
       },
       {
         "title": "Polanski vows to stay as Green leader as he faces criticism after by-election defeat",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T08:13:22Z",
         "summary": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row."
-      },
-      {
-        "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T21:18:45Z",
-        "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds."
-      },
-      {
-        "title": "Three arrested after raid on gang accused of helping migrants pretend to be gay to get asylum",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3gnd1e4gyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T19:25:08Z",
-        "summary": "Those targeted by Home Office immigration enforcement officers are accused of charging migrants up to \u00a34,500 for fabricated evidence."
       }
     ],
     "saudi": [
@@ -217,6 +217,12 @@
     ],
     "us": [
       {
+        "title": "US immigration officials defend ICE agents who shot man in same car as child",
+        "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T00:13:12Z",
+        "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said."
+      },
+      {
         "title": "Commentator Katie Zacharia picked as new White House press secretary",
         "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T22:41:21Z",
@@ -239,12 +245,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T18:40:10Z",
         "summary": "Several member states of the international tribunal, including the UK, say they \"strongly disagree\" with the sanctions."
-      },
-      {
-        "title": "US immigration officials defend ICE agents who shot man in same car as child",
-        "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T17:36:09Z",
-        "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said."
       },
       {
         "title": "Watch: 'I am Jane Doe' protests across US call for end to sexual violence",
@@ -280,6 +280,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Thousands of security personnel deployed as Delhi braces for \u2018cockroach\u2019 protest",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T23:02:07Z",
+        "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering."
+      },
+      {
+        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
+        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-09T22:30:22Z",
+        "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
+      },
       {
         "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
