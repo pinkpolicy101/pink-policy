@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T20:26:59.326864Z",
+  "generated_at": "2026-10-10T20:54:24.692115Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-10T19:28:28Z",
         "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+      },
+      {
+        "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+        "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T19:25:03Z",
+        "summary": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\"."
       },
       {
         "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T08:13:22Z",
         "summary": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row."
-      },
-      {
-        "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T21:18:45Z",
-        "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds."
       }
     ],
     "saudi": [
@@ -304,6 +304,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
+        "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T19:25:03Z",
+        "summary": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\"."
+      },
       {
         "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
         "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
