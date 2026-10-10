@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T06:33:26.178796Z",
+  "generated_at": "2026-10-10T06:58:20.263983Z",
   "articles": {
     "world": [
       {
@@ -216,6 +216,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Hurricane Isaias downgraded after making landfall in Florida",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T06:54:16Z",
+        "summary": "Isaias is continuing across the Southeastern US after being downgraded from a hurricane to a post-tropical cyclone."
+      },
       {
         "title": "US immigration officials defend ICE agents who shot man in same car as child",
         "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
@@ -1898,6 +1904,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Hurricane Isaias downgraded after making landfall in Florida",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgx4450v2lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T06:54:16Z",
+        "summary": "Isaias is continuing across the Southeastern US after being downgraded from a hurricane to a post-tropical cyclone."
+      },
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
         "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
