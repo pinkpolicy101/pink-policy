@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T13:28:17.013456Z",
+  "generated_at": "2026-10-10T13:54:04.214036Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-10T12:29:31Z",
         "summary": "Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration."
+      },
+      {
+        "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
+        "url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T11:09:16Z",
+        "summary": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion."
       },
       {
         "title": "Profile",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwe8lvjlp0d5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T08:40:14Z",
         "summary": "The Tory party has closed applications to be their candidate for mayor and there are four hopefuls."
-      },
-      {
-        "title": "Ex-Welsh Green Party deputy says Zionism motion 'pointless' after quitting party",
-        "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T08:13:22Z",
-        "summary": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row."
       }
     ],
     "saudi": [
@@ -291,6 +291,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c65yn7xvde7vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-10T12:29:31Z",
         "summary": "Tens of thousands of security personnel were deployed and roads barricaded ahead of the demonstration."
+      },
+      {
+        "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
+        "url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T11:09:16Z",
+        "summary": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion."
       },
       {
         "title": "Profile",
