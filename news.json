@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-10T04:56:11.806826Z",
+  "generated_at": "2026-10-10T05:27:44.307637Z",
   "articles": {
     "world": [
+      {
+        "title": "Thousands of security personnel deployed as Delhi braces for \u2018cockroach\u2019 protest",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T05:25:12Z",
+        "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering."
+      },
       {
         "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
@@ -9,10 +15,10 @@
         "summary": "Ukraine's president sharply criticised the move, calling it an \"investment in war that must be ended, not prolonged\"."
       },
       {
-        "title": "Thousands of security personnel deployed as Delhi braces for \u2018cockroach\u2019 protest",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T03:29:50Z",
-        "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering."
+        "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+        "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T04:07:11Z",
+        "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay."
       },
       {
         "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwe8lvjlp0d5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T08:40:14Z",
         "summary": "The Tory party has closed applications to be their candidate for mayor and there are four hopefuls."
-      },
-      {
-        "title": "Ex-Welsh Green Party deputy says Zionism motion 'pointless' after quitting party",
-        "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T08:13:22Z",
-        "summary": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row."
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
+        "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T04:07:11Z",
+        "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay."
+      },
       {
         "title": "Thousands of security personnel deployed as Delhi braces for \u2018cockroach\u2019 protest",
         "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
