@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-10T11:26:38.594910Z",
+  "generated_at": "2026-10-10T11:54:40.613118Z",
   "articles": {
     "world": [
+      {
+        "title": "Profile",
+        "url": "https://www.bbc.co.uk/sounds/play/m0032qm8?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T05:00:00Z",
+        "summary": "Conservative Party Leader and Leader of the Opposition."
+      },
       {
         "title": "Trump announces deal for Russian diesel as Zelensky calls it a gift to Putin",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T08:13:22Z",
         "summary": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row."
-      },
-      {
-        "title": "I'd rather have another election than do a deal with Reform UK, says Badenoch",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28ljj34lxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T21:18:45Z",
-        "summary": "The Conservative Party leader also pledged to cut the cost of hiring 21 to 24 year olds."
       }
     ],
     "saudi": [
@@ -286,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Profile",
+        "url": "https://www.bbc.co.uk/sounds/play/m0032qm8?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T05:00:00Z",
+        "summary": "Conservative Party Leader and Leader of the Opposition."
+      },
       {
         "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
         "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
