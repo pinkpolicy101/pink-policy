@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T07:54:54.920957Z",
+  "generated_at": "2026-10-11T08:29:32.427395Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,18 @@
         "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-11T01:41:29Z",
         "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+      },
+      {
+        "title": "UK launches flood taskforce to prepare for extreme winter weather",
+        "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-11T00:44:37Z",
+        "summary": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding."
+      },
+      {
+        "title": "MPs seek to overturn ruling that stops police being sued for failings",
+        "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T23:04:37Z",
+        "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent."
       },
       {
         "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6p9gzg032n4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T11:08:42Z",
         "summary": "Brighton & Hove City Council says the motion is not compatible with its inclusion commitments."
-      },
-      {
-        "title": "The candidates hoping to be London's second Tory mayor",
-        "url": "https://www.bbc.co.uk/news/articles/cwe8lvjlp0d5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T08:40:14Z",
-        "summary": "The Tory party has closed applications to be their candidate for mayor and there are four hopefuls."
-      },
-      {
-        "title": "Ex-Welsh Green Party deputy says Zionism motion 'pointless' after quitting party",
-        "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T08:13:22Z",
-        "summary": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row."
       }
     ],
     "saudi": [
@@ -316,6 +316,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "UK launches flood taskforce to prepare for extreme winter weather",
+        "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-11T00:44:37Z",
+        "summary": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding."
+      },
+      {
+        "title": "MPs seek to overturn ruling that stops police being sued for failings",
+        "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T23:04:37Z",
+        "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent."
+      },
       {
         "title": "Watch: 'Time for Ukraine to get a new president', says Trump",
         "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
