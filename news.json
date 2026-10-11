@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T23:53:25.855975Z",
+  "generated_at": "2026-10-11T00:38:29.148358Z",
   "articles": {
     "world": [
       {
@@ -13,6 +13,12 @@
         "url": "https://www.bbc.co.uk/news/videos/cwkg50dgpml7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-10T19:25:03Z",
         "summary": "The US president's said President Volodymyr Zelensky \"wants to make problems for the world\"."
+      },
+      {
+        "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+        "url": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T14:13:13Z",
+        "summary": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms."
       },
       {
         "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
@@ -175,20 +181,14 @@
         "url": "https://www.bbc.co.uk/news/articles/cwe8lvjlp0d5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T08:40:14Z",
         "summary": "The Tory party has closed applications to be their candidate for mayor and there are four hopefuls."
-      },
-      {
-        "title": "Ex-Welsh Green Party deputy says Zionism motion 'pointless' after quitting party",
-        "url": "https://www.bbc.co.uk/news/articles/cw62yjely758o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T08:13:22Z",
-        "summary": "Phil Davies called for Welsh Greens to set up their own party in the wake of the conference row."
       }
     ],
     "saudi": [
       {
         "title": "Twelve killed in attack on airport in Saudi capital Riyadh",
         "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T22:40:56Z",
-        "summary": "Another 309 people are injured in the attack on the airport, which come days after Yemen's Houthis said they had struck it."
+        "published_at": "2026-10-11T00:21:52Z",
+        "summary": "Another 309 people are injured, with the Saudi-led coalition saying the attack by Yemen's Houthis is \"war crime\"."
       },
       {
         "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
@@ -315,6 +315,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-10T17:31:24Z",
         "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+      },
+      {
+        "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
+        "url": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T14:13:13Z",
+        "summary": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms."
       },
       {
         "title": "'Cockroach' group leaders among hundreds detained in Delhi protest",
