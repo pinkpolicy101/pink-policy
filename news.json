@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T21:55:14.260764Z",
+  "generated_at": "2026-10-11T22:28:10.913143Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-11T21:18:15Z",
         "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation."
+      },
+      {
+        "title": "Watch: What's behind Trump's energy ceasefire claim?",
+        "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-11T20:55:02Z",
+        "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment."
       },
       {
         "title": "PM says it is 'clear' Russia interfered with Brexit vote",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmwyq4yq0y6do?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T15:26:25Z",
         "summary": "It has emerged Lubna Speitan was listed in court documents as a \"close friend\" of a man later jailed for supporting al-Qaeda."
-      },
-      {
-        "title": "Badenoch says Tories would scrap inheritance tax on family homes",
-        "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T14:33:11Z",
-        "summary": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat."
       }
     ],
     "saudi": [
@@ -307,12 +307,6 @@
         "summary": "The murderer of Colleen Slemmer is said to be walking and talking in limited ways after two doses of lethal injection."
       },
       {
-        "title": "Watch: What we know about Christa Pike's \u2018shock\u2019 recovery in hospital",
-        "url": "https://www.bbc.co.uk/news/videos/cw99zxxx891yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T20:01:05Z",
-        "summary": "The US death row inmate's legal team said at a press conference that she is now \"conscious and speaking\" after her failed execution."
-      },
-      {
         "title": "What are the US midterms? A simple guide",
         "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T23:40:58Z",
@@ -327,6 +321,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-11T21:18:15Z",
         "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation."
+      },
+      {
+        "title": "Watch: What's behind Trump's energy ceasefire claim?",
+        "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-11T20:55:02Z",
+        "summary": "The US president made the announcement in a social media post, which was an apparent surprise to Ukraine and Russia is yet to comment."
       },
       {
         "title": "PM says it is 'clear' Russia interfered with Brexit vote",
