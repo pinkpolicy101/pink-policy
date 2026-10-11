@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-11T01:54:49.201553Z",
+  "generated_at": "2026-10-11T02:28:09.702187Z",
   "articles": {
     "world": [
       {
@@ -221,6 +221,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-11T01:41:29Z",
         "summary": "Ukraine's leader had said the deal with Russia to release diesel into the US would help Moscow fund the war."
+      },
+      {
+        "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+        "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T23:19:55Z",
+        "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
       },
       {
         "title": "US murderer Christa Pike discharged from hospital 10 days after failed execution",
@@ -1964,6 +1970,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Four dead and thousands without power after Hurricane Isaias lashes US",
+        "url": "https://www.bbc.co.uk/news/articles/cmje5x80yg70o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-10T23:19:55Z",
+        "summary": "Roofs were ripped off buildings after Isaias barrelled into the US on Friday evening, before it weakened to a post-tropical cyclone."
+      },
       {
         "title": "'Time for Ukraine to get new president,' says Trump after Zelensky condemns diesel deal",
         "url": "https://www.bbc.co.uk/news/articles/cqe8r5l7n92jo?at_medium=RSS&at_campaign=rss",
