@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-11T20:55:05.479170Z",
+  "generated_at": "2026-10-11T21:27:53.821323Z",
   "articles": {
     "world": [
+      {
+        "title": "Reform would suspend asylum system for parliamentary term if in government",
+        "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-11T21:18:15Z",
+        "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation."
+      },
       {
         "title": "PM says it is 'clear' Russia interfered with Brexit vote",
         "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmn5vw05l0q3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T14:33:11Z",
         "summary": "Tory leader says her party is \"coming back\", as she aims to convince voters it has changed after 2024 election defeat."
-      },
-      {
-        "title": "Reform internal inquiry says party did not break law over donations sting",
-        "url": "https://www.bbc.co.uk/news/articles/ckly020edl45o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T12:52:19Z",
-        "summary": "Officials were recorded by undercover journalists discussing a potential way to secure foreign donations to the party."
       }
     ],
     "saudi": [
@@ -328,6 +328,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Reform would suspend asylum system for parliamentary term if in government",
+        "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-11T21:18:15Z",
+        "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation."
+      },
       {
         "title": "PM says it is 'clear' Russia interfered with Brexit vote",
         "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
