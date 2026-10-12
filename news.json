@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-12T10:59:14.463654Z",
+  "generated_at": "2026-10-12T11:32:38.830909Z",
   "articles": {
     "world": [
+      {
+        "title": "Reform pledges to suspend asylum system for up to five years and deport claimants",
+        "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T11:15:33Z",
+        "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation."
+      },
+      {
+        "title": "Sinn F\u00e9in ministers facing no-confidence vote after Drumcree dispute",
+        "url": "https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T10:59:44Z",
+        "summary": "The motion against Michelle O'Neill and three other Sinn F\u00e9in ministers will be debated after receiving the backing of unionist parties last week."
+      },
       {
         "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
         "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T10:28:47Z",
         "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
-      },
-      {
-        "title": "Reform pledges to suspend asylum system for up to five years and deport claimants",
-        "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T08:57:53Z",
-        "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation."
       },
       {
         "title": "Healey faces \u00a335bn Budget challenge to meet spending pledges, says think tank",
@@ -67,12 +73,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c65yn92nj423o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-11T11:00:49Z",
         "summary": "The defence secretary says the US and its allies need to increase pressure on Vladimir Putin to end the war with Ukraine."
-      },
-      {
-        "title": "It's within DUP's gift to remove O'Neill as first minister, says Lockhart",
-        "url": "https://www.bbc.co.uk/news/articles/cm79pd2zzl59o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-11T10:43:17Z",
-        "summary": "Carla Lockhart says unionist voters are angry at Michelle O'Neill over her role in the Garvaghy Road protests."
       },
       {
         "title": "Could Alberta's vote on independence be Canada's Brexit moment?",
@@ -304,6 +304,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Sinn F\u00e9in ministers facing no-confidence vote after Drumcree dispute",
+        "url": "https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T10:59:44Z",
+        "summary": "The motion against Michelle O'Neill and three other Sinn F\u00e9in ministers will be debated after receiving the backing of unionist parties last week."
+      },
       {
         "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
         "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
