@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T04:32:35.533278Z",
+  "generated_at": "2026-10-12T04:59:21.438504Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,18 @@
         "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T04:15:03Z",
         "summary": "He says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy."
+      },
+      {
+        "title": "Trump faces growing backlash over plans to import diesel from Russia",
+        "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-11T23:18:45Z",
+        "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections."
+      },
+      {
+        "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+        "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-11T23:13:51Z",
+        "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away."
       },
       {
         "title": "Reform would suspend asylum system for parliamentary term if in government",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-07T16:31:06Z",
         "summary": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls."
-      },
-      {
-        "title": "What's in the Conservatives' inheritance tax plan and who benefits?",
-        "url": "https://www.bbc.co.uk/news/articles/c9kgj8nn8n0yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T16:23:32Z",
-        "summary": "BBC Verify looks into the party's move to overhaul the tax that is levied on inherited wealth."
-      },
-      {
-        "title": "Greens investigate party member behind Zionism motion",
-        "url": "https://www.bbc.co.uk/news/articles/cmwyq4yq0y6do?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T15:26:25Z",
-        "summary": "It has emerged Lubna Speitan was listed in court documents as a \"close friend\" of a man later jailed for supporting al-Qaeda."
       }
     ],
     "saudi": [
@@ -316,6 +316,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Trump faces growing backlash over plans to import diesel from Russia",
+        "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-11T23:18:45Z",
+        "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections."
+      },
+      {
+        "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
+        "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-11T23:13:51Z",
+        "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away."
+      },
       {
         "title": "Reform would suspend asylum system for parliamentary term if in government",
         "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
