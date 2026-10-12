@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-12T11:59:37.783688Z",
+  "generated_at": "2026-10-12T12:50:57.839575Z",
   "articles": {
     "world": [
       {
-        "title": "Reform pledges to suspend asylum system for up to five years and deport claimants",
-        "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T11:15:33Z",
-        "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation."
-      },
-      {
         "title": "Sinn F\u00e9in ministers facing no-confidence vote after Drumcree dispute",
         "url": "https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T10:59:44Z",
+        "published_at": "2026-10-12T12:24:49Z",
         "summary": "The motion against Michelle O'Neill and three other Sinn F\u00e9in ministers will be debated after receiving the backing of unionist parties last week."
+      },
+      {
+        "title": "Reform pledges to suspend UK's asylum system for up to five years",
+        "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T12:05:26Z",
+        "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation."
       },
       {
         "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
@@ -91,12 +91,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-10T23:04:37Z",
         "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent."
-      },
-      {
-        "title": "Why have hundreds of 'cockroach' protesters been detained in Delhi",
-        "url": "https://www.bbc.co.uk/news/videos/cqwy7p2y20gxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T14:13:13Z",
-        "summary": "Thousands of security personnel were deployed in Delhi ahead of the Gen-Z led Cockroach Janta Party protest on Saturday calling for electoral reforms."
       },
       {
         "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T15:25:08Z",
         "summary": "Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\"."
+      },
+      {
+        "title": "Clubs fear political interference in Man City appeal",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-08T09:16:56Z",
+        "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments."
       }
     ],
     "saudi": [
@@ -234,6 +234,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US Homeland Security chief denies plan for livestreamed execution could fuel radicalisation",
+        "url": "https://www.bbc.co.uk/news/articles/cq0k0gl81yr2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T12:24:49Z",
+        "summary": "Markwayne Mullin rejects concerns that broadcasting the execution of convicted killer Nidal Hasan could make him a martyr."
+      },
       {
         "title": "Trump faces growing backlash over plans to import diesel from Russia",
         "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
@@ -2084,6 +2090,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US Homeland Security chief denies plan for livestreamed execution could fuel radicalisation",
+        "url": "https://www.bbc.co.uk/news/articles/cq0k0gl81yr2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T12:24:49Z",
+        "summary": "Markwayne Mullin rejects concerns that broadcasting the execution of convicted killer Nidal Hasan could make him a martyr."
+      },
       {
         "title": "Trump faces growing backlash over plans to import diesel from Russia",
         "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
