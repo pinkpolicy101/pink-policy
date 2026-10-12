@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-12T20:59:04.896981Z",
+  "generated_at": "2026-10-12T21:28:32.137338Z",
   "articles": {
     "world": [
+      {
+        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T21:20:51Z",
+        "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
+      },
+      {
+        "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T21:07:25Z",
+        "summary": "US President Donald Trump has had a whirlwind weekend, announcing a diesel deal with Russia and an energy ceasefire between Russia and Ukraine. With the midterms coming up, it looks like Trump is turning overseas for help."
+      },
       {
         "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
         "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
@@ -37,12 +49,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T17:33:50Z",
         "summary": "Andy Burnham says he is not questioning the legitimacy of the 2016 vote after facing questions from MPs."
-      },
-      {
-        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T17:32:13Z",
-        "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
       },
       {
         "title": "Baroness Campbell: People with disabilities can achieve almost anything with right support",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm4g13dqwj7zo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T12:04:57Z",
         "summary": "Created 60 years ago, most of the powers it used to hold were transferred to Cardiff Bay in 1999."
-      },
-      {
-        "title": "Labour sees off Green challenge to win Holborn by-election",
-        "url": "https://www.bbc.co.uk/news/articles/cqly3xjy1g11o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T10:31:29Z",
-        "summary": "Labour's Sagal Abdi-Wali beats Green Party leader Zack Polanski to hold the north London seat."
       }
     ],
     "saudi": [
@@ -247,16 +247,16 @@
     ],
     "us": [
       {
-        "title": "US actress Selma Blair arrested after allegedly attacking attendants on flight",
-        "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T19:56:22Z",
-        "summary": "Blair's publicist told the BBC that she \"experienced a medical emergency that led to the alleged conduct\"."
-      },
-      {
         "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
         "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T17:32:13Z",
+        "published_at": "2026-10-12T21:20:51Z",
         "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
+      },
+      {
+        "title": "US actress Selma Blair accused of assault after incident with flight attendants",
+        "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T20:59:10Z",
+        "summary": "The Legally Blonde star is investigated by the FBI following an alleged altercation on a flight from LA to New York."
       },
       {
         "title": "US Homeland Security chief denies plan for livestreamed execution could fuel radicalisation",
@@ -322,6 +322,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Analysis: Trump's global headaches worsen weeks before crucial elections",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T21:07:25Z",
+        "summary": "US President Donald Trump has had a whirlwind weekend, announcing a diesel deal with Russia and an energy ceasefire between Russia and Ukraine. With the midterms coming up, it looks like Trump is turning overseas for help."
+      },
       {
         "title": "Government expands police support to political figures who are not MPs",
         "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
