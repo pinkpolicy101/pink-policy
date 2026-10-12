@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T10:00:05.405218Z",
+  "generated_at": "2026-10-12T10:32:45.304472Z",
   "articles": {
     "world": [
       {
@@ -184,6 +184,12 @@
       }
     ],
     "saudi": [
+      {
+        "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+        "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T10:28:47Z",
+        "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
+      },
       {
         "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
         "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
@@ -1959,9 +1965,21 @@
         "url": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-08-01T09:13:00Z",
         "summary": "The governing party's poll ratings have improved but they're only just ahead of Reform."
+      },
+      {
+        "title": "Who's in Andy Burnham's cabinet?",
+        "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-07-28T13:36:18Z",
+        "summary": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham"
       }
     ],
     "saudi": [
+      {
+        "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
+        "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T10:28:47Z",
+        "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
+      },
       {
         "title": "Saudi capital airport hit by second Houthi strike in two days",
         "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
