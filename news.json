@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-12T06:40:55.708388Z",
+  "generated_at": "2026-10-12T07:08:54.431501Z",
   "articles": {
     "world": [
+      {
+        "title": "Healey faces \u00a335bn Budget challenge to meet spending pledges, says think tank",
+        "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T06:23:50Z",
+        "summary": "The impact of the Iran war poses significant risks for the government\u2019s spending plans, the Institute for Fiscal Studies says."
+      },
       {
         "title": "Rejecting closer EU ties would be dereliction of duty, PM to say",
         "url": "https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqdjvg3xww2go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T04:02:26Z",
         "summary": "Roland Lescure tells the BBC that being in the bloc enables members to better address the challenges facing the world."
-      },
-      {
-        "title": "Tories united behind Badenoch - but party still needs to win over voters",
-        "url": "https://www.bbc.co.uk/news/articles/cm1j3rj2r72xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-07T16:31:06Z",
-        "summary": "Kemi Badenoch has the support of her party but the Tories still trail Labour and Reform in opinion polls."
       }
     ],
     "saudi": [
@@ -229,6 +229,12 @@
     ],
     "us": [
       {
+        "title": "Trump faces growing backlash over plans to import diesel from Russia",
+        "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-11T23:18:45Z",
+        "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections."
+      },
+      {
         "title": "Watch: What's behind Trump's energy ceasefire claim?",
         "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-11T20:55:02Z",
@@ -271,12 +277,6 @@
         "summary": "The Pentagon says the execution of Fort Hood shooter Nidal Hasan will be livestreamed, but experts suggest officials are reading the country wrong."
       },
       {
-        "title": "US immigration officials defend ICE agents who shot man in same car as child",
-        "url": "https://www.bbc.co.uk/news/articles/cq78px5y1zmzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T00:13:12Z",
-        "summary": "Oscar Belgal, the 28-year-old man, survived the shooting and is now being held at a detention facility outside of New York, officials said."
-      },
-      {
         "title": "Commentator Katie Zacharia picked as new White House press secretary",
         "url": "https://www.bbc.co.uk/news/articles/c5rmy73zr0rro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T22:41:21Z",
@@ -289,33 +289,21 @@
         "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
       },
       {
-        "title": "Michigan Senate debate spotlights increase in anti-Muslim rhetoric as midterms race heats up",
-        "url": "https://www.bbc.co.uk/news/articles/ck5yndgnwez1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T19:45:29Z",
-        "summary": "\"You going after my mom?\" El-Sayed shot back as Rogers seemed to imply his opponent might have a family member on a \"watchlist\"."
-      },
-      {
         "title": "What Americans think about the death penalty",
         "url": "https://www.bbc.co.uk/news/videos/cjx236wl9416o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T21:49:14Z",
         "summary": "The BBC spoke to Americans and international tourists in Washington DC about their views on the death penalty following the botched execution of Christa Pike in Tennessee."
-      },
-      {
-        "title": "What happened in Christa Pike's failed US execution, and how did she survive?",
-        "url": "https://www.bbc.co.uk/news/articles/ckge4eql4q7eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T10:04:29Z",
-        "summary": "The murderer of Colleen Slemmer is said to be walking and talking in limited ways after two doses of lethal injection."
-      },
-      {
-        "title": "What are the US midterms? A simple guide",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyz223j19po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T23:40:58Z",
-        "summary": "US voters will head to the polls on 3 November in a ballot that could have a major impact on Donald Trump\u2019s presidency."
       }
     ]
   },
   "archive": {
     "world": [
+      {
+        "title": "Healey faces \u00a335bn Budget challenge to meet spending pledges, says think tank",
+        "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T06:23:50Z",
+        "summary": "The impact of the Iran war poses significant risks for the government\u2019s spending plans, the Institute for Fiscal Studies says."
+      },
       {
         "title": "Rejecting closer EU ties would be dereliction of duty, PM to say",
         "url": "https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss",
@@ -2060,6 +2048,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Trump faces growing backlash over plans to import diesel from Russia",
+        "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-11T23:18:45Z",
+        "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections."
+      },
       {
         "title": "Watch: What's behind Trump's energy ceasefire claim?",
         "url": "https://www.bbc.co.uk/news/videos/cwvgde9vrdd9o?at_medium=RSS&at_campaign=rss",
