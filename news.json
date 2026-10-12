@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-12T12:50:57.839575Z",
+  "generated_at": "2026-10-12T13:42:19.492454Z",
   "articles": {
     "world": [
       {
         "title": "Sinn F\u00e9in ministers facing no-confidence vote after Drumcree dispute",
         "url": "https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T12:24:49Z",
+        "published_at": "2026-10-12T13:06:59Z",
         "summary": "The motion against Michelle O'Neill and three other Sinn F\u00e9in ministers will be debated after receiving the backing of unionist parties last week."
+      },
+      {
+        "title": "PM believes Brexit vote was legitimate despite Russia claims, No 10 says",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T12:53:06Z",
+        "summary": "It is \"inconceivable\" that Russia did not try to use the referendum to its advantage, No 10 said, but the PM believed it did not succeed in influencing the result."
       },
       {
         "title": "Reform pledges to suspend UK's asylum system for up to five years",
@@ -175,20 +181,26 @@
         "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-08T15:25:08Z",
         "summary": "Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\"."
-      },
-      {
-        "title": "Clubs fear political interference in Man City appeal",
-        "url": "https://www.bbc.co.uk/sport/football/articles/c6y93qq5175wo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T09:16:56Z",
-        "summary": "Premier League clubs are \"concerned\" about political interference in Manchester City's appeal after Prime Minister Andy Burnham's comments."
       }
     ],
     "saudi": [
+      {
+        "title": "Who are the Houthis, and why are they so hard to fight?",
+        "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T12:15:01Z",
+        "summary": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand."
+      },
       {
         "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
         "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T10:28:47Z",
         "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
+      },
+      {
+        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T09:38:03Z",
+        "summary": "Footage from inside the airport shows the moment the strike hit on Saturday."
       },
       {
         "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
@@ -310,6 +322,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "PM believes Brexit vote was legitimate despite Russia claims, No 10 says",
+        "url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T12:53:06Z",
+        "summary": "It is \"inconceivable\" that Russia did not try to use the referendum to its advantage, No 10 said, but the PM believed it did not succeed in influencing the result."
+      },
       {
         "title": "Sinn F\u00e9in ministers facing no-confidence vote after Drumcree dispute",
         "url": "https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&at_campaign=rss",
@@ -1999,10 +2017,22 @@
     ],
     "saudi": [
       {
+        "title": "Who are the Houthis, and why are they so hard to fight?",
+        "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T12:15:01Z",
+        "summary": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand."
+      },
+      {
         "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
         "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T10:28:47Z",
         "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
+      },
+      {
+        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
+        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T09:38:03Z",
+        "summary": "Footage from inside the airport shows the moment the strike hit on Saturday."
       },
       {
         "title": "Saudi capital airport hit by second Houthi strike in two days",
