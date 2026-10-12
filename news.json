@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-12T15:32:27.258053Z",
+  "generated_at": "2026-10-12T15:58:50.154599Z",
   "articles": {
     "world": [
+      {
+        "title": "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
+        "url": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T15:45:43Z",
+        "summary": "The prime minister says Iran's Islamic Revolutionary Guard \"almost certainly\" directed the RAF Fairford incident."
+      },
+      {
+        "title": "Immigration agents search Congresswoman Ilhan Omar's home",
+        "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T15:44:46Z",
+        "summary": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump."
+      },
       {
         "title": "Thousands march to Indian Supreme Court to demand election chief resign",
         "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T15:19:17Z",
         "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters detained by police."
-      },
-      {
-        "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T15:02:41Z",
-        "summary": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump."
       },
       {
         "title": "PM believes Brexit vote was legitimate despite Russia interference claims, No 10 says",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm70p821d6w4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T06:35:56Z",
         "summary": "The Green leader faces pressure over his response to a party motion declaring Zionism a form of racism, as well as his by-election loss."
-      },
-      {
-        "title": "UK and Germany will face threats together, says Burnham in Berlin",
-        "url": "https://www.bbc.co.uk/news/articles/cmwyq34qexdzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T15:25:08Z",
-        "summary": "Ahead of a UK-EU summit next month, Burnham said he was committed to \"see if we can bring the UK closer to Europe\"."
       }
     ],
     "saudi": [
@@ -322,6 +322,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
+        "url": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T15:45:43Z",
+        "summary": "The prime minister says Iran's Islamic Revolutionary Guard \"almost certainly\" directed the RAF Fairford incident."
+      },
       {
         "title": "Immigration agents search Congresswoman Ilhan Omar's home",
         "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
