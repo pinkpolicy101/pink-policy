@@ -1,24 +1,30 @@
 {
-  "generated_at": "2026-10-12T16:56:49.398828Z",
+  "generated_at": "2026-10-12T17:30:59.543583Z",
   "articles": {
     "world": [
       {
-        "title": "Motion of no-confidence in Sinn F\u00e9in ministers 'pointless' - First Minister",
+        "title": "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
+        "url": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T17:29:30Z",
+        "summary": "The prime minister says Iran's Islamic Revolutionary Guard \"almost certainly\" directed the RAF Fairford incident."
+      },
+      {
+        "title": "Motion of no-confidence in Sinn F\u00e9in ministers 'pointless' - O'Neill",
         "url": "https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T16:55:14Z",
+        "published_at": "2026-10-12T17:27:20Z",
         "summary": "The motion against Michelle O'Neill and three other Sinn F\u00e9in ministers will be debated after receiving the backing of unionist parties last week."
+      },
+      {
+        "title": "Burnham to push for new post-Brexit deals at EU summit",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T17:20:04Z",
+        "summary": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU."
       },
       {
         "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
         "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T16:53:00Z",
         "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
-      },
-      {
-        "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T16:51:44Z",
-        "summary": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump."
       },
       {
         "title": "Baroness Campbell: People with disabilities can achieve almost anything with right support",
@@ -31,12 +37,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cr89zy9pypv9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T16:31:35Z",
         "summary": "The motion against will be debated after it received the backing of unionist parties last week."
-      },
-      {
-        "title": "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
-        "url": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T16:14:39Z",
-        "summary": "The prime minister says Iran's Islamic Revolutionary Guard \"almost certainly\" directed the RAF Fairford incident."
       },
       {
         "title": "Thousands march to Indian Supreme Court to demand election chief resign",
@@ -253,12 +253,6 @@
         "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
       },
       {
-        "title": "Immigration agents search Congresswoman Ilhan Omar's home",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8glg97393o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T16:51:44Z",
-        "summary": "Omar was first elected to Congress in 2018, and is an outspoken critic of President Donald Trump."
-      },
-      {
         "title": "US Homeland Security chief denies plan for livestreamed execution could fuel radicalisation",
         "url": "https://www.bbc.co.uk/news/articles/cq0k0gl81yr2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T12:24:49Z",
@@ -328,6 +322,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Burnham to push for new post-Brexit deals at EU summit",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T17:20:04Z",
+        "summary": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU."
+      },
       {
         "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
         "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
