@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-13T08:00:32.345660Z",
+  "generated_at": "2026-10-13T08:34:52.831816Z",
   "articles": {
     "world": [
+      {
+        "title": "Why are hundreds of prisoners being released early?",
+        "url": "https://www.bbc.co.uk/news/articles/cp3rxlyz6w3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T07:55:58Z",
+        "summary": "More people going to prison, and for longer, is why governments including the current one have had to release prisoners early."
+      },
       {
         "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
         "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-10T11:09:16Z",
         "summary": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion."
-      },
-      {
-        "title": "Profile",
-        "url": "https://www.bbc.co.uk/sounds/play/m0032qm8?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T05:00:00Z",
-        "summary": "Conservative Party Leader and Leader of the Opposition."
       }
     ],
     "saudi": [
@@ -322,6 +322,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Why are hundreds of prisoners being released early?",
+        "url": "https://www.bbc.co.uk/news/articles/cp3rxlyz6w3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T07:55:58Z",
+        "summary": "More people going to prison, and for longer, is why governments including the current one have had to release prisoners early."
+      },
       {
         "title": "India 'cockroach' leaders detained after entering barricaded protest site",
         "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
