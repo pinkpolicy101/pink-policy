@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-13T04:59:32.726036Z",
+  "generated_at": "2026-10-13T05:31:52.022524Z",
   "articles": {
     "world": [
+      {
+        "title": "Where the US midterm elections will be won and lost",
+        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T05:02:44Z",
+        "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump\u2019s final two years as president."
+      },
       {
         "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
         "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T04:30:09Z",
         "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
+      },
+      {
+        "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
+        "url": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T04:27:22Z",
+        "summary": "Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago."
       },
       {
         "title": "Why the prime minister wants to talk about Brexit again",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T16:15:30Z",
         "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\"."
-      },
-      {
-        "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-        "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T14:35:31Z",
-        "summary": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman."
-      },
-      {
-        "title": "Polanski challenged over whether he thinks Israel has right to exist",
-        "url": "https://www.bbc.co.uk/news/videos/c6qjnv07q452o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T12:08:42Z",
-        "summary": "The Green Party leader defends his decision to miss a debate on a controversial motion about Zionism which was passed by party members."
       }
     ],
     "saudi": [
@@ -316,6 +316,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Where the US midterm elections will be won and lost",
+        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T05:02:44Z",
+        "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump\u2019s final two years as president."
+      },
+      {
+        "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
+        "url": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T04:27:22Z",
+        "summary": "Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago."
+      },
       {
         "title": "Why the prime minister wants to talk about Brexit again",
         "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
