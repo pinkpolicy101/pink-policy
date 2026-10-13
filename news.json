@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T09:58:54.248691Z",
+  "generated_at": "2026-10-13T10:33:02.648034Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T09:38:54Z",
         "summary": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham."
+      },
+      {
+        "title": "Welsh government and Labour strike budget deal with \u00a360m for additional learning needs",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqg7n9l312o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T09:29:03Z",
+        "summary": "The Plaid Cymru-led administration had failed to pass its spending plans during the summer."
       },
       {
         "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-11T00:44:37Z",
         "summary": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding."
-      },
-      {
-        "title": "MPs seek to overturn ruling that stops police being sued for failings",
-        "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T23:04:37Z",
-        "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent."
       }
     ],
     "saudi": [
@@ -304,6 +304,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Welsh government and Labour strike budget deal with \u00a360m for additional learning needs",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqg7n9l312o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T09:29:03Z",
+        "summary": "The Plaid Cymru-led administration had failed to pass its spending plans during the summer."
+      },
       {
         "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
         "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
