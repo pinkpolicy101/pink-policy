@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-13T05:58:03.013491Z",
+  "generated_at": "2026-10-13T06:39:27.458512Z",
   "articles": {
     "world": [
+      {
+        "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+        "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T05:55:12Z",
+        "summary": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham."
+      },
       {
         "title": "Where the US midterm elections will be won and lost",
         "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
@@ -175,15 +181,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T17:14:16Z",
         "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\""
-      },
-      {
-        "title": "Burnham promises to curb non-compete rules in job contracts",
-        "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T16:15:30Z",
-        "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\"."
       }
     ],
     "saudi": [
+      {
+        "title": "Who are the Houthis and what do they want?",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T06:38:32Z",
+        "summary": "Their fighting with pro-government forces over Yemen's Red Sea coast and attacks on Saudi Arabia has put the spotlight on the Iran-backed group."
+      },
       {
         "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
         "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
@@ -240,6 +246,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Where the US midterm elections will be won and lost",
+        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T05:02:44Z",
+        "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump\u2019s final two years as president."
+      },
       {
         "title": "US actress Selma Blair accused of assault after incident with flight attendants",
         "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
@@ -310,6 +322,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
+        "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T05:55:12Z",
+        "summary": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham."
+      },
       {
         "title": "Where the US midterm elections will be won and lost",
         "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
@@ -2071,6 +2089,12 @@
     ],
     "saudi": [
       {
+        "title": "Who are the Houthis and what do they want?",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T06:38:32Z",
+        "summary": "Their fighting with pro-government forces over Yemen's Red Sea coast and attacks on Saudi Arabia has put the spotlight on the Iran-backed group."
+      },
+      {
         "title": "Who are the Houthis, and why are they so hard to fight?",
         "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T12:15:01Z",
@@ -2174,6 +2198,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Where the US midterm elections will be won and lost",
+        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T05:02:44Z",
+        "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump\u2019s final two years as president."
+      },
       {
         "title": "US actress Selma Blair arrested after allegedly attacking attendants on flight",
         "url": "https://www.bbc.co.uk/news/articles/cw80z7edrk80o?at_medium=RSS&at_campaign=rss",
