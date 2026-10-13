@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-13T21:10:40.947701Z",
+  "generated_at": "2026-10-13T21:39:14.872548Z",
   "articles": {
     "world": [
+      {
+        "title": "Zelensky and Burnham to meet in Downing Street",
+        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T21:31:30Z",
+        "summary": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky."
+      },
       {
         "title": "Argentina targets UK in legal claim over Falklands oil exploration",
         "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-10T23:04:37Z",
         "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent."
-      },
-      {
-        "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
-        "url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T11:09:16Z",
-        "summary": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion."
       }
     ],
     "saudi": [
@@ -310,6 +310,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Zelensky and Burnham to meet in Downing Street",
+        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T21:31:30Z",
+        "summary": "The prime minister is calling for partners to step up support for Ukraine following Trump's criticism of Zelensky."
+      },
       {
         "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
         "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
