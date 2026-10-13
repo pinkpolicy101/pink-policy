@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-13T17:57:34.569256Z",
+  "generated_at": "2026-10-13T18:37:41.026627Z",
   "articles": {
     "world": [
+      {
+        "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T17:36:43Z",
+        "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands."
+      },
       {
         "title": "MI5 chief warns against overstating Russian interference in Brexit vote",
         "url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-11T00:44:37Z",
         "summary": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding."
-      },
-      {
-        "title": "MPs seek to overturn ruling that stops police being sued for failings",
-        "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T23:04:37Z",
-        "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent."
       }
     ],
     "saudi": [
@@ -250,7 +250,7 @@
         "title": "Watch: Inside Katie Zacharia's very brief White House briefing",
         "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T17:04:37Z",
-        "summary": "The BBC's Sarah Smith reports on the the briefest briefing she has ever seen at the White House. Katie Zacharia took questions from three journalists on her first day on the job."
+        "summary": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign."
       },
       {
         "title": "Influencers spread false theory about Democrat Talarico",
@@ -304,6 +304,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Argentina lodges legal claim against UK's Falklands oil exploration",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T17:36:43Z",
+        "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands."
+      },
       {
         "title": "MI5 chief warns against overstating Russian interference in Brexit vote",
         "url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss",
