@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-13T15:34:01.559344Z",
+  "generated_at": "2026-10-13T15:59:55.128165Z",
   "articles": {
     "world": [
       {
@@ -67,6 +67,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T21:20:51Z",
         "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
+      },
+      {
+        "title": "Attorney General approval required for serious Troubles prosecutions",
+        "url": "https://www.bbc.co.uk/news/articles/crq8nynzpq0vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T20:50:53Z",
+        "summary": "It is among a series of amendments the government has tabled for its bill, which seeks to deal with the unresolved legacy of the decades-long violent conflict."
       },
       {
         "title": "Votes of no confidence in Sinn F\u00e9in ministers fail",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T19:26:53Z",
         "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
-      },
-      {
-        "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
-        "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T17:14:16Z",
-        "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\""
       }
     ],
     "saudi": [
@@ -249,7 +249,7 @@
       {
         "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
         "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T15:21:04Z",
+        "published_at": "2026-10-13T15:38:03Z",
         "summary": "One person is dead and others were injured after an incident at the amusement park in the US state of Georgia."
       },
       {
@@ -369,6 +369,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqgm087rkze2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T21:07:25Z",
         "summary": "US President Donald Trump has had a whirlwind weekend, announcing a diesel deal with Russia and an energy ceasefire between Russia and Ukraine. With the midterms coming up, it looks like Trump is turning overseas for help."
+      },
+      {
+        "title": "Attorney General approval required for serious Troubles prosecutions",
+        "url": "https://www.bbc.co.uk/news/articles/crq8nynzpq0vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T20:50:53Z",
+        "summary": "It is among a series of amendments the government has tabled for its bill, which seeks to deal with the unresolved legacy of the decades-long violent conflict."
       },
       {
         "title": "Government expands police support to political figures who are not MPs",
