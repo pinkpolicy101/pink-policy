@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-13T07:08:13.254542Z",
+  "generated_at": "2026-10-13T07:36:01.422121Z",
   "articles": {
     "world": [
       {
         "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
         "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T05:55:12Z",
+        "published_at": "2026-10-13T07:33:57Z",
         "summary": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham."
+      },
+      {
+        "title": "India 'cockroach' leaders detained after entering barricaded protest site",
+        "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T07:31:10Z",
+        "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists."
+      },
+      {
+        "title": "Chronic UTIs made MP 'feel like a drug user'",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2r5gyprmvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T05:38:00Z",
+        "summary": "Dr Allison Gardner MP has been living with the \"searing pain\" of recurring infections for a decade."
       },
       {
         "title": "Where the US midterm elections will be won and lost",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/sounds/play/m0032qm8?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-10T05:00:00Z",
         "summary": "Conservative Party Leader and Leader of the Opposition."
-      },
-      {
-        "title": "Polanski vows to stay as Green leader as he faces criticism after by-election defeat",
-        "url": "https://www.bbc.co.uk/news/articles/cmewe5lvl2rqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T19:26:53Z",
-        "summary": "Jewish Greens' leader has said Polanski should resign in the wake of a Zionism row and by-election defeat."
-      },
-      {
-        "title": "Lib Dem MP quits frontbench job over Ed Davey's leadership",
-        "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T17:14:16Z",
-        "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\""
       }
     ],
     "saudi": [
@@ -323,10 +323,22 @@
   "archive": {
     "world": [
       {
+        "title": "India 'cockroach' leaders detained after entering barricaded protest site",
+        "url": "https://www.bbc.co.uk/news/articles/cqz0v11n2vj5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T07:31:10Z",
+        "summary": "Protesters climbed over barricades in central Delhi to demand the election chief resign over revised voter lists."
+      },
+      {
         "title": "UK growth forecast upgraded but energy prices and rates to hit in 2027",
         "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T05:55:12Z",
         "summary": "The prediction from the IMF comes as final preparations are being made to the first Budget under Prime Minister Andy Burham."
+      },
+      {
+        "title": "Chronic UTIs made MP 'feel like a drug user'",
+        "url": "https://www.bbc.co.uk/news/articles/c6m2r5gyprmvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T05:38:00Z",
+        "summary": "Dr Allison Gardner MP has been living with the \"searing pain\" of recurring infections for a decade."
       },
       {
         "title": "Where the US midterm elections will be won and lost",
