@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-13T10:33:02.648034Z",
+  "generated_at": "2026-10-13T11:00:09.664947Z",
   "articles": {
     "world": [
+      {
+        "title": "Welsh government and Labour strike budget deal with \u00a360m for additional learning needs",
+        "url": "https://www.bbc.co.uk/news/articles/c6pqg7n9l312o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T10:33:43Z",
+        "summary": "The Plaid Cymru-led administration had failed to pass its spending plans during the summer."
+      },
       {
         "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
         "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
@@ -9,16 +15,10 @@
         "summary": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham."
       },
       {
-        "title": "Welsh government and Labour strike budget deal with \u00a360m for additional learning needs",
-        "url": "https://www.bbc.co.uk/news/articles/c6pqg7n9l312o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T09:29:03Z",
-        "summary": "The Plaid Cymru-led administration had failed to pass its spending plans during the summer."
-      },
-      {
-        "title": "Ship sinks in new drone attack off Bulgaria, PM summons Russian ambassador",
-        "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T08:52:48Z",
-        "summary": "Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks."
+        "title": "Ex-president named leader of new DR Congo rebel coalition",
+        "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T08:21:16Z",
+        "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo."
       },
       {
         "title": "Why are hundreds of prisoners being released early?",
@@ -315,6 +315,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmn06w5x9g25o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T08:52:48Z",
         "summary": "Bulgaria's prime minister says two merchant ships were hit by drones and he suspects Russia was behind the attacks."
+      },
+      {
+        "title": "Ex-president named leader of new DR Congo rebel coalition",
+        "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T08:21:16Z",
+        "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo."
       },
       {
         "title": "Why are hundreds of prisoners being released early?",
