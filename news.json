@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-13T14:04:13.271154Z",
+  "generated_at": "2026-10-13T14:35:23.871699Z",
   "articles": {
     "world": [
+      {
+        "title": "The Brexit debate is back - why now?",
+        "url": "https://www.bbc.co.uk/news/videos/cvy0rxy3jexwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T14:31:45Z",
+        "summary": "The BBC's political editor Chris Mason explains."
+      },
       {
         "title": "Ex-president named leader of new DR Congo rebel coalition",
         "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw4g13j4mdxjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T17:14:16Z",
         "summary": "Deputy party leader Daisy Cooper says \"the vast majority of our MPs support Ed... and are furious at this distraction.\""
-      },
-      {
-        "title": "Burnham promises to curb non-compete rules in job contracts",
-        "url": "https://www.bbc.co.uk/news/articles/c63r5wx8z8wzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T16:15:30Z",
-        "summary": "The prime minister says restrictions on what workers can do after leaving roles have \"gone too far\"."
       }
     ],
     "saudi": [
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "The Brexit debate is back - why now?",
+        "url": "https://www.bbc.co.uk/news/videos/cvy0rxy3jexwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T14:31:45Z",
+        "summary": "The BBC's political editor Chris Mason explains."
+      },
       {
         "title": "Welsh government and Labour strike budget deal with \u00a360m for additional learning needs",
         "url": "https://www.bbc.co.uk/news/articles/c6pqg7n9l312o?at_medium=RSS&at_campaign=rss",
