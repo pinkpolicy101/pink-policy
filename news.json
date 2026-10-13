@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-13T22:06:24.948161Z",
+  "generated_at": "2026-10-13T22:39:51.637030Z",
   "articles": {
     "world": [
+      {
+        "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+        "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T22:07:40Z",
+        "summary": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less."
+      },
       {
         "title": "Zelensky and Burnham to meet in Downing Street",
         "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
@@ -61,12 +67,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6m2r5gyprmvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T05:38:00Z",
         "summary": "Dr Allison Gardner MP has been living with the \"searing pain\" of recurring infections for a decade."
-      },
-      {
-        "title": "Where the US midterm elections will be won and lost",
-        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T05:02:44Z",
-        "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump\u2019s final two years as president."
       },
       {
         "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
@@ -187,7 +187,7 @@
       {
         "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
         "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T20:02:15Z",
+        "published_at": "2026-10-13T22:29:55Z",
         "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa."
       },
       {
@@ -310,6 +310,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
+        "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T22:07:40Z",
+        "summary": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less."
+      },
       {
         "title": "Zelensky and Burnham to meet in Downing Street",
         "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
