@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-13T16:59:07.901822Z",
+  "generated_at": "2026-10-13T17:31:08.161251Z",
   "articles": {
     "world": [
+      {
+        "title": "MI5 chief warns against overstating Russian interference in Brexit vote",
+        "url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T17:06:18Z",
+        "summary": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum."
+      },
       {
         "title": "Regulator would quit over Man City interference",
         "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
@@ -19,6 +25,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c8y56re7ldqyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T13:40:45Z",
         "summary": "Joseph Kabila had previously denied having links to the M23 rebels, which control much of eastern DR Congo."
+      },
+      {
+        "title": "Hundreds more prisoners being freed in second phase of early release scheme",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T12:48:51Z",
+        "summary": "The second tranche of prisoners being released includes those serving up to two and a half years."
       },
       {
         "title": "Welsh government and Labour strike budget deal with \u00a360m for additional learning needs",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-10T23:04:37Z",
         "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent."
-      },
-      {
-        "title": "Green Party MP wants to make sure it is 'not vulnerable to extremists'",
-        "url": "https://www.bbc.co.uk/news/articles/c54g19pgy48yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T11:09:16Z",
-        "summary": "The party's Westminster leader Ellie Chowns made the comments after ex-leader Caroline Lucas said some members had joined to vote in the Zionism motion."
-      },
-      {
-        "title": "Profile",
-        "url": "https://www.bbc.co.uk/sounds/play/m0032qm8?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T05:00:00Z",
-        "summary": "Conservative Party Leader and Leader of the Opposition."
       }
     ],
     "saudi": [
@@ -247,10 +247,10 @@
     ],
     "us": [
       {
-        "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
-        "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T15:38:03Z",
-        "summary": "One person is dead and others were injured after an incident at the amusement park in the US state of Georgia."
+        "title": "Watch: Inside Katie Zacharia's very brief White House briefing",
+        "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T17:04:37Z",
+        "summary": "The BBC's Sarah Smith reports on the the briefest briefing she has ever seen at the White House. Katie Zacharia took questions from three journalists on her first day on the job."
       },
       {
         "title": "Influencers spread false theory about Democrat Talarico",
@@ -305,6 +305,12 @@
   "archive": {
     "world": [
       {
+        "title": "MI5 chief warns against overstating Russian interference in Brexit vote",
+        "url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T17:06:18Z",
+        "summary": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum."
+      },
+      {
         "title": "Regulator would quit over Man City interference",
         "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T16:00:18Z",
@@ -315,6 +321,12 @@
         "url": "https://www.bbc.co.uk/news/videos/cvy0rxy3jexwo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T14:31:45Z",
         "summary": "The BBC's political editor Chris Mason explains."
+      },
+      {
+        "title": "Hundreds more prisoners being freed in second phase of early release scheme",
+        "url": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T12:48:51Z",
+        "summary": "The second tranche of prisoners being released includes those serving up to two and a half years."
       },
       {
         "title": "Welsh government and Labour strike budget deal with \u00a360m for additional learning needs",
@@ -2234,6 +2246,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Watch: Inside Katie Zacharia's very brief White House briefing",
+        "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T17:04:37Z",
+        "summary": "The BBC's Sarah Smith reports on the the briefest briefing she has ever seen at the White House. Katie Zacharia took questions from three journalists on her first day on the job."
+      },
       {
         "title": "Horrified witnesses recount fatal rollercoaster incident at Six Flags",
         "url": "https://www.bbc.co.uk/news/articles/c6n4ejx8x1z7o?at_medium=RSS&at_campaign=rss",
