@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-14T07:47:20.410787Z",
+  "generated_at": "2026-10-14T08:43:54.511575Z",
   "articles": {
     "world": [
+      {
+        "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T07:21:50Z",
+        "summary": "Ukraine's president says \"critical\" infrastructure was hit overnight, while emergency services say at least three were killed."
+      },
       {
         "title": "Why 'cool kids' won't let Swindon in Thames Valley",
         "url": "https://www.bbc.co.uk/news/articles/cx8dz4235vnyo?at_medium=RSS&at_campaign=rss",
@@ -13,12 +19,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T05:11:33Z",
         "summary": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations."
-      },
-      {
-        "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T04:36:06Z",
-        "summary": "The Ukrainian president says the ballistic missile strikes came with \"no early warning from our partners\"."
       },
       {
         "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
@@ -197,7 +197,7 @@
         "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa."
       },
       {
-        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+        "title": "Saudi employee charged with planting recording device in OpenAI office",
         "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T21:42:49Z",
         "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
@@ -316,6 +316,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T07:21:50Z",
+        "summary": "Ukraine's president says \"critical\" infrastructure was hit overnight, while emergency services say at least three were killed."
+      },
       {
         "title": "Why 'cool kids' won't let Swindon in Thames Valley",
         "url": "https://www.bbc.co.uk/news/articles/cx8dz4235vnyo?at_medium=RSS&at_campaign=rss",
