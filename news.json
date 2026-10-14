@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-14T17:44:05.668918Z",
+  "generated_at": "2026-10-14T18:13:02.449209Z",
   "articles": {
     "world": [
+      {
+        "title": "What if you could turn off your algorithm? Australia is about to try",
+        "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T18:00:54Z",
+        "summary": "New legislation is being tabled in Australia's parliament today to force big tech to allow users to switch off algorithms which send them recommended content."
+      },
       {
         "title": "We are behind you and that will not change, PM tells Zelensky",
         "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cr89zy9pypv9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T16:31:35Z",
         "summary": "The motion against will be debated after it received the backing of unionist parties last week."
-      },
-      {
-        "title": "Reform pledges to suspend UK's asylum system for up to five years",
-        "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T13:49:05Z",
-        "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation."
       }
     ],
     "saudi": [
@@ -304,6 +304,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "What if you could turn off your algorithm? Australia is about to try",
+        "url": "https://www.bbc.co.uk/news/videos/ck78pj2qy42po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T18:00:54Z",
+        "summary": "New legislation is being tabled in Australia's parliament today to force big tech to allow users to switch off algorithms which send them recommended content."
+      },
       {
         "title": "We are behind you and that will not change, PM tells Zelensky",
         "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
