@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-14T22:39:45.582876Z",
+  "generated_at": "2026-10-14T23:05:29.245958Z",
   "articles": {
     "world": [
+      {
+        "title": "Reform faces criticism after councillors filmed making racist comments",
+        "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T22:34:47Z",
+        "summary": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended."
+      },
       {
         "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
         "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T19:39:15Z",
         "summary": "The prime minister says Iran's Islamic Revolutionary Guard \"almost certainly\" directed the RAF Fairford incident."
-      },
-      {
-        "title": "Burnham to push for new post-Brexit deals at EU summit",
-        "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T17:38:15Z",
-        "summary": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU."
       }
     ],
     "saudi": [
@@ -265,6 +265,12 @@
     ],
     "us": [
       {
+        "title": "How backlash against data centres could shape the US midterm elections",
+        "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T23:02:57Z",
+        "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US."
+      },
+      {
         "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
         "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T20:55:24Z",
@@ -310,6 +316,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Reform faces criticism after councillors filmed making racist comments",
+        "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T22:34:47Z",
+        "summary": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended."
+      },
       {
         "title": "UK threatens to ban Eritreans over migrant return policy",
         "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
@@ -2396,6 +2408,12 @@
       }
     ],
     "us": [
+      {
+        "title": "How backlash against data centres could shape the US midterm elections",
+        "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T23:02:57Z",
+        "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US."
+      },
       {
         "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
         "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
