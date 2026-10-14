@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-14T14:43:23.607307Z",
+  "generated_at": "2026-10-14T15:13:06.502592Z",
   "articles": {
     "world": [
+      {
+        "title": "Burnham rules out coalition with Greens after 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/cr3el59j9y17o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T14:44:06Z",
+        "summary": "Andy Burnham condemns the motion approved by Green Party members and says his party would \"have nothing to do with it\"."
+      },
       {
         "title": "Analysis: Burnham careful ahead of meeting with Zelensky",
         "url": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
@@ -19,12 +25,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T13:41:51Z",
         "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany."
-      },
-      {
-        "title": "Burnham rules out coalition with Greens after 'Zionism is racism' motion",
-        "url": "https://www.bbc.co.uk/news/articles/cr3el59j9y17o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T13:39:16Z",
-        "summary": "Andy Burnham condemns the motion approved by Green Party members and says his party would \"have nothing to do with it\"."
       },
       {
         "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
@@ -61,12 +61,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T05:11:33Z",
         "summary": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations."
-      },
-      {
-        "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
-        "url": "https://www.bbc.co.uk/news/articles/crgqwv4vl24jo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T22:07:40Z",
-        "summary": "Some fear the government's standoff with the former PM's supporters could bring more instability, not less."
       },
       {
         "title": "Argentina targets UK in legal claim over Falklands oil exploration",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T08:50:22Z",
         "summary": "The Institute for Fiscal Studies says the government will need a \"top-up\" of billions of pounds if it wants to meet its spending plans."
+      },
+      {
+        "title": "Burnham says it is 'clear' Russia interfered with Brexit vote",
+        "url": "https://www.bbc.co.uk/news/articles/c6jdm3zggl0ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-12T08:38:43Z",
+        "summary": "The prime minister says voters were not \"sufficiently\" informed about how foreign actors sought to disrupt UK democracy."
       }
     ],
     "saudi": [
@@ -265,7 +265,7 @@
     ],
     "us": [
       {
-        "title": "US inflation rises more than expected ahead of midterm elections",
+        "title": "US inflation rises more than expected - here's what is happening with prices",
         "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T13:40:36Z",
         "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs."
