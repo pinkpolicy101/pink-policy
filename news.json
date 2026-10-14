@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-14T21:09:13.439797Z",
+  "generated_at": "2026-10-14T21:40:37.041582Z",
   "articles": {
     "world": [
+      {
+        "title": "UK threatens to ban Eritreans over migrant return policy",
+        "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T21:30:13Z",
+        "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
+      },
       {
         "title": "Why Zelensky's meeting with Burnham matters",
         "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T17:38:15Z",
         "summary": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU."
-      },
-      {
-        "title": "It is inconceivable to think Russia did not try to interfere in Brexit vote, says PM",
-        "url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T17:33:50Z",
-        "summary": "Andy Burnham says he is not questioning the legitimacy of the 2016 vote after facing questions from MPs."
       }
     ],
     "saudi": [
@@ -310,6 +310,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "UK threatens to ban Eritreans over migrant return policy",
+        "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T21:30:13Z",
+        "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
+      },
       {
         "title": "Why Zelensky's meeting with Burnham matters",
         "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
