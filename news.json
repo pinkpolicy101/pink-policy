@@ -1,18 +1,18 @@
 {
-  "generated_at": "2026-10-14T15:48:26.037922Z",
+  "generated_at": "2026-10-14T16:43:58.114121Z",
   "articles": {
     "world": [
       {
-        "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T15:16:21Z",
-        "summary": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street."
-      },
-      {
         "title": "Burnham rules out coalition with Greens after 'Zionism is racism' motion",
         "url": "https://www.bbc.co.uk/news/articles/cr3el59j9y17o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T14:44:06Z",
+        "published_at": "2026-10-14T16:37:59Z",
         "summary": "Andy Burnham condemns the motion approved by Green Party members and says his party would \"have nothing to do with it\"."
+      },
+      {
+        "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T15:56:57Z",
+        "summary": "It comes as the prime minister meets President Zelensky at Downing Street."
       },
       {
         "title": "Analysis: Burnham careful ahead of meeting with Zelensky",
@@ -265,6 +265,12 @@
     ],
     "us": [
       {
+        "title": "'It's rough out here': Americans struggle with rising inflation",
+        "url": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T15:57:11Z",
+        "summary": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving."
+      },
+      {
         "title": "US inflation rises more than expected - here's what is happening with prices",
         "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T15:26:14Z",
@@ -287,12 +293,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T17:04:37Z",
         "summary": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign."
-      },
-      {
-        "title": "US emergency call records reveal confusion after failed execution of Christa Pike",
-        "url": "https://www.bbc.co.uk/news/articles/ck1exg6qjdz3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T09:11:08Z",
-        "summary": "The killer of Colleen Slemmer was ultimately taken to hospital after two doses of lethal injection did not kill her."
       },
       {
         "title": "Where the US midterm elections will be won and lost",
@@ -2354,6 +2354,12 @@
       }
     ],
     "us": [
+      {
+        "title": "'It's rough out here': Americans struggle with rising inflation",
+        "url": "https://www.bbc.co.uk/news/articles/c305649p2d6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T15:57:11Z",
+        "summary": "US inflation continues to rise, and this month the jump was above forecasts. Here's how some are surviving."
+      },
       {
         "title": "US inflation rises more than expected ahead of midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
