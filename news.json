@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T11:12:28.164677Z",
+  "generated_at": "2026-10-14T11:43:20.843288Z",
   "articles": {
     "world": [
       {
@@ -185,16 +185,16 @@
     ],
     "saudi": [
       {
+        "title": "Houthi missile hits Aramco building after Saudi-led coalition hits Yemen fuel depot",
+        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T11:33:24Z",
+        "summary": "The Saudi energy ministry says the Houthi attack caused a \"limited fire\" at Aramco's headquarters complex in Dhahran."
+      },
+      {
         "title": "Saudi Arabia overturns death sentence for man over Facebook comment, Sri Lanka says",
         "url": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T06:11:08Z",
         "summary": "Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency."
-      },
-      {
-        "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
-        "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T04:20:17Z",
-        "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa."
       },
       {
         "title": "Saudi employee charged with planting recording device in OpenAI office",
