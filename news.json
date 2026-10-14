@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-13T23:37:14.963027Z",
+  "generated_at": "2026-10-14T00:02:14.545516Z",
   "articles": {
     "world": [
+      {
+        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+        "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T23:42:22Z",
+        "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany."
+      },
       {
         "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
         "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
@@ -73,12 +79,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6m2r5gyprmvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T05:38:00Z",
         "summary": "Dr Allison Gardner MP has been living with the \"searing pain\" of recurring infections for a decade."
-      },
-      {
-        "title": "BBC's Orla Guerin travels with Yemen's southern national security forces through desert battlefield",
-        "url": "https://www.bbc.co.uk/news/videos/cqx298yx4k48o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T04:27:22Z",
-        "summary": "Orla Guerin travelled through Yemen, with forces loyal to its internationally recognised government, to a remote desert battlefield where Houthi rebels were dislodged just days ago."
       },
       {
         "title": "Why the prime minister wants to talk about Brexit again",
@@ -304,6 +304,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+        "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T23:42:22Z",
+        "summary": "Four years after the attacks, Serhii K will appear in court accused of a plot to destroy Russia's gas pipelines to Germany."
+      },
       {
         "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
         "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
