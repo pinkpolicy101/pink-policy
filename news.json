@@ -1,24 +1,30 @@
 {
-  "generated_at": "2026-10-14T12:50:33.643207Z",
+  "generated_at": "2026-10-14T13:45:49.861873Z",
   "articles": {
     "world": [
+      {
+        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
+        "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T13:41:51Z",
+        "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany."
+      },
+      {
+        "title": "Burnham rules out coalition with Greens after 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/cr3el59j9y17o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T13:39:16Z",
+        "summary": "Andy Burnham condemns the motion approved by Green Party members and says his party would \"have nothing to do with it\"."
+      },
+      {
+        "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
+        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T13:09:51Z",
+        "summary": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street."
+      },
       {
         "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
         "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T12:47:43Z",
         "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches."
-      },
-      {
-        "title": "Burnham says he wants to 'repair bridges' between Ukraine and US",
-        "url": "https://www.bbc.co.uk/news/articles/cq98z59xdny5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T12:36:24Z",
-        "summary": "It comes ahead of a meeting between the prime minister and President Zelensky at Downing Street."
-      },
-      {
-        "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
-        "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T12:27:00Z",
-        "summary": "Four years after the attacks, Serhii Kuznetsov appears in court accused of a plot to destroy Russia's gas pipelines to Germany."
       },
       {
         "title": "Mauritius reels from worst riots in decades after woman shot by police",
@@ -37,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cx8dz4235vnyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T05:31:14Z",
         "summary": "Why the \"popular kids\" in Oxfordshire are not letting Swindon in on the Thames Valley devolution deal."
-      },
-      {
-        "title": "Chris Mason: Lib Dems rally behind Davey as he pledges change",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T05:11:33Z",
-        "summary": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations."
       },
       {
         "title": "Pakistan has locked down Imran Khan's stronghold - but it could backfire",
@@ -265,6 +265,12 @@
     ],
     "us": [
       {
+        "title": "US inflation rises more than expected ahead of midterm elections",
+        "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T13:40:36Z",
+        "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs."
+      },
+      {
         "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
         "url": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T23:42:15Z",
@@ -289,15 +295,21 @@
         "summary": "The killer of Colleen Slemmer was ultimately taken to hospital after two doses of lethal injection did not kill her."
       },
       {
-        "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
-        "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-11T23:13:51Z",
-        "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away."
+        "title": "Where the US midterm elections will be won and lost",
+        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T05:02:44Z",
+        "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump\u2019s final two years as president."
       }
     ]
   },
   "archive": {
     "world": [
+      {
+        "title": "Burnham rules out coalition with Greens after 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/cr3el59j9y17o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T13:39:16Z",
+        "summary": "Andy Burnham condemns the motion approved by Green Party members and says his party would \"have nothing to do with it\"."
+      },
       {
         "title": "Mauritius reels from worst riots in decades after woman shot by police",
         "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
@@ -2324,6 +2336,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US inflation rises more than expected ahead of midterm elections",
+        "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T13:40:36Z",
+        "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs."
+      },
       {
         "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
         "url": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
