@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-14T06:08:18.239572Z",
+  "generated_at": "2026-10-14T06:52:18.181804Z",
   "articles": {
     "world": [
+      {
+        "title": "Lib Dems rally behind Davey as he pledges change",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T05:11:33Z",
+        "summary": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations."
+      },
       {
         "title": "Russian strikes hit key power plant in Kyiv, Zelensky says",
         "url": "https://www.bbc.co.uk/news/articles/ck20r9qpw505o?at_medium=RSS&at_campaign=rss",
@@ -175,20 +181,26 @@
         "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-11T00:44:37Z",
         "summary": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding."
-      },
-      {
-        "title": "MPs seek to overturn ruling that stops police being sued for failings",
-        "url": "https://www.bbc.co.uk/news/articles/c6y43mmke7ygo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T23:04:37Z",
-        "summary": "MPs are seeking to stop immunity applying when police fabricate evidence or are dishonest or negligent."
       }
     ],
     "saudi": [
+      {
+        "title": "Saudi Arabia overturns death sentence for man over Facebook comment",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T06:11:08Z",
+        "summary": "Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency."
+      },
       {
         "title": "Missiles intercepted near Riyadh after Saudi coalition hits Yemen fuel depot",
         "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T04:20:17Z",
         "summary": "The Saudi-led coalition fighting in Yemen struck a fuel depot near the Houthi-controlled capital, Sanaa."
+      },
+      {
+        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+        "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T21:42:49Z",
+        "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
       },
       {
         "title": "Who are the Houthis and what do they want?",
@@ -304,6 +316,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Lib Dems rally behind Davey as he pledges change",
+        "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T05:11:33Z",
+        "summary": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations."
+      },
       {
         "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
         "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
@@ -2166,6 +2184,18 @@
       }
     ],
     "saudi": [
+      {
+        "title": "Saudi Arabia overturns death sentence for man over Facebook comment",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T06:11:08Z",
+        "summary": "Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency."
+      },
+      {
+        "title": "Saudi man charged with planting 'sophisticated' recording device in OpenAI office",
+        "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-13T21:42:49Z",
+        "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
+      },
       {
         "title": "Saudi coalition strikes fuel depot near Yemen's capital",
         "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
