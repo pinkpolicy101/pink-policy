@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-14T09:45:00.227080Z",
+  "generated_at": "2026-10-14T10:13:34.071551Z",
   "articles": {
     "world": [
+      {
+        "title": "Turkish police raid opposition TV station, halting live broadcasts",
+        "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T10:07:02Z",
+        "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government."
+      },
+      {
+        "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+        "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T10:06:48Z",
+        "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches."
+      },
       {
         "title": "Germany puts Ukrainian on trial accused of blowing up Nord Stream pipelines",
         "url": "https://www.bbc.co.uk/news/articles/cw99zpmnxzmjo?at_medium=RSS&at_campaign=rss",
@@ -43,12 +55,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cky83q49e4w0o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T17:06:18Z",
         "summary": "It comes after Andy Burnham said Moscow had tried to interfere in the 2016 referendum."
-      },
-      {
-        "title": "Regulator would quit over Man City interference",
-        "url": "https://www.bbc.co.uk/sport/football/articles/cjkge245n0gzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T16:00:18Z",
-        "summary": "The head of English football's independent regulator says he will resign if he encounters any political interference over Manchester City's future."
       },
       {
         "title": "The Brexit debate is back - why now?",
@@ -93,7 +99,7 @@
         "summary": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason."
       },
       {
-        "title": "Attorney General approval required for serious Troubles prosecutions",
+        "title": "Attorney general approval required for serious Troubles prosecutions",
         "url": "https://www.bbc.co.uk/news/articles/crq8nynzpq0vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T20:50:53Z",
         "summary": "It is among a series of amendments the government has tabled for its bill, which seeks to deal with the unresolved legacy of the decades-long violent conflict."
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cm2d63e90zepo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-11T10:34:41Z",
         "summary": "WATCH: The BBC's Nadine Yousif meets the separatists who want to quit the country - and the Canadians calling for unity in the face of threats from US President Trump."
-      },
-      {
-        "title": "UK launches flood taskforce to prepare for extreme winter weather",
-        "url": "https://www.bbc.co.uk/news/articles/c8040n4v7126o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-11T00:44:37Z",
-        "summary": "The Environment Agency has warned approximately 6.3 million homes and businesses in England remain at risk of flooding."
       }
     ],
     "saudi": [
@@ -316,6 +316,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Turkish police raid opposition TV station, halting live broadcasts",
+        "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T10:07:02Z",
+        "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government."
+      },
+      {
+        "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
+        "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T10:06:48Z",
+        "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches."
+      },
       {
         "title": "Russian strikes leave 600,000 without power in Ukraine, Zelensky says",
         "url": "https://www.bbc.co.uk/news/articles/cm2d6e62p49do?at_medium=RSS&at_campaign=rss",
