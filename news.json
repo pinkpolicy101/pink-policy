@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T02:09:56.048414Z",
+  "generated_at": "2026-10-15T02:41:55.449210Z",
   "articles": {
     "world": [
       {
@@ -265,16 +265,16 @@
     ],
     "us": [
       {
+        "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T02:26:07Z",
+        "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter."
+      },
+      {
         "title": "How backlash against data centres could shape the US midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T23:02:57Z",
         "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US."
-      },
-      {
-        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
-        "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T20:55:24Z",
-        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
       },
       {
         "title": "'It's rough out here': Americans struggle with rising inflation",
@@ -2414,6 +2414,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Retired US generals call on Pentagon to cancel 'barbaric' execution livestream",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3gnngv3e9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T02:26:07Z",
+        "summary": "Livestreaming the execution of Nidal Hasan \"will taint the honor of the military that employs it, and a nation that allows it,\" 72 former officers said in a letter."
+      },
       {
         "title": "How backlash against data centres could shape the US midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
