@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-15T06:09:32.364163Z",
+  "generated_at": "2026-10-15T06:52:16.651609Z",
   "articles": {
     "world": [
+      {
+        "title": "UK economy grew 0.1% in August ahead of Healey's first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T06:42:13Z",
+        "summary": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show."
+      },
       {
         "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
         "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T17:38:15Z",
         "summary": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU."
-      },
-      {
-        "title": "It is inconceivable to think Russia did not try to interfere in Brexit vote, says PM",
-        "url": "https://www.bbc.co.uk/news/articles/cq5ynr4kn3nmo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T17:33:50Z",
-        "summary": "Andy Burnham says he is not questioning the legitimacy of the 2016 vote after facing questions from MPs."
       }
     ],
     "saudi": [
@@ -237,18 +237,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr4g1pwxxlq1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-11T15:32:32Z",
         "summary": "While the physical damage from Houthi attacks can be quickly repaired, the Saudi reputation for stability is taking a battering."
-      },
-      {
-        "title": "Twelve killed and 300 injured in attack on airport in Saudi capital Riyadh",
-        "url": "https://www.bbc.co.uk/news/articles/cw33x4y8k82no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-11T08:41:30Z",
-        "summary": "Saturday's attack was the deadliest in Saudi Arabia since May 2015. US and Saudi officials are blaming Yemen's Houthis, who have yet to comment on the strike."
-      },
-      {
-        "title": "Three Saudi nationals killed in Houthi attacks on Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7xe37g5wro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T13:50:25Z",
-        "summary": "The missile attacks come amid an escalation in fighting between the Iran-backed group and Saudi Arabia, which backs Yemen's government."
       },
       {
         "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -328,6 +316,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "UK economy grew 0.1% in August ahead of Healey's first Budget",
+        "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T06:42:13Z",
+        "summary": "The uptick helped the economy grow by 0.7% over the three months to August, official figures show."
+      },
       {
         "title": "Reform faces criticism after councillors filmed making racist comments",
         "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
