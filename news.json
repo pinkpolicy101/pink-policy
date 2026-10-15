@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-14T23:36:03.016571Z",
+  "generated_at": "2026-10-15T00:00:18.158085Z",
   "articles": {
     "world": [
       {
@@ -19,6 +19,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T21:30:13Z",
         "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
+      },
+      {
+        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T20:55:24Z",
+        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
       },
       {
         "title": "Why Zelensky's meeting with Burnham matters",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T19:51:34Z",
         "summary": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life."
-      },
-      {
-        "title": "Britain won't tolerate threats on our soil, Miliband says as he summons Iran ambassador",
-        "url": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T19:39:15Z",
-        "summary": "The prime minister says Iran's Islamic Revolutionary Guard \"almost certainly\" directed the RAF Fairford incident."
       }
     ],
     "saudi": [
@@ -271,7 +271,7 @@
         "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US."
       },
       {
-        "title": "Musk says any limits on Ukraine's Starlink access down to US, not his firm",
+        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
         "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T20:55:24Z",
         "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
@@ -327,6 +327,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T21:30:13Z",
         "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
+      },
+      {
+        "title": "Musk says US government may be behind slowdown of Ukraine drone speeds",
+        "url": "https://www.bbc.co.uk/news/articles/c8wy9veedgygo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-14T20:55:24Z",
+        "summary": "Ukraine says Starlink access has improved but it is still facing speed limits which are disrupting its battlefield \"missions\"."
       },
       {
         "title": "Why Zelensky's meeting with Burnham matters",
