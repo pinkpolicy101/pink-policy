@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-15T23:02:31.493589Z",
+  "generated_at": "2026-10-15T23:35:38.622729Z",
   "articles": {
     "world": [
+      {
+        "title": "Are student protests being manipulated ahead of France's presidential election?",
+        "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T23:25:06Z",
+        "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too."
+      },
       {
         "title": "Letters with 'suspicious substances' sent to US senators and election offices",
         "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T05:11:33Z",
         "summary": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations."
-      },
-      {
-        "title": "Argentina targets UK in legal claim over Falklands oil exploration",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3g14p3z2ko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T17:36:43Z",
-        "summary": "The action filed with an international maritime tribunal is the latest development in an escalating row over the Falkland Islands."
       }
     ],
     "saudi": [
@@ -265,12 +265,6 @@
         "summary": "The nature of the investigation is unclear but comes after officials cast doubt on her US citizenship."
       },
       {
-        "title": "US teenager appears in court over alleged Hindu temple shooting plot",
-        "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T12:20:24Z",
-        "summary": "Alexandros Paporakis, 19, has appeared in court near Chicago after his arrest at the weekend."
-      },
-      {
         "title": "Obama says drift towards extremism 'not inevitable'",
         "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T10:51:53Z",
@@ -334,6 +328,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Are student protests being manipulated ahead of France's presidential election?",
+        "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T23:25:06Z",
+        "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too."
+      },
       {
         "title": "Letters with 'suspicious substances' sent to US election offices",
         "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
