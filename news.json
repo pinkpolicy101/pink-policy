@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-15T15:50:26.335869Z",
+  "generated_at": "2026-10-15T16:43:22.480946Z",
   "articles": {
     "world": [
       {
         "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
         "url": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T15:26:21Z",
+        "published_at": "2026-10-15T16:36:32Z",
         "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists."
+      },
+      {
+        "title": "Equality watchdog writes to Greens over 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0np1gldvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T16:35:09Z",
+        "summary": "The party was reported to the Equality and Human Rights Commission by MPs and antisemitism campaigners."
+      },
+      {
+        "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+        "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T15:55:14Z",
+        "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children."
+      },
+      {
+        "title": "UK threatens to ban Eritreans over migrant return policy",
+        "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T15:51:17Z",
+        "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
       },
       {
         "title": "Labour to break from Green council groups that back Zionism policy",
@@ -39,22 +57,10 @@
         "summary": "The PM has faced fresh questions about hospitality dinners since the club was found guilty of Premier League rule breaches."
       },
       {
-        "title": "UK threatens to ban Eritreans over migrant return policy",
-        "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T13:35:08Z",
-        "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
-      },
-      {
         "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
         "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T13:25:17Z",
         "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction."
-      },
-      {
-        "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
-        "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T13:13:26Z",
-        "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children."
       },
       {
         "title": "Obama says drift towards extremism 'not inevitable'",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cp3rxlyz6w3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T07:55:58Z",
         "summary": "More people going to prison, and for longer, is why governments including the current one have had to release prisoners early."
-      },
-      {
-        "title": "Chronic UTIs made MP 'feel like a drug user'",
-        "url": "https://www.bbc.co.uk/news/articles/c6m2r5gyprmvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T05:38:00Z",
-        "summary": "Dr Allison Gardner MP has been living with the \"searing pain\" of recurring infections for a decade."
       }
     ],
     "saudi": [
@@ -328,6 +328,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Equality watchdog writes to Greens over 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/cmly0np1gldvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T16:35:09Z",
+        "summary": "The party was reported to the Equality and Human Rights Commission by MPs and antisemitism campaigners."
+      },
       {
         "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
         "url": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
