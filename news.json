@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-15T17:15:11.296208Z",
+  "generated_at": "2026-10-15T17:44:26.690478Z",
   "articles": {
     "world": [
+      {
+        "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+        "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T17:31:37Z",
+        "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives."
+      },
+      {
+        "title": "Burnham asks for his Widdecombe remarks to be corrected",
+        "url": "https://www.bbc.co.uk/news/articles/cvglwed77p91o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T17:17:31Z",
+        "summary": "The prime minister had faced calls to apologise for his comments about the alleged murder of the former minister."
+      },
+      {
+        "title": "Banks say Healey is planning Budget tax raid on their profits",
+        "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T17:14:36Z",
+        "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month."
+      },
       {
         "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
         "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cvy0rxy3jexwo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T14:31:45Z",
         "summary": "The BBC's political editor Chris Mason explains."
-      },
-      {
-        "title": "Hundreds more prisoners being freed in second phase of early release scheme",
-        "url": "https://www.bbc.co.uk/news/articles/cwzrdnrrmgymo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T12:48:51Z",
-        "summary": "The second tranche of prisoners being released includes those serving up to two and a half years."
-      },
-      {
-        "title": "Welsh government and Labour strike budget deal with \u00a360m for additional learning needs",
-        "url": "https://www.bbc.co.uk/news/articles/c6pqg7n9l312o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T12:29:36Z",
-        "summary": "The Plaid Cymru-led administration had failed to pass its spending plans during the summer."
-      },
-      {
-        "title": "UK growth forecast upgraded but higher energy prices to hit economy next year",
-        "url": "https://www.bbc.co.uk/news/articles/cmglw0r21zexo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T09:38:54Z",
-        "summary": "The prediction from the IMF comes as final preparations are being made for the first Budget under Prime Minister Andy Burnham."
       }
     ],
     "saudi": [
@@ -256,7 +256,7 @@
         "title": "What we know about the criminal investigation into US Congresswoman Ilhan Omar",
         "url": "https://www.bbc.co.uk/news/articles/cq98zpk30pd5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T16:59:31Z",
-        "summary": "The nature of the investigation remains unclear but various US media reports suggest it is linked to her US citizenship."
+        "summary": "The nature of the investigation is unclear but comes after officials cast doubt on her US citizenship."
       },
       {
         "title": "US teenager appears in court over alleged Hindu temple shooting plot",
@@ -328,6 +328,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
+        "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T17:31:37Z",
+        "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives."
+      },
+      {
+        "title": "Burnham asks for his Widdecombe remarks to be corrected",
+        "url": "https://www.bbc.co.uk/news/articles/cvglwed77p91o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T17:17:31Z",
+        "summary": "The prime minister had faced calls to apologise for his comments about the alleged murder of the former minister."
+      },
+      {
+        "title": "Banks say Healey is planning Budget tax raid on their profits",
+        "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T17:14:36Z",
+        "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month."
+      },
       {
         "title": "Reform faces criticism after councillors filmed making racist remarks",
         "url": "https://www.bbc.co.uk/news/videos/cr9dzq406yddo?at_medium=RSS&at_campaign=rss",
