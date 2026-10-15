@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-15T19:39:18.320203Z",
+  "generated_at": "2026-10-15T20:07:17.514542Z",
   "articles": {
     "world": [
       {
@@ -154,7 +154,7 @@
       },
       {
         "title": "The Media Show",
-        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/sounds/play/m0032r5s?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T18:35:00Z",
         "summary": "An extended interview with acclaimed screenwriter and producer Russell T Davies."
       },
@@ -252,6 +252,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Letters with 'suspicious substances' sent to US election offices",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T19:13:09Z",
+        "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana."
+      },
       {
         "title": "What we know about the criminal investigation into US Congresswoman Ilhan Omar",
         "url": "https://www.bbc.co.uk/news/articles/cq98zpk30pd5o?at_medium=RSS&at_campaign=rss",
@@ -2540,6 +2546,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Letters with 'suspicious substances' sent to US election offices",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T19:13:09Z",
+        "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana."
+      },
       {
         "title": "What we know about the criminal investigation into US Congresswoman Ilhan Omar",
         "url": "https://www.bbc.co.uk/news/articles/cq98zpk30pd5o?at_medium=RSS&at_campaign=rss",
