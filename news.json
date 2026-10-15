@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-15T12:10:21.404625Z",
+  "generated_at": "2026-10-15T12:53:20.394985Z",
   "articles": {
     "world": [
+      {
+        "title": "Labour could end local coalitions with Greens over Zionism policy",
+        "url": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T12:34:32Z",
+        "summary": "Labour says it will end power-sharing deals with councillors that do not disown the party's new stance."
+      },
       {
         "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
         "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6gr82ekqewyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T19:39:15Z",
         "summary": "The prime minister says Iran's Islamic Revolutionary Guard \"almost certainly\" directed the RAF Fairford incident."
-      },
-      {
-        "title": "Burnham to push for new post-Brexit deals at EU summit",
-        "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T17:38:15Z",
-        "summary": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU."
       }
     ],
     "saudi": [
@@ -253,6 +253,12 @@
     ],
     "us": [
       {
+        "title": "US teenager appears in court over alleged Hindu temple shooting plot",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T12:20:24Z",
+        "summary": "Alexandros Paporakis, 19, has appeared in court near Chicago after his arrest at the weekend."
+      },
+      {
         "title": "Obama says drift towards extremism 'not inevitable'",
         "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T10:51:53Z",
@@ -322,6 +328,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Labour could end local coalitions with Greens over Zionism policy",
+        "url": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T12:34:32Z",
+        "summary": "Labour says it will end power-sharing deals with councillors that do not disown the party's new stance."
+      },
       {
         "title": "Obama says drift towards extremism 'not inevitable'",
         "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
@@ -2450,6 +2462,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US teenager appears in court over alleged Hindu temple shooting plot",
+        "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T12:20:24Z",
+        "summary": "Alexandros Paporakis, 19, has appeared in court near Chicago after his arrest at the weekend."
+      },
       {
         "title": "Obama says drift towards extremism 'not inevitable'",
         "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
