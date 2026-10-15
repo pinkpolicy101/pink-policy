@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-15T13:50:13.787815Z",
+  "generated_at": "2026-10-15T14:44:01.770918Z",
   "articles": {
     "world": [
+      {
+        "title": "Labour to break from Green council groups that back Zionism policy",
+        "url": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T14:29:21Z",
+        "summary": "Labour says it will end power-sharing deals with councillors that do not disown the party's new stance."
+      },
+      {
+        "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
+        "url": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T14:27:05Z",
+        "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists."
+      },
+      {
+        "title": "'Bring it on': Flynn challenges Burnham on independence referendum",
+        "url": "https://www.bbc.co.uk/news/articles/cv2d658g1erro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T14:08:55Z",
+        "summary": "The SNP's Stephen Flynn tells his party's conference independence supporters are \"winning the argument\"."
+      },
+      {
+        "title": "Burnham asks for 'manual trawl' of records for former Man City links",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2ve4nr9pgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T14:08:02Z",
+        "summary": "The PM has faced fresh questions about hospitality dinners since the club was found guilty of Premier League rule breaches."
+      },
       {
         "title": "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
         "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
@@ -21,10 +45,10 @@
         "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction."
       },
       {
-        "title": "Labour could end local coalitions with Greens over Zionism policy",
-        "url": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T12:34:32Z",
-        "summary": "Labour says it will end power-sharing deals with councillors that do not disown the party's new stance."
+        "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+        "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T13:13:26Z",
+        "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children."
       },
       {
         "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
@@ -157,30 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6m2r5gyprmvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T05:38:00Z",
         "summary": "Dr Allison Gardner MP has been living with the \"searing pain\" of recurring infections for a decade."
-      },
-      {
-        "title": "Why the prime minister wants to talk about Brexit again",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgdql2y7zqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T01:27:59Z",
-        "summary": "For the first time since the UK left the EU, we have a prime minister who will \"unflinchingly\" debate Brexit, says the BBC's political editor Chris Mason."
-      },
-      {
-        "title": "Attorney general approval required for serious Troubles prosecutions",
-        "url": "https://www.bbc.co.uk/news/articles/crq8nynzpq0vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T20:50:53Z",
-        "summary": "It is among a series of amendments the government has tabled for its bill, which seeks to deal with the unresolved legacy of the decades-long violent conflict."
-      },
-      {
-        "title": "Votes of no confidence in Sinn F\u00e9in ministers fail",
-        "url": "https://www.bbc.co.uk/news/articles/c68jz0282re9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T19:53:16Z",
-        "summary": "The attempt to oust them failed as it required cross-community support from a majority of both unionists and nationalists in the assembly."
-      },
-      {
-        "title": "Government expands police support to political figures who are not MPs",
-        "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T19:51:34Z",
-        "summary": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life."
       }
     ],
     "saudi": [
@@ -329,10 +329,34 @@
   "archive": {
     "world": [
       {
+        "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
+        "url": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T14:27:05Z",
+        "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists."
+      },
+      {
+        "title": "'Bring it on': Flynn challenges Burnham on independence referendum",
+        "url": "https://www.bbc.co.uk/news/articles/cv2d658g1erro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T14:08:55Z",
+        "summary": "The SNP's Stephen Flynn tells his party's conference independence supporters are \"winning the argument\"."
+      },
+      {
+        "title": "Burnham asks for 'manual trawl' of records for former Man City links",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2ve4nr9pgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T14:08:02Z",
+        "summary": "The PM has faced fresh questions about hospitality dinners since the club was found guilty of Premier League rule breaches."
+      },
+      {
         "title": "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
         "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T13:44:51Z",
         "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape."
+      },
+      {
+        "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+        "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T13:13:26Z",
+        "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children."
       },
       {
         "title": "Labour could end local coalitions with Greens over Zionism policy",
