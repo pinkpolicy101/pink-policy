@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-16T16:12:05.028655Z",
+  "generated_at": "2026-10-16T16:42:04.265935Z",
   "articles": {
     "world": [
       {
-        "title": "Ukraine pushes Russia back on front line where Starlink has played key role",
+        "title": "Ex-top official Robbins reaches settlement with government over sacking",
+        "url": "https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T16:38:18Z",
+        "summary": "Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson."
+      },
+      {
+        "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
         "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T16:00:30Z",
-        "summary": "Ukraine's Operation Vivaldi has regained crucial territory in the Donbas but optimism has been dampened by souring relations with President Trump."
+        "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump."
       },
       {
         "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cr9dzq406yddo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T16:44:39Z",
         "summary": "Reform UK has said \"there is no room for racism\" in its party after ITV News broadcast undercover filming, gathered over a year, of some of its councillors and candidates using racist, violent and sexist language."
-      },
-      {
-        "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
-        "url": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T16:36:32Z",
-        "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists."
       }
     ],
     "saudi": [
@@ -334,6 +334,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Ex-top official Robbins reaches settlement with government over sacking",
+        "url": "https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T16:38:18Z",
+        "summary": "Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson."
+      },
       {
         "title": "Ukraine pushes Russia back on front line where Starlink has played key role",
         "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
