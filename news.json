@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-16T16:42:04.265935Z",
+  "generated_at": "2026-10-16T17:10:42.933545Z",
   "articles": {
     "world": [
+      {
+        "title": "Reform councillor calls TV report 'vote interference'",
+        "url": "https://www.bbc.co.uk/news/articles/cqjdm2nylkz0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T17:07:59Z",
+        "summary": "ITV News filmed undercover with Reform councillors and candidates around the country."
+      },
       {
         "title": "Ex-top official Robbins reaches settlement with government over sacking",
         "url": "https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&at_campaign=rss",
@@ -9,7 +15,7 @@
         "summary": "Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson."
       },
       {
-        "title": "Inside Ukrainian offensive pushing Russia back on front line where Starlink plays a key role",
+        "title": "Inside Ukrainian offensive pushing Russia back - with Starlink playing a key role",
         "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T16:00:30Z",
         "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump."
@@ -124,7 +130,7 @@
       },
       {
         "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct98kt?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T23:30:00Z",
         "summary": "Nigerian opposition leader Peter Obi on his presidential bid and his claim he won in 2023"
       },
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T16:50:18Z",
         "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks."
-      },
-      {
-        "title": "Reform faces criticism after councillors filmed making racist remarks",
-        "url": "https://www.bbc.co.uk/news/videos/cr9dzq406yddo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T16:44:39Z",
-        "summary": "Reform UK has said \"there is no room for racism\" in its party after ITV News broadcast undercover filming, gathered over a year, of some of its councillors and candidates using racist, violent and sexist language."
       }
     ],
     "saudi": [
@@ -334,6 +334,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Reform councillor calls TV report 'vote interference'",
+        "url": "https://www.bbc.co.uk/news/articles/cqjdm2nylkz0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T17:07:59Z",
+        "summary": "ITV News filmed undercover with Reform councillors and candidates around the country."
+      },
       {
         "title": "Ex-top official Robbins reaches settlement with government over sacking",
         "url": "https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&at_campaign=rss",
