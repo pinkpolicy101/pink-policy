@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-16T04:41:56.561085Z",
+  "generated_at": "2026-10-16T05:10:40.915077Z",
   "articles": {
     "world": [
+      {
+        "title": "They fled Russia, but the West sent them back",
+        "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T04:57:28Z",
+        "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge."
+      },
       {
         "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
         "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cx8dz4235vnyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T05:31:14Z",
         "summary": "Why the \"popular kids\" in Oxfordshire are not letting Swindon in on the Thames Valley devolution deal."
-      },
-      {
-        "title": "Lib Dems rally behind Davey as he pledges change",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7l03ydkyko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T05:11:33Z",
-        "summary": "The BBC's political editor Chris Mason looks at the fallout from the Lib Dem frontbench resignations."
       }
     ],
     "saudi": [
@@ -346,6 +346,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "They fled Russia, but the West sent them back",
+        "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T04:57:28Z",
+        "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge."
+      },
       {
         "title": "Are student protests being manipulated ahead of France's presidential election?",
         "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
