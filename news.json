@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-16T15:11:26.373313Z",
+  "generated_at": "2026-10-16T15:41:06.534324Z",
   "articles": {
     "world": [
+      {
+        "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+        "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T15:22:12Z",
+        "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
+      },
+      {
+        "title": "Reform councillor quits over offensive remarks",
+        "url": "https://www.bbc.co.uk/news/articles/c64g1803dkp7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T15:18:32Z",
+        "summary": "Alan Feeney was captured on undercover filming calling Asian homeowners \"parasites\"."
+      },
       {
         "title": "Labour calls for M4 relief road, seven years after axing the plan",
         "url": "https://www.bbc.co.uk/news/articles/c39wzge1j28yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T14:53:03Z",
         "summary": "Seven years after the party axed the project, Labour says the Welsh government should build the road."
-      },
-      {
-        "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-        "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T14:44:11Z",
-        "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
       },
       {
         "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T15:17:56Z",
         "summary": "Labour says it will end power-sharing deals with councillors that do not disown the party's new stance."
-      },
-      {
-        "title": "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
-        "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T14:55:21Z",
-        "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape."
       }
     ],
     "saudi": [
@@ -334,6 +334,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Reform councillor quits over offensive remarks",
+        "url": "https://www.bbc.co.uk/news/articles/c64g1803dkp7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T15:18:32Z",
+        "summary": "Alan Feeney was captured on undercover filming calling Asian homeowners \"parasites\"."
+      },
       {
         "title": "Labour calls for M4 relief road, seven years after axing the plan",
         "url": "https://www.bbc.co.uk/news/articles/c39wzge1j28yo?at_medium=RSS&at_campaign=rss",
