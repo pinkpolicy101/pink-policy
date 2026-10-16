@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-16T06:08:58.384798Z",
+  "generated_at": "2026-10-16T06:51:54.281603Z",
   "articles": {
     "world": [
+      {
+        "title": "Banks say Healey planning to increase tax on their profits in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T06:42:12Z",
+        "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month."
+      },
+      {
+        "title": "Burnham to urge Swinney to work with him on devolution during Scottish visit",
+        "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T05:22:31Z",
+        "summary": "The prime minister will speak on his first substantive trip to Scotland since moving into Downing Street."
+      },
       {
         "title": "They fled Russia, but the West sent them back",
         "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
@@ -9,10 +21,22 @@
         "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge."
       },
       {
+        "title": "Reform faces questions over candidate vetting after undercover filming",
+        "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T23:52:27Z",
+        "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\"."
+      },
+      {
         "title": "Houthi missile attack on Yemeni presidential palace kills five, minister says",
         "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T23:38:46Z",
         "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace."
+      },
+      {
+        "title": "Porn showing choking or incest to be banned from early November, government says",
+        "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T23:27:57Z",
+        "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin"
       },
       {
         "title": "Are student protests being manipulated ahead of France's presidential election?",
@@ -43,12 +67,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cvglwed77p91o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T17:17:31Z",
         "summary": "The prime minister had faced calls to apologise for his comments about the alleged murder of the former minister."
-      },
-      {
-        "title": "Banks say Healey planning to increase tax on their profits in Budget",
-        "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T17:14:36Z",
-        "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month."
       },
       {
         "title": "Maduro pleads not guilty to new torture-related charges in New York",
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T19:22:28Z",
         "summary": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump."
-      },
-      {
-        "title": "The Media Show",
-        "url": "https://www.bbc.co.uk/sounds/play/m0032r5s?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T18:35:00Z",
-        "summary": "An extended interview with acclaimed screenwriter and producer Russell T Davies."
-      },
-      {
-        "title": "Burnham rules out coalition with Greens after 'Zionism is racism' motion",
-        "url": "https://www.bbc.co.uk/news/articles/cr3el59j9y17o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T16:37:59Z",
-        "summary": "Andy Burnham condemns the motion approved by Green Party members and says his party would \"have nothing to do with it\"."
-      },
-      {
-        "title": "Why 'cool kids' won't let Swindon in Thames Valley",
-        "url": "https://www.bbc.co.uk/news/articles/cx8dz4235vnyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T05:31:14Z",
-        "summary": "Why the \"popular kids\" in Oxfordshire are not letting Swindon in on the Thames Valley devolution deal."
       }
     ],
     "saudi": [
@@ -256,7 +256,7 @@
         "title": "Three children and teacher killed in US primary school shooting",
         "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T03:45:09Z",
-        "summary": "The suspect was shot dead by a community member who followed him into the Oregon school, police said."
+        "summary": "The suspect was shot dead by an armed bystander who followed him into the Oregon school, police said."
       },
       {
         "title": "US police identify remains of man found in barrel in shrinking reservoir",
@@ -347,10 +347,28 @@
   "archive": {
     "world": [
       {
+        "title": "Burnham to urge Swinney to work with him on devolution during Scottish visit",
+        "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T05:22:31Z",
+        "summary": "The prime minister will speak on his first substantive trip to Scotland since moving into Downing Street."
+      },
+      {
         "title": "They fled Russia, but the West sent them back",
         "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T04:57:28Z",
         "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge."
+      },
+      {
+        "title": "Reform faces questions over candidate vetting after undercover filming",
+        "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T23:52:27Z",
+        "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\"."
+      },
+      {
+        "title": "Porn showing choking or incest to be banned from early November, government says",
+        "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T23:27:57Z",
+        "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin"
       },
       {
         "title": "Are student protests being manipulated ahead of France's presidential election?",
