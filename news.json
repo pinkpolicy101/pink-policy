@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-16T07:45:14.622544Z",
+  "generated_at": "2026-10-16T08:13:11.979504Z",
   "articles": {
     "world": [
+      {
+        "title": "Councils warned of risks of high street pedestrianisation",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjv9pzzkd7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T07:59:47Z",
+        "summary": "The government says the process \"needs to be well considered\", warning that banning traffic could damage local economies."
+      },
       {
         "title": "Reform faces questions over candidate vetting after undercover filming",
         "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
@@ -31,6 +37,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T23:38:46Z",
         "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace."
+      },
+      {
+        "title": "The Interview",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct98kt?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T23:30:00Z",
+        "summary": "Nigerian opposition leader Peter Obi on his presidential bid and his claim he won in 2023"
       },
       {
         "title": "Porn showing choking or incest to be banned from early November, government says",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T20:41:03Z",
         "summary": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine."
-      },
-      {
-        "title": "Student protesters attack government buildings in Albania",
-        "url": "https://www.bbc.co.uk/news/articles/cq80zk5k2ep4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T20:29:05Z",
-        "summary": "Buildings were set alight on the second day of demonstrations from thousands of students who want better university conditions and job prospects."
-      },
-      {
-        "title": "We are behind you and that will not change, PM tells Zelensky",
-        "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T19:22:28Z",
-        "summary": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump."
       }
     ],
     "saudi": [
@@ -253,10 +253,10 @@
     ],
     "us": [
       {
-        "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect killed by bystander",
+        "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
         "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T03:45:09Z",
-        "summary": "The suspect was shot dead by an armed bystander who followed him into the Oregon school, police said."
+        "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, police say."
       },
       {
         "title": "US police identify remains of man found in barrel in shrinking reservoir",
@@ -347,6 +347,12 @@
   "archive": {
     "world": [
       {
+        "title": "Councils warned of risks of high street pedestrianisation",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjv9pzzkd7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T07:59:47Z",
+        "summary": "The government says the process \"needs to be well considered\", warning that banning traffic could damage local economies."
+      },
+      {
         "title": "Burnham to urge Swinney to work with him on devolution during Scottish visit",
         "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T05:22:31Z",
@@ -363,6 +369,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T23:52:27Z",
         "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\"."
+      },
+      {
+        "title": "The Interview",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct98kt?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T23:30:00Z",
+        "summary": "Nigerian opposition leader Peter Obi on his presidential bid and his claim he won in 2023"
       },
       {
         "title": "Porn showing choking or incest to be banned from early November, government says",
