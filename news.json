@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-16T13:48:13.172408Z",
+  "generated_at": "2026-10-16T14:44:09.032339Z",
   "articles": {
     "world": [
       {
         "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
         "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T13:24:14Z",
-        "summary": "He said he wanted regions to have more power while on his first substantive trip to Scotland as prime minister."
+        "published_at": "2026-10-16T14:36:27Z",
+        "summary": "On his first substantive trip to Scotland since becoming PM, he says politicians should focus on solutions \"right now\" and move beyond the issue of Scottish independence."
+      },
+      {
+        "title": "Albanian protests turn violent: What we know",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T14:33:32Z",
+        "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale."
       },
       {
         "title": "Damages for Greens deputy over false disorder claims",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T10:51:53Z",
         "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. ."
-      },
-      {
-        "title": "Reform faces criticism after councillors filmed making racist comments",
-        "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T10:20:51Z",
-        "summary": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended."
       }
     ],
     "saudi": [
@@ -225,12 +225,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T09:38:03Z",
         "summary": "Footage from inside the airport shows the moment the strike hit on Saturday."
-      },
-      {
-        "title": "One killed, 11 injured in second Houthi strike on Riyadh airport in two days",
-        "url": "https://www.bbc.co.uk/news/articles/cr93znyk44e1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-11T22:45:58Z",
-        "summary": "The Saudi capital has been hit by multiple attacks from the Iran-backed Yemeni group over the weekend."
       },
       {
         "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
@@ -340,6 +334,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Albanian protests turn violent: What we know",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T14:33:32Z",
+        "summary": "Albania's capital Tirana has seen months of protests from an anti-government \"Flamingo\" movement, but what started on Tuesday this week was on a different scale."
+      },
       {
         "title": "Damages for Greens deputy over false disorder claims",
         "url": "https://www.bbc.co.uk/news/articles/c6kgl3yzge0jo?at_medium=RSS&at_campaign=rss",
