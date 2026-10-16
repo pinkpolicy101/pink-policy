@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-16T14:44:09.032339Z",
+  "generated_at": "2026-10-16T15:11:26.373313Z",
   "articles": {
     "world": [
+      {
+        "title": "Labour calls for M4 relief road, seven years after axing the plan",
+        "url": "https://www.bbc.co.uk/news/articles/c39wzge1j28yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T14:53:03Z",
+        "summary": "Seven years after the party axed the project, Labour says the Welsh government should build the road."
+      },
+      {
+        "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
+        "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T14:44:11Z",
+        "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
+      },
       {
         "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
         "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
@@ -25,6 +37,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T12:15:15Z",
         "summary": "Severe drought was declared across parts of southern England after months of low rainfall."
+      },
+      {
+        "title": "India's 'cockroach' party founder detained ahead of protest",
+        "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T11:44:31Z",
+        "summary": "The youth-led movement planned a fresh Delhi protest after mass detentions last week and the jailing of two leaders."
       },
       {
         "title": "Reform faces questions over candidate vetting after undercover filming",
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T14:55:21Z",
         "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape."
-      },
-      {
-        "title": "'Bring it on': Flynn challenges Burnham on independence referendum",
-        "url": "https://www.bbc.co.uk/news/articles/cv2d658g1erro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T14:08:55Z",
-        "summary": "The SNP's Stephen Flynn tells his party's conference independence supporters are \"winning the argument\"."
-      },
-      {
-        "title": "Healey says surprise UK growth is 'sign of resilience' ahead of Budget",
-        "url": "https://www.bbc.co.uk/news/articles/ck8dz1me439no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T13:25:17Z",
-        "summary": "The economy grew by 0.1% in August, defying analysts' expectations of a slight contraction."
-      },
-      {
-        "title": "Obama says drift towards extremism 'not inevitable'",
-        "url": "https://www.bbc.co.uk/news/articles/crwyd7vq3xw1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T10:51:53Z",
-        "summary": "More than 12,000 people filled a major venue in the city to hear the former US president's take on the challenges the world is facing. ."
       }
     ],
     "saudi": [
@@ -335,6 +335,12 @@
   "archive": {
     "world": [
       {
+        "title": "Labour calls for M4 relief road, seven years after axing the plan",
+        "url": "https://www.bbc.co.uk/news/articles/c39wzge1j28yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T14:53:03Z",
+        "summary": "Seven years after the party axed the project, Labour says the Welsh government should build the road."
+      },
+      {
         "title": "Albanian protests turn violent: What we know",
         "url": "https://www.bbc.co.uk/news/articles/cqdjv90d1jpko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T14:33:32Z",
@@ -345,6 +351,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c6kgl3yzge0jo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T12:42:42Z",
         "summary": "Mothin Ali is handed damages over claims made by a TV presenter and a social media commentator."
+      },
+      {
+        "title": "India's 'cockroach' party founder detained ahead of protest",
+        "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T11:44:31Z",
+        "summary": "The youth-led movement planned a fresh Delhi protest after mass detentions last week and the jailing of two leaders."
       },
       {
         "title": "'Massive challenge' to protect paedophile Donaldson from harm in jail",
