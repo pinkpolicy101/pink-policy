@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T19:14:40.847935Z",
+  "generated_at": "2026-10-16T19:42:29.808556Z",
   "articles": {
     "world": [
       {
@@ -31,12 +31,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T16:00:30Z",
         "summary": "The BBC joins Ukraine's Operation Vivaldi as it regains crucial territory in the Donbas, but optimism has been dampened by souring relations with President Trump."
-      },
-      {
-        "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
-        "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T15:59:30Z",
-        "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
       },
       {
         "title": "Housing loans granted while Burnham was mayor investigated by councillors",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T16:52:44Z",
         "summary": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges."
+      },
+      {
+        "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
+        "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T16:50:18Z",
+        "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks."
       }
     ],
     "saudi": [
@@ -240,6 +240,12 @@
       }
     ],
     "us": [
+      {
+        "title": "What we learned from heated US midterm Senate debates",
+        "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T19:09:37Z",
+        "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged."
+      },
       {
         "title": "Where the US midterm elections will be won and lost",
         "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
@@ -2672,6 +2678,12 @@
       }
     ],
     "us": [
+      {
+        "title": "What we learned from heated US midterm Senate debates",
+        "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T19:09:37Z",
+        "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged."
+      },
       {
         "title": "Three children and teacher killed in US primary school shooting",
         "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
