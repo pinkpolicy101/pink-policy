@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T18:07:30.764124Z",
+  "generated_at": "2026-10-16T18:46:13.439222Z",
   "articles": {
     "world": [
       {
@@ -241,6 +241,12 @@
     ],
     "us": [
       {
+        "title": "Where the US midterm elections will be won and lost",
+        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T18:41:54Z",
+        "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump\u2019s final two years as president."
+      },
+      {
         "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
         "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T11:41:58Z",
@@ -323,12 +329,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T17:04:37Z",
         "summary": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign."
-      },
-      {
-        "title": "Where the US midterm elections will be won and lost",
-        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T05:02:44Z",
-        "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump\u2019s final two years as president."
       }
     ]
   },
