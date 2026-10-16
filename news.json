@@ -1,24 +1,36 @@
 {
-  "generated_at": "2026-10-16T08:45:46.049736Z",
+  "generated_at": "2026-10-16T09:14:49.240213Z",
   "articles": {
     "world": [
+      {
+        "title": "Banks expect to be hit with higher taxes in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T08:54:43Z",
+        "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month."
+      },
+      {
+        "title": "Councils warned of risks of high street pedestrianisation",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjv9pzzkd7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T08:47:32Z",
+        "summary": "The government says the process \"needs to be well considered\", warning that banning traffic could damage local economies."
+      },
+      {
+        "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T08:47:17Z",
+        "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels."
+      },
+      {
+        "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T08:45:54Z",
+        "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference."
+      },
       {
         "title": "Reform faces questions over candidate vetting after undercover filming",
         "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T08:43:01Z",
         "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\"."
-      },
-      {
-        "title": "Councils warned of risks of high street pedestrianisation",
-        "url": "https://www.bbc.co.uk/news/articles/cqdjv9pzzkd7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T07:59:47Z",
-        "summary": "The government says the process \"needs to be well considered\", warning that banning traffic could damage local economies."
-      },
-      {
-        "title": "Banks say Healey planning to increase tax on their profits in Budget",
-        "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T07:13:42Z",
-        "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month."
       },
       {
         "title": "Burnham to urge Swinney to work with him on devolution during Scottish visit",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T08:17:07Z",
         "summary": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October."
-      },
-      {
-        "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-        "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T01:07:59Z",
-        "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches."
-      },
-      {
-        "title": "Why Zelensky's meeting with Burnham matters",
-        "url": "https://www.bbc.co.uk/news/videos/c65yngxdzdd5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T20:41:03Z",
-        "summary": "Prime Minister Andy Burnham welcomed President Zelensky to Downing Street on Wednesday, as Ukraine's leader looks to shore up his European allies five years into Russia's war on Ukraine."
       }
     ],
     "saudi": [
@@ -346,6 +346,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
+        "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T08:47:17Z",
+        "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels."
+      },
+      {
+        "title": "China tells Israel to stop 'forced establishment' of West Bank settlements",
+        "url": "https://www.bbc.co.uk/news/articles/cq1j3wdxy48ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T08:45:54Z",
+        "summary": "Chinese Foreign Minister Wang Yi spoke to Israeli President Isaac Herzog on the sidelines of a conference."
+      },
       {
         "title": "Councils warned of risks of high street pedestrianisation",
         "url": "https://www.bbc.co.uk/news/articles/cqdjv9pzzkd7o?at_medium=RSS&at_campaign=rss",
