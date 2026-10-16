@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-16T19:42:29.808556Z",
+  "generated_at": "2026-10-16T20:03:07.817658Z",
   "articles": {
     "world": [
+      {
+        "title": "What we learned from heated US midterm Senate debates",
+        "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T19:09:37Z",
+        "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged."
+      },
       {
         "title": "Police assess Palestine Action post by national security adviser's wife",
         "url": "https://www.bbc.co.uk/news/articles/crn4el88y7p2o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T16:52:44Z",
         "summary": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges."
-      },
-      {
-        "title": "Russia accuses Ukraine of attacking oil refinery after Zelensky says strikes to resume",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrnwd9dw1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T16:50:18Z",
-        "summary": "Ukraine's president says a pause on striking energy sites is over following fresh Russian attacks."
       }
     ],
     "saudi": [
@@ -340,6 +340,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "What we learned from heated US midterm Senate debates",
+        "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T19:09:37Z",
+        "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged."
+      },
       {
         "title": "Police assess Palestine Action post by national security adviser's wife",
         "url": "https://www.bbc.co.uk/news/articles/crn4el88y7p2o?at_medium=RSS&at_campaign=rss",
