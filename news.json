@@ -1,24 +1,36 @@
 {
-  "generated_at": "2026-10-16T10:14:14.571449Z",
+  "generated_at": "2026-10-16T10:45:30.158006Z",
   "articles": {
     "world": [
       {
-        "title": "Burnham to urge Swinney to work with him on devolution during Scottish visit",
-        "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T10:13:29Z",
-        "summary": "The prime minister will speak on his first substantive trip to Scotland since moving into Downing Street."
+        "title": "'Massive challenge' to protect paedophile Donaldson from harm in jail",
+        "url": "https://www.bbc.co.uk/news/articles/cwm243x4my4zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T10:38:56Z",
+        "summary": "The former DUP leader was sentenced to 15 years for sex abuse against two women when they were children."
+      },
+      {
+        "title": "Action needed to save water, minister urges",
+        "url": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T10:38:48Z",
+        "summary": "Severe drought was declared across parts of southern England after months of low rainfall."
       },
       {
         "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
         "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T09:34:30Z",
+        "published_at": "2026-10-16T10:37:47Z",
         "summary": "The US president launches a new wave of blistering criticism at Volodymyr Zelensky ahead of a meeting of EU leaders in Brussels."
       },
       {
         "title": "Banks expect to be hit with higher taxes in Budget",
         "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T08:54:43Z",
+        "published_at": "2026-10-16T10:16:27Z",
         "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month."
+      },
+      {
+        "title": "Burnham to urge Swinney to work with him on devolution during Scottish visit",
+        "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T10:13:29Z",
+        "summary": "The prime minister will speak on his first substantive trip to Scotland since moving into Downing Street."
       },
       {
         "title": "Councils warned of risks of high street pedestrianisation",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw3dj458re1vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T10:20:51Z",
         "summary": "Reform says all of those people filmed by ITV are under investigation having resigned or been suspended."
-      },
-      {
-        "title": "Brazil's Congress approves shorter working week in win for Lula",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy43pp08elo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T10:05:17Z",
-        "summary": "Lula's supporters hope the measure will boost his popularity ahead of a presidential run-off in 10 days."
-      },
-      {
-        "title": "Actor Imran Khan ordered to leave India after participating in protest",
-        "url": "https://www.bbc.co.uk/news/articles/ck3r5pv5j1g1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T08:17:07Z",
-        "summary": "The Bollywood actor had been detained and released while participating in a protest in Mumbai on 10 October."
       }
     ],
     "saudi": [
@@ -255,8 +255,8 @@
       {
         "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
         "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T03:45:09Z",
-        "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, police say."
+        "published_at": "2026-10-16T10:36:50Z",
+        "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say."
       },
       {
         "title": "US police identify remains of man found in barrel in shrinking reservoir",
@@ -346,6 +346,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "'Massive challenge' to protect paedophile Donaldson from harm in jail",
+        "url": "https://www.bbc.co.uk/news/articles/cwm243x4my4zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T10:38:56Z",
+        "summary": "The former DUP leader was sentenced to 15 years for sex abuse against two women when they were children."
+      },
+      {
+        "title": "Action needed to save water, minister urges",
+        "url": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T10:38:48Z",
+        "summary": "Severe drought was declared across parts of southern England after months of low rainfall."
+      },
       {
         "title": "Zelensky rallies EU support as Trump says Ukraine leader 'more difficult to deal with than Putin'",
         "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
