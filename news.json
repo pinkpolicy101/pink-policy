@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-16T15:41:06.534324Z",
+  "generated_at": "2026-10-16T16:12:05.028655Z",
   "articles": {
     "world": [
       {
+        "title": "Ukraine pushes Russia back on front line where Starlink has played key role",
+        "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T16:00:30Z",
+        "summary": "Ukraine's Operation Vivaldi has regained crucial territory in the Donbas but optimism has been dampened by souring relations with President Trump."
+      },
+      {
         "title": "Zelensky says Ukraine has right to defend itself after Trump calls latest strikes a 'disgrace'",
         "url": "https://www.bbc.co.uk/news/articles/c58jz174w89ro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T15:22:12Z",
+        "published_at": "2026-10-16T15:59:30Z",
         "summary": "EU leaders rally around Ukraine's president after new criticism from Donald Trump, who says Zelensky is \"more difficult to work with than Putin\"."
+      },
+      {
+        "title": "Housing loans granted while Burnham was mayor investigated by councillors",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn70v2yp8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T15:46:11Z",
+        "summary": "A senior councillor says concerns have been raised about the transparency of the process to approve the loans."
       },
       {
         "title": "Reform councillor quits over offensive remarks",
@@ -48,7 +60,7 @@
         "title": "India's 'cockroach' party founder detained ahead of protest",
         "url": "https://www.bbc.co.uk/news/articles/cmx237n1y9lzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T11:44:31Z",
-        "summary": "The youth-led movement planned a fresh Delhi protest after mass detentions last week and the jailing of two leaders."
+        "summary": "The youth-led movement had called for a Delhi protest after mass detentions last week and the jailing of two leaders."
       },
       {
         "title": "Reform faces questions over candidate vetting after undercover filming",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T16:36:32Z",
         "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists."
-      },
-      {
-        "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
-        "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T15:55:14Z",
-        "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children."
-      },
-      {
-        "title": "Labour to break from Green council groups that back Zionism policy",
-        "url": "https://www.bbc.co.uk/news/articles/c6g7x1y577zro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T15:17:56Z",
-        "summary": "Labour says it will end power-sharing deals with councillors that do not disown the party's new stance."
       }
     ],
     "saudi": [
@@ -334,6 +334,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Ukraine pushes Russia back on front line where Starlink has played key role",
+        "url": "https://www.bbc.co.uk/news/articles/cvx284w16z1po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T16:00:30Z",
+        "summary": "Ukraine's Operation Vivaldi has regained crucial territory in the Donbas but optimism has been dampened by souring relations with President Trump."
+      },
+      {
+        "title": "Housing loans granted while Burnham was mayor investigated by councillors",
+        "url": "https://www.bbc.co.uk/news/articles/ck5yn70v2yp8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T15:46:11Z",
+        "summary": "A senior councillor says concerns have been raised about the transparency of the process to approve the loans."
+      },
       {
         "title": "Reform councillor quits over offensive remarks",
         "url": "https://www.bbc.co.uk/news/articles/c64g1803dkp7o?at_medium=RSS&at_campaign=rss",
