@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-17T06:04:53.351995Z",
+  "generated_at": "2026-10-17T06:47:23.267818Z",
   "articles": {
     "world": [
+      {
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-17T06:39:40Z",
+        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+      },
       {
         "title": "Brazil sees record fall in Amazon deforestation as key election looms",
         "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T20:08:41Z",
         "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
-      },
-      {
-        "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-        "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T17:31:37Z",
-        "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives."
       }
     ],
     "saudi": [
@@ -241,10 +241,10 @@
     ],
     "us": [
       {
-        "title": "Trump waives several Russia sanctions as new US law takes effect",
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-17T05:02:50Z",
-        "summary": "Trump says parts of a new law that aims to punish Moscow for its war against Ukraine are against US national interests."
+        "published_at": "2026-10-17T06:39:40Z",
+        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
       },
       {
         "title": "What we learned from heated US midterm Senate debates",
@@ -346,6 +346,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-17T06:39:40Z",
+        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+      },
       {
         "title": "Brazil sees record fall in Amazon deforestation as key election looms",
         "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
