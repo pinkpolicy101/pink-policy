@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-16T23:58:54.793958Z",
+  "generated_at": "2026-10-17T00:51:42.215874Z",
   "articles": {
     "world": [
+      {
+        "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+        "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-17T00:41:58Z",
+        "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site."
+      },
+      {
+        "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T23:54:35Z",
+        "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it."
+      },
       {
         "title": "What we learned from heated US midterm Senate debates",
         "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cvglwed77p91o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T17:17:31Z",
         "summary": "The prime minister had faced calls to apologise for his comments about the alleged murder of the former minister."
-      },
-      {
-        "title": "Reform faces criticism after councillors filmed making racist remarks",
-        "url": "https://www.bbc.co.uk/news/videos/cr9dzq406yddo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T16:44:39Z",
-        "summary": "Reform UK has said \"there is no room for racism\" in its party after ITV News broadcast undercover filming, gathered over a year, of some of its councillors and candidates using racist, violent and sexist language."
-      },
-      {
-        "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
-        "url": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T16:36:32Z",
-        "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists."
       }
     ],
     "saudi": [
@@ -340,6 +340,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
+        "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-17T00:41:58Z",
+        "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site."
+      },
+      {
+        "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T23:54:35Z",
+        "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it."
+      },
       {
         "title": "What we learned from heated US midterm Senate debates",
         "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
