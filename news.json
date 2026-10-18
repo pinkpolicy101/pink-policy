@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T21:02:51.208531Z",
+  "generated_at": "2026-10-18T21:37:16.342842Z",
   "articles": {
     "world": [
       {
@@ -241,6 +241,12 @@
     ],
     "us": [
       {
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T21:00:22Z",
+        "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis."
+      },
+      {
         "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
         "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T05:04:31Z",
@@ -317,12 +323,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T15:26:14Z",
         "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs."
-      },
-      {
-        "title": "Watch: Witnesses describe 'traumatic' moment man fell out of Six Flags rollercoaster",
-        "url": "https://www.bbc.co.uk/news/videos/cqy8le2mrd0po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T23:42:15Z",
-        "summary": "One person has died and others were injured after an incident at a US amusement park."
       },
       {
         "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
@@ -2756,6 +2756,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
+        "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T21:00:22Z",
+        "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis."
+      },
       {
         "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
         "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
