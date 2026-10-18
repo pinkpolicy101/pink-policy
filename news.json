@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-18T22:02:13.963693Z",
+  "generated_at": "2026-10-18T22:36:33.452673Z",
   "articles": {
     "world": [
+      {
+        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+        "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T22:10:45Z",
+        "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+      },
       {
         "title": "Macron calls for 'calm and order' after riots across France",
         "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T23:27:57Z",
         "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin"
-      },
-      {
-        "title": "UK threatens to ban Eritreans over migrant return policy",
-        "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T20:08:41Z",
-        "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
       }
     ],
     "saudi": [
@@ -244,7 +244,7 @@
         "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
         "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T21:00:22Z",
-        "summary": "A new wave of synthetic drugs is sweeping across the United States, raising fear of a worsening drug crisis. The BBC's Quentin Sommerville reports from the frontlines in South Side, Chicago, where communities are battling the crisis."
+        "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs."
       },
       {
         "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
@@ -334,6 +334,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
+        "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T22:10:45Z",
+        "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+      },
       {
         "title": "Macron calls for calm in France and warns rioting must not escalate",
         "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
