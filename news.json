@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-18T03:06:58.986862Z",
+  "generated_at": "2026-10-18T03:39:22.468796Z",
   "articles": {
     "world": [
+      {
+        "title": "Deadly fire breaks out at Canada military base",
+        "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T03:23:08Z",
+        "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\"."
+      },
       {
         "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cr9dzq406yddo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T16:44:39Z",
         "summary": "Reform UK has said \"there is no room for racism\" in its party after ITV News broadcast undercover filming, gathered over a year, of some of its councillors and candidates using racist, violent and sexist language."
-      },
-      {
-        "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
-        "url": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T16:36:32Z",
-        "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists."
       }
     ],
     "saudi": [
@@ -346,6 +346,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Deadly fire breaks out at Canada military base",
+        "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T03:23:08Z",
+        "summary": "Defence Minister David McGuinty says there are casualties in what the prime minister called a \"serious incident\"."
+      },
       {
         "title": "Anti-government protesters battle with police in Albania",
         "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
