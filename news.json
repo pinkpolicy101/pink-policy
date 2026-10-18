@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-10-18T06:46:23.004272Z",
+  "generated_at": "2026-10-18T07:19:45.862437Z",
   "articles": {
     "world": [
-      {
-        "title": "Deaths confirmed in major fire at Canada military base",
-        "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-18T04:00:50Z",
-        "summary": "Number of casualties unknown in \"very, very active and delicate\" situation in Alberta, says defence minister."
-      },
       {
         "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T16:36:32Z",
         "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists."
+      },
+      {
+        "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
+        "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-15T15:55:14Z",
+        "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children."
       }
     ],
     "saudi": [
