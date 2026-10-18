@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-18T19:33:47.866961Z",
+  "generated_at": "2026-10-18T19:59:18.424464Z",
   "articles": {
     "world": [
+      {
+        "title": "Macron calls for calm in France and warns rioting must not escalate",
+        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T19:14:10Z",
+        "summary": "French President Emmanuel Macron made a national television address after rioting caused widespread damage."
+      },
       {
         "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
         "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T20:08:41Z",
         "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
-      },
-      {
-        "title": "Burnham asks for his Widdecombe remarks to be corrected",
-        "url": "https://www.bbc.co.uk/news/articles/cvglwed77p91o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T17:17:31Z",
-        "summary": "The prime minister had faced calls to apologise for his comments about the alleged murder of the former minister."
       }
     ],
     "saudi": [
@@ -334,6 +334,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Macron calls for calm in France and warns rioting must not escalate",
+        "url": "https://www.bbc.co.uk/news/articles/cw240zl08dm5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T19:14:10Z",
+        "summary": "French President Emmanuel Macron made a national television address after rioting caused widespread damage."
+      },
       {
         "title": "Parisians wake up to protest damage and looted shops",
         "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
