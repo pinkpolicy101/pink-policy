@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-18T10:38:00.923975Z",
+  "generated_at": "2026-10-18T11:03:45.610842Z",
   "articles": {
     "world": [
+      {
+        "title": "Parisians wake up to protest damage and looted shops",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T10:58:39Z",
+        "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living."
+      },
+      {
+        "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T10:03:17Z",
+        "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028."
+      },
+      {
+        "title": "Ending corridor care in hospitals for children will be a priority, says health secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T09:45:59Z",
+        "summary": "Yvette Cooper also announces \u00a3140m investment in England's urgent care system, ahead of winter."
+      },
       {
         "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cvglwed77p91o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T17:17:31Z",
         "summary": "The prime minister had faced calls to apologise for his comments about the alleged murder of the former minister."
-      },
-      {
-        "title": "Reform faces criticism after councillors filmed making racist remarks",
-        "url": "https://www.bbc.co.uk/news/videos/cr9dzq406yddo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T16:44:39Z",
-        "summary": "Reform UK has said \"there is no room for racism\" in its party after ITV News broadcast undercover filming, gathered over a year, of some of its councillors and candidates using racist, violent and sexist language."
-      },
-      {
-        "title": "Farage defends Reform's vetting after councillors filmed making racist comments",
-        "url": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T16:36:32Z",
-        "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists."
-      },
-      {
-        "title": "Former DUP leader Donaldson sentenced to 15 years in prison for child sex abuse",
-        "url": "https://www.bbc.co.uk/news/articles/cwdr8grnykrlo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T15:55:14Z",
-        "summary": "Jeffrey Donaldson was convicted of 18 counts of sex abuse, including one of rape, which he committed against two women when they were children."
       }
     ],
     "saudi": [
@@ -334,6 +334,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Parisians wake up to protest damage and looted shops",
+        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T10:58:39Z",
+        "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living."
+      },
+      {
+        "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T10:03:17Z",
+        "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028."
+      },
+      {
+        "title": "Ending corridor care in hospitals for children will be a priority, says health secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T09:45:59Z",
+        "summary": "Yvette Cooper also announces \u00a3140m investment in England's urgent care system, ahead of winter."
+      },
       {
         "title": "Deadly fire breaks out at Canada military base",
         "url": "https://www.bbc.co.uk/news/articles/cr86z0w4lxdxo?at_medium=RSS&at_campaign=rss",
