@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T05:07:37.207345Z",
+  "generated_at": "2026-10-18T05:38:29.187092Z",
   "articles": {
     "world": [
       {
@@ -241,10 +241,22 @@
     ],
     "us": [
       {
+        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T05:04:31Z",
+        "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
+      },
+      {
         "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
         "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T01:10:25Z",
         "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
+      },
+      {
+        "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+        "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-17T09:58:17Z",
+        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
       },
       {
         "title": "Katie Zacharia leaving White House role less than five days into job",
@@ -2720,6 +2732,18 @@
       }
     ],
     "us": [
+      {
+        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T05:04:31Z",
+        "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
+      },
+      {
+        "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
+        "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-17T09:58:17Z",
+        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
+      },
       {
         "title": "Katie Zacharia leaving White House role less than five days into job",
         "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
