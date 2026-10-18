@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T23:33:54.355879Z",
+  "generated_at": "2026-10-18T23:58:21.869255Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T23:20:15Z",
         "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
+      },
+      {
+        "title": "Major fire at Canada military base leaves four dead, dozens injured",
+        "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T23:06:09Z",
+        "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\"."
       },
       {
         "title": "Macron calls for 'calm and order' after riots across France",
@@ -37,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T10:58:39Z",
         "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living."
-      },
-      {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-18T01:10:25Z",
-        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
       },
       {
         "title": "Anti-government protesters battle with police in Albania",
@@ -334,6 +334,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Major fire at Canada military base leaves four dead, dozens injured",
+        "url": "https://www.bbc.co.uk/news/articles/cxj0ly1m3q81o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T23:06:09Z",
+        "summary": "Prime Minister Carney said military and emergency crews fought the flames throughout the night in \"some of the worst conditions imaginable\"."
+      },
       {
         "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
         "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
