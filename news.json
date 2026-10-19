@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:09:31.483112Z",
+  "generated_at": "2026-10-19T22:39:34.229972Z",
   "articles": {
     "world": [
       {
@@ -51,22 +51,16 @@
         "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
       },
       {
-        "title": "Australian MP critically injured after being hit by car in apparent attack",
-        "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T14:09:54Z",
-        "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
-      },
-      {
         "title": "Catalonia's former rebel president can return to Spain, court rules",
         "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T14:06:53Z",
         "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017."
       },
       {
-        "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T13:44:57Z",
-        "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive."
+        "title": "Watch: Are the French riots a warning of an intense election to come?",
+        "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T13:43:27Z",
+        "summary": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country."
       },
       {
         "title": "Exiled critic of Rwandan president found beheaded",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T12:15:15Z",
         "summary": "Severe drought was declared across parts of southern England after months of low rainfall."
+      },
+      {
+        "title": "Reform faces questions over candidate vetting after undercover filming",
+        "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T11:32:49Z",
+        "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\"."
       }
     ],
     "saudi": [
@@ -327,6 +327,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T14:06:53Z",
         "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017."
+      },
+      {
+        "title": "Watch: Are the French riots a warning of an intense election to come?",
+        "url": "https://www.bbc.co.uk/news/videos/ckzd60dy746qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T13:43:27Z",
+        "summary": "Rioting, looting and vandalism has gripped France over the weekend after protests spiralled out of control across the country."
       },
       {
         "title": "Exiled critic of Rwandan president found beheaded",
