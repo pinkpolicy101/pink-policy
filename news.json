@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T20:41:55.272970Z",
+  "generated_at": "2026-10-19T21:08:34.313381Z",
   "articles": {
     "world": [
       {
@@ -94,7 +94,7 @@
       },
       {
         "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct8klx?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T23:30:00Z",
         "summary": "Author and activist Arundhati Roy on her mother\u2019s influence, writing and politics"
       },
@@ -234,6 +234,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+        "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T18:21:54Z",
+        "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China."
+      },
       {
         "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
         "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
@@ -2828,6 +2834,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+        "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T18:21:54Z",
+        "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China."
+      },
       {
         "title": "US airman dies as daredevil descent goes wrong before Texas college football game",
         "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
