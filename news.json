@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-10-19T16:13:09.408252Z",
+  "generated_at": "2026-10-19T16:46:34.018760Z",
   "articles": {
     "world": [
+      {
+        "title": "Reform MSP quits party to sit as independent",
+        "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T16:28:27Z",
+        "summary": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour."
+      },
+      {
+        "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+        "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T16:22:12Z",
+        "summary": "The Saudi government did not immediately respond to BBC requests for comment."
+      },
+      {
+        "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T16:20:51Z",
+        "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits."
+      },
       {
         "title": "Troubles legacy bill is not an amnesty for soldiers - NI secretary",
         "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T15:40:06Z",
         "summary": "Amendments to the bill will be debated by MPs, as the long-awaited legislation returns to the House of Commons."
-      },
-      {
-        "title": "Reform MSP quits party to sit as independent",
-        "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T15:27:08Z",
-        "summary": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour."
       },
       {
         "title": "PM says youth unemployment is a 'catastrophe and a moral failure'",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwm243x4my4zo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T10:38:56Z",
         "summary": "The former DUP leader was sentenced to 15 years for sex abuse against two women when they were children."
-      },
-      {
-        "title": "Banks expect to be hit with higher taxes in Budget",
-        "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T10:16:27Z",
-        "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month."
-      },
-      {
-        "title": "Councils warned of risks of high street pedestrianisation",
-        "url": "https://www.bbc.co.uk/news/articles/cqdjv9pzzkd7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T08:47:32Z",
-        "summary": "The government says the process \"needs to be well considered\", warning that banning traffic could damage local economies."
       }
     ],
     "saudi": [
@@ -292,6 +292,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+        "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T16:22:12Z",
+        "summary": "The Saudi government did not immediately respond to BBC requests for comment."
+      },
+      {
+        "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T16:20:51Z",
+        "summary": "Three missiles hit a camp in government-controlled Shabwa province that officials say was being used as a training centre for new recruits."
+      },
       {
         "title": "Australian MP critically injured after being hit by car in apparent attack",
         "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
