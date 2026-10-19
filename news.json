@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-19T10:18:36.855437Z",
+  "generated_at": "2026-10-19T11:11:44.696961Z",
   "articles": {
     "world": [
+      {
+        "title": "Reform MSP quits party to sit as independent",
+        "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T10:52:43Z",
+        "summary": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour."
+      },
       {
         "title": "People playing loud music on buses could face \u00a3100 fine",
         "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T23:27:57Z",
         "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin"
-      },
-      {
-        "title": "UK threatens to ban Eritreans over migrant return policy",
-        "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T20:08:41Z",
-        "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
       }
     ],
     "saudi": [
@@ -201,12 +201,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T06:11:08Z",
         "summary": "Anojan Sivarasa's case sent shockwaves through Sri Lanka, spurring diplomatic efforts to seek clemency."
-      },
-      {
-        "title": "Saudi employee charged with planting recording device in OpenAI office",
-        "url": "https://www.bbc.co.uk/news/articles/cwg5jq4vlddzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T21:42:49Z",
-        "summary": "Prosecutors say the device, wrapped in toilet paper, was found inserted in a USB port on the back of a TV in an executive conference room."
       },
       {
         "title": "Who are the Houthis and what do they want?",
@@ -292,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Reform MSP quits party to sit as independent",
+        "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T10:52:43Z",
+        "summary": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour."
+      },
       {
         "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
         "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
