@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T06:12:31.521119Z",
+  "generated_at": "2026-10-19T06:56:28.953117Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T04:16:46Z",
         "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes."
+      },
+      {
+        "title": "Burnham says youth employment and training crisis is a 'moral failure'",
+        "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T01:40:53Z",
+        "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
       },
       {
         "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
@@ -37,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T12:09:04Z",
         "summary": "Yvette Cooper also announces \u00a3140m investment in England's urgent care system, ahead of winter."
-      },
-      {
-        "title": "Parisians wake up to protest damage and looted shops",
-        "url": "https://www.bbc.co.uk/news/videos/cmn5vey19q3go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-18T10:58:39Z",
-        "summary": "Violence broke out across France on Saturday during the latest day of demonstrations against conditions in schools and the cost of living."
       },
       {
         "title": "Anti-government protesters battle with police in Albania",
@@ -339,6 +339,12 @@
         "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T04:16:46Z",
         "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes."
+      },
+      {
+        "title": "Burnham says youth employment and training crisis is a 'moral failure'",
+        "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T01:40:53Z",
+        "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
       },
       {
         "title": "Major fire at Canada military base leaves four dead, dozens injured",
