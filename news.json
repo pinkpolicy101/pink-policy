@@ -1,24 +1,36 @@
 {
-  "generated_at": "2026-10-19T07:55:29.667923Z",
+  "generated_at": "2026-10-19T08:49:05.160247Z",
   "articles": {
     "world": [
       {
         "title": "Northern Ireland Troubles Bill to be debated in House of Commons",
         "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T07:52:21Z",
+        "published_at": "2026-10-19T08:03:27Z",
         "summary": "The government has published hundreds of amendments, including that the attorney general must provide consent for any serious prosecutions related to the conflict."
       },
       {
-        "title": "France's government under pressure after weekend of widespread violence",
+        "title": "Burnham says youth employment and training crisis is a 'moral failure'",
+        "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T07:58:30Z",
+        "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
+      },
+      {
+        "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
         "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T07:46:54Z",
         "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes."
       },
       {
-        "title": "Burnham says youth employment and training crisis is a 'moral failure'",
-        "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T01:40:53Z",
-        "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
+        "title": "People playing loud music on buses could face \u00a3100 fine",
+        "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T07:17:25Z",
+        "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched."
+      },
+      {
+        "title": "The Interview",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8klx?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T23:30:00Z",
+        "summary": "Author and activist Arundhati Roy on her mother\u2019s influence, writing and politics"
       },
       {
         "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
@@ -39,22 +51,10 @@
         "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028."
       },
       {
-        "title": "European diplomats attacked by Israeli settlers in West Bank",
-        "url": "https://www.bbc.co.uk/news/articles/c962ydpmjm3zo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-18T12:16:14Z",
-        "summary": "The Israeli military condemns the violence but the prime minister's office says it is part of a \"smear\" campaign."
-      },
-      {
         "title": "Ending corridor care in hospitals for children a priority, says health secretary",
         "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T12:09:04Z",
         "summary": "Yvette Cooper also announces \u00a3140m investment in England's urgent care system, ahead of winter."
-      },
-      {
-        "title": "Anti-government protesters battle with police in Albania",
-        "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-17T20:53:00Z",
-        "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
       },
       {
         "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
@@ -185,6 +185,12 @@
     ],
     "saudi": [
       {
+        "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+        "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T08:17:19Z",
+        "summary": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque."
+      },
+      {
         "title": "Houthi missile hits Aramco building after Saudi-led coalition strike on Yemen fuel depot",
         "url": "https://www.bbc.co.uk/news/articles/crx2d60y1py3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T12:26:13Z",
@@ -207,12 +213,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-13T06:38:32Z",
         "summary": "Their fighting with pro-government forces over Yemen's Red Sea coast and attacks on Saudi Arabia has put the spotlight on the Iran-backed group."
-      },
-      {
-        "title": "Saudi minister vows 'serious response' to Houthi attacks on airports",
-        "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T04:30:09Z",
-        "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
       },
       {
         "title": "Why is it so hard to fight the Houthis?",
@@ -311,6 +311,12 @@
         "summary": "The government has published hundreds of amendments, including that the attorney general must provide consent for any serious prosecutions related to the conflict."
       },
       {
+        "title": "People playing loud music on buses could face \u00a3100 fine",
+        "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T07:17:25Z",
+        "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched."
+      },
+      {
         "title": "France's government under pressure after weekend of widespread violence",
         "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T04:16:46Z",
@@ -321,6 +327,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T01:40:53Z",
         "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
+      },
+      {
+        "title": "The Interview",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8klx?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-18T23:30:00Z",
+        "summary": "Author and activist Arundhati Roy on her mother\u2019s influence, writing and politics"
       },
       {
         "title": "Major fire at Canada military base leaves four dead, dozens injured",
@@ -2628,6 +2640,12 @@
       }
     ],
     "saudi": [
+      {
+        "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
+        "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T08:17:19Z",
+        "summary": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque."
+      },
       {
         "title": "Saudi Arabia overturns death sentence for man over Facebook comment",
         "url": "https://www.bbc.co.uk/news/articles/c6x2v0vn7r1do?at_medium=RSS&at_campaign=rss",
