@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T22:39:34.229972Z",
+  "generated_at": "2026-10-19T23:07:10.598581Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T21:30:06Z",
         "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
+      },
+      {
+        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T21:14:53Z",
+        "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities."
       },
       {
         "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T12:15:15Z",
         "summary": "Severe drought was declared across parts of southern England after months of low rainfall."
-      },
-      {
-        "title": "Reform faces questions over candidate vetting after undercover filming",
-        "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T11:32:49Z",
-        "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\"."
       }
     ],
     "saudi": [
@@ -291,6 +291,12 @@
         "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T21:30:06Z",
         "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
+      },
+      {
+        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
+        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T21:14:53Z",
+        "summary": "It comes after the country's interior minister admits that police \"lost control\" in some cities."
       },
       {
         "title": "First minister promises to look at Welsh council powers",
