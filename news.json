@@ -1,30 +1,36 @@
 {
-  "generated_at": "2026-10-19T08:49:05.160247Z",
+  "generated_at": "2026-10-19T09:46:25.362460Z",
   "articles": {
     "world": [
       {
-        "title": "Northern Ireland Troubles Bill to be debated in House of Commons",
+        "title": "PM says youth unemployment is a 'catastrophe and a moral failure'",
+        "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T09:39:21Z",
+        "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
+      },
+      {
+        "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T09:24:33Z",
+        "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive."
+      },
+      {
+        "title": "People playing loud music on buses could face \u00a3100 fine",
+        "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T09:00:57Z",
+        "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched."
+      },
+      {
+        "title": "Plan to deal with Troubles legacy to be debated in House of Commons",
         "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T08:03:27Z",
         "summary": "The government has published hundreds of amendments, including that the attorney general must provide consent for any serious prosecutions related to the conflict."
-      },
-      {
-        "title": "Burnham says youth employment and training crisis is a 'moral failure'",
-        "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T07:58:30Z",
-        "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
       },
       {
         "title": "Katya Adler: France's government under pressure after weekend of widespread violence",
         "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T07:46:54Z",
         "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes."
-      },
-      {
-        "title": "People playing loud music on buses could face \u00a3100 fine",
-        "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T07:17:25Z",
-        "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched."
       },
       {
         "title": "The Interview",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T23:27:57Z",
         "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin"
-      },
-      {
-        "title": "UK threatens to ban Eritreans over migrant return policy",
-        "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T20:08:41Z",
-        "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
       }
     ],
     "saudi": [
@@ -283,12 +283,6 @@
         "summary": "The vigil comes after a teacher and children aged five, eight and 11, were killed in a shooting at an elementary school in the US state of Oregon, local police say."
       },
       {
-        "title": "US police identify remains of man found in barrel in shrinking reservoir",
-        "url": "https://www.bbc.co.uk/news/articles/c670pnlgzq7po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T01:35:40Z",
-        "summary": "Edward \"Buddy\" Jackson's body was found stuffed in a barrel in 2022, with a gunshot wound to the head. Police say he likely was killed four decades ago."
-      },
-      {
         "title": "How backlash against data centres could shape the US midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T23:02:57Z",
@@ -304,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
+        "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T09:24:33Z",
+        "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive."
+      },
       {
         "title": "Northern Ireland Troubles Bill to be debated in House of Commons",
         "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
