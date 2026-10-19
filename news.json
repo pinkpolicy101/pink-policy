@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-19T14:46:12.760033Z",
+  "generated_at": "2026-10-19T15:21:13.804812Z",
   "articles": {
     "world": [
+      {
+        "title": "PM says youth unemployment is a 'catastrophe and a moral failure'",
+        "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T14:59:32Z",
+        "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
+      },
+      {
+        "title": "Australian MP critically injured after being hit by car in apparent attack",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T14:09:54Z",
+        "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
+      },
       {
         "title": "Catalonia's former rebel president can return to Spain, court rules",
         "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
@@ -31,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T12:16:32Z",
         "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own."
-      },
-      {
-        "title": "PM says youth unemployment is a 'catastrophe and a moral failure'",
-        "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T12:11:15Z",
-        "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
       },
       {
         "title": "Personal attacks fire up debate before Brazil's run-off vote",
@@ -87,10 +93,10 @@
         "summary": "Yvette Cooper also announces \u00a3140m investment in England's urgent care system, ahead of winter."
       },
       {
-        "title": "Police assess Palestine Action post by national security adviser's wife",
-        "url": "https://www.bbc.co.uk/news/articles/crn4el88y7p2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T18:58:05Z",
-        "summary": "Downing Street says Sarah Helm, the wife of Jonathan Powell, \"does not represent the government in any capacity\"."
+        "title": "No further action against government adviser's wife over Palestine Action post, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-17T20:24:32Z",
+        "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney."
       },
       {
         "title": "Reform councillor quits over offensive remarks",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqdjv9pzzkd7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T08:47:32Z",
         "summary": "The government says the process \"needs to be well considered\", warning that banning traffic could damage local economies."
-      },
-      {
-        "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct98kt?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T23:30:00Z",
-        "summary": "Nigerian opposition leader Peter Obi on his presidential bid and his claim he won in 2023"
       }
     ],
     "saudi": [
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Australian MP critically injured after being hit by car in apparent attack",
+        "url": "https://www.bbc.co.uk/news/articles/cwp9g43g2p07o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T14:09:54Z",
+        "summary": "The independent politician is in hospital after what the prime minister says may have been a deliberate attack."
+      },
       {
         "title": "Catalonia's former rebel president can return to Spain, court rules",
         "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
@@ -411,6 +417,12 @@
         "url": "https://www.bbc.co.uk/news/articles/crwydey50xeno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-17T20:53:00Z",
         "summary": "There were violent clashes between demonstrators and riot police throughout Saturday in the capital Tirana."
+      },
+      {
+        "title": "No further action against government adviser's wife over Palestine Action post, police say",
+        "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-17T20:24:32Z",
+        "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney."
       },
       {
         "title": "European diplomats attacked by Israeli settlers in West Bank",
