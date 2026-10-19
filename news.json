@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-10-19T06:56:28.953117Z",
+  "generated_at": "2026-10-19T07:55:29.667923Z",
   "articles": {
     "world": [
       {
+        "title": "Northern Ireland Troubles Bill to be debated in House of Commons",
+        "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T07:52:21Z",
+        "summary": "The government has published hundreds of amendments, including that the attorney general must provide consent for any serious prosecutions related to the conflict."
+      },
+      {
         "title": "France's government under pressure after weekend of widespread violence",
         "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T04:16:46Z",
+        "published_at": "2026-10-19T07:46:54Z",
         "summary": "Political tension grips France after rioting marred protests over the cost of living and struggling public services, Katya Adler writes."
       },
       {
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c30rl1q1j200o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T20:08:41Z",
         "summary": "The home secretary said she would not hesitate to impose measures on other countries \"refusing to co-operate\"."
-      },
-      {
-        "title": "Burnham asks for his Widdecombe remarks to be corrected",
-        "url": "https://www.bbc.co.uk/news/articles/cvglwed77p91o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T17:17:31Z",
-        "summary": "The prime minister had faced calls to apologise for his comments about the alleged murder of the former minister."
       }
     ],
     "saudi": [
@@ -277,16 +277,10 @@
         "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged."
       },
       {
-        "title": "Where the US midterm elections will be won and lost",
-        "url": "https://www.bbc.co.uk/news/articles/cr20wlp09gn3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T18:41:54Z",
-        "summary": "An in-depth look at the key polling, races and issues ahead of an election that will define Trump\u2019s final two years as president."
-      },
-      {
-        "title": "Children aged 5, 8 and 11 killed in US school shooting before suspect shot by bystander",
-        "url": "https://www.bbc.co.uk/news/articles/cm89zp48k4kzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T11:41:58Z",
-        "summary": "A teacher was also killed in the attack at the Silver Rail Elementary School in the city of Bend, Oregon, police say."
+        "title": "Candlelit vigil held for Oregon school shooting victims",
+        "url": "https://www.bbc.co.uk/news/videos/c6x2wvgz5nlno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T14:25:39Z",
+        "summary": "The vigil comes after a teacher and children aged five, eight and 11, were killed in a shooting at an elementary school in the US state of Oregon, local police say."
       },
       {
         "title": "US police identify remains of man found in barrel in shrinking reservoir",
@@ -295,34 +289,10 @@
         "summary": "Edward \"Buddy\" Jackson's body was found stuffed in a barrel in 2022, with a gunshot wound to the head. Police say he likely was killed four decades ago."
       },
       {
-        "title": "Tip-off foiled US teen's plot to attack Hindu temple, police say",
-        "url": "https://www.bbc.co.uk/news/articles/cqgm0j4kjvevo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T23:27:21Z",
-        "summary": "The alleged plot only failed because the 19-year-old suspect's gun jammed outside the place of worship, say police."
-      },
-      {
-        "title": "Letters with 'suspicious substances' sent to US senators and election offices",
-        "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T22:46:49Z",
-        "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana."
-      },
-      {
-        "title": "White House defends new press secretary over her legal credentials",
-        "url": "https://www.bbc.co.uk/news/articles/ckqxne2evqreo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T08:41:04Z",
-        "summary": "Katie Zacharia does not appear to be registered to the legal bar in any state where she has lived."
-      },
-      {
         "title": "How backlash against data centres could shape the US midterm elections",
         "url": "https://www.bbc.co.uk/news/articles/c0rezqpnekro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T23:02:57Z",
         "summary": "Democrats and Republicans alike are coming out against data centre development, amid growing backlash across the US."
-      },
-      {
-        "title": "US inflation rises more than expected - here's what is happening with prices",
-        "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T15:26:14Z",
-        "summary": "The pace of price rises increased to 3.7% in the year to September, driving by higher motor fuel costs."
       },
       {
         "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
@@ -334,6 +304,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Northern Ireland Troubles Bill to be debated in House of Commons",
+        "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T07:52:21Z",
+        "summary": "The government has published hundreds of amendments, including that the attorney general must provide consent for any serious prosecutions related to the conflict."
+      },
       {
         "title": "France's government under pressure after weekend of widespread violence",
         "url": "https://www.bbc.co.uk/news/articles/crwyd02yz22vo?at_medium=RSS&at_campaign=rss",
@@ -2815,6 +2791,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T19:09:37Z",
         "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged."
+      },
+      {
+        "title": "Candlelit vigil held for Oregon school shooting victims",
+        "url": "https://www.bbc.co.uk/news/videos/c6x2wvgz5nlno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-16T14:25:39Z",
+        "summary": "The vigil comes after a teacher and children aged five, eight and 11, were killed in a shooting at an elementary school in the US state of Oregon, local police say."
       },
       {
         "title": "Three children and teacher killed in US primary school shooting",
