@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-19T16:46:34.018760Z",
+  "generated_at": "2026-10-19T17:14:11.151835Z",
   "articles": {
     "world": [
+      {
+        "title": "Reform UK mayor investigated over naked photo claims",
+        "url": "https://www.bbc.co.uk/news/articles/c6eq3y4zz899o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T16:31:18Z",
+        "summary": "Reform UK's Luke Campbell denies claims that he showed nude photos of himself to a female colleague."
+      },
       {
         "title": "Reform MSP quits party to sit as independent",
         "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
@@ -82,7 +88,7 @@
       },
       {
         "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct8klx?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T23:30:00Z",
         "summary": "Author and activist Arundhati Roy on her mother\u2019s influence, writing and politics"
       },
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6x2ve4nr9pgo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T10:51:56Z",
         "summary": "The PM has faced fresh questions about hospitality dinners since the club was found guilty of Premier League rule breaches."
-      },
-      {
-        "title": "'Massive challenge' to protect Donaldson from harm in jail",
-        "url": "https://www.bbc.co.uk/news/articles/cwm243x4my4zo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T10:38:56Z",
-        "summary": "The former DUP leader was sentenced to 15 years for sex abuse against two women when they were children."
       }
     ],
     "saudi": [
@@ -241,6 +241,12 @@
         "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known."
       },
       {
+        "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
+        "url": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T12:12:02Z",
+        "summary": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family."
+      },
+      {
         "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
         "url": "https://www.bbc.co.uk/news/videos/c84g166kz003o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T21:00:22Z",
@@ -251,24 +257,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T05:04:31Z",
         "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
-      },
-      {
-        "title": "Trump waives several Russia sanctions as row with Zelensky intensifies",
-        "url": "https://www.bbc.co.uk/news/articles/cxr5yvzv7rp0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-18T01:10:25Z",
-        "summary": "The US president temporarily ends many restrictions on Moscow recently passed by Congress over \"national security\" concerns."
-      },
-      {
-        "title": "Teacher fought US school attacker before armed dad shot suspect 'multiple times'",
-        "url": "https://www.bbc.co.uk/news/articles/cv98zw1k8kp3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-17T09:58:17Z",
-        "summary": "The 16-year-old suspect previously attended the primary school and had targeted a special educational needs classroom, police say."
-      },
-      {
-        "title": "Katie Zacharia leaving White House role less than five days into job",
-        "url": "https://www.bbc.co.uk/news/articles/c32l4ekpvzl8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-17T09:14:10Z",
-        "summary": "Her public debut as press secretary ended with a flurry of media criticism about her credentials and preparedness."
       },
       {
         "title": "What we learned from heated US midterm Senate debates",
@@ -292,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Reform UK mayor investigated over naked photo claims",
+        "url": "https://www.bbc.co.uk/news/articles/c6eq3y4zz899o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T16:31:18Z",
+        "summary": "Reform UK's Luke Campbell denies claims that he showed nude photos of himself to a female colleague."
+      },
       {
         "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
         "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
@@ -2833,6 +2827,12 @@
         "url": "https://www.bbc.co.uk/news/articles/crd6dn63j2xwo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T14:13:18Z",
         "summary": "The game continued after the incident. The American Conference said the decision was made before his death was known."
+      },
+      {
+        "title": "Born in jail to a mum with a heroin addiction - how US teenager Abby has been affected by drugs",
+        "url": "https://www.bbc.co.uk/news/videos/cmlyljlzw487o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T12:12:02Z",
+        "summary": "The BBC's Quentin Sommerville spoke to the daughter of a former heroin addict about the effect drugs have had on her family."
       },
       {
         "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
