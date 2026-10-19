@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-19T21:08:34.313381Z",
+  "generated_at": "2026-10-19T21:41:09.650112Z",
   "articles": {
     "world": [
+      {
+        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T21:30:06Z",
+        "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
+      },
+      {
+        "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
+        "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T21:12:30Z",
+        "summary": "The Saudi government did not immediately respond to BBC requests for comment."
+      },
+      {
+        "title": "First minister promises to look at Welsh council powers",
+        "url": "https://www.bbc.co.uk/news/articles/ckz7xrjg924no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T20:53:30Z",
+        "summary": "Plaid Cymru's leader makes pledge ahead of talks with Andy Burnham, who wants more devolution to councils."
+      },
       {
         "title": "Reform UK mayor investigated over naked photo claims",
         "url": "https://www.bbc.co.uk/news/articles/c6eq3y4zz899o?at_medium=RSS&at_campaign=rss",
@@ -19,12 +37,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T16:28:27Z",
         "summary": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour."
-      },
-      {
-        "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-        "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T16:22:12Z",
-        "summary": "The Saudi government did not immediately respond to BBC requests for comment."
       },
       {
         "title": "Houthi missile strike on Yemen camp kills 50 security recruits, local authorities say",
@@ -94,7 +106,7 @@
       },
       {
         "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8klx?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T23:30:00Z",
         "summary": "Author and activist Arundhati Roy on her mother\u2019s influence, writing and politics"
       },
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq0ld4g0309go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T12:15:15Z",
         "summary": "Severe drought was declared across parts of southern England after months of low rainfall."
-      },
-      {
-        "title": "Reform faces questions over candidate vetting after undercover filming",
-        "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T11:32:49Z",
-        "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\"."
-      },
-      {
-        "title": "Equality watchdog writes to Greens over 'Zionism is racism' motion",
-        "url": "https://www.bbc.co.uk/news/articles/cmly0np1gldvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T11:29:14Z",
-        "summary": "The party was reported to the Equality and Human Rights Commission by MPs and antisemitism campaigners."
       }
     ],
     "saudi": [
@@ -286,6 +286,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T21:30:06Z",
+        "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
+      },
+      {
+        "title": "First minister promises to look at Welsh council powers",
+        "url": "https://www.bbc.co.uk/news/articles/ckz7xrjg924no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T20:53:30Z",
+        "summary": "Plaid Cymru's leader makes pledge ahead of talks with Andy Burnham, who wants more devolution to councils."
+      },
       {
         "title": "Reform UK mayor investigated over naked photo claims",
         "url": "https://www.bbc.co.uk/news/articles/c6eq3y4zz899o?at_medium=RSS&at_campaign=rss",
