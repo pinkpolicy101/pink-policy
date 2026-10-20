@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-20T11:41:52.309499Z",
+  "generated_at": "2026-10-20T12:10:19.777598Z",
   "articles": {
     "world": [
+      {
+        "title": "Immigration protests 'could get worse', says Badenoch",
+        "url": "https://www.bbc.co.uk/news/videos/c54g1vpmpmyro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T12:01:57Z",
+        "summary": "Conservative leader Kemi Badenoch warned of immigration protests getting worse as France deals with riots across the country."
+      },
+      {
+        "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T11:59:45Z",
+        "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
+      },
       {
         "title": "Jobless rate falls but small firms cut back hiring",
         "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
@@ -169,21 +181,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cqjdm2nylkz0o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T17:07:59Z",
         "summary": "ITV News filmed undercover with Reform councillors and candidates around the country."
-      },
-      {
-        "title": "Ex-top official Robbins reaches settlement with government over sacking",
-        "url": "https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T16:38:18Z",
-        "summary": "Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson."
-      },
-      {
-        "title": "Housing loans granted while Burnham was mayor investigated by councillors",
-        "url": "https://www.bbc.co.uk/news/articles/ck5yn70v2yp8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T15:46:11Z",
-        "summary": "A senior councillor says concerns have been raised about the transparency of the process to approve the loans."
       }
     ],
     "saudi": [
+      {
+        "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T11:59:45Z",
+        "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
+      },
       {
         "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
         "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
@@ -262,6 +268,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Immigration protests 'could get worse', says Badenoch",
+        "url": "https://www.bbc.co.uk/news/videos/c54g1vpmpmyro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T12:01:57Z",
+        "summary": "Conservative leader Kemi Badenoch warned of immigration protests getting worse as France deals with riots across the country."
+      },
+      {
+        "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T11:59:45Z",
+        "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
+      },
       {
         "title": "Job vacancies fall as small firms cut back on recruitment",
         "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
@@ -2736,6 +2754,12 @@
       }
     ],
     "saudi": [
+      {
+        "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T11:59:45Z",
+        "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
+      },
       {
         "title": "Bangladesh says it was not informed of its citizens' execution by Saudi Arabia",
         "url": "https://www.bbc.co.uk/news/articles/cmde83w13p00o?at_medium=RSS&at_campaign=rss",
