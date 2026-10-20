@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-20T17:16:58.759187Z",
+  "generated_at": "2026-10-20T17:45:55.574526Z",
   "articles": {
     "world": [
+      {
+        "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
+        "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T17:42:00Z",
+        "summary": "Dodds said it was time to hand over the leadership to a \"new generation\" after nearly nine years in the role."
+      },
       {
         "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
         "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
@@ -13,6 +19,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c674p99x7ngpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T15:57:07Z",
         "summary": "Malcolm Offord says he is 'disappointed' at Amanda Bland's decision to leave the party and sit as an independent."
+      },
+      {
+        "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T15:32:36Z",
+        "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital."
       },
       {
         "title": "Labour will not have the courage to cut spending, says Badenoch",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c317knk59d54o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T09:24:15Z",
         "summary": "Laurent Nu\u00f1ez offered his resignation following a weekend of unrest, but President Macron declined it."
-      },
-      {
-        "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct8klx?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-18T23:30:00Z",
-        "summary": "Author and activist Arundhati Roy on her mother\u2019s influence, writing and politics"
-      },
-      {
-        "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-18T14:57:19Z",
-        "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028."
       }
     ],
     "saudi": [
@@ -269,6 +269,12 @@
   "archive": {
     "world": [
       {
+        "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
+        "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T17:42:00Z",
+        "summary": "Dodds said it was time to hand over the leadership to a \"new generation\" after nearly nine years in the role."
+      },
+      {
         "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
         "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T16:26:54Z",
@@ -279,6 +285,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T15:45:24Z",
         "summary": "The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity."
+      },
+      {
+        "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T15:32:36Z",
+        "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital."
       },
       {
         "title": "Labour will not have the courage to cut spending, says Badenoch",
