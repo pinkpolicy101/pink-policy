@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-20T19:20:02.794275Z",
+  "generated_at": "2026-10-20T20:07:43.946725Z",
   "articles": {
     "world": [
+      {
+        "title": "'Let's move on': Albertans react to separatist movement setback",
+        "url": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T19:31:35Z",
+        "summary": "Preliminary referendum results show that more than two-thirds of Alberta voters support remaining part of Canada, easing concerns over national unity."
+      },
       {
         "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
         "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T11:41:24Z",
         "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger."
-      },
-      {
-        "title": "Italy plans tougher security measures after violent protests",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T11:23:36Z",
-        "summary": "The government crackdown comes after protests over rising costs broke out into violent clashes."
       }
     ],
     "saudi": [
@@ -229,6 +229,12 @@
     ],
     "us": [
       {
+        "title": "Trump sued over Canadian tariffs in latest legal challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T19:30:05Z",
+        "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
+      },
+      {
         "title": "How is the US economy really doing under President Trump?",
         "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T05:00:45Z",
@@ -268,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "'Let's move on': Albertans react to separatist movement setback",
+        "url": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T19:31:35Z",
+        "summary": "Preliminary referendum results show that more than two-thirds of Alberta voters support remaining part of Canada, easing concerns over national unity."
+      },
       {
         "title": "Farage vows to scrap tax on armed forces reserves",
         "url": "https://www.bbc.co.uk/news/articles/cvwy788ee34xo?at_medium=RSS&at_campaign=rss",
@@ -2960,6 +2972,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Trump sued over Canadian tariffs in latest legal challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T19:30:05Z",
+        "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
+      },
       {
         "title": "How is the US economy really doing under President Trump?",
         "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
