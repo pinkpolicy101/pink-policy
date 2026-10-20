@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-20T21:11:51.518031Z",
+  "generated_at": "2026-10-20T21:41:23.665843Z",
   "articles": {
     "world": [
+      {
+        "title": "Second Labour MP suspended over Covid loan repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T21:20:28Z",
+        "summary": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation."
+      },
       {
         "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
         "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T14:59:32Z",
         "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
-      },
-      {
-        "title": "Exiled critic of Rwandan president found beheaded",
-        "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T13:42:41Z",
-        "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda."
       }
     ],
     "saudi": [
@@ -274,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Second Labour MP suspended over Covid loan repayments",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T21:20:28Z",
+        "summary": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation."
+      },
       {
         "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
         "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
