@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-20T20:07:43.946725Z",
+  "generated_at": "2026-10-20T20:43:19.538084Z",
   "articles": {
     "world": [
+      {
+        "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+        "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T20:00:57Z",
+        "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
+      },
       {
         "title": "'Let's move on': Albertans react to separatist movement setback",
         "url": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
@@ -165,22 +171,16 @@
         "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
       },
       {
-        "title": "Catalonia's former rebel president can return to Spain, court rules",
-        "url": "https://www.bbc.co.uk/news/articles/cvp8gzg4e143o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T14:06:53Z",
-        "summary": "The court upholds a decision to lift an arrest warrant for Carles Puigdemont linked to the independence bid he led in 2017."
-      },
-      {
         "title": "Exiled critic of Rwandan president found beheaded",
         "url": "https://www.bbc.co.uk/news/articles/c3lylj78777do?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T13:42:41Z",
         "summary": "Former army sergeant major Robert Kabera was a popular YouTuber and singer, who had sought asylum in Uganda."
       },
       {
-        "title": "Personal attacks fire up debate before Brazil's run-off vote",
-        "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T11:41:24Z",
-        "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger."
+        "title": "People playing loud music on buses could face \u00a3100 fine",
+        "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T09:49:58Z",
+        "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched."
       }
     ],
     "saudi": [
@@ -229,6 +229,12 @@
     ],
     "us": [
       {
+        "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T19:42:32Z",
+        "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination."
+      },
+      {
         "title": "Trump sued over Canadian tariffs in latest legal challenge",
         "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T19:30:05Z",
@@ -245,12 +251,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T00:02:32Z",
         "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape."
-      },
-      {
-        "title": "US bans China's DeepSeek from government in race for AI dominance",
-        "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T18:21:54Z",
-        "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up."
       },
       {
         "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
@@ -274,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Trump and Zelensky appear at loggerheads despite Oslo optimism",
+        "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T20:00:57Z",
+        "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
+      },
       {
         "title": "'Let's move on': Albertans react to separatist movement setback",
         "url": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
@@ -2972,6 +2978,12 @@
       }
     ],
     "us": [
+      {
+        "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T19:42:32Z",
+        "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination."
+      },
       {
         "title": "Trump sued over Canadian tariffs in latest legal challenge",
         "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
