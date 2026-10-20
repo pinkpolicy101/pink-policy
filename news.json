@@ -1,23 +1,29 @@
 {
-  "generated_at": "2026-10-20T06:50:03.385557Z",
+  "generated_at": "2026-10-20T07:48:40.419251Z",
   "articles": {
     "world": [
       {
-        "title": "Job vacancies fall as small firms cut back on recruitment",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T06:49:02Z",
-        "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
-      },
-      {
         "title": "Burnham vows end to 'rip-off parking charges' under new rules",
         "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T06:28:27Z",
+        "published_at": "2026-10-20T07:44:52Z",
         "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
       },
       {
-        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
+        "title": "Job vacancies fall as small firms cut back on recruitment",
+        "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T07:44:14Z",
+        "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
+      },
+      {
+        "title": "Criminals detained in hospital set to lose benefits",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T07:35:38Z",
+        "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change."
+      },
+      {
+        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
         "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T06:25:39Z",
+        "published_at": "2026-10-20T06:50:52Z",
         "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
       },
       {
@@ -37,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T23:30:03Z",
         "summary": "Will Fatima El Mansouri advance women\u2019s rights amid religious and political barriers?"
-      },
-      {
-        "title": "Criminals detained in hospital set to lose benefits",
-        "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T23:21:38Z",
-        "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change."
       },
       {
         "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
@@ -223,6 +223,18 @@
     ],
     "us": [
       {
+        "title": "How is the US economy really doing under President Trump?",
+        "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T05:00:45Z",
+        "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country."
+      },
+      {
+        "title": "US church on frontline of battle against drug known as 'tranq'",
+        "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T00:02:32Z",
+        "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape."
+      },
+      {
         "title": "US bans DeepSeek AI from government use as tech tension with China continues",
         "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T18:21:54Z",
@@ -241,22 +253,10 @@
         "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
       },
       {
-        "title": "What we learned from heated US midterm Senate debates",
-        "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T19:09:37Z",
-        "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged."
-      },
-      {
         "title": "Candlelit vigil held for Oregon school shooting victims",
         "url": "https://www.bbc.co.uk/news/videos/c6x2wvgz5nlno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T14:25:39Z",
         "summary": "The vigil comes after a teacher and children aged five, eight and 11, were killed in a shooting at an elementary school in the US state of Oregon, local police say."
-      },
-      {
-        "title": "How did Katie Zacharia do at her first - very brief - White House briefing?",
-        "url": "https://www.bbc.co.uk/news/videos/cxm235y4l54lo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T17:04:37Z",
-        "summary": "The BBC's Sarah Smith was in the room and describes Zacharia's performance and the moment she broke news about Kimberly Guilfoyle being asked to resign."
       }
     ]
   },
@@ -2870,6 +2870,18 @@
       }
     ],
     "us": [
+      {
+        "title": "How is the US economy really doing under President Trump?",
+        "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T05:00:45Z",
+        "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country."
+      },
+      {
+        "title": "US church on frontline of battle against drug known as 'tranq'",
+        "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T00:02:32Z",
+        "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape."
+      },
       {
         "title": "US bans DeepSeek AI from government use as tech tension with China continues",
         "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
