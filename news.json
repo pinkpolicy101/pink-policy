@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-20T17:45:55.574526Z",
+  "generated_at": "2026-10-20T18:11:01.042987Z",
   "articles": {
     "world": [
       {
         "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
         "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T17:42:00Z",
+        "published_at": "2026-10-20T18:05:57Z",
         "summary": "Dodds said it was time to hand over the leadership to a \"new generation\" after nearly nine years in the role."
+      },
+      {
+        "title": "Farage vows to scrap tax on armed forces reserves",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy788ee34xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T17:59:23Z",
+        "summary": "A large group of protesters turned up outside the Reform UK rally in Plymouth with Nigel Farage."
+      },
+      {
+        "title": "UK government to make Jackdaw gas field announcement",
+        "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T17:33:42Z",
+        "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
       },
       {
         "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T11:23:36Z",
         "summary": "The government crackdown comes after protests over rising costs broke out into violent clashes."
-      },
-      {
-        "title": "People playing loud music on buses could face \u00a3100 fine",
-        "url": "https://www.bbc.co.uk/news/articles/cm89z008x7xdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T09:49:58Z",
-        "summary": "Antisocial behaviour on buses in England could lead to fines while a new campaign is also being launched for trains. A national campaign asking rail passengers \"share the carriage, not the noise\" is being launched."
-      },
-      {
-        "title": "Watch: Police 'lost control' in French cities, interior minister says",
-        "url": "https://www.bbc.co.uk/news/videos/c317knk59d54o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T09:24:15Z",
-        "summary": "Laurent Nu\u00f1ez offered his resignation following a weekend of unrest, but President Macron declined it."
       }
     ],
     "saudi": [
@@ -269,10 +269,22 @@
   "archive": {
     "world": [
       {
+        "title": "Farage vows to scrap tax on armed forces reserves",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy788ee34xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T17:59:23Z",
+        "summary": "A large group of protesters turned up outside the Reform UK rally in Plymouth with Nigel Farage."
+      },
+      {
         "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
         "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T17:42:00Z",
         "summary": "Dodds said it was time to hand over the leadership to a \"new generation\" after nearly nine years in the role."
+      },
+      {
+        "title": "UK government to make Jackdaw gas field announcement",
+        "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T17:33:42Z",
+        "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
       },
       {
         "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
