@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-20T15:49:04.418938Z",
+  "generated_at": "2026-10-20T16:41:17.603695Z",
   "articles": {
     "world": [
+      {
+        "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
+        "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T16:26:54Z",
+        "summary": "The softly-spoken former defence secretary is gearing up for the biggest moment of his long political career."
+      },
+      {
+        "title": "Reform leader accuses MSP of 'squatting' in seat after resignation",
+        "url": "https://www.bbc.co.uk/news/articles/c674p99x7ngpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T15:57:07Z",
+        "summary": "Malcolm Offord says he is 'disappointed' at Amanda Bland's decision to leave the party and sit as an independent."
+      },
+      {
+        "title": "Alberta votes overwhelmingly to remain part of Canada",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T15:45:24Z",
+        "summary": "The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity."
+      },
       {
         "title": "Labour will not have the courage to cut spending, says Badenoch",
         "url": "https://www.bbc.co.uk/news/articles/cry835v68dq9o?at_medium=RSS&at_campaign=rss",
@@ -51,16 +69,16 @@
         "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
       },
       {
-        "title": "Reform leader accuses MSP of 'squatting' in seat after resignation",
-        "url": "https://www.bbc.co.uk/news/articles/c674p99x7ngpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T09:21:49Z",
-        "summary": "Malcolm Offord says he is 'disappointed' at Amanda Bland's decision to leave the party and sit as an independent."
-      },
-      {
         "title": "Burnham vows end to 'rip-off parking charges' under new rules",
         "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T08:55:02Z",
         "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished."
+      },
+      {
+        "title": "What is the Budget and what could be in it?",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T08:31:36Z",
+        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
       },
       {
         "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/sounds/play/w3ct8klx?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-18T23:30:00Z",
         "summary": "Author and activist Arundhati Roy on her mother\u2019s influence, writing and politics"
-      },
-      {
-        "title": "Trump says suspension of Russia sanctions is to keep peace negotiations going",
-        "url": "https://www.bbc.co.uk/news/articles/c9p8gz7zx4peo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-18T23:20:15Z",
-        "summary": "The US president blocked numerous sanctions on Russia two days before they were due to take effect."
-      },
-      {
-        "title": "Polanski says he will not overturn Green Party's 'Zionism is racism' motion",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8w5v8yne4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-18T14:57:19Z",
-        "summary": "The Green Party leader said, while he wanted to amend it, the motion would stand until 2028."
-      },
-      {
-        "title": "Ending corridor care in hospitals for children a priority, says health secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm2kezgd77qlo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-18T12:09:04Z",
-        "summary": "Yvette Cooper also announces \u00a3140m investment in England's urgent care system, ahead of winter."
       }
     ],
     "saudi": [
@@ -269,6 +269,18 @@
   "archive": {
     "world": [
       {
+        "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
+        "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T16:26:54Z",
+        "summary": "The softly-spoken former defence secretary is gearing up for the biggest moment of his long political career."
+      },
+      {
+        "title": "Alberta votes overwhelmingly to remain part of Canada",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yqqd7nlpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T15:45:24Z",
+        "summary": "The vote has been hailed by Prime Minister Mark Carney as \"a clear choice\" in favour of national unity."
+      },
+      {
         "title": "Labour will not have the courage to cut spending, says Badenoch",
         "url": "https://www.bbc.co.uk/news/articles/cry835v68dq9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T13:22:03Z",
@@ -297,6 +309,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c674p99x7ngpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T09:21:49Z",
         "summary": "Malcolm Offord says he is 'disappointed' at Amanda Bland's decision to leave the party and sit as an independent."
+      },
+      {
+        "title": "What is the Budget and what could be in it?",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T08:31:36Z",
+        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
       },
       {
         "title": "Job vacancies fall as small firms cut back on recruitment",
