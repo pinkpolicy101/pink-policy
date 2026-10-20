@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-20T06:10:31.850450Z",
+  "generated_at": "2026-10-20T06:50:03.385557Z",
   "articles": {
     "world": [
+      {
+        "title": "Job vacancies fall as small firms cut back on recruitment",
+        "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T06:49:02Z",
+        "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
+      },
+      {
+        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T06:28:27Z",
+        "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
+      },
+      {
+        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
+        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T06:25:39Z",
+        "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
+      },
       {
         "title": "How is the US economy really doing under President Trump?",
         "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
@@ -21,16 +39,10 @@
         "summary": "Will Fatima El Mansouri advance women\u2019s rights amid religious and political barriers?"
       },
       {
-        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T21:30:06Z",
-        "summary": "Penalties are seen as too harsh on motorists who are penalised for parking on private land."
-      },
-      {
-        "title": "Curfew imposed in parts of central Paris and other cities after rioting across France",
-        "url": "https://www.bbc.co.uk/news/articles/cx30ez03djyqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T21:14:53Z",
-        "summary": "The country's interior minister admits that police \"lost control\" in some cities following a weekend of riots."
+        "title": "Criminals detained in hospital set to lose benefits",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T23:21:38Z",
+        "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change."
       },
       {
         "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck5yn70v2yp8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T15:46:11Z",
         "summary": "A senior councillor says concerns have been raised about the transparency of the process to approve the loans."
-      },
-      {
-        "title": "Labour calls for M4 relief road, seven years after axing the plan",
-        "url": "https://www.bbc.co.uk/news/articles/c39wzge1j28yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T14:53:03Z",
-        "summary": "Seven years after the party axed the project, Labour says the Welsh government should build the road."
-      },
-      {
-        "title": "Burnham invites Swinney to work together on 'deeper Scottish devolution'",
-        "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T14:36:27Z",
-        "summary": "On his first substantive trip to Scotland since becoming PM, he says politicians should focus on solutions \"right now\" and move beyond the issue of Scottish independence."
       }
     ],
     "saudi": [
@@ -263,6 +263,18 @@
   "archive": {
     "world": [
       {
+        "title": "Job vacancies fall as small firms cut back on recruitment",
+        "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T06:49:02Z",
+        "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
+      },
+      {
+        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget, sources say",
+        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T06:25:39Z",
+        "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
+      },
+      {
         "title": "How is the US economy really doing under President Trump?",
         "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T05:00:45Z",
@@ -279,6 +291,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T23:30:03Z",
         "summary": "Will Fatima El Mansouri advance women\u2019s rights amid religious and political barriers?"
+      },
+      {
+        "title": "Criminals detained in hospital set to lose benefits",
+        "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T23:21:38Z",
+        "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change."
       },
       {
         "title": "Burnham vows end to 'rip-off parking charges' under new rules",
