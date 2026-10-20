@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-20T12:52:10.836693Z",
+  "generated_at": "2026-10-20T13:50:06.464078Z",
   "articles": {
     "world": [
+      {
+        "title": "Labour will not have the courage to cut spending, says Badenoch",
+        "url": "https://www.bbc.co.uk/news/articles/cry835v68dq9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T13:22:03Z",
+        "summary": "Speaking ahead of next week's Budget, the Conservative leader says her party would make \u00a370bn of cuts."
+      },
+      {
+        "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T12:55:30Z",
+        "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
+      },
+      {
+        "title": "Burnham risks wrath of Commons Speaker for talking too much at PMQs",
+        "url": "https://www.bbc.co.uk/news/articles/crvg6qjw6dz5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T12:54:43Z",
+        "summary": "The prime minister takes longer than his predecessors to respond to questions from MPs, writes Matt Chorley."
+      },
       {
         "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
         "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
@@ -13,12 +31,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c54g1vpmpmyro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T12:01:57Z",
         "summary": "Conservative leader Kemi Badenoch warned of immigration protests getting worse as France deals with riots across the country."
-      },
-      {
-        "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-        "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T11:59:45Z",
-        "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
       },
       {
         "title": "Jobless rate falls but small firms cut back hiring",
@@ -169,25 +181,13 @@
         "url": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-17T20:24:32Z",
         "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney."
-      },
-      {
-        "title": "Reform councillor quits over offensive remarks",
-        "url": "https://www.bbc.co.uk/news/articles/c64g1803dkp7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T18:53:47Z",
-        "summary": "Alan Feeney was captured on undercover filming calling Asian homeowners \"parasites\"."
-      },
-      {
-        "title": "Reform councillor calls TV report 'vote interference'",
-        "url": "https://www.bbc.co.uk/news/articles/cqjdm2nylkz0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T17:07:59Z",
-        "summary": "ITV News filmed undercover with Reform councillors and candidates around the country."
       }
     ],
     "saudi": [
       {
         "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
         "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T11:59:45Z",
+        "published_at": "2026-10-20T12:55:30Z",
         "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
       },
       {
@@ -268,6 +268,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Labour will not have the courage to cut spending, says Badenoch",
+        "url": "https://www.bbc.co.uk/news/articles/cry835v68dq9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T13:22:03Z",
+        "summary": "Speaking ahead of next week's Budget, the Conservative leader says her party would make \u00a370bn of cuts."
+      },
+      {
+        "title": "Burnham risks wrath of Commons Speaker for talking too much at PMQs",
+        "url": "https://www.bbc.co.uk/news/articles/crvg6qjw6dz5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T12:54:43Z",
+        "summary": "The prime minister takes longer than his predecessors to respond to questions from MPs, writes Matt Chorley."
+      },
       {
         "title": "Immigration protests 'could get worse', says Badenoch",
         "url": "https://www.bbc.co.uk/news/videos/c54g1vpmpmyro?at_medium=RSS&at_campaign=rss",
