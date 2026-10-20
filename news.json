@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-20T07:48:40.419251Z",
+  "generated_at": "2026-10-20T08:44:22.689373Z",
   "articles": {
     "world": [
+      {
+        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T08:38:06Z",
+        "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
+      },
+      {
+        "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
+        "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T07:59:33Z",
+        "summary": "Use our interactive tracker to explore the latest migration statistics for the UK"
+      },
       {
         "title": "Burnham vows end to 'rip-off parking charges' under new rules",
         "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
@@ -19,12 +31,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T07:35:38Z",
         "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change."
-      },
-      {
-        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T06:50:52Z",
-        "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
       },
       {
         "title": "How is the US economy really doing under President Trump?",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c64g18r402geo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T16:38:18Z",
         "summary": "Sir Olly Robbins was sacked as the top civil servant in the Foreign Office over the vetting of Lord Mandelson."
-      },
-      {
-        "title": "Housing loans granted while Burnham was mayor investigated by councillors",
-        "url": "https://www.bbc.co.uk/news/articles/ck5yn70v2yp8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T15:46:11Z",
-        "summary": "A senior councillor says concerns have been raised about the transparency of the process to approve the loans."
       }
     ],
     "saudi": [
@@ -229,16 +229,16 @@
         "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country."
       },
       {
-        "title": "US church on frontline of battle against drug known as 'tranq'",
+        "title": "US church on front line of battle against drug known as 'tranq'",
         "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T00:02:32Z",
         "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape."
       },
       {
-        "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+        "title": "US bans China's DeepSeek from government in race for AI dominance",
         "url": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T18:21:54Z",
-        "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China."
+        "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up."
       },
       {
         "title": "Inside Chicago's battle against the synthetic drugs flooding the US",
