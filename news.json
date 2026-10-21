@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-21T15:14:53.099173Z",
+  "generated_at": "2026-10-21T15:49:23.433489Z",
   "articles": {
     "world": [
+      {
+        "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T15:36:31Z",
+        "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
+      },
+      {
+        "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
+        "url": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T15:24:23Z",
+        "summary": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust."
+      },
       {
         "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
         "url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T14:50:05Z",
         "summary": "A Downing Street spokeswoman tells the BBC Sarah Helm \"does not represent the government in any capacity\"."
-      },
-      {
-        "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
-        "url": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T14:39:07Z",
-        "summary": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust."
       },
       {
         "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T10:06:34Z",
         "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
-      },
-      {
-        "title": "Burnham vows end to 'rip-off parking charges' under new rules",
-        "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T08:55:02Z",
-        "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished."
       }
     ],
     "saudi": [
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T15:36:31Z",
+        "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
+      },
       {
         "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
         "url": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
