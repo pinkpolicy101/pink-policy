@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-21T21:10:59.390213Z",
+  "generated_at": "2026-10-21T21:42:59.661714Z",
   "articles": {
     "world": [
+      {
+        "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T21:27:41Z",
+        "summary": "Russia says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war."
+      },
       {
         "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
         "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
@@ -13,12 +19,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T18:22:28Z",
         "summary": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi."
-      },
-      {
-        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T17:42:34Z",
-        "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
       },
       {
         "title": "Burnham proposes plan to cut standing charges from gas bills",
@@ -112,7 +112,7 @@
       },
       {
         "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct98hl?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T23:30:00Z",
         "summary": "Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican"
       },
