@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-20T23:37:38.130285Z",
+  "generated_at": "2026-10-21T00:03:30.223141Z",
   "articles": {
     "world": [
+      {
+        "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+        "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T23:41:30Z",
+        "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people."
+      },
+      {
+        "title": "Is Donald Trump ready to do business with Myanmar?",
+        "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T23:21:39Z",
+        "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah."
+      },
+      {
+        "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+        "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T22:22:17Z",
+        "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet."
+      },
       {
         "title": "Second Labour MP suspended over Covid loan repayments",
         "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
@@ -19,6 +37,12 @@
         "url": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T19:31:35Z",
         "summary": "Preliminary referendum results show that more than two-thirds of Alberta voters support remaining part of Canada, easing concerns over national unity."
+      },
+      {
+        "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
+        "url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T19:08:06Z",
+        "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\"."
       },
       {
         "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
@@ -135,12 +159,6 @@
         "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change."
       },
       {
-        "title": "How is the US economy really doing under President Trump?",
-        "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T05:00:45Z",
-        "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country."
-      },
-      {
         "title": "Seventh day of violent clashes between Albanian protesters and police",
         "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T02:45:05Z",
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6eq3y4zz899o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T20:41:21Z",
         "summary": "Reform UK's Luke Campbell denies claims that he showed nude photos of himself to a female colleague."
-      },
-      {
-        "title": "Troubles legacy bill is not an amnesty for soldiers - NI secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T18:05:14Z",
-        "summary": "Amendments to the bill are being debated by MPs, as the long-awaited legislation returns to the House of Commons."
-      },
-      {
-        "title": "Reform MSP quits party to sit as independent",
-        "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T16:28:27Z",
-        "summary": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour."
-      },
-      {
-        "title": "PM says youth unemployment is a 'catastrophe and a moral failure'",
-        "url": "https://www.bbc.co.uk/news/articles/cq0melgpre23o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T14:59:32Z",
-        "summary": "The UK faces \"economic catastrophe\" with one million young people not in work or training, the prime minister says."
       }
     ],
     "saudi": [
@@ -275,6 +275,24 @@
   "archive": {
     "world": [
       {
+        "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+        "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T23:41:30Z",
+        "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people."
+      },
+      {
+        "title": "Is Donald Trump ready to do business with Myanmar?",
+        "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T23:21:39Z",
+        "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah."
+      },
+      {
+        "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
+        "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T22:22:17Z",
+        "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet."
+      },
+      {
         "title": "Second Labour MP suspended over Covid loan repayments",
         "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T21:20:28Z",
@@ -291,6 +309,12 @@
         "url": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T19:31:35Z",
         "summary": "Preliminary referendum results show that more than two-thirds of Alberta voters support remaining part of Canada, easing concerns over national unity."
+      },
+      {
+        "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
+        "url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T19:08:06Z",
+        "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\"."
       },
       {
         "title": "Farage vows to scrap tax on armed forces reserves",
