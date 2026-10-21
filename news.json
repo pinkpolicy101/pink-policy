@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T06:13:01.493597Z",
+  "generated_at": "2026-10-21T06:53:55.024514Z",
   "articles": {
     "world": [
       {
@@ -19,6 +19,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T23:41:30Z",
         "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people."
+      },
+      {
+        "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
+        "url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T22:29:24Z",
+        "summary": "A Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\""
       },
       {
         "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
@@ -51,6 +57,12 @@
         "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\"."
       },
       {
+        "title": "Schools should recognise antisemitism as distinct form of harm, review says",
+        "url": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T18:52:32Z",
+        "summary": "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell."
+      },
+      {
         "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
         "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T18:40:30Z",
@@ -75,12 +87,6 @@
         "summary": "Malcolm Offord says he is 'disappointed' at Amanda Bland's decision to leave the party and sit as an independent."
       },
       {
-        "title": "Government failings allowed Covid 'to spread like wildfire' in care homes, inquiry finds",
-        "url": "https://www.bbc.co.uk/news/articles/ck1l38z0v3v6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T15:32:36Z",
-        "summary": "The sixth report from Covid inquiry criticises the lack of PPE and the way patients were discharged from hospital."
-      },
-      {
         "title": "Labour will not have the courage to cut spending, says Badenoch",
         "url": "https://www.bbc.co.uk/news/articles/cry835v68dq9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T14:46:46Z",
@@ -91,12 +97,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T14:09:42Z",
         "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says."
-      },
-      {
-        "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
-        "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T13:54:35Z",
-        "summary": "The UK announces it will provide additional defensive military support to Saudi Arabia as Houthi attacks escalate in the region."
       },
       {
         "title": "Burnham risks wrath of Commons Speaker for talking too much at PMQs",
@@ -299,6 +299,12 @@
         "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah."
       },
       {
+        "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
+        "url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T22:29:24Z",
+        "summary": "A Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\""
+      },
+      {
         "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
         "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T22:22:17Z",
@@ -327,6 +333,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T19:08:06Z",
         "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\"."
+      },
+      {
+        "title": "Schools should recognise antisemitism as distinct form of harm, review says",
+        "url": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T18:52:32Z",
+        "summary": "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell."
       },
       {
         "title": "Farage vows to scrap tax on armed forces reserves",
