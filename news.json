@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T12:12:26.703791Z",
+  "generated_at": "2026-10-21T12:52:06.504679Z",
   "articles": {
     "world": [
       {
@@ -43,6 +43,12 @@
         "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T02:37:13Z",
         "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
+      },
+      {
+        "title": "The Interview",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct98hl?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T23:30:00Z",
+        "summary": "Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican"
       },
       {
         "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T07:35:38Z",
         "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change."
-      },
-      {
-        "title": "Seventh day of violent clashes between Albanian protesters and police",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T02:45:05Z",
-        "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing."
       }
     ],
     "saudi": [
@@ -231,7 +231,7 @@
       {
         "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
         "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T12:00:33Z",
+        "published_at": "2026-10-21T12:32:01Z",
         "summary": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says."
       },
       {
@@ -339,6 +339,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T23:41:30Z",
         "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people."
+      },
+      {
+        "title": "The Interview",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct98hl?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T23:30:00Z",
+        "summary": "Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican"
       },
       {
         "title": "Is Donald Trump ready to do business with Myanmar?",
