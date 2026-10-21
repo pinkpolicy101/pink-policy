@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-21T07:50:18.635884Z",
+  "generated_at": "2026-10-21T08:46:07.299391Z",
   "articles": {
     "world": [
+      {
+        "title": "Australian MP loses both legs after alleged car attack, husband says",
+        "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T07:56:30Z",
+        "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
+      },
       {
         "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
         "url": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6eq3y4zz899o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T20:41:21Z",
         "summary": "Reform UK's Luke Campbell denies claims that he showed nude photos of himself to a female colleague."
-      },
-      {
-        "title": "Troubles legacy bill is not an amnesty for soldiers - NI secretary",
-        "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T18:05:14Z",
-        "summary": "Amendments to the bill are being debated by MPs, as the long-awaited legislation returns to the House of Commons."
       }
     ],
     "saudi": [
@@ -229,6 +229,18 @@
     ],
     "us": [
       {
+        "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T03:45:52Z",
+        "summary": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy."
+      },
+      {
+        "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T02:37:13Z",
+        "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
+      },
+      {
         "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
         "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T19:42:32Z",
@@ -274,6 +286,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Australian MP loses both legs after alleged car attack, husband says",
+        "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T07:56:30Z",
+        "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
+      },
       {
         "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
         "url": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
@@ -3044,6 +3062,18 @@
       }
     ],
     "us": [
+      {
+        "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T03:45:52Z",
+        "summary": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy."
+      },
+      {
+        "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T02:37:13Z",
+        "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
+      },
       {
         "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
         "url": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
