@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-10-21T11:41:54.723022Z",
+  "generated_at": "2026-10-21T12:12:26.703791Z",
   "articles": {
     "world": [
-      {
-        "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
-        "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T11:39:25Z",
-        "summary": "The 74-year-old former teacher has been released without any \"swap\" required, according to the president."
-      },
       {
         "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
         "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T07:35:38Z",
         "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change."
+      },
+      {
+        "title": "Seventh day of violent clashes between Albanian protesters and police",
+        "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-20T02:45:05Z",
+        "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing."
       }
     ],
     "saudi": [
@@ -229,10 +229,10 @@
     ],
     "us": [
       {
-        "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
+        "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
         "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T11:39:25Z",
-        "summary": "The 74-year-old former teacher has been released without any \"swap\" required, according to the president."
+        "published_at": "2026-10-21T12:00:33Z",
+        "summary": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says."
       },
       {
         "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
