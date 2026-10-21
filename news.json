@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-21T12:52:06.504679Z",
+  "generated_at": "2026-10-21T13:48:57.630571Z",
   "articles": {
     "world": [
+      {
+        "title": "How Jackdaw ignites row over climate and costs",
+        "url": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T13:46:34Z",
+        "summary": "How Jackdaw ignites arguments over climate and costs"
+      },
+      {
+        "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T10:20:15Z",
+        "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
+      },
       {
         "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
         "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
@@ -69,7 +81,7 @@
         "summary": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation."
       },
       {
-        "title": "Trump and Zelensky appear at loggerheads despite new optimism",
+        "title": "Trump and Zelensky at loggerheads despite new optimism",
         "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T20:00:57Z",
         "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T08:31:36Z",
         "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
-      },
-      {
-        "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
-        "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T07:59:33Z",
-        "summary": "Use our interactive tracker to explore the latest migration statistics for the UK"
-      },
-      {
-        "title": "Criminals detained in hospital set to lose benefits",
-        "url": "https://www.bbc.co.uk/news/articles/cv62yzddy6dpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T07:35:38Z",
-        "summary": "The families of the victims of Nottingham killer Valdo Calocane had been campaigning for the change."
       }
     ],
     "saudi": [
@@ -232,7 +232,7 @@
         "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
         "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T12:32:01Z",
-        "summary": "The 74-year-old former teacher has been released without any \"swap\" required, Trump says."
+        "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says."
       },
       {
         "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
@@ -293,10 +293,22 @@
   "archive": {
     "world": [
       {
+        "title": "How Jackdaw ignites row over climate and costs",
+        "url": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T13:46:34Z",
+        "summary": "How Jackdaw ignites arguments over climate and costs"
+      },
+      {
         "title": "US citizen Stephen Hubbard freed by Russia and 'on his way home', Trump says",
         "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T11:39:25Z",
         "summary": "The 74-year-old former teacher has been released without any \"swap\" required, according to the president."
+      },
+      {
+        "title": "Faisal Islam: Inflation and borrowing figures illustrate chancellor's Budget challenge",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T10:20:15Z",
+        "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
       },
       {
         "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
