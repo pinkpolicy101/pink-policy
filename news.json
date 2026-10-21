@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-21T15:49:23.433489Z",
+  "generated_at": "2026-10-21T16:42:24.619864Z",
   "articles": {
     "world": [
+      {
+        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T16:38:06Z",
+        "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
+      },
       {
         "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
         "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T11:26:48Z",
         "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
-      },
-      {
-        "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
-        "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T10:06:34Z",
-        "summary": "Influential Labour figures had been pushing for equalising CGT and income tax, but critics have said this could drive wealthy people out of Britain."
       }
     ],
     "saudi": [
@@ -231,7 +231,7 @@
       {
         "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
         "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T13:49:50Z",
+        "published_at": "2026-10-21T16:06:37Z",
         "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says."
       },
       {
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T16:38:06Z",
+        "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
+      },
       {
         "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
         "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
