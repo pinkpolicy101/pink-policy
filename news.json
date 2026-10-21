@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-21T16:42:24.619864Z",
+  "generated_at": "2026-10-21T17:14:25.263190Z",
   "articles": {
     "world": [
+      {
+        "title": "Burnham proposes plan to cut standing charges from gas bills",
+        "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T17:06:16Z",
+        "summary": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs."
+      },
+      {
+        "title": "'Mindset shift' needed within government for No10 North to work, says deputy",
+        "url": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T17:05:09Z",
+        "summary": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\"."
+      },
+      {
+        "title": "How Jackdaw ignites row over climate and costs",
+        "url": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T16:51:10Z",
+        "summary": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact."
+      },
       {
         "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
         "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
@@ -88,7 +106,7 @@
       },
       {
         "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct98hl?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T23:30:00Z",
         "summary": "Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican"
       },
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crvg6qjw6dz5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T12:54:43Z",
         "summary": "The prime minister takes longer than his predecessors to respond to questions from MPs, writes Matt Chorley."
-      },
-      {
-        "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-        "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T12:36:43Z",
-        "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own."
-      },
-      {
-        "title": "Immigration protests 'could get worse', says Badenoch",
-        "url": "https://www.bbc.co.uk/news/videos/c54g1vpmpmyro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T12:01:57Z",
-        "summary": "Conservative leader Kemi Badenoch warned of immigration protests getting worse as France deals with riots across the country."
-      },
-      {
-        "title": "Jobless rate falls but small firms cut back hiring",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq327pzr53o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T11:26:48Z",
-        "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
       }
     ],
     "saudi": [
@@ -231,7 +231,7 @@
       {
         "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
         "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T16:06:37Z",
+        "published_at": "2026-10-21T17:11:43Z",
         "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says."
       },
       {
@@ -292,6 +292,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Burnham proposes plan to cut standing charges from gas bills",
+        "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T17:06:16Z",
+        "summary": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs."
+      },
+      {
+        "title": "'Mindset shift' needed within government for No10 North to work, says deputy",
+        "url": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T17:05:09Z",
+        "summary": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\"."
+      },
+      {
+        "title": "How Jackdaw ignites row over climate and costs",
+        "url": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T16:51:10Z",
+        "summary": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact."
+      },
       {
         "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
         "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
