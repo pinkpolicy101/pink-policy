@@ -1,9 +1,21 @@
 {
-  "generated_at": "2026-10-21T14:44:00.897953Z",
+  "generated_at": "2026-10-21T15:14:53.099173Z",
   "articles": {
     "world": [
       {
-        "title": "Former DUP leader Jeffrey Donaldson to be interviewed over alleged rape inside Westminster",
+        "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
+        "url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T14:50:05Z",
+        "summary": "A Downing Street spokeswoman tells the BBC Sarah Helm \"does not represent the government in any capacity\"."
+      },
+      {
+        "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
+        "url": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T14:39:07Z",
+        "summary": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust."
+      },
+      {
+        "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
         "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T14:26:24Z",
         "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated."
@@ -69,12 +81,6 @@
         "summary": "Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican"
       },
       {
-        "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
-        "url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T22:29:24Z",
-        "summary": "A Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\""
-      },
-      {
         "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
         "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T22:22:17Z",
@@ -103,12 +109,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T19:08:06Z",
         "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\"."
-      },
-      {
-        "title": "Schools should recognise antisemitism as distinct form of harm, review says",
-        "url": "https://www.bbc.co.uk/news/articles/c623d7z1rxg5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T18:52:32Z",
-        "summary": "The government is expected to accept all 27 recommendations made in the review by ex-Ofsted boss, Sir David Bell."
       },
       {
         "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
+        "url": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T14:39:07Z",
+        "summary": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust."
+      },
       {
         "title": "Former DUP leader Jeffrey Donaldson to be interviewed over alleged rape inside Westminster",
         "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
