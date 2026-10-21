@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-21T09:18:28.406703Z",
+  "generated_at": "2026-10-21T10:14:55.602454Z",
   "articles": {
     "world": [
+      {
+        "title": "Is Ebola under control in Kenya after nine cases confirmed?",
+        "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T09:55:15Z",
+        "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people."
+      },
+      {
+        "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T09:45:31Z",
+        "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
+      },
       {
         "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
         "url": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T08:49:44Z",
         "summary": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy."
+      },
+      {
+        "title": "What is happening to UK prices?",
+        "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T08:35:47Z",
+        "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices."
       },
       {
         "title": "Australian MP loses both legs after alleged car attack, husband says",
@@ -25,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T02:37:13Z",
         "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
-      },
-      {
-        "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-        "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T23:41:30Z",
-        "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people."
       },
       {
         "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmy4xjlpqgd3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T02:45:05Z",
         "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing."
-      },
-      {
-        "title": "First minister promises to look at Welsh council powers",
-        "url": "https://www.bbc.co.uk/news/articles/ckz7xrjg924no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T20:53:30Z",
-        "summary": "Plaid Cymru's leader makes pledge ahead of talks with Andy Burnham, who wants more devolution to councils."
-      },
-      {
-        "title": "Reform UK mayor investigated over naked photo claims",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq3y4zz899o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T20:41:21Z",
-        "summary": "Reform UK's Luke Campbell denies claims that he showed nude photos of himself to a female colleague."
       }
     ],
     "saudi": [
@@ -228,6 +228,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+        "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T09:22:23Z",
+        "summary": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff."
+      },
       {
         "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
         "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
@@ -286,6 +292,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
+        "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T09:45:31Z",
+        "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
+      },
+      {
+        "title": "What is happening to UK prices?",
+        "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T08:35:47Z",
+        "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices."
+      },
       {
         "title": "Australian MP loses both legs after alleged car attack, husband says",
         "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
@@ -3062,6 +3080,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Russia frees US citizen Stephen Hubbard, state media reports",
+        "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T09:22:23Z",
+        "summary": "Stephen Hubbard has been taken to Pulkovo Airport, Putin said during talks with US envoy Steve Witkoff."
+      },
       {
         "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
         "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
