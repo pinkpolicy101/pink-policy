@@ -1,13 +1,7 @@
 {
-  "generated_at": "2026-10-21T05:44:43.301663Z",
+  "generated_at": "2026-10-21T06:13:01.493597Z",
   "articles": {
     "world": [
-      {
-        "title": "UK government expected to approve Jackdaw gas field",
-        "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T04:41:04Z",
-        "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
-      },
       {
         "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
         "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T18:05:14Z",
         "summary": "Amendments to the bill are being debated by MPs, as the long-awaited legislation returns to the House of Commons."
+      },
+      {
+        "title": "Reform MSP quits party to sit as independent",
+        "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T16:28:27Z",
+        "summary": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour."
       }
     ],
     "saudi": [
