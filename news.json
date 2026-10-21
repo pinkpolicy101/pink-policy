@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-21T02:41:14.682026Z",
+  "generated_at": "2026-10-21T03:12:28.398464Z",
   "articles": {
     "world": [
+      {
+        "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T02:37:13Z",
+        "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
+      },
       {
         "title": "Is Ebola under control in Kenya after nine cases confirmed?",
         "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
@@ -165,12 +171,6 @@
         "summary": "Almost 300 people have been injured, more than half of them police, as violent anti-government demonstrations show no sign of easing."
       },
       {
-        "title": "Morocco's first female prime minister caught between the king, clerics, and feminists",
-        "url": "https://www.bbc.co.uk/news/articles/cmqxn4gggdw4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T23:30:03Z",
-        "summary": "Will Fatima El Mansouri advance women\u2019s rights amid religious and political barriers?"
-      },
-      {
         "title": "First minister promises to look at Welsh council powers",
         "url": "https://www.bbc.co.uk/news/articles/ckz7xrjg924no?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T20:53:30Z",
@@ -274,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T02:37:13Z",
+        "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
+      },
       {
         "title": "Is Ebola under control in Kenya after nine cases confirmed?",
         "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
