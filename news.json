@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T05:14:28.756201Z",
+  "generated_at": "2026-10-21T05:44:43.301663Z",
   "articles": {
     "world": [
       {
@@ -7,6 +7,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cvze4wx3elj1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T04:41:04Z",
         "summary": "The long-awaited decision about the controversial North Sea field is expected on Wednesday morning."
+      },
+      {
+        "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
+        "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T03:58:16Z",
+        "summary": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines."
       },
       {
         "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
@@ -19,12 +25,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T23:41:30Z",
         "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people."
-      },
-      {
-        "title": "Is Donald Trump ready to do business with Myanmar?",
-        "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T23:21:39Z",
-        "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah."
       },
       {
         "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
@@ -129,12 +129,6 @@
         "summary": "Small firms cite labour costs as a key factor in scaling back hiring, the Office for National Statistics says."
       },
       {
-        "title": "Man charged with attack on Australia MP to face court",
-        "url": "https://www.bbc.co.uk/news/articles/c678pnn9mpgno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T11:25:35Z",
-        "summary": "Brendan Nugent's family say they have known Helen Haines, who remains in a critical condition, for more than 20 years."
-      },
-      {
         "title": "Chancellor rejects calls to raise Capital Gains Tax in Budget",
         "url": "https://www.bbc.co.uk/news/articles/c50me4w4x1vyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T10:06:34Z",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c6eq3y4zz899o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T20:41:21Z",
         "summary": "Reform UK's Luke Campbell denies claims that he showed nude photos of himself to a female colleague."
+      },
+      {
+        "title": "Troubles legacy bill is not an amnesty for soldiers - NI secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cm93zkqj7z39o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-19T18:05:14Z",
+        "summary": "Amendments to the bill are being debated by MPs, as the long-awaited legislation returns to the House of Commons."
       }
     ],
     "saudi": [
@@ -274,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
+        "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T03:58:16Z",
+        "summary": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines."
+      },
       {
         "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
         "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
