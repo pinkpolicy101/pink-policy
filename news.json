@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-21T13:48:57.630571Z",
+  "generated_at": "2026-10-21T14:44:00.897953Z",
   "articles": {
     "world": [
+      {
+        "title": "Former DUP leader Jeffrey Donaldson to be interviewed over alleged rape inside Westminster",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T14:26:24Z",
+        "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated."
+      },
       {
         "title": "How Jackdaw ignites row over climate and costs",
         "url": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck87ze7wl4qno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T08:55:02Z",
         "summary": "The changes come after concerns that penalties issued by private providers are too harsh and leave motorists unfairly punished."
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T08:31:36Z",
-        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
       }
     ],
     "saudi": [
@@ -231,7 +231,7 @@
       {
         "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
         "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T12:32:01Z",
+        "published_at": "2026-10-21T13:49:50Z",
         "summary": "The 74-year-old former teacher, who was captured, has been released without any \"swap\" required, Trump says."
       },
       {
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Former DUP leader Jeffrey Donaldson to be interviewed over alleged rape inside Westminster",
+        "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T14:26:24Z",
+        "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated."
+      },
       {
         "title": "How Jackdaw ignites row over climate and costs",
         "url": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
