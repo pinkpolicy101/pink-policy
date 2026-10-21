@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-21T17:14:25.263190Z",
+  "generated_at": "2026-10-21T17:43:33.657016Z",
   "articles": {
     "world": [
+      {
+        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
+        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T17:42:34Z",
+        "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
+      },
       {
         "title": "Burnham proposes plan to cut standing charges from gas bills",
         "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
@@ -19,12 +25,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T16:51:10Z",
         "summary": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact."
-      },
-      {
-        "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
-        "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T16:38:06Z",
-        "summary": "The announcement came after Russian President Vladimir Putin met US President Donald Trump's special envoy Steve Witkoff in St Petersburg."
       },
       {
         "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
@@ -106,7 +106,7 @@
       },
       {
         "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct98hl?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T23:30:00Z",
         "summary": "Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican"
       },
