@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-21T18:11:15.668201Z",
+  "generated_at": "2026-10-21T18:48:14.045227Z",
   "articles": {
     "world": [
+      {
+        "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+        "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T18:22:28Z",
+        "summary": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi."
+      },
       {
         "title": "Russia says it is ready to resume talks with Ukraine and US to end war",
         "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cv0ld6lrr2zeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T14:09:42Z",
         "summary": "Three missiles hit a camp in government-controlled Shabwa province on Monday that was being used as a training centre, Yemen's army says."
-      },
-      {
-        "title": "Burnham risks wrath of Commons Speaker for talking too much at PMQs",
-        "url": "https://www.bbc.co.uk/news/articles/crvg6qjw6dz5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T12:54:43Z",
-        "summary": "The prime minister takes longer than his predecessors to respond to questions from MPs, writes Matt Chorley."
       }
     ],
     "saudi": [
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
+        "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T18:22:28Z",
+        "summary": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi."
+      },
       {
         "title": "Burnham proposes plan to cut standing charges from gas bills",
         "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
