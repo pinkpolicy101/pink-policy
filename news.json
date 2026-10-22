@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T21:41:18.193698Z",
+  "generated_at": "2026-10-22T22:10:38.626684Z",
   "articles": {
     "world": [
       {
@@ -117,12 +117,6 @@
         "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals."
       },
       {
-        "title": "US embassy accuses Canada of election meddling ahead of midterms",
-        "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T03:05:28Z",
-        "summary": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada."
-      },
-      {
         "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
         "url": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T02:09:21Z",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T16:51:10Z",
         "summary": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact."
+      },
+      {
+        "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
+        "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T15:36:31Z",
+        "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
       }
     ],
     "saudi": [
@@ -223,22 +223,16 @@
     ],
     "us": [
       {
-        "title": "US actor Tom Skerritt, who starred in Picket Fences, Mash and Alien, dies aged 93",
+        "title": "US actor Tom Skerritt, who starred in Top Gun, Steel Magnolias and Alien, dies aged 93",
         "url": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T21:10:36Z",
-        "summary": "The actor died on Wednesday of natural causes, his family said."
+        "summary": "The moustachioed star of several 20th century hit films died on Wednesday of natural causes, his family said."
       },
       {
-        "title": "Trump says NBA star LeBron James disrespected US anthem and demands apology",
+        "title": "Trump says NBA star LeBron James 'disrespected' US anthem",
         "url": "https://www.bbc.co.uk/news/articles/cv8ezy37rgz6o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T20:04:27Z",
         "summary": "The basketball star recently appeared to be practising a golf swing and basketball shots while the national anthem was performed."
-      },
-      {
-        "title": "US embassy accuses Canada of election meddling ahead of midterms",
-        "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T03:05:28Z",
-        "summary": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada."
       },
       {
         "title": "The real reasons there are so few young politicians in the US",
