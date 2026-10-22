@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-22T11:13:19.406686Z",
+  "generated_at": "2026-10-22T11:44:11.901123Z",
   "articles": {
     "world": [
+      {
+        "title": "Two European women held captive for more than a year in Niger freed in Libya",
+        "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T11:13:12Z",
+        "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland."
+      },
       {
         "title": "El Salvador's president threatens Haitian gangs over military hostages",
         "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T03:58:16Z",
         "summary": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines."
-      },
-      {
-        "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
-        "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T02:37:13Z",
-        "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Two European women held captive for more than a year in Niger freed in Libya",
+        "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T11:13:12Z",
+        "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland."
+      },
       {
         "title": "El Salvador's president threatens Haitian gangs over military hostages",
         "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
