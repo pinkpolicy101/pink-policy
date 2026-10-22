@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T19:42:30.288640Z",
+  "generated_at": "2026-10-22T20:10:52.803840Z",
   "articles": {
     "world": [
       {
@@ -225,8 +225,14 @@
       {
         "title": "Trump says NBA star LeBron James disrespected US anthem and demands apology",
         "url": "https://www.bbc.co.uk/news/articles/cv8ezy37rgz6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T19:27:51Z",
+        "published_at": "2026-10-22T20:04:27Z",
         "summary": "The basketball star recently appeared to be practising a golf swing and basketball shots while the national anthem was performed."
+      },
+      {
+        "title": "US actor Tom Skerritt, who starred in Picket Fences, Mash and Alien, dies aged 93",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T19:56:26Z",
+        "summary": "The actor died on Wednesday of natural causes, his family said."
       },
       {
         "title": "US embassy accuses Canada of election meddling ahead of midterms",
@@ -3308,6 +3314,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US actor Tom Skerritt, who starred in Picket Fences, Mash and Alien, dies aged 93",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T19:56:26Z",
+        "summary": "The actor died on Wednesday of natural causes, his family said."
+      },
       {
         "title": "Trump says NBA star LeBron James disrespected US anthem and demands apology",
         "url": "https://www.bbc.co.uk/news/articles/cv8ezy37rgz6o?at_medium=RSS&at_campaign=rss",
