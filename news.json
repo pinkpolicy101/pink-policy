@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-22T16:46:22.425588Z",
+  "generated_at": "2026-10-22T17:15:01.986171Z",
   "articles": {
     "world": [
+      {
+        "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
+        "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T17:01:47Z",
+        "summary": "The Brazilian president accuses the tech firm of favouring Fl\u00e1vio Bolsonaro, which it denies."
+      },
       {
         "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns",
         "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T16:51:10Z",
         "summary": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact."
-      },
-      {
-        "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T15:36:31Z",
-        "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
       }
     ],
     "saudi": [
@@ -235,12 +235,6 @@
         "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?"
       },
       {
-        "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
-        "url": "https://www.bbc.co.uk/news/articles/c6m24l9v3745o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T20:42:43Z",
-        "summary": "The 74-year-old former teacher, who was captured in 2022, has been released without any \"swap\" required, Trump says."
-      },
-      {
         "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
         "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T03:45:52Z",
@@ -280,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
+        "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T17:01:47Z",
+        "summary": "The Brazilian president accuses the tech firm of favouring Fl\u00e1vio Bolsonaro, which it denies."
+      },
       {
         "title": "UK needs to be ready for emergencies and hostile acts, warns Streeting",
         "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
