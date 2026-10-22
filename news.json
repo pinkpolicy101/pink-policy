@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-22T21:12:56.074890Z",
+  "generated_at": "2026-10-22T21:41:18.193698Z",
   "articles": {
     "world": [
+      {
+        "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T21:35:21Z",
+        "summary": "The prime minister is hosting the UK's first wildfire summit to prepare for future blazes after a record summer 2026."
+      },
+      {
+        "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns",
+        "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T21:29:44Z",
+        "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains."
+      },
       {
         "title": "Council vows support for Toxic Town public inquiry",
         "url": "https://www.bbc.co.uk/news/articles/cqwyrp8yr23ko?at_medium=RSS&at_campaign=rss",
@@ -13,12 +25,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6y93pz494zzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T17:54:51Z",
         "summary": "Energy secretary says she \"didn't get it right\" over comments she made about a TV interview."
-      },
-      {
-        "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns",
-        "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T17:46:58Z",
-        "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains."
       },
       {
         "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T16:51:10Z",
         "summary": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact."
-      },
-      {
-        "title": "Burnham defends Jackdaw decision as Badenoch urges PM to overturn ban on new oil and gas licences",
-        "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T15:36:31Z",
-        "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T21:35:21Z",
+        "summary": "The prime minister is hosting the UK's first wildfire summit to prepare for future blazes after a record summer 2026."
+      },
       {
         "title": "Fahnbulleh says she backs home secretary on migration after comments to journalists",
         "url": "https://www.bbc.co.uk/news/articles/c6y93pz494zzo?at_medium=RSS&at_campaign=rss",
