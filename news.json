@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-22T06:12:40.139967Z",
+  "generated_at": "2026-10-22T06:53:32.168778Z",
   "articles": {
     "world": [
       {
@@ -21,10 +21,28 @@
         "summary": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada."
       },
       {
+        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+        "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T01:17:25Z",
+        "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
+      },
+      {
+        "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T23:27:05Z",
+        "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
+      },
+      {
         "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
         "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T22:54:58Z",
         "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
+      },
+      {
+        "title": "Angry scenes and protests at Senedd as Reform call for ban on Muslim face coverings",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7qrew7z72o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T21:45:57Z",
+        "summary": "It is the latest heated debate in the Senedd on a Wednesday prompted by Reform MSs."
       },
       {
         "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T18:40:30Z",
         "summary": "Dodds said it was time to hand over the leadership to a \"new generation\" after nearly nine years in the role."
-      },
-      {
-        "title": "Farage vows to scrap tax on armed forces reserves",
-        "url": "https://www.bbc.co.uk/news/articles/cvwy788ee34xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T17:59:23Z",
-        "summary": "A large group of protesters turned up outside the Reform UK rally in Plymouth with Nigel Farage."
-      },
-      {
-        "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
-        "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T16:26:54Z",
-        "summary": "The softly-spoken former defence secretary is gearing up for the biggest moment of his long political career."
-      },
-      {
-        "title": "Reform leader accuses MSP of 'squatting' in seat after resignation",
-        "url": "https://www.bbc.co.uk/news/articles/c674p99x7ngpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T15:57:07Z",
-        "summary": "Malcolm Offord says he is 'disappointed' at Amanda Bland's decision to leave the party and sit as an independent."
       }
     ],
     "saudi": [
@@ -323,10 +323,28 @@
         "summary": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada."
       },
       {
+        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+        "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T01:17:25Z",
+        "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
+      },
+      {
+        "title": "The 'trillion pound' oil fund the government believes Britain could have built",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T23:27:05Z",
+        "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
+      },
+      {
         "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
         "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T22:54:58Z",
         "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
+      },
+      {
+        "title": "Angry scenes and protests at Senedd as Reform call for ban on Muslim face coverings",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7qrew7z72o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T21:45:57Z",
+        "summary": "It is the latest heated debate in the Senedd on a Wednesday prompted by Reform MSs."
       },
       {
         "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
