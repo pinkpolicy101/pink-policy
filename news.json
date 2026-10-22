@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-22T17:43:11.366589Z",
+  "generated_at": "2026-10-22T18:08:47.504433Z",
   "articles": {
     "world": [
+      {
+        "title": "Fahnbulleh says she backs home secretary on migration after comments to journalists",
+        "url": "https://www.bbc.co.uk/news/articles/c6y93pz494zzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T17:54:51Z",
+        "summary": "Energy secretary says she \"didn't get it right\" over comments she made about a TV interview."
+      },
+      {
+        "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns",
+        "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T17:46:58Z",
+        "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains."
+      },
       {
         "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
         "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T17:01:47Z",
         "summary": "The Brazilian president accuses the tech firm of favouring Fl\u00e1vio Bolsonaro, which it denies."
-      },
-      {
-        "title": "Prepare for supply chain disruption from cyber or climate emergencies, Streeting warns",
-        "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T16:40:38Z",
-        "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains."
       },
       {
         "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
@@ -37,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cvze4692lxp1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T15:35:09Z",
         "summary": "Three Tory and one Liberal Democrat-led councils are officially challenging government funding changes."
-      },
-      {
-        "title": "French weekend protests to be limited to union demos only, says Macron",
-        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T15:22:48Z",
-        "summary": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed."
       },
       {
         "title": "Police should not be scared to wade in to stop wrongdoing, says Badenoch",
@@ -274,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Fahnbulleh says she backs home secretary on migration after comments to journalists",
+        "url": "https://www.bbc.co.uk/news/articles/c6y93pz494zzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T17:54:51Z",
+        "summary": "Energy secretary says she \"didn't get it right\" over comments she made about a TV interview."
+      },
       {
         "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
         "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
