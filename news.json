@@ -1,11 +1,17 @@
 {
-  "generated_at": "2026-10-22T08:47:58.156534Z",
+  "generated_at": "2026-10-22T09:44:55.237379Z",
   "articles": {
     "world": [
       {
-        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+        "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
+        "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T09:35:25Z",
+        "summary": "The softly-spoken former defence secretary is gearing up for the biggest moment of his long political career."
+      },
+      {
+        "title": "New punishments for criminals who skip sentence will 'rebalance power', aunt of murder victim says",
         "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T07:17:39Z",
+        "published_at": "2026-10-22T09:28:04Z",
         "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
       },
       {
@@ -24,7 +30,7 @@
         "title": "US embassy accuses Canada of election meddling ahead of midterms",
         "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T03:05:28Z",
-        "summary": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada."
+        "summary": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada."
       },
       {
         "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
@@ -175,15 +181,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T21:20:28Z",
         "summary": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation."
-      },
-      {
-        "title": "Trump and Zelensky at loggerheads despite new optimism",
-        "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T20:00:57Z",
-        "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
       }
     ],
     "saudi": [
+      {
+        "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T09:14:48Z",
+        "summary": "It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom."
+      },
       {
         "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
         "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
@@ -203,12 +209,6 @@
         "summary": "Saudi Arabia said it executed two Bangladeshis last week for committing an \"indecent act\" in a mosque."
       },
       {
-        "title": "Who are the Houthis and what do they want?",
-        "url": "https://www.bbc.co.uk/news/articles/cqy7z228kee3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-13T06:38:32Z",
-        "summary": "Their fighting with pro-government forces over Yemen's Red Sea coast and attacks on Saudi Arabia has put the spotlight on the Iran-backed group."
-      },
-      {
         "title": "Why is it so hard to fight the Houthis?",
         "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T12:15:01Z",
@@ -219,18 +219,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T09:38:03Z",
         "summary": "Footage from inside the airport shows the moment the strike hit on Saturday."
-      },
-      {
-        "title": "Yemenis flee across Red Sea as Houthis and Saudi-backed forces escalate war",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gm7l742dmo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-21T14:14:16Z",
-        "summary": "The BBC's Frank Gardner speaks to some of those who have fled the war by crossing the Red Sea to Djibouti."
-      },
-      {
-        "title": "Why US plan to sell F-35 warplanes to Saudi Arabia is controversial",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zrn01pxko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-18T01:31:43Z",
-        "summary": "Saudi Arabia has lobbied the US for years to buy F35s, the world's most advanced fighter jet."
       }
     ],
     "us": [
@@ -238,7 +226,7 @@
         "title": "US embassy accuses Canada of election meddling ahead of midterms",
         "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T03:05:28Z",
-        "summary": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada."
+        "summary": "Prime Minister Mark Carney dismissed the claim, noting that US initiated trade actions against Canada."
       },
       {
         "title": "US citizen Stephen Hubbard freed by Russia as Trump envoy meets Putin",
@@ -3084,6 +3072,12 @@
       }
     ],
     "saudi": [
+      {
+        "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
+        "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T09:14:48Z",
+        "summary": "It is the latest in a series of attacks by the Houthi movement which have targeted airports and other sites in the kingdom."
+      },
       {
         "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
         "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
