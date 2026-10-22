@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-22T04:15:50.486248Z",
+  "generated_at": "2026-10-22T04:48:07.590496Z",
   "articles": {
     "world": [
+      {
+        "title": "No purchase, no seats: Starbucks China rolls out new policy",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T04:02:29Z",
+        "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals."
+      },
+      {
+        "title": "US embassy accuses Canada of election meddling ahead of midterms",
+        "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T03:05:28Z",
+        "summary": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada."
+      },
+      {
+        "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T22:54:58Z",
+        "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
+      },
       {
         "title": "Missiles hit Kyiv after Russia agrees to US call to resume Ukraine peace talks",
         "url": "https://www.bbc.co.uk/news/articles/cq3djn5nxx12o?at_medium=RSS&at_campaign=rss",
@@ -135,12 +153,6 @@
         "summary": "Preliminary referendum results show that more than two-thirds of Alberta voters support remaining part of Canada, easing concerns over national unity."
       },
       {
-        "title": "Cornell Jane Doe says embattled university head doubted her gang-rape allegation",
-        "url": "https://www.bbc.co.uk/news/articles/cwn73z5gnnrro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T19:08:06Z",
-        "summary": "As a no-confidence vote looms, Cornell says the characterisation of the head's reaction is \"incorrect\"."
-      },
-      {
         "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
         "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T18:40:30Z",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cry835v68dq9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T14:46:46Z",
         "summary": "Speaking ahead of next week's Budget, the Conservative leader says her party would make \u00a370bn of cuts."
-      },
-      {
-        "title": "Burnham risks wrath of Commons Speaker for talking too much at PMQs",
-        "url": "https://www.bbc.co.uk/news/articles/crvg6qjw6dz5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T12:54:43Z",
-        "summary": "The prime minister takes longer than his predecessors to respond to questions from MPs, writes Matt Chorley."
-      },
-      {
-        "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-        "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T12:36:43Z",
-        "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own."
       }
     ],
     "saudi": [
@@ -298,6 +298,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "No purchase, no seats: Starbucks China rolls out new policy",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T04:02:29Z",
+        "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals."
+      },
+      {
+        "title": "US embassy accuses Canada of election meddling ahead of midterms",
+        "url": "https://www.bbc.co.uk/news/articles/cmn06g29522lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T03:05:28Z",
+        "summary": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada."
+      },
+      {
+        "title": "Airbnb hosts can no longer make guests strip beds and wash dishes under new rules",
+        "url": "https://www.bbc.co.uk/news/articles/c6n049gg75r4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T22:54:58Z",
+        "summary": "The updated policy will apply to all reservations booked on the accommodation site on or after 20 November."
+      },
       {
         "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
         "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
