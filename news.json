@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-22T14:44:20.655961Z",
+  "generated_at": "2026-10-22T15:17:25.439864Z",
   "articles": {
     "world": [
+      {
+        "title": "Police should not be scared to wade in to stop wrongdoing, says Badenoch",
+        "url": "https://www.bbc.co.uk/news/articles/cj5yn079w7pro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T14:55:50Z",
+        "summary": "The Tory leader calls for more support for police officers and the public when they step in to help."
+      },
       {
         "title": "Why a student protest movement is challenging 12 years of Vu\u010di\u0107 rule in Serbia",
         "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
@@ -19,6 +25,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T13:22:39Z",
         "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland."
+      },
+      {
+        "title": "French weekend protests to be limited to union demos only, says Macron",
+        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T13:02:14Z",
+        "summary": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed."
       },
       {
         "title": "El Salvador's president threatens Haitian gangs over military hostages",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T10:16:17Z",
         "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
-      },
-      {
-        "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
-        "url": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T08:49:44Z",
-        "summary": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy."
-      },
-      {
-        "title": "What is happening to UK prices?",
-        "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T08:35:47Z",
-        "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices."
       }
     ],
     "saudi": [
@@ -281,10 +281,22 @@
   "archive": {
     "world": [
       {
+        "title": "Police should not be scared to wade in to stop wrongdoing, says Badenoch",
+        "url": "https://www.bbc.co.uk/news/articles/cj5yn079w7pro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T14:55:50Z",
+        "summary": "The Tory leader calls for more support for police officers and the public when they step in to help."
+      },
+      {
         "title": "Why a student protest movement is challenging 12 years of Vu\u010di\u0107 rule in Serbia",
         "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T14:33:06Z",
         "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party."
+      },
+      {
+        "title": "French weekend protests to be limited to union demos only, says Macron",
+        "url": "https://www.bbc.co.uk/news/articles/cvde8g40xx42o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T13:02:14Z",
+        "summary": "Some cities including Lyon and Nice have banned all protests, and the French president said only authorised demos would be allowed."
       },
       {
         "title": "Ten councillors quit after leader's fraud conviction",
