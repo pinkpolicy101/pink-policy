@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-22T10:18:12.287469Z",
+  "generated_at": "2026-10-22T11:13:19.406686Z",
   "articles": {
     "world": [
+      {
+        "title": "El Salvador's president threatens Haitian gangs over military hostages",
+        "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T10:17:48Z",
+        "summary": "Four members of the so-called Gang Suppression Force have been missing since Sunday."
+      },
       {
         "title": "'500 new vulnerabilities' found in government, says AI minister",
         "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
@@ -9,7 +15,7 @@
         "summary": "'500 new vulnerabilities' found in government, says AI minister"
       },
       {
-        "title": "MI5 spied on Nye Bevan for more than 20 years, newly released files show",
+        "title": "MI5 spied on NHS founder Nye Bevan for more than 20 years, newly released files show",
         "url": "https://www.bbc.co.uk/news/articles/c3n049jr2ge5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T09:35:34Z",
         "summary": "He came to its attention in the 1930s when he was considered a left-wing firebrand."
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T02:37:13Z",
         "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
-      },
-      {
-        "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct98hl?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T23:30:00Z",
-        "summary": "Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican"
       }
     ],
     "saudi": [
@@ -253,12 +253,6 @@
         "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
       },
       {
-        "title": "Trump sued over Canadian tariffs in latest legal challenge",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkyj13m588o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T19:30:05Z",
-        "summary": "The lawsuit argues the White House exceeded its authority in imposing the latest tariffs on the country and caused \"immediate harm to American businesses\"."
-      },
-      {
         "title": "How is the US economy really doing under President Trump?",
         "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T05:00:45Z",
@@ -277,12 +271,6 @@
         "summary": "The BBC's Quentin Sommerville reports from Chicago, where communities are battling a new wave of synthetic drugs."
       },
       {
-        "title": "A wave of homemade, synthetic drugs sweeps US and deepens crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2wvyv5j17o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-18T05:04:31Z",
-        "summary": "BBC News hears from users, dealers, prison and recovery workers as the country battles with a deadly new drug epidemic."
-      },
-      {
         "title": "Candlelit vigil held for Oregon school shooting victims",
         "url": "https://www.bbc.co.uk/news/videos/c6x2wvgz5nlno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T14:25:39Z",
@@ -292,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "El Salvador's president threatens Haitian gangs over military hostages",
+        "url": "https://www.bbc.co.uk/news/articles/cq33xpjekve4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T10:17:48Z",
+        "summary": "Four members of the so-called Gang Suppression Force have been missing since Sunday."
+      },
       {
         "title": "'500 new vulnerabilities' found in government, says AI minister",
         "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
