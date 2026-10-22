@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-10-22T04:48:07.590496Z",
+  "generated_at": "2026-10-22T05:40:20.893437Z",
   "articles": {
     "world": [
       {
-        "title": "No purchase, no seats: Starbucks China rolls out new policy",
+        "title": "No order, no seat: Starbucks China rolls out new store policy",
         "url": "https://www.bbc.co.uk/news/articles/ckzd6rjmlzvmo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T04:02:29Z",
         "summary": "Starbucks says it is improving customers' in-store experience as it competes with homegrown rivals."
@@ -184,6 +184,12 @@
       }
     ],
     "saudi": [
+      {
+        "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T01:07:34Z",
+        "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field."
+      },
       {
         "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
         "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
@@ -3042,6 +3048,12 @@
       }
     ],
     "saudi": [
+      {
+        "title": "US orders some diplomats to leave Saudi Arabia as Houthi attacks escalate",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2vpk93770o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T01:07:34Z",
+        "summary": "The warning to US officials comes as at least three people die in the latest strikes at an airport and an oil field."
+      },
       {
         "title": "UK to deploy jets to defend Saudi Arabia from Houthi attacks",
         "url": "https://www.bbc.co.uk/news/articles/ckr5yqe1r1llo?at_medium=RSS&at_campaign=rss",
