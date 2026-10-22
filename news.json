@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-22T06:53:32.168778Z",
+  "generated_at": "2026-10-22T07:51:48.216163Z",
   "articles": {
     "world": [
+      {
+        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
+        "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T07:17:39Z",
+        "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
+      },
       {
         "title": "How Arab parties could hold critical balance of power in Israeli election",
         "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
@@ -21,10 +27,10 @@
         "summary": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada."
       },
       {
-        "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
-        "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T01:17:25Z",
-        "summary": "Judges will be given new powers to impose tougher prison punishments on offenders who refuse to face their victims' families during sentencing."
+        "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+        "url": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T02:09:21Z",
+        "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region."
       },
       {
         "title": "The 'trillion pound' oil fund the government believes Britain could have built",
@@ -51,7 +57,7 @@
         "summary": "Moscow says it is \"ready in principle\" to resume peace talks and US President Donald Trump says the world is \"the closest we've been\" to ending the war."
       },
       {
-        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
+        "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
         "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T19:58:06Z",
         "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
@@ -73,6 +79,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T17:05:09Z",
         "summary": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\"."
+      },
+      {
+        "title": "Hull MP has the Labour whip restored",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8n3kdnq9vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T16:58:42Z",
+        "summary": "Karl Turner is back in the parliamentary party after his suspension for criticising the government."
       },
       {
         "title": "How Jackdaw ignites row over climate and costs",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ckrey51jrgnro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T20:00:57Z",
         "summary": "The Ukrainian leader's hug with Steve Witkoff in the Norwegian capital is unlikely to dispel misgivings about US policy towards his country, writes Paul Adams."
-      },
-      {
-        "title": "'Let's move on': Albertans react to separatist movement setback",
-        "url": "https://www.bbc.co.uk/news/videos/cw80zg9pj97ro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T19:31:35Z",
-        "summary": "Preliminary referendum results show that more than two-thirds of Alberta voters support remaining part of Canada, easing concerns over national unity."
-      },
-      {
-        "title": "Jane Dodds standing down as Welsh Liberal Democrats leader",
-        "url": "https://www.bbc.co.uk/news/articles/c98rzv177l75o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T18:40:30Z",
-        "summary": "Dodds said it was time to hand over the leadership to a \"new generation\" after nearly nine years in the role."
       }
     ],
     "saudi": [
@@ -323,6 +323,12 @@
         "summary": "Prime Minister Mark Carney dismissed the claim, noting that it was the that US initiated trade actions against Canada."
       },
       {
+        "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+        "url": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T02:09:21Z",
+        "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region."
+      },
+      {
         "title": "Criminals who skip sentencing will face solitary confinement or lose social visits",
         "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T01:17:25Z",
@@ -369,6 +375,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T17:05:09Z",
         "summary": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\"."
+      },
+      {
+        "title": "Hull MP has the Labour whip restored",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8n3kdnq9vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T16:58:42Z",
+        "summary": "Karl Turner is back in the parliamentary party after his suspension for criticising the government."
       },
       {
         "title": "How Jackdaw ignites row over climate and costs",
