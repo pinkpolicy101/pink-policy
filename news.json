@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-22T13:51:58.343786Z",
+  "generated_at": "2026-10-22T14:44:20.655961Z",
   "articles": {
     "world": [
+      {
+        "title": "Why a student protest movement is challenging 12 years of Vu\u010di\u0107 rule in Serbia",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T14:33:06Z",
+        "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party."
+      },
+      {
+        "title": "Ten councillors quit after leader's fraud conviction",
+        "url": "https://www.bbc.co.uk/news/articles/c674p078v013o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T14:06:51Z",
+        "summary": "Jason Zadrozny was found guilty of defrauding the county council out of thousands of pounds."
+      },
       {
         "title": "Two European women held captive for more than a year in Niger freed in Libya",
         "url": "https://www.bbc.co.uk/news/articles/cq62y0v7434yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T13:22:39Z",
         "summary": "The Swiss government told the BBC that the freed national was on her way back to Switzerland."
-      },
-      {
-        "title": "Ten councillors quit after leader's fraud conviction",
-        "url": "https://www.bbc.co.uk/news/articles/c674p078v013o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T11:25:45Z",
-        "summary": "Jason Zadrozny was found guilty of defrauding the county council out of thousands of pounds."
       },
       {
         "title": "El Salvador's president threatens Haitian gangs over military hostages",
@@ -97,12 +103,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T19:58:06Z",
         "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
-      },
-      {
-        "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-        "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T18:22:28Z",
-        "summary": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi."
       },
       {
         "title": "Burnham proposes plan to cut standing charges from gas bills",
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Why a student protest movement is challenging 12 years of Vu\u010di\u0107 rule in Serbia",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T14:33:06Z",
+        "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party."
+      },
       {
         "title": "Ten councillors quit after leader's fraud conviction",
         "url": "https://www.bbc.co.uk/news/articles/c674p078v013o?at_medium=RSS&at_campaign=rss",
