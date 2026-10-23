@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-23T14:48:18.356147Z",
+  "generated_at": "2026-10-23T15:45:57.024165Z",
   "articles": {
     "world": [
       {
-        "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
-        "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T14:45:43Z",
-        "summary": "The two attackers were shot dead after a gun battle outside Hebron, four days before Israel's general election."
+        "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
+        "url": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T15:43:30Z",
+        "summary": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held."
+      },
+      {
+        "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
+        "url": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T15:24:35Z",
+        "summary": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned."
       },
       {
         "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
@@ -85,12 +91,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T08:14:04Z",
         "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
-      },
-      {
-        "title": "Why a student protest movement is challenging 12 years of Vu\u010di\u0107 rule in Serbia",
-        "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T06:26:25Z",
-        "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party."
       },
       {
         "title": "Don't leave AI to tech bros and oligarchs, UK's AI minister says",
@@ -223,6 +223,24 @@
     ],
     "us": [
       {
+        "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
+        "url": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T15:24:35Z",
+        "summary": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned."
+      },
+      {
+        "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T15:06:27Z",
+        "summary": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+      },
+      {
+        "title": "US justice department investigating Corey Lewandowski over DHS role",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T14:58:19Z",
+        "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain."
+      },
+      {
         "title": "L'Oreal says weight loss drugs are impacting beauty and skincare sales",
         "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T22:27:53Z",
@@ -233,12 +251,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T21:10:36Z",
         "summary": "The moustachioed star of several 20th Century hit films died on Wednesday of natural causes, his family says."
-      },
-      {
-        "title": "Trump says NBA star LeBron James 'disrespected' US anthem",
-        "url": "https://www.bbc.co.uk/news/articles/cv8ezy37rgz6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T20:04:27Z",
-        "summary": "The basketball star recently appeared to be practising a golf swing and basketball shots while the national anthem was performed."
       },
       {
         "title": "The real reasons there are so few young politicians in the US",
@@ -280,6 +292,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
+        "url": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T15:43:30Z",
+        "summary": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held."
+      },
+      {
+        "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
+        "url": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T15:24:35Z",
+        "summary": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned."
+      },
       {
         "title": "Why should I stockpile and what will I need?",
         "url": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
@@ -3404,6 +3428,24 @@
       }
     ],
     "us": [
+      {
+        "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
+        "url": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T15:24:35Z",
+        "summary": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned."
+      },
+      {
+        "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T15:06:27Z",
+        "summary": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+      },
+      {
+        "title": "US justice department investigating Corey Lewandowski over DHS role",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly0dg453v8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T14:58:19Z",
+        "summary": "Trump's former campaign manager is reportedly being investigated for allegedly using his role at the Department of Homeland for financial gain."
+      },
       {
         "title": "L'Oreal says weight loss drugs are impacting beauty and skin care sales",
         "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
