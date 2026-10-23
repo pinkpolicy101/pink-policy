@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-23T10:40:09.061230Z",
+  "generated_at": "2026-10-23T11:11:58.943113Z",
   "articles": {
     "world": [
+      {
+        "title": "At least one dead and four injured in Paris suburb shooting",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T11:09:36Z",
+        "summary": "The French prime minister says an individual is in police custody after a \"serious event\" in Trappes."
+      },
+      {
+        "title": "Wales plans to ban steel pylons as government launches consultation",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T10:54:09Z",
+        "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
+      },
+      {
+        "title": "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T10:49:36Z",
+        "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
+      },
+      {
+        "title": "Malawi opposition demands answers over president's prolonged stay abroad",
+        "url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T10:36:01Z",
+        "summary": "This is President Peter Mutharika's fifth visit to South Africa this year."
+      },
       {
         "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
         "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
@@ -63,12 +87,6 @@
         "summary": "Energy secretary says she \"didn't get it right\" over comments she made about a TV interview."
       },
       {
-        "title": "Lula says rival should be disqualified over alleged Meta interference ahead of Brazil vote",
-        "url": "https://www.bbc.co.uk/news/articles/c6pwgve2lk5go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T17:01:47Z",
-        "summary": "The Brazilian president accuses the tech firm of favouring Fl\u00e1vio Bolsonaro, which it denies."
-      },
-      {
         "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
         "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T15:56:36Z",
@@ -96,7 +114,7 @@
         "title": "Prime Minister swaps dispatch box for Gogglebox",
         "url": "https://www.bbc.co.uk/news/articles/cm3wv9ye603xo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T14:07:49Z",
-        "summary": "Andy Burnham is taking part in a Stand Up 2 Cancer Gogglebox special with his friend Steve Rotheram."
+        "summary": "Andy Burnham is taking part in a Stand Up To Cancer Gogglebox special with his friend Steve Rotheram."
       },
       {
         "title": "Ten councillors quit after leader's fraud conviction",
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T17:06:16Z",
         "summary": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs."
-      },
-      {
-        "title": "'Mindset shift' needed within government on No10 North, says deputy",
-        "url": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T17:05:09Z",
-        "summary": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\"."
-      },
-      {
-        "title": "Hull MP has the Labour whip restored",
-        "url": "https://www.bbc.co.uk/news/articles/cmq8n3kdnq9vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T16:58:42Z",
-        "summary": "Karl Turner is back in the parliamentary party after his suspension for criticising the government."
-      },
-      {
-        "title": "How Jackdaw ignites row over climate and costs",
-        "url": "https://www.bbc.co.uk/news/videos/c65ynpx07djvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T16:51:10Z",
-        "summary": "The UK government approves production from Jackdaw amid intense debate about the project's environmental and economic impact."
       }
     ],
     "saudi": [
@@ -280,6 +280,30 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "At least one dead and four injured in Paris suburb shooting",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T11:09:36Z",
+        "summary": "The French prime minister says an individual is in police custody after a \"serious event\" in Trappes."
+      },
+      {
+        "title": "Wales plans to ban steel pylons as government launches consultation",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T10:54:09Z",
+        "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
+      },
+      {
+        "title": "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T10:49:36Z",
+        "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
+      },
+      {
+        "title": "Malawi opposition demands answers over president's prolonged stay abroad",
+        "url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T10:36:01Z",
+        "summary": "This is President Peter Mutharika's fifth visit to South Africa this year."
+      },
       {
         "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
         "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
