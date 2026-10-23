@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-23T06:12:07.050410Z",
+  "generated_at": "2026-10-23T06:51:12.223243Z",
   "articles": {
     "world": [
+      {
+        "title": "Why a student protest movement is challenging 12 years of Vu\u010di\u0107 rule in Serbia",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T06:26:25Z",
+        "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party."
+      },
+      {
+        "title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to \u00a3800m",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T05:00:32Z",
+        "summary": "Ministers say the changes in regulations will reduce unnecessary bureaucracy."
+      },
       {
         "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
         "url": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss",
@@ -55,12 +67,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cj5yn079w7pro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T14:55:50Z",
         "summary": "The Tory leader calls for more support for police officers and the public when they step in to help."
-      },
-      {
-        "title": "Why a student protest movement is challenging 12 years of Vu\u010di\u0107 rule in Serbia",
-        "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T14:33:06Z",
-        "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party."
       },
       {
         "title": "Ten councillors quit after leader's fraud conviction",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T14:26:24Z",
         "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated."
-      },
-      {
-        "title": "How Jackdaw ignites row over climate and costs",
-        "url": "https://www.bbc.co.uk/news/videos/c6n9r7gvngx8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T13:46:34Z",
-        "summary": "How Jackdaw ignites arguments over climate and costs"
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to \u00a3800m",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T05:00:32Z",
+        "summary": "Ministers say the changes in regulations will reduce unnecessary bureaucracy."
+      },
       {
         "title": "UK to draft in military aircraft to fight wildfires, Burnham says",
         "url": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss",
