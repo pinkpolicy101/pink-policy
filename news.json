@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-10-23T12:49:55.069483Z",
+  "generated_at": "2026-10-23T13:48:55.920266Z",
   "articles": {
     "world": [
+      {
+        "title": "Why should I stockpile and what will I need?",
+        "url": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T13:30:32Z",
+        "summary": "The UK government has warned households to have three days of essential supplies on hand."
+      },
+      {
+        "title": "Anti-terror police investigate as one person killed in shooting near Paris",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T13:26:48Z",
+        "summary": "French Prime Minister S\u00e9bastien Lecornu says the suspected gunman has been apprehended."
+      },
+      {
+        "title": "Wales plans to ban steel pylons as government launches consultation",
+        "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T13:26:02Z",
+        "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
+      },
+      {
+        "title": "Angry scenes as Reform MSs call for burka ban",
+        "url": "https://www.bbc.co.uk/news/videos/cjr4ydz6n950o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T13:17:41Z",
+        "summary": "Angry scenes and protests at Senedd as Reform call for ban on Muslim face coverings."
+      },
       {
         "title": "Two Israeli soldiers killed in attack by suspected Palestinian gunmen in West Bank",
         "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
@@ -31,12 +55,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c59vzjm118j1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T12:17:45Z",
         "summary": "Once the world's largest producer of mink pelts, the nation's industry has declined in recent years."
-      },
-      {
-        "title": "Wales plans to ban steel pylons as government launches consultation",
-        "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T12:13:39Z",
-        "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
       },
       {
         "title": "PM defends Gogglebox appearance after Badenoch criticism",
@@ -163,24 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T09:28:04Z",
         "summary": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim."
-      },
-      {
-        "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
-        "url": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T02:09:21Z",
-        "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region."
-      },
-      {
-        "title": "The 'trillion pound' oil fund the government believes Britain could have built",
-        "url": "https://www.bbc.co.uk/news/articles/cm4g1zrl2nrqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T23:27:05Z",
-        "summary": "For the first time, the Treasury calculates how much the UK could have raised by investing North Sea proceeds."
-      },
-      {
-        "title": "Angry scenes and protests at Senedd as Reform call for ban on Muslim face coverings",
-        "url": "https://www.bbc.co.uk/news/articles/cmd7qrew7z72o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T21:45:57Z",
-        "summary": "Members of Reform called for Muslim religious face coverings, such as the burka, to be banned."
       }
     ],
     "saudi": [
@@ -280,6 +280,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Why should I stockpile and what will I need?",
+        "url": "https://www.bbc.co.uk/news/articles/cred3xnj0j0qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T13:30:32Z",
+        "summary": "The UK government has warned households to have three days of essential supplies on hand."
+      },
+      {
+        "title": "Angry scenes as Reform MSs call for burka ban",
+        "url": "https://www.bbc.co.uk/news/videos/cjr4ydz6n950o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T13:17:41Z",
+        "summary": "Angry scenes and protests at Senedd as Reform call for ban on Muslim face coverings."
+      },
       {
         "title": "Government tells people to be prepared for 'everyday' threats",
         "url": "https://www.bbc.co.uk/news/videos/cqj9ky23ymwro?at_medium=RSS&at_campaign=rss",
