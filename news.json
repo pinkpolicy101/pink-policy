@@ -1,24 +1,18 @@
 {
-  "generated_at": "2026-10-23T15:45:57.024165Z",
+  "generated_at": "2026-10-23T16:19:22.349179Z",
   "articles": {
     "world": [
+      {
+        "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
+        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T16:17:02Z",
+        "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
+      },
       {
         "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
         "url": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T15:43:30Z",
         "summary": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held."
-      },
-      {
-        "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
-        "url": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T15:24:35Z",
-        "summary": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned."
-      },
-      {
-        "title": "Deadly shooting near Paris investigated as 'crime of terrorism', minister says",
-        "url": "https://www.bbc.co.uk/news/articles/c6ev38dj1g8zo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T14:15:23Z",
-        "summary": "One person is killed and five wounded in a series of attacks and the suspected gunman has been apprehended."
       },
       {
         "title": "PM defends Gogglebox appearance after Badenoch criticism",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T09:28:04Z",
         "summary": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim."
+      },
+      {
+        "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
+        "url": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T02:09:21Z",
+        "summary": "A report by MPs urges the UK to address capability gaps including a lack of Royal Navy warships and submarines, as Russia seeks to dominate the region."
       }
     ],
     "saudi": [
@@ -223,16 +223,16 @@
     ],
     "us": [
       {
+        "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T15:48:04Z",
+        "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
+      },
+      {
         "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
         "url": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T15:24:35Z",
         "summary": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned."
-      },
-      {
-        "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T15:06:27Z",
-        "summary": "Ukraine and Russia have not confirmed the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
       },
       {
         "title": "US justice department investigating Corey Lewandowski over DHS role",
