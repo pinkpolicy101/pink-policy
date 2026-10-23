@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-23T20:42:29.306548Z",
+  "generated_at": "2026-10-23T21:11:45.696723Z",
   "articles": {
     "world": [
+      {
+        "title": "Argentina drops investigation into President Milei over crypto fraud",
+        "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T20:59:39Z",
+        "summary": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it."
+      },
       {
         "title": "Green councillors face Labour deadline to disown Zionism policy",
         "url": "https://www.bbc.co.uk/news/articles/c81dwz4ygz94o?at_medium=RSS&at_campaign=rss",
@@ -81,12 +87,6 @@
         "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
       },
       {
-        "title": "Malawi opposition demands answers over president's prolonged stay abroad",
-        "url": "https://www.bbc.co.uk/news/articles/cmx28en5wkypo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T10:36:01Z",
-        "summary": "This is President Peter Mutharika's fifth visit to South Africa this year."
-      },
-      {
         "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
         "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T09:23:53Z",
@@ -127,12 +127,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6y93pz494zzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T17:54:51Z",
         "summary": "Energy secretary says she \"didn't get it right\" over comments she made about a TV interview."
-      },
-      {
-        "title": "Newborn twins fight for survival as conflict fuels Yemen's hunger crisis",
-        "url": "https://www.bbc.co.uk/news/articles/cr5ynl63v0pyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T15:56:36Z",
-        "summary": "Raghad and Raad's family had to flee their home on foot because of the fighting between pro-government forces and the Houthis."
       },
       {
         "title": "UK plans emergency powers to protect undersea cables",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T09:35:25Z",
         "summary": "The softly-spoken former defence secretary is gearing up for the biggest moment of his long political career."
+      },
+      {
+        "title": "Tougher punishments for criminals who refuse to attend sentencing backed by victim's family",
+        "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T09:28:04Z",
+        "summary": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim."
       }
     ],
     "saudi": [
@@ -292,6 +292,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Argentina drops investigation into President Milei over crypto fraud",
+        "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T20:59:39Z",
+        "summary": "Javier Milei had denied acting fraudulently when a cryptocurrency nosedived after he deleted a social media post about it."
+      },
       {
         "title": "Green councillors face Labour deadline to disown Zionism policy",
         "url": "https://www.bbc.co.uk/news/articles/c81dwz4ygz94o?at_medium=RSS&at_campaign=rss",
@@ -3285,12 +3291,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-08-01T09:13:00Z",
         "summary": "The governing party's poll ratings have improved but they're only just ahead of Reform."
-      },
-      {
-        "title": "Who's in Andy Burnham's cabinet?",
-        "url": "https://www.bbc.co.uk/news/articles/ckg4we9g58do?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-07-28T13:36:18Z",
-        "summary": "An in-depth look at which Labour MPs have been appointed to cabinet roles by new Prime Minister Andy Burnham"
       }
     ],
     "saudi": [
