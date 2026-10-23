@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-23T07:50:21.101894Z",
+  "generated_at": "2026-10-23T08:44:25.961179Z",
   "articles": {
     "world": [
+      {
+        "title": "What is the Budget and what could be in it?",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T08:14:04Z",
+        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
+      },
       {
         "title": "Why a student protest movement is challenging 12 years of Vu\u010di\u0107 rule in Serbia",
         "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
@@ -75,6 +81,12 @@
         "summary": "The Tory leader calls for more support for police officers and the public when they step in to help."
       },
       {
+        "title": "Prime Minister swaps dispatch box for Gogglebox",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wv9ye603xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T14:07:49Z",
+        "summary": "Andy Burnham is taking part in a Stand Up 2 Cancer Gogglebox special with his friend Steve Rotheram."
+      },
+      {
         "title": "Ten councillors quit after leader's fraud conviction",
         "url": "https://www.bbc.co.uk/news/articles/c674p078v013o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T14:06:51Z",
@@ -135,12 +147,6 @@
         "summary": "Members of Reform called for Muslim religious face coverings, such as the burka, to be banned."
       },
       {
-        "title": "Rosenberg: Russia agrees to Ukraine talks but sees little to talk about in new peace push",
-        "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T19:58:06Z",
-        "summary": "President Vladimir Putin does not feel under pressure right now to end the war, the BBC's Russia Editor writes."
-      },
-      {
         "title": "Burnham proposes plan to cut standing charges from gas bills",
         "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T17:06:16Z",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T15:24:23Z",
         "summary": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust."
-      },
-      {
-        "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
-        "url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T14:50:05Z",
-        "summary": "A Downing Street spokeswoman tells the BBC Sarah Helm \"does not represent the government in any capacity\"."
       }
     ],
     "saudi": [
@@ -351,6 +351,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cmq8n3v94ql3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T14:33:06Z",
         "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party."
+      },
+      {
+        "title": "Prime Minister swaps dispatch box for Gogglebox",
+        "url": "https://www.bbc.co.uk/news/articles/cm3wv9ye603xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-22T14:07:49Z",
+        "summary": "Andy Burnham is taking part in a Stand Up 2 Cancer Gogglebox special with his friend Steve Rotheram."
       },
       {
         "title": "Tank barrel production returns to UK after 20 years",
