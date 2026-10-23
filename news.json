@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T22:39:34.318038Z",
+  "generated_at": "2026-10-23T23:07:22.854476Z",
   "articles": {
     "world": [
       {
@@ -225,8 +225,14 @@
       {
         "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
         "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T22:25:06Z",
+        "published_at": "2026-10-23T22:54:57Z",
         "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
+      },
+      {
+        "title": "Who actually controls Ukraine's access to Starlink?",
+        "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T22:24:36Z",
+        "summary": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it."
       },
       {
         "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
@@ -3446,6 +3452,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Who actually controls Ukraine's access to Starlink?",
+        "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T22:24:36Z",
+        "summary": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it."
+      },
       {
         "title": "White House says the US is lifting tariffs on some Canadian goods",
         "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
