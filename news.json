@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-23T09:16:17.590657Z",
+  "generated_at": "2026-10-23T09:50:25.010809Z",
   "articles": {
     "world": [
+      {
+        "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+        "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T09:44:40Z",
+        "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election."
+      },
       {
         "title": "What is the Budget and what could be in it?",
         "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cy4zdgk081eo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T15:36:31Z",
         "summary": "The UK government says the field, which is opposed by environmental campaigners, could be producing gas by the end of this month."
-      },
-      {
-        "title": "Holocaust school lessons to be improved after 'shocking' antisemitism review",
-        "url": "https://www.bbc.co.uk/news/articles/cq39870ypgl7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T15:24:23Z",
-        "summary": "Education Secretary Lucy Powell has stressed the importance of reminding new generations of the horrors of the Holocaust."
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
+        "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T09:44:40Z",
+        "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election."
+      },
       {
         "title": "Don't leave AI to tech bros and oligarchs, UK's AI minister says",
         "url": "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo?at_medium=RSS&at_campaign=rss",
