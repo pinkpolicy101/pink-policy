@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T11:11:58.943113Z",
+  "generated_at": "2026-10-23T11:43:13.721286Z",
   "articles": {
     "world": [
       {
@@ -30,7 +30,7 @@
         "title": "Five Israelis wounded and two suspected Palestinian attackers killed in West Bank shooting",
         "url": "https://www.bbc.co.uk/news/articles/cq4g1p974wxko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T10:26:06Z",
-        "summary": "The attack comes at a time of heightened tensions in the West Bank and four days before Israel's general election."
+        "summary": "The attack comes at a time of heightened tensions in the occupied West Bank and four days before Israel's general election."
       },
       {
         "title": "Hispanic voters helped bring Trump to power - in Texas, the tide may be turning",
@@ -153,12 +153,6 @@
         "summary": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim."
       },
       {
-        "title": "How Arab parties could hold critical balance of power in Israeli election",
-        "url": "https://www.bbc.co.uk/news/articles/cx8dzrp768j8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T05:30:22Z",
-        "summary": "Disaffection has often driven down turnout among Arab Israelis, but there is a strong push to get rid of the right-wing governing coalition."
-      },
-      {
         "title": "UK's gaps in Arctic defence leave it open to Russian attacks, committee warns",
         "url": "https://www.bbc.co.uk/news/articles/cmj471wgpky7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T02:09:21Z",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T17:06:16Z",
         "summary": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs."
+      },
+      {
+        "title": "'Mindset shift' needed within government on No10 North, says deputy",
+        "url": "https://www.bbc.co.uk/news/articles/cqx28yp532r0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-21T17:05:09Z",
+        "summary": "Number 10 North deputy director Duncan Parish has told a conference he is still facing \"institutional barriers\"."
       }
     ],
     "saudi": [
