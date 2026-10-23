@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:51:12.223243Z",
+  "generated_at": "2026-10-23T07:50:21.101894Z",
   "articles": {
     "world": [
       {
@@ -9,7 +9,13 @@
         "summary": "After two years of student protests, Serbians vote on Sunday in elections that could bring down the ruling party."
       },
       {
-        "title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to \u00a3800m",
+        "title": "Don't leave AI to tech bros and oligarchs, UK's AI minister says",
+        "url": "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T05:00:50Z",
+        "summary": "Kanishka Narayan tells the BBC that dealing with the technology requires not only regulation, but \"building capability and capacity\"."
+      },
+      {
+        "title": "Chancellor says he will cut 'pointless paperwork' to save businesses up to \u00a3800m",
         "url": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T05:00:32Z",
         "summary": "Ministers say the changes in regulations will reduce unnecessary bureaucracy."
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T14:50:05Z",
         "summary": "A Downing Street spokeswoman tells the BBC Sarah Helm \"does not represent the government in any capacity\"."
-      },
-      {
-        "title": "Jailed former DUP leader Jeffrey Donaldson being investigated over alleged rape inside Parliament",
-        "url": "https://www.bbc.co.uk/news/articles/c94g1pjmxg0ko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T14:26:24Z",
-        "summary": "While not naming the disgraced former MP, the Metropolitan Police has issued a statement confirming a 63-year-old man is being investigated."
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Don't leave AI to tech bros and oligarchs, UK's AI minister says",
+        "url": "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T05:00:50Z",
+        "summary": "Kanishka Narayan tells the BBC that dealing with the technology requires not only regulation, but \"building capability and capacity\"."
+      },
       {
         "title": "Chancellor plans to cut 'pointless paperwork' to save businesses up to \u00a3800m",
         "url": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss",
