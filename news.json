@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T20:05:45.538652Z",
+  "generated_at": "2026-10-23T20:42:29.306548Z",
   "articles": {
     "world": [
       {
@@ -223,7 +223,13 @@
     ],
     "us": [
       {
-        "title": "White House says Melania Trump brokers truce for Ukraine city 'on brink of disaster'",
+        "title": "White House says the US is lifting tariffs on some Canadian goods",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T20:39:39Z",
+        "summary": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief."
+      },
+      {
+        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
         "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T19:30:19Z",
         "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
@@ -245,12 +251,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cvglwgwpgrlpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T22:27:53Z",
         "summary": "The beauty giant's CEO says the use of GLP-1s is \"a very important phenomenon for us\"."
-      },
-      {
-        "title": "US actor Tom Skerritt, star of Top Gun, Steel Magnolias and Alien, dies aged 93",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkyly2p54xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T21:10:36Z",
-        "summary": "The moustachioed star of several 20th Century hit films died on Wednesday of natural causes, his family says."
       },
       {
         "title": "The real reasons there are so few young politicians in the US",
@@ -3446,6 +3446,12 @@
       }
     ],
     "us": [
+      {
+        "title": "White House says the US is lifting tariffs on some Canadian goods",
+        "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T20:39:39Z",
+        "summary": "Susan Collins, a Republican in a tight race to keep her senate seat in next month's elections, said she had been working with the White House on tariff relief."
+      },
       {
         "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
         "url": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
