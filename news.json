@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T08:07:12.368758Z",
+  "generated_at": "2026-10-24T08:41:32.434481Z",
   "articles": {
     "world": [
       {
@@ -229,6 +229,12 @@
         "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
       },
       {
+        "title": "The rise of AI election ads in US midterms campaign",
+        "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T05:03:44Z",
+        "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms."
+      },
+      {
         "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
         "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-24T00:36:47Z",
@@ -265,22 +271,10 @@
         "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?"
       },
       {
-        "title": "'Trash Island' or DC landmark? How a golf course got Trump in a messy legal dispute",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly3dlm0dr2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T03:45:52Z",
-        "summary": "Trump said he has plans to turn a 106-year-old public golf course in Washington DC into a tournament-capable golf course for pros, but local golfers are not happy."
-      },
-      {
         "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
         "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T02:37:13Z",
         "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
-      },
-      {
-        "title": "How is the US economy really doing under President Trump?",
-        "url": "https://www.bbc.co.uk/news/articles/cv98ze40jz18o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T05:00:45Z",
-        "summary": "Ahead of the midterms Trump has boasted about the performance of the US economy. BBC Verify looks at inflation, jobs and economic growth in the country."
       },
       {
         "title": "US church on front line of battle against drug known as 'tranq'",
@@ -3452,6 +3446,12 @@
       }
     ],
     "us": [
+      {
+        "title": "The rise of AI election ads in US midterms campaign",
+        "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T05:03:44Z",
+        "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms."
+      },
       {
         "title": "Who actually controls Ukraine's access to Starlink?",
         "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
