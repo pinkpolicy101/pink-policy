@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-24T02:39:32.668851Z",
+  "generated_at": "2026-10-24T03:10:14.297884Z",
   "articles": {
     "world": [
+      {
+        "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
+        "url": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T02:52:10Z",
+        "summary": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told."
+      },
       {
         "title": "How does the UK state pension compare with other countries?",
         "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T10:08:44Z",
         "summary": "'500 new vulnerabilities' found in government, says AI minister"
-      },
-      {
-        "title": "MI5 spied on NHS founder Nye Bevan for more than 20 years, newly released files show",
-        "url": "https://www.bbc.co.uk/news/articles/c3n049jr2ge5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T09:35:34Z",
-        "summary": "He came to Security Service's attention in the 1930s when he was considered a left-wing firebrand."
       }
     ],
     "saudi": [
@@ -298,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
+        "url": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T02:52:10Z",
+        "summary": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told."
+      },
       {
         "title": "How does the UK state pension compare with other countries?",
         "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
@@ -3291,12 +3297,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cn5nvkdwy74o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-08-20T00:57:09Z",
         "summary": "In an era when reputations can be made or broken with a single post, getting the balance right is tricky."
-      },
-      {
-        "title": "How one man gets new laws passed - again and again",
-        "url": "https://www.bbc.co.uk/news/articles/ckg4kn44l8lo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-08-19T00:37:05Z",
-        "summary": "Ron Bailey has been quietly changing the law for the past 40 years - how does he do it?"
       }
     ],
     "saudi": [
