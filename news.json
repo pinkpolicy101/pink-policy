@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-24T22:04:58.058621Z",
+  "generated_at": "2026-10-24T22:37:39.348840Z",
   "articles": {
     "world": [
+      {
+        "title": "Who are the candidates in Brazil's presidential election?",
+        "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T22:08:47Z",
+        "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro."
+      },
       {
         "title": "Palestinian families displaced as Israeli forces demolish Hebron homes",
         "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwd094x57p32o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T21:29:44Z",
         "summary": "The defence secretary says the UK needs to be ready for scenarios including impact to essential supply chains."
-      },
-      {
-        "title": "Council vows support for Toxic Town public inquiry",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrp8yr23ko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T20:17:56Z",
-        "summary": "Martin Griffiths, Reform UK leader of North Northants Council, says: \"We have nothing to hide.\""
       }
     ],
     "saudi": [
@@ -298,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Who are the candidates in Brazil's presidential election?",
+        "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T22:08:47Z",
+        "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro."
+      },
       {
         "title": "Palestinian families displaced as Israeli forces demolish Hebron homes, local officials say",
         "url": "https://www.bbc.co.uk/news/articles/cqd09k1k7532o?at_medium=RSS&at_campaign=rss",
@@ -3291,12 +3297,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwp93jp4p7xpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-16T14:52:38Z",
         "summary": "The Budget is only six weeks away and the economy is undoubtedly the biggest challenge facing the prime minister."
-      },
-      {
-        "title": "Row over Reform's mega donations has mileage in it yet",
-        "url": "https://www.bbc.co.uk/news/articles/cjn5dl95z13qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-14T23:51:03Z",
-        "summary": "The \u00a372m heading towards Reform UK's coffers is transforming the debate at Westminster about politics and money."
       }
     ],
     "saudi": [
