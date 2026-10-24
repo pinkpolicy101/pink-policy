@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-24T00:03:01.461461Z",
+  "generated_at": "2026-10-24T00:57:41.235927Z",
   "articles": {
     "world": [
+      {
+        "title": "How does the UK state pension compare with other countries?",
+        "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T00:09:12Z",
+        "summary": "Do British pensioners have it better or worse than those in other countries?"
+      },
+      {
+        "title": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T00:05:45Z",
+        "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
+      },
       {
         "title": "Argentina drops investigation into President Milei over crypto fraud",
         "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c3n049jr2ge5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T09:35:34Z",
         "summary": "He came to Security Service's attention in the 1930s when he was considered a left-wing firebrand."
-      },
-      {
-        "title": "Who is Chancellor John Healey? Labour veteran who quit as defence secretary",
-        "url": "https://www.bbc.co.uk/news/articles/ce85y9lm81no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T09:35:25Z",
-        "summary": "The softly-spoken former defence secretary is gearing up for the biggest moment of his long political career."
-      },
-      {
-        "title": "Tougher punishments for criminals who refuse to attend sentencing backed by victim's family",
-        "url": "https://www.bbc.co.uk/news/articles/cr74p0zkd4jjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T09:28:04Z",
-        "summary": "The aunt of Zara Aleena says the new powers for judges will \"rebalance the power\" from offender to victim."
       }
     ],
     "saudi": [
@@ -225,7 +225,7 @@
       {
         "title": "White House lifts tariffs on some Canadian goods as midterm elections loom",
         "url": "https://www.bbc.co.uk/news/articles/c60qk573yzz8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T22:54:57Z",
+        "published_at": "2026-10-24T00:36:47Z",
         "summary": "From 30 October, tariffs will be eased on some products, including certain machinery, and placed on others, such as carpets."
       },
       {
@@ -298,6 +298,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "How does the UK state pension compare with other countries?",
+        "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T00:09:12Z",
+        "summary": "Do British pensioners have it better or worse than those in other countries?"
+      },
+      {
+        "title": "UK to invest \u00a3100m in 'world first' AI Biosecurity Lab",
+        "url": "https://www.bbc.co.uk/news/articles/cqdjv8xllvyyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T00:05:45Z",
+        "summary": "The chancellor will unveil AI spending aimed at shoring up the UK's defences in Wednesday's Budget."
+      },
       {
         "title": "Argentina drops investigation into President Milei over crypto fraud",
         "url": "https://www.bbc.co.uk/news/articles/c64g1eplpvddo?at_medium=RSS&at_campaign=rss",
@@ -3285,18 +3297,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ckg4kn44l8lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-08-19T00:37:05Z",
         "summary": "Ron Bailey has been quietly changing the law for the past 40 years - how does he do it?"
-      },
-      {
-        "title": "Burnham's 'Manchesterism' got him to No 10 - but will it work for the UK?",
-        "url": "https://www.bbc.co.uk/news/articles/clyl3z2xld8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-08-03T09:41:13Z",
-        "summary": "Economics editor Faisal Islam examines whether the north-west city can be a template for the entire country."
-      },
-      {
-        "title": "Sir John Curtice: The 'Burnham bounce' is real but it's not massive",
-        "url": "https://www.bbc.co.uk/news/articles/c4g4djygr73o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-08-01T09:13:00Z",
-        "summary": "The governing party's poll ratings have improved but they're only just ahead of Reform."
       }
     ],
     "saudi": [
