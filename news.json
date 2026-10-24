@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-24T05:09:39.312475Z",
+  "generated_at": "2026-10-24T05:40:46.601980Z",
   "articles": {
     "world": [
+      {
+        "title": "How Brazil's changing working class is reshaping the presidential race",
+        "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T05:05:44Z",
+        "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday."
+      },
+      {
+        "title": "The rise of AI election ads in US midterms campaign",
+        "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T05:03:44Z",
+        "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms."
+      },
       {
         "title": "France prepares for day of protest a week after nationwide riots",
         "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cvze4692lxp1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T15:35:09Z",
         "summary": "Three Tory and one Liberal Democrat-led councils are officially challenging government funding changes."
-      },
-      {
-        "title": "Police should not be scared to wade in to stop wrongdoing, says Badenoch",
-        "url": "https://www.bbc.co.uk/news/articles/cj5yn079w7pro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T14:55:50Z",
-        "summary": "The Tory leader calls for more support for police officers and the public when they step in to help."
-      },
-      {
-        "title": "Ten councillors quit after leader's fraud conviction",
-        "url": "https://www.bbc.co.uk/news/articles/c674p078v013o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T14:06:51Z",
-        "summary": "Jason Zadrozny was found guilty of defrauding the county council out of thousands of pounds."
       }
     ],
     "saudi": [
@@ -298,6 +298,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "How Brazil's changing working class is reshaping the presidential race",
+        "url": "https://www.bbc.co.uk/news/articles/cw80zx79nkvno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T05:05:44Z",
+        "summary": "Calls for change present a challenge to President Lula in the second round of the election on Sunday."
+      },
+      {
+        "title": "The rise of AI election ads in US midterms campaign",
+        "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T05:03:44Z",
+        "summary": "BBC Verify has tracked dozens of AI ads to assess how they are being used by campaigns in the midterms."
+      },
       {
         "title": "France prepares for day of protest a week after nationwide riots",
         "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
@@ -3285,18 +3297,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c3v439n5xlpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-08T23:52:28Z",
         "summary": "It is hoped that coordinated action minimises the blowback to any one country from Israel or America, our political editor writes."
-      },
-      {
-        "title": "What big issues are on the agenda as Stormont returns after summer?",
-        "url": "https://www.bbc.co.uk/news/articles/cddve403myeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-06T05:45:29Z",
-        "summary": "What challenges face assembly members and ministers as Stormont returns after the summer recess?"
-      },
-      {
-        "title": "Trump's response is key as Argentina's Falklands demands get louder",
-        "url": "https://www.bbc.co.uk/news/articles/c980g0g7yyjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-05T06:20:04Z",
-        "summary": "With Argentina's President Milei promising \"winds of change\" over the Falklands, will Donald Trump shift his stance on British rule?"
       }
     ],
     "saudi": [
