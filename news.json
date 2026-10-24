@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-24T04:11:28.488915Z",
+  "generated_at": "2026-10-24T04:39:48.922436Z",
   "articles": {
     "world": [
+      {
+        "title": "France prepares for day of protest a week after nationwide riots",
+        "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T04:03:46Z",
+        "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations."
+      },
       {
         "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
         "url": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm70pj51zdk4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T13:45:19Z",
         "summary": "The defence secretary says the UK is \"back in the business of making weapons\" for its armed forces."
-      },
-      {
-        "title": "'500 new vulnerabilities' found in government, says AI minister",
-        "url": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T10:08:44Z",
-        "summary": "'500 new vulnerabilities' found in government, says AI minister"
       }
     ],
     "saudi": [
@@ -298,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "France prepares for day of protest a week after nationwide riots",
+        "url": "https://www.bbc.co.uk/news/articles/cj62yv5k0w4yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T04:03:46Z",
+        "summary": "More than 70,000 police officers are to be deployed over fears protesters will defy restrictions on demonstrations."
+      },
       {
         "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
         "url": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss",
@@ -3291,12 +3297,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ckgw7xj698lo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-08-29T01:37:08Z",
         "summary": "Millions across England and Wales received a wildfire alert on their phones earlier this month, but it partly backfired."
-      },
-      {
-        "title": "The dangers of politicians being 'too online' - or not online enough",
-        "url": "https://www.bbc.co.uk/news/articles/cn5nvkdwy74o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-08-20T00:57:09Z",
-        "summary": "In an era when reputations can be made or broken with a single post, getting the balance right is tricky."
       }
     ],
     "saudi": [
