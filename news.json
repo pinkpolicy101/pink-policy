@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-24T13:19:46.903638Z",
+  "generated_at": "2026-10-24T14:05:44.982988Z",
   "articles": {
     "world": [
+      {
+        "title": "'My daughter's bed was propped up on books,' says mum amid child poverty fears",
+        "url": "https://www.bbc.co.uk/news/articles/c933xpz1kdxyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T13:43:05Z",
+        "summary": "Sarah Ruscoe, a single mum out of work due to health issues, worried her daughter\u2019s bed would collapse at night."
+      },
       {
         "title": "Between quick wins and big dreams lies Burnham's biggest test",
         "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6y93pz494zzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-22T17:54:51Z",
         "summary": "Energy secretary says she \"didn't get it right\" over comments she made about a TV interview."
-      },
-      {
-        "title": "UK plans emergency powers to protect undersea cables",
-        "url": "https://www.bbc.co.uk/news/articles/cwe8lz45d820o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-22T15:56:03Z",
-        "summary": "Ministers are set to gain powers over telecoms companies during national security emergencies."
       }
     ],
     "saudi": [
@@ -222,6 +222,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T07:36:02Z",
+        "summary": "The warning comes as the US State Department makes adjustments to staffing at diplomatic posts in the region."
+      },
       {
         "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
         "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
@@ -292,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "'My daughter's bed was propped up on books,' says mum amid child poverty fears",
+        "url": "https://www.bbc.co.uk/news/articles/c933xpz1kdxyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T13:43:05Z",
+        "summary": "Sarah Ruscoe, a single mum out of work due to health issues, worried her daughter\u2019s bed would collapse at night."
+      },
       {
         "title": "Between quick wins and big dreams lies Burnham's biggest test",
         "url": "https://www.bbc.co.uk/news/articles/cwq6n09qpy90o?at_medium=RSS&at_campaign=rss",
@@ -3285,12 +3297,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ced75e7d11po?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-12T12:51:24Z",
         "summary": "As Reform slip back in the polls, Labour and the Conservatives rediscover a familiar political divide, writes Laura Kuenssberg."
-      },
-      {
-        "title": "An extraordinary result - why did MPs reject assisted dying bill this time?",
-        "url": "https://www.bbc.co.uk/news/articles/c5y54n99l48o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-11T16:49:47Z",
-        "summary": "Although supporters say they will try again, for now the momentum has fallen away from a change in the law."
       }
     ],
     "saudi": [
@@ -3446,6 +3452,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
+        "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-24T07:36:02Z",
+        "summary": "The warning comes as the US State Department makes adjustments to staffing at diplomatic posts in the region."
+      },
       {
         "title": "The rise of AI election ads in US midterms campaign",
         "url": "https://www.bbc.co.uk/news/videos/cm62y59zw8zko?at_medium=RSS&at_campaign=rss",
