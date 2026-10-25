@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-25T16:08:05.999145Z",
+  "generated_at": "2026-10-25T16:40:53.431141Z",
   "articles": {
     "world": [
+      {
+        "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T16:21:40Z",
+        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicol\u00e1s Maduro."
+      },
       {
         "title": "Burnham open to 'honest discussion' on EU free movement",
         "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T12:25:47Z",
         "summary": "The prime minister hosted the UK's first wildfire summit to prepare for future blazes after a record summer 2026."
-      },
-      {
-        "title": "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
-        "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T11:48:04Z",
-        "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
       }
     ],
     "saudi": [
@@ -298,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T16:21:40Z",
+        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicol\u00e1s Maduro."
+      },
       {
         "title": "El Salvador president says bodies found in Haiti are not those of hostages",
         "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
@@ -3291,12 +3297,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crjw553zqdn6o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-25T16:29:24Z",
         "summary": "The Manston centre in Kent became overwhelmed in November 2022 at the height of the small boats crisis."
-      },
-      {
-        "title": "Miliband tells Iran minister UK will not tolerate 'hostile activity' on British soil",
-        "url": "https://www.bbc.co.uk/news/articles/cwp8476m06pyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-25T02:51:36Z",
-        "summary": "The foreign secretary stresses \"the UK's unwavering resolve to combat threats from Iranian-linked groups in UK soil, including attacks on the British Jewish community\"."
       }
     ],
     "saudi": [
