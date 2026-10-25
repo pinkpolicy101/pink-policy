@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-25T00:49:15.347490Z",
+  "generated_at": "2026-10-25T01:38:26.177329Z",
   "articles": {
     "world": [
+      {
+        "title": "Burnham open to 'honest discussion' on EU free movement",
+        "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T00:33:19Z",
+        "summary": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
+      },
       {
         "title": "Rosebank: Life on the oil field at the centre of a political storm",
         "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck7vp8g38y7vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T05:00:50Z",
         "summary": "Kanishka Narayan tells the BBC that dealing with the technology requires not only regulation, but \"building capability and capacity\"."
-      },
-      {
-        "title": "Chancellor says he will cut 'pointless paperwork' to save businesses up to \u00a3800m",
-        "url": "https://www.bbc.co.uk/news/articles/cm5ynpywq1e3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T05:00:32Z",
-        "summary": "Ministers say the changes in regulations will reduce unnecessary bureaucracy."
       }
     ],
     "saudi": [
@@ -298,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Burnham open to 'honest discussion' on EU free movement",
+        "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T00:33:19Z",
+        "summary": "The PM said he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
+      },
       {
         "title": "Rosebank: Life on the oil field at the centre of a political storm",
         "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
@@ -3291,12 +3297,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwlyk2x3rg24o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-20T06:17:40Z",
         "summary": "How an extraordinary seven days that rocked the party unfolded."
-      },
-      {
-        "title": "War may be coming. Are we psychologically ready?",
-        "url": "https://www.bbc.co.uk/news/articles/cmn0jke547r5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-19T08:34:00Z",
-        "summary": "The military and government say the risk of conflict is growing, but we may not be mentally ready for it"
       }
     ],
     "saudi": [
