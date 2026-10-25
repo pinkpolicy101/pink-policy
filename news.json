@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-25T15:06:40.896968Z",
+  "generated_at": "2026-10-25T15:40:16.730833Z",
   "articles": {
     "world": [
       {
@@ -7,12 +7,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c8e36kyk1qx5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-25T12:11:23Z",
         "summary": "The PM says he wants a \"factual\" and \"evidence-based debate\" about returning to free movement between Britain and Europe."
-      },
-      {
-        "title": "Voters in Brazil head to polls as Lula goes up against Bolsonaro's son",
-        "url": "https://www.bbc.co.uk/news/articles/cxp8g21j4648o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-25T11:54:16Z",
-        "summary": "Fl\u00e1vio Bolsonaro, the son of Brazil's imprisoned ex-president, is challenging Lula, who is seeking a fourth term in office."
       },
       {
         "title": "El Salvador president says bodies found in Haiti are not those of hostages",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwvgd7d4p2vmo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T12:25:47Z",
         "summary": "The prime minister hosted the UK's first wildfire summit to prepare for future blazes after a record summer 2026."
+      },
+      {
+        "title": "Earnings limit of up to \u00a3140K for first-time buyers loan scheme",
+        "url": "https://www.bbc.co.uk/news/articles/c6n8dex0zeg9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T11:48:04Z",
+        "summary": "The Your First Home scheme will offer government-backed loans for those buying new-builds in England."
       }
     ],
     "saudi": [
