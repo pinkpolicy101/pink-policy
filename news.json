@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-25T18:03:43.310149Z",
+  "generated_at": "2026-10-25T18:42:04.647123Z",
   "articles": {
     "world": [
       {
         "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
         "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-25T16:21:40Z",
+        "published_at": "2026-10-25T18:29:00Z",
         "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicol\u00e1s Maduro."
+      },
+      {
+        "title": "Board of Deputies of British Jews declares Greens to be racist party",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T18:05:17Z",
+        "summary": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion."
       },
       {
         "title": "Burnham open to 'honest discussion' on EU free movement",
@@ -127,12 +133,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c81dwz4ygz94o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T17:37:14Z",
         "summary": "Green leaders have been given until Sunday to disown their party's \"Zionism is racism\" conference vote."
-      },
-      {
-        "title": "Trump says Burnham 'getting it done' after Jackdaw decision",
-        "url": "https://www.bbc.co.uk/news/articles/cry4x7n5yje0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T17:27:20Z",
-        "summary": "The US president has praised Burnham after the government allowed gas drilling in the North Sea's Jackdaw field."
       },
       {
         "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
@@ -298,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Board of Deputies of British Jews declares Greens to be racist party",
+        "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T18:05:17Z",
+        "summary": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion."
+      },
       {
         "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
         "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
@@ -3291,12 +3297,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqwyzz79mdgjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-25T17:15:35Z",
         "summary": "The prime minister told the BBC an early poll would throw the country into a \"backward-looking process\"."
-      },
-      {
-        "title": "Tory ex-ministers face serious questions over migrant centre chaos, inquiry hears",
-        "url": "https://www.bbc.co.uk/news/articles/crjw553zqdn6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-25T16:29:24Z",
-        "summary": "The Manston centre in Kent became overwhelmed in November 2022 at the height of the small boats crisis."
       }
     ],
     "saudi": [
