@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-25T02:40:27.170632Z",
+  "generated_at": "2026-10-25T03:10:51.587261Z",
   "articles": {
     "world": [
+      {
+        "title": "Budget to include \u00a31bn for social and affordable housing",
+        "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T02:57:30Z",
+        "summary": "The move will take funding for the 10-year programme to more than \u00a340bn."
+      },
       {
         "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
         "url": "https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmwyqn6ejyd4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T09:23:53Z",
         "summary": "Recent polls suggest the president is facing challenging headwinds in the state ahead of the midterms."
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T08:14:04Z",
-        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
       }
     ],
     "saudi": [
@@ -298,6 +298,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Budget to include \u00a31bn for social and affordable housing",
+        "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T02:57:30Z",
+        "summary": "The move will take funding for the 10-year programme to more than \u00a340bn."
+      },
       {
         "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
         "url": "https://www.bbc.co.uk/news/articles/cqx29lnzr48po?at_medium=RSS&at_campaign=rss",
@@ -3291,12 +3297,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq2dwye3r7k4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-22T21:22:36Z",
         "summary": "The UK has proposed handing the Chagos Islands to Mauritius and paying to lease back an important military base."
-      },
-      {
-        "title": "Analysis: Lib Dems leave conference buoyed by Davey's message",
-        "url": "https://www.bbc.co.uk/news/articles/ckn9w4y37gw1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-22T19:33:27Z",
-        "summary": "Concerns over Sir Ed Davey's leadership were dampened by pledges at conference and his performance."
       }
     ],
     "saudi": [
