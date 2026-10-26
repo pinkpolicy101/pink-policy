@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-26T16:10:04.104379Z",
+  "generated_at": "2026-10-26T16:52:31.705005Z",
   "articles": {
     "world": [
+      {
+        "title": "Lula wins fourth term in dramatic Brazil election comeback",
+        "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T16:49:14Z",
+        "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Fl\u00e1vio Bolsonaro."
+      },
       {
         "title": "Burnham leaves door open to referendum on EU free movement",
         "url": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
@@ -15,16 +21,16 @@
         "summary": "As polls pointed to defeat, millions joined a 'Lula's Army' channel that is credited with helping transform online enthusiasm into real-world mobilisation."
       },
       {
+        "title": "What in the World",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct98yb?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T14:55:00Z",
+        "summary": "The Student List-Students Win aren\u2019t politicians, but the movement won the snap election"
+      },
+      {
         "title": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
         "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T14:34:52Z",
         "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
-      },
-      {
-        "title": "Lula wins fourth term in dramatic Brazil election comeback",
-        "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T13:54:21Z",
-        "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Fl\u00e1vio Bolsonaro."
       },
       {
         "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
@@ -91,18 +97,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T00:26:49Z",
         "summary": "The economic is positive now but come January things could become trickier for the Labour government"
-      },
-      {
-        "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
-        "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-25T23:33:19Z",
-        "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms."
-      },
-      {
-        "title": "Deeply divided Israel braces for pivotal election",
-        "url": "https://www.bbc.co.uk/news/articles/ckpdgy6pl7xlo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-25T22:11:13Z",
-        "summary": "After three years of regional war, this is a battle Israel always knew was coming, writes Lucy Williamson."
       },
       {
         "title": "Why Israel's election is one of the most important in its history",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwe8lzl0ydy8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T16:48:02Z",
         "summary": "Cleveland Police and Crime Commissioner Matt Storey says it has been nearly two months since force was promised the cash."
+      },
+      {
+        "title": "PM defends Gogglebox appearance after Badenoch criticism",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g140585ngo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T14:13:43Z",
+        "summary": "Burnham says he \"makes no apology\" for the move as Kemi Badenoch says she is \"amazed\" he has time."
       }
     ],
     "saudi": [
@@ -211,6 +211,18 @@
     ],
     "us": [
       {
+        "title": "Watch: BBC asks Democrat El-Sayed about tight Michigan Senate race",
+        "url": "https://www.bbc.co.uk/news/videos/cmx2dj4z6wz6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T15:46:04Z",
+        "summary": "The BBC's Sarah Smith asks Democrat Abdul El-Sayed why polls suggest his contest against Republican Mike Rogers is so close."
+      },
+      {
+        "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+        "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T15:45:30Z",
+        "summary": "The incident happened on Saturday night, close to an American football stadium where a game had just been played."
+      },
+      {
         "title": "Alaska's Democratic Senate candidate pauses midterms campaigning after car crash",
         "url": "https://www.bbc.co.uk/news/articles/cky93gep3gyeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T13:53:18Z",
@@ -227,18 +239,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-25T23:33:19Z",
         "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms."
-      },
-      {
-        "title": "Iran trying harder to target US personnel in Middle East, intelligence chief warns",
-        "url": "https://www.bbc.co.uk/news/articles/cmn8w1ddg2x9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-24T07:36:02Z",
-        "summary": "The warning comes as the US State Department makes adjustments to staffing at diplomatic posts in the region."
-      },
-      {
-        "title": "White House says Melania Trump brokered truce for Ukraine city 'on brink of disaster'",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgxkvl4w5eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-24T07:17:44Z",
-        "summary": "Ukraine and Russia confirm the truce in Russian-occupied Oleshky, where residents have had to eat garden weeds to survive."
       },
       {
         "title": "The rise of AI election ads in US midterms campaign",
@@ -279,6 +279,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T15:37:33Z",
         "summary": "As polls pointed to defeat, millions joined a 'Lula's Army' channel that is credited with helping transform online enthusiasm into real-world mobilisation."
+      },
+      {
+        "title": "What in the World",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct98yb?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T14:55:00Z",
+        "summary": "The Student List-Students Win aren\u2019t politicians, but the movement won the snap election"
       },
       {
         "title": "Lula wins fourth term in dramatic Brazil election comeback",
@@ -3267,12 +3273,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cm70lpg5z45go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T16:15:57Z",
         "summary": "BBC correspondent Azadeh Moshiri reports from Delhi, where hundreds of women are protesting."
-      },
-      {
-        "title": "Mahmood to reopen scheme to resettle refugees in the UK",
-        "url": "https://www.bbc.co.uk/news/articles/c5vgyj8k3dzgo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T15:53:30Z",
-        "summary": "Around 25% of arrivals under the UK Resettlement Scheme are expected to be Afghan women and girls and Palestinians."
       }
     ],
     "saudi": [
@@ -3428,6 +3428,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Watch: BBC asks Democrat El-Sayed about tight Michigan Senate race",
+        "url": "https://www.bbc.co.uk/news/videos/cmx2dj4z6wz6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T15:46:04Z",
+        "summary": "The BBC's Sarah Smith asks Democrat Abdul El-Sayed why polls suggest his contest against Republican Mike Rogers is so close."
+      },
+      {
+        "title": "Police arrest teenager after shooting that injured 12, including children, in Florida",
+        "url": "https://www.bbc.co.uk/news/articles/ckpdg8vnv171o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T15:45:30Z",
+        "summary": "The incident happened on Saturday night, close to an American football stadium where a game had just been played."
+      },
       {
         "title": "Alaska's Democratic Senate candidate pauses midterms campaigning after car crash",
         "url": "https://www.bbc.co.uk/news/articles/cky93gep3gyeo?at_medium=RSS&at_campaign=rss",
