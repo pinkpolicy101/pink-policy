@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-26T12:35:14.504726Z",
+  "generated_at": "2026-10-26T15:04:57.744718Z",
   "articles": {
     "world": [
+      {
+        "title": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
+        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T14:34:52Z",
+        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
+      },
+      {
+        "title": "Lula wins fourth term in dramatic Brazil election comeback",
+        "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T13:54:21Z",
+        "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Fl\u00e1vio Bolsonaro."
+      },
       {
         "title": "Burnham leaves door open to referendum on EU free movement",
         "url": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
@@ -25,12 +37,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T11:21:04Z",
         "summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July."
-      },
-      {
-        "title": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
-        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T11:02:20Z",
-        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
       },
       {
         "title": "Healey to shield low-income pensioners from income tax in the Budget",
@@ -105,12 +111,6 @@
         "summary": "The Jewish body's vote comes in response to the Green Party passing a \"Zionism is racism\" policy motion."
       },
       {
-        "title": "El Salvador president says bodies found in Haiti are not those of hostages",
-        "url": "https://www.bbc.co.uk/news/articles/c8ly097zw1xwo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-25T10:55:33Z",
-        "summary": "Nayib Bukele says bodies delivered to soldiers are \"not our men\" amid search for Salvadorans abducted last week."
-      },
-      {
         "title": "Budget to include \u00a31bn for social and affordable housing",
         "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-25T10:03:17Z",
@@ -127,12 +127,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-25T06:00:15Z",
         "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
-      },
-      {
-        "title": "Israel to close West Bank crossings on election day as crackdown escalates",
-        "url": "https://www.bbc.co.uk/news/articles/c6y93ylpl5p2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-25T05:15:52Z",
-        "summary": "The Israeli Defense Forces announces restrictions on the movement of Palestinian workers in the run-up to Tuesday's election."
       },
       {
         "title": "Students like new tenancy freedoms - but landlords warn of higher rents",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwe8lzl0ydy8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T16:48:02Z",
         "summary": "Cleveland Police and Crime Commissioner Matt Storey says it has been nearly two months since force was promised the cash."
+      },
+      {
+        "title": "PM defends Gogglebox appearance after Badenoch criticism",
+        "url": "https://www.bbc.co.uk/news/articles/cm4g140585ngo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-23T14:13:43Z",
+        "summary": "Burnham says he \"makes no apology\" for the move as Kemi Badenoch says she is \"amazed\" he has time."
       }
     ],
     "saudi": [
@@ -274,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Lula wins fourth term in dramatic Brazil election comeback",
+        "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T13:54:21Z",
+        "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Fl\u00e1vio Bolsonaro."
+      },
       {
         "title": "Burnham leaves door open to referendum on EU free movement",
         "url": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
@@ -3267,12 +3273,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c60qxk7d2539o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T12:52:56Z",
         "summary": "The move is part of a plan to improve rail infrastructure, cut train delays and improve experiences for passengers."
-      },
-      {
-        "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
-        "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T12:38:07Z",
-        "summary": "Use our interactive tracker to explore the latest migration statistics for the UK"
       }
     ],
     "saudi": [
