@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-26T22:13:28.555916Z",
+  "generated_at": "2026-10-26T22:44:47.615646Z",
   "articles": {
     "world": [
+      {
+        "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T22:30:02Z",
+        "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\"."
+      },
       {
         "title": "Lula wins fourth term in dramatic Brazil election comeback",
         "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-24T00:09:12Z",
         "summary": "Do British pensioners have it better or worse than those in other countries?"
-      },
-      {
-        "title": "Green councillors face Labour deadline to disown Zionism policy",
-        "url": "https://www.bbc.co.uk/news/articles/c81dwz4ygz94o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T17:37:14Z",
-        "summary": "Green leaders have been given until Sunday to disown their party's \"Zionism is racism\" conference vote."
       }
     ],
     "saudi": [
@@ -280,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
+        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T22:30:02Z",
+        "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\"."
+      },
       {
         "title": "Trump administration illegally fired James Comey's daughter, judge rules",
         "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
@@ -3273,12 +3279,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c6lymekx0repo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T01:12:52Z",
         "summary": "President Trump has faced criticism after fronting adverts which were paid for by the US government."
-      },
-      {
-        "title": "Best thing we can offer young people is a job, not benefits, says chancellor",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T18:07:25Z",
-        "summary": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs."
       }
     ],
     "saudi": [
