@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-26T05:17:23.757946Z",
+  "generated_at": "2026-10-26T06:15:06.480417Z",
   "articles": {
     "world": [
+      {
+        "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T05:20:19Z",
+        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicol\u00e1s Maduro."
+      },
       {
         "title": "Fireworks heard as BBC reports Lula's victory in S\u00e3o Paulo",
         "url": "https://www.bbc.co.uk/news/videos/cq1kdl12y9rdo?at_medium=RSS&at_campaign=rss",
@@ -15,10 +21,10 @@
         "summary": "Brazil's left-wing President Lula is elected for a fourth term, beating Fl\u00e1vio Bolsonaro in a knife-edge vote"
       },
       {
-        "title": "Venezuelan opposition leader Mar\u00eda Machado returns after months in exile",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ez592pp0eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T03:05:22Z",
-        "summary": "Machado had left the country just a month before the US government seized Venezuelan President Nicol\u00e1s Maduro."
+        "title": "Watch: How President Lula turned it around to beat Fl\u00e1vio Bolsonaro",
+        "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T02:53:00Z",
+        "summary": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Fl\u00e1vio Bolsonaro in a knife-edge vote."
       },
       {
         "title": "Election victory was 'defeat of lies', says Lula",
@@ -33,10 +39,16 @@
         "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
       },
       {
-        "title": "Elation across Serbia after veteran ruler Vu\u010di\u0107 concedes to student-led protest movement",
+        "title": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
         "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T01:07:05Z",
         "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
+      },
+      {
+        "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+        "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T23:33:19Z",
+        "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms."
       },
       {
         "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
@@ -117,12 +129,6 @@
         "summary": "The ultra-Orthodox community is resisting being drafted into the Israeli army. But will they now bring down the Netanyahu government?"
       },
       {
-        "title": "Who are the candidates in Brazil's presidential election?",
-        "url": "https://www.bbc.co.uk/news/videos/cm0e0del4jewo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-24T22:08:47Z",
-        "summary": "Voters in Sunday's election are choosing between two very different candidates, as Americas correspondent Ione Wells reports from Rio de Janeiro."
-      },
-      {
         "title": "Daughter's bed 'propped up on books' says mum amid warning of deepening child poverty",
         "url": "https://www.bbc.co.uk/news/articles/c933xpz1kdxyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-24T13:43:05Z",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c678pv4krx37o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T18:49:14Z",
         "summary": "The justice department has filed a lawsuit arguing that the inclusion of two candidates named Dan Sullivan could confuse voters."
-      },
-      {
-        "title": "Green councillors face Labour deadline to disown Zionism policy",
-        "url": "https://www.bbc.co.uk/news/articles/c81dwz4ygz94o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T17:37:14Z",
-        "summary": "Green leaders have been given until Sunday to disown their party's \"Zionism is racism\" conference vote."
       }
     ],
     "saudi": [
@@ -305,10 +305,22 @@
         "summary": "Brazil's left-wing President Lula is elected for a fourth term, beating Fl\u00e1vio Bolsonaro in a knife-edge vote"
       },
       {
+        "title": "Watch: How President Lula turned it around to beat Fl\u00e1vio Bolsonaro",
+        "url": "https://www.bbc.co.uk/news/videos/cmp8g0x4l11yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T02:53:00Z",
+        "summary": "Brazil's left-wing President has been elected for a fourth term after narrowly beating right-wing Fl\u00e1vio Bolsonaro in a knife-edge vote."
+      },
+      {
         "title": "Election victory was 'defeat of lies', says Lula",
         "url": "https://www.bbc.co.uk/news/videos/cmrlye70nxnlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T02:30:30Z",
         "summary": "Brazil's left-wing President Lula is elected for a fourth term, beating Fl\u00e1vio Bolsonaro in a knife-edge vote"
+      },
+      {
+        "title": "Rapper Nicki Minaj joins Trump onstage at Michigan rally",
+        "url": "https://www.bbc.co.uk/news/articles/cqrmyl1mljppo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T23:33:19Z",
+        "summary": "The Super Bass singer is the latest big name to campaign in Michigan, where a tight Senate race is playing out ahead of the 3 November midterms."
       },
       {
         "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
@@ -3279,18 +3291,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crwyzd3gv519o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-27T13:48:05Z",
         "summary": "The prime minister told the BBC that social care in England is \"as unfair as American healthcare\"."
-      },
-      {
-        "title": "Andy Burnham refuses to back third runway at Heathrow",
-        "url": "https://www.bbc.co.uk/news/articles/cvrl6y8rx08wo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-27T11:22:32Z",
-        "summary": "Andy Burnham said he would wait for the results of a consultation on a scheme estimated to cost \u00a333bn"
-      },
-      {
-        "title": "Burnham announces scheme to help first-time buyers onto housing ladder",
-        "url": "https://www.bbc.co.uk/news/articles/cv8e33gdw17no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-27T05:00:42Z",
-        "summary": "The prime minister says he wants people without support from the \"bank of mum and dad\" to receive help."
       }
     ],
     "saudi": [
