@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-26T19:24:31.606970Z",
+  "generated_at": "2026-10-26T20:11:29.024049Z",
   "articles": {
     "world": [
+      {
+        "title": "Lula wins fourth term in dramatic Brazil election comeback",
+        "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T20:00:30Z",
+        "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Fl\u00e1vio Bolsonaro."
+      },
+      {
+        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+        "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T19:27:21Z",
+        "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
+      },
       {
         "title": "Keir Starmer's government discussed moving out of 10 Downing Street",
         "url": "https://www.bbc.co.uk/news/articles/cqd093gk1rjeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T18:33:31Z",
         "summary": "The building has been described as a \"gloomy, mice-infested, bomb-curtained rabbit warren\"."
-      },
-      {
-        "title": "Lula wins fourth term in dramatic Brazil election comeback",
-        "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T18:26:19Z",
-        "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Fl\u00e1vio Bolsonaro."
       },
       {
         "title": "Political battle intensifies within Labour over Rosebank oil field",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c81dwz4ygz94o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T17:37:14Z",
         "summary": "Green leaders have been given until Sunday to disown their party's \"Zionism is racism\" conference vote."
-      },
-      {
-        "title": "Ex-Tory campaign chief and his wife receive suspended sentences over election bets",
-        "url": "https://www.bbc.co.uk/news/articles/ck3r5798p43eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T16:58:14Z",
-        "summary": "Anthony Lee passed confidential information to his wife Laura Lee about when the 2024 general election would be held."
       }
     ],
     "saudi": [
@@ -210,6 +210,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Trump's media bans 'deprive the public', press freedom groups argue",
+        "url": "https://www.bbc.co.uk/news/articles/crz98qg9k2w9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T19:36:22Z",
+        "summary": "The plaintiffs allege they are no longer able to do their work without reliable access to information delivered by the White House press."
+      },
       {
         "title": "Watch: BBC asks Democrat El-Sayed about tight Michigan Senate race",
         "url": "https://www.bbc.co.uk/news/videos/cmx2dj4z6wz6o?at_medium=RSS&at_campaign=rss",
@@ -274,6 +280,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+        "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T19:27:21Z",
+        "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
+      },
       {
         "title": "Keir Starmer's government discussed moving out of 10 Downing Street",
         "url": "https://www.bbc.co.uk/news/articles/cqd093gk1rjeo?at_medium=RSS&at_campaign=rss",
@@ -3267,12 +3279,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c3x2zw18ge59o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-28T18:07:25Z",
         "summary": "John Healey's speech comes ahead of next month's Budget, as he faces pressure to bring down government borrowing costs."
-      },
-      {
-        "title": "Mahmood signals rethink on migrants' right to remain",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7zxdy4gllo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-28T18:04:41Z",
-        "summary": "The home secretary has been under pressure to water down the proposals from some Labour MPs, including Angela Rayner."
       }
     ],
     "saudi": [
@@ -3428,6 +3434,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Trump's media bans 'deprive the public', press freedom groups argue",
+        "url": "https://www.bbc.co.uk/news/articles/crz98qg9k2w9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-26T19:36:22Z",
+        "summary": "The plaintiffs allege they are no longer able to do their work without reliable access to information delivered by the White House press."
+      },
       {
         "title": "Watch: BBC asks Democrat El-Sayed about tight Michigan Senate race",
         "url": "https://www.bbc.co.uk/news/videos/cmx2dj4z6wz6o?at_medium=RSS&at_campaign=rss",
