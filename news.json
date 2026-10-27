@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-27T13:04:38.257637Z",
+  "generated_at": "2026-10-27T13:57:45.330576Z",
   "articles": {
     "world": [
+      {
+        "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T13:18:37Z",
+        "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
+      },
+      {
+        "title": "Norway and Finland leaders hold rare call with Putin",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T13:12:24Z",
+        "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year."
+      },
       {
         "title": "UK and EU officials to discuss freedom of movement",
         "url": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T12:59:04Z",
         "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
-      },
-      {
-        "title": "Minimum wage increase set to slow for 18-20 year-olds",
-        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T12:53:49Z",
-        "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
       },
       {
         "title": "Trump administration illegally fired James Comey's daughter, judge rules",
@@ -27,7 +33,7 @@
         "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence."
       },
       {
-        "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
+        "title": "Turnout so far at record levels as Israelis vote in pivotal election",
         "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T11:11:33Z",
         "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu."
@@ -109,12 +115,6 @@
         "url": "https://www.bbc.co.uk/sounds/play/w3ct98yb?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T14:55:00Z",
         "summary": "The Student List-Students Win aren\u2019t politicians, but the movement won the snap election"
-      },
-      {
-        "title": "Celebrations in Serbia after veteran ruler Vu\u010di\u0107 loses election to student-led protest movement",
-        "url": "https://www.bbc.co.uk/news/articles/cw5yn3xlprpmo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T14:34:52Z",
-        "summary": "The populist right-wing leader of 12 years says it is \"clear\" his party has lost the vote billed as a referendum on the country's future."
       },
       {
         "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
@@ -274,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Norway and Finland leaders hold rare call with Putin",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T13:12:24Z",
+        "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year."
+      },
       {
         "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
         "url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
@@ -3267,12 +3273,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cm3wjgd0x504o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T15:04:55Z",
         "summary": "\"The UK my dad represented was the one I believe in\", Andy Burnham says in his conference address."
-      },
-      {
-        "title": "Burnham announces plan for Great British Grid",
-        "url": "https://www.bbc.co.uk/news/videos/crx2z07w8yxeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T14:37:39Z",
-        "summary": "Burnham pledged to take more control of electricity prices by expanding renewables and and nuclear, with a more pragmatic approach to the North Sea."
       }
     ],
     "saudi": [
