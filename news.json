@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-27T15:52:56.647134Z",
+  "generated_at": "2026-10-27T16:54:50.688132Z",
   "articles": {
     "world": [
+      {
+        "title": "MPs and MSP detained by Israel and barred from entering West Bank",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T16:34:44Z",
+        "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces."
+      },
+      {
+        "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+        "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T16:11:35Z",
+        "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\"."
+      },
       {
         "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
         "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
@@ -19,12 +31,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c98rz14pjyy2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T14:12:38Z",
         "summary": "Polling published on Friday suggests incumbent Benjamin Netanyahu is almost neck-and-neck with former military chief Gadi Eisenkot in the race to become prime minister."
-      },
-      {
-        "title": "MPs and MSP detained by Israel and barred from entering West Bank",
-        "url": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T13:58:49Z",
-        "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces."
       },
       {
         "title": "UK and EU officials to discuss freedom of movement",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-25T07:15:38Z",
         "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
-      },
-      {
-        "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-        "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-25T06:00:15Z",
-        "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
       }
     ],
     "saudi": [
@@ -205,6 +205,18 @@
     ],
     "us": [
       {
+        "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T16:20:22Z",
+        "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied."
+      },
+      {
+        "title": "Donald Trump's biggest economic problem looks strangely familiar",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T06:01:11Z",
+        "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden."
+      },
+      {
         "title": "Trump's media bans 'deprive the public', press freedom groups argue",
         "url": "https://www.bbc.co.uk/news/articles/crz98qg9k2w9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T19:36:22Z",
@@ -215,24 +227,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cmx2dj4z6wz6o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T15:46:04Z",
         "summary": "The BBC's Sarah Smith asks Democrat Abdul El-Sayed why polls suggest his contest against Republican Mike Rogers is so close."
-      },
-      {
-        "title": "Owners of Elvis music rights sue Anthropic for copyright violations",
-        "url": "https://www.bbc.co.uk/news/articles/c6rmyl0kxyxjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T14:37:12Z",
-        "summary": "The company is accused of using hundreds of songs by the American rock-and-roll star to train its Claude AI model."
-      },
-      {
-        "title": "US Marine indicted for murder and robbery of woman in Japan",
-        "url": "https://www.bbc.co.uk/news/articles/c3vgxjex1z9wo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T14:13:18Z",
-        "summary": "Prosecutors have indicted Devin Jacob Ballard for a killing that has caused outrage in Japan, local media reports."
-      },
-      {
-        "title": "Alaska's Democratic Senate candidate pauses midterms campaigning after car crash",
-        "url": "https://www.bbc.co.uk/news/articles/cky93gep3gyeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T13:53:18Z",
-        "summary": "Mary Peltola, who suffered minor injuries, is running in one of the most closely watched races in the upcoming elections."
       },
       {
         "title": "Five ways Trump has changed immigration in the US",
@@ -251,29 +245,17 @@
         "url": "https://www.bbc.co.uk/news/videos/cqy7lvv0lvzpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-23T22:24:36Z",
         "summary": "President Zelensky says limits to the technology continue to affect Ukrainian forces, while US officials and Elon Musk offer conflicting accounts of who controls it."
-      },
-      {
-        "title": "Home distillers rejoice as US Supreme Court considers whether to finally legalise moonshine",
-        "url": "https://www.bbc.co.uk/news/articles/cv98zn0ye4kpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T15:24:35Z",
-        "summary": "The Supreme Court will consider in the new year whether the 1868 legislation forbidding home distilling should be overturned."
-      },
-      {
-        "title": "The real reasons there are so few young politicians in the US",
-        "url": "https://www.bbc.co.uk/news/articles/cmde8rr2d6eno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T23:52:12Z",
-        "summary": "No country for young men and women: why do older politicians seem to have such a tight grip on the US political system?"
-      },
-      {
-        "title": "US church on front line of battle against drug known as 'tranq'",
-        "url": "https://www.bbc.co.uk/news/videos/cqd097z3epvno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T00:02:32Z",
-        "summary": "Synthetic opioids like fentanyl are more powerful and in plentiful supply, and they have transformed the drugs landscape."
       }
     ]
   },
   "archive": {
     "world": [
+      {
+        "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
+        "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T16:11:35Z",
+        "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\"."
+      },
       {
         "title": "Political rivals, and their wives, vote in Israeli election",
         "url": "https://www.bbc.co.uk/news/videos/c98rz14pjyy2o?at_medium=RSS&at_campaign=rss",
@@ -3267,12 +3249,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T15:31:27Z",
         "summary": "The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care."
-      },
-      {
-        "title": "Burnham says public body will invest in electricity grid",
-        "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T15:14:39Z",
-        "summary": "The prime minister said he wants to reduce energy costs in his first conference speech as Labour leader."
       }
     ],
     "saudi": [
@@ -3428,6 +3404,18 @@
       }
     ],
     "us": [
+      {
+        "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T16:20:22Z",
+        "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied."
+      },
+      {
+        "title": "Donald Trump's biggest economic problem looks strangely familiar",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg0ddz1z77o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T06:01:11Z",
+        "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden."
+      },
       {
         "title": "Trump's media bans 'deprive the public', press freedom groups argue",
         "url": "https://www.bbc.co.uk/news/articles/crz98qg9k2w9o?at_medium=RSS&at_campaign=rss",
