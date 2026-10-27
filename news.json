@@ -1,12 +1,30 @@
 {
-  "generated_at": "2026-10-27T17:51:58.464172Z",
+  "generated_at": "2026-10-27T18:51:31.882982Z",
   "articles": {
     "world": [
       {
-        "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-        "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T17:39:57Z",
-        "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu."
+        "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T18:45:56Z",
+        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
+      },
+      {
+        "title": "Landline switchover could cut people off in emergency, minister warned",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T18:40:19Z",
+        "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say."
+      },
+      {
+        "title": "Norway and Finland leaders hold rare call with Putin",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T18:28:23Z",
+        "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
+      },
+      {
+        "title": "Healey to promise \u00a315m to tackle misogyny in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cme36gez2d3qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T18:23:09Z",
+        "summary": "The Conservatives doubt whether women and girls will feel safer as a result of the funding."
       },
       {
         "title": "UK and EU officials to discuss freedom of movement",
@@ -33,22 +51,10 @@
         "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
       },
       {
-        "title": "Norway and Finland leaders hold rare call with Putin",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T14:23:05Z",
-        "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year."
-      },
-      {
         "title": "Political rivals, and their wives, vote in Israeli election",
         "url": "https://www.bbc.co.uk/news/videos/c98rz14pjyy2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T14:12:38Z",
         "summary": "Polling published on Friday suggests incumbent Benjamin Netanyahu is almost neck-and-neck with former military chief Gadi Eisenkot in the race to become prime minister."
-      },
-      {
-        "title": "What is the Budget and what could be in it?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T11:06:53Z",
-        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
       },
       {
         "title": "What does Israel's election mean for Gaza and the wider world?",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-25T07:15:38Z",
         "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
-      },
-      {
-        "title": "Four ways Labour could raise money in the Budget without hiking income tax",
-        "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-25T06:00:15Z",
-        "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
       }
     ],
     "saudi": [
@@ -250,6 +250,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Landline switchover could cut people off in emergency, minister warned",
+        "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T18:40:19Z",
+        "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say."
+      },
+      {
+        "title": "Healey to promise \u00a315m to tackle misogyny in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cme36gez2d3qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T18:23:09Z",
+        "summary": "The Conservatives doubt whether women and girls will feel safer as a result of the funding."
+      },
       {
         "title": "Egyptian journalist Lina Attalah detained after court orders news site's closure",
         "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
@@ -3237,18 +3249,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr209vl2z9jqo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T16:07:50Z",
         "summary": "Big policy announcements and emotional moments as the prime minister delivers a speech to Labour's conference."
-      },
-      {
-        "title": "Burnham to fight next election on pledge to change voting system",
-        "url": "https://www.bbc.co.uk/news/articles/cm158en2qxg9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T15:55:34Z",
-        "summary": "The prime minister says he wants other parties to take part in a national commission on electoral reform."
-      },
-      {
-        "title": "Watch: How did Burnham's speech go down in the conference hall?",
-        "url": "https://www.bbc.co.uk/news/videos/cwz0zk9d1497o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T15:31:27Z",
-        "summary": "The PM received a standing ovation as he spoke about his late dad while setting out reforms to social care."
       }
     ],
     "saudi": [
