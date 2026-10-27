@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-27T08:22:26.130682Z",
+  "generated_at": "2026-10-27T09:19:55.465129Z",
   "articles": {
     "world": [
+      {
+        "title": "Budget measures to include fuel duty freeze and food tariff cuts",
+        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T09:17:39Z",
+        "summary": "The BBC understands the government will also freeze fuel duty again in the Budget."
+      },
+      {
+        "title": "Why it could take time for a new Israeli government to form",
+        "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T08:37:30Z",
+        "summary": "Israel faces what many view as one of the most pivotal elections in the country's history."
+      },
       {
         "title": "Independent review announced into murder of student Henry Nowak",
         "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T07:51:57Z",
         "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review."
-      },
-      {
-        "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T06:49:19Z",
-        "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\"."
       },
       {
         "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
@@ -21,7 +27,13 @@
         "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks."
       },
       {
-        "title": "Chris Mason: Burnham faces crunch decisions and tricky trade-offs in his next 100 days",
+        "title": "Israel heads to polls for pivotal election defined by security and democracy",
+        "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T05:45:08Z",
+        "summary": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead."
+      },
+      {
+        "title": "Chris Mason: Burnham faces crunch decisions in his next 100 days",
         "url": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T23:03:14Z",
         "summary": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking."
@@ -129,12 +141,6 @@
         "summary": "The economic is positive now but come January things could become trickier for the Labour government"
       },
       {
-        "title": "Why Israel's election is one of the most important in its history",
-        "url": "https://www.bbc.co.uk/news/videos/c64g1wje3jjwo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-25T22:05:30Z",
-        "summary": "Security and democracy emerge as central issues in Israel's highly anticipated general election, as Middle East correspondent Lucy Williamson reports."
-      },
-      {
         "title": "Board of Deputies of British Jews declares Greens to be racist party",
         "url": "https://www.bbc.co.uk/news/articles/ckx2qyd17eqvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-25T18:05:17Z",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c9x28dgj2r0go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-24T10:04:29Z",
         "summary": "The Welsh government says it is consulting on an \"undergrounding-first approach\" to electricity lines."
-      },
-      {
-        "title": "Tory activist in 'contract killing broker' claim had worked for party HQ",
-        "url": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-24T02:52:10Z",
-        "summary": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told."
       }
     ],
     "saudi": [
@@ -275,6 +275,12 @@
   "archive": {
     "world": [
       {
+        "title": "Why it could take time for a new Israeli government to form",
+        "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T08:37:30Z",
+        "summary": "Israel faces what many view as one of the most pivotal elections in the country's history."
+      },
+      {
         "title": "Independent review announced into murder of student Henry Nowak",
         "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T07:51:57Z",
@@ -285,6 +291,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T06:33:11Z",
         "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks."
+      },
+      {
+        "title": "Israel heads to polls for pivotal election defined by security and democracy",
+        "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T05:45:08Z",
+        "summary": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead."
       },
       {
         "title": "Chris Mason: The Budget is imminent as tricky things pile up for Burnham",
@@ -3261,18 +3273,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cklyje46xnpgo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T09:10:03Z",
         "summary": "Andy Burnham wants to outline his ideas for a free-at-the-point-of-use social care system in his first speech to Labour conference as prime minister."
-      },
-      {
-        "title": "Should Andy Burnham call an early general election?",
-        "url": "https://www.bbc.co.uk/news/videos/c9rk3ger1gjzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T08:58:37Z",
-        "summary": "Young delegates at the Labour conference in Liverpool air their views."
-      },
-      {
-        "title": "Lucy Powell: Labour committed to pension triple lock",
-        "url": "https://www.bbc.co.uk/news/videos/c8r4vg6lz9xdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T08:09:23Z",
-        "summary": "The Education Secretary Lucy Powell reaffirmed Labour's manifesto pledge to maintain the triple lock."
       }
     ],
     "saudi": [
