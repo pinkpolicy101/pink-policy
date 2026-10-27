@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-10-27T07:29:53.628118Z",
+  "generated_at": "2026-10-27T08:22:26.130682Z",
   "articles": {
     "world": [
+      {
+        "title": "Independent review announced into murder of student Henry Nowak",
+        "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T07:51:57Z",
+        "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review."
+      },
       {
         "title": "Healey pledges cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
         "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T06:49:19Z",
         "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\"."
+      },
+      {
+        "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+        "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T06:33:11Z",
+        "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks."
       },
       {
         "title": "Chris Mason: Burnham faces crunch decisions and tricky trade-offs in his next 100 days",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c63r5779vyl9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-24T02:52:10Z",
         "summary": "Jack Ross was contracted to do social media work for the party until earlier this year, the BBC has been told."
-      },
-      {
-        "title": "How does the UK state pension compare with other countries?",
-        "url": "https://www.bbc.co.uk/news/articles/c3gr84w85glyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-24T00:09:12Z",
-        "summary": "Do British pensioners have it better or worse than those in other countries?"
-      },
-      {
-        "title": "Green councillors face Labour deadline to disown Zionism policy",
-        "url": "https://www.bbc.co.uk/news/articles/c81dwz4ygz94o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-23T17:37:14Z",
-        "summary": "Green leaders have been given until Sunday to disown their party's \"Zionism is racism\" conference vote."
       }
     ],
     "saudi": [
@@ -274,6 +274,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Independent review announced into murder of student Henry Nowak",
+        "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T07:51:57Z",
+        "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review."
+      },
+      {
+        "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
+        "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T06:33:11Z",
+        "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks."
+      },
       {
         "title": "Chris Mason: The Budget is imminent as tricky things pile up for Burnham",
         "url": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
@@ -3261,18 +3273,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c8r4vg6lz9xdo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T08:09:23Z",
         "summary": "The Education Secretary Lucy Powell reaffirmed Labour's manifesto pledge to maintain the triple lock."
-      },
-      {
-        "title": "UK tries to stop Trump's diesel export ban",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2z3vgy5xwo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T07:19:04Z",
-        "summary": "John Healey said the government is in talks with the US over Donald Trump's threat to stop exports."
-      },
-      {
-        "title": "Argentina threatens legal action against UK over Falkland Islands oil exploration",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yj1835y1wo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T03:50:40Z",
-        "summary": "President Javier Milei set a two-week deadline for the Sea Lion oilfield project to be scrapped."
       }
     ],
     "saudi": [
