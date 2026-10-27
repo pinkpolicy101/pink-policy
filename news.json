@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-27T16:54:50.688132Z",
+  "generated_at": "2026-10-27T17:51:58.464172Z",
   "articles": {
     "world": [
+      {
+        "title": "Turnout so far highest on record as Israelis vote in pivotal election",
+        "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T17:39:57Z",
+        "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu."
+      },
+      {
+        "title": "UK and EU officials to discuss freedom of movement",
+        "url": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T17:20:40Z",
+        "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
+      },
       {
         "title": "MPs and MSP detained by Israel and barred from entering West Bank",
         "url": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o?at_medium=RSS&at_campaign=rss",
@@ -31,24 +43,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c98rz14pjyy2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T14:12:38Z",
         "summary": "Polling published on Friday suggests incumbent Benjamin Netanyahu is almost neck-and-neck with former military chief Gadi Eisenkot in the race to become prime minister."
-      },
-      {
-        "title": "UK and EU officials to discuss freedom of movement",
-        "url": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T12:59:04Z",
-        "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
-      },
-      {
-        "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
-        "url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T12:25:14Z",
-        "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence."
-      },
-      {
-        "title": "Turnout so far highest on record as Israelis vote in pivotal election",
-        "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T11:11:33Z",
-        "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu."
       },
       {
         "title": "What is the Budget and what could be in it?",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-25T07:15:38Z",
         "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
+      },
+      {
+        "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T06:00:15Z",
+        "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
       }
     ],
     "saudi": [
