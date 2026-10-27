@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-10-27T12:16:24.487789Z",
+  "generated_at": "2026-10-27T13:04:38.257637Z",
   "articles": {
     "world": [
       {
         "title": "UK and EU officials to discuss freedom of movement",
         "url": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T11:29:23Z",
+        "published_at": "2026-10-27T12:59:04Z",
         "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
       },
       {
-        "title": "Chancellor to cut tariffs on some food and freeze fuel duty to give families 'breathing space'",
+        "title": "Minimum wage increase set to slow for 18-20 year-olds",
         "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T11:15:53Z",
-        "summary": "A series of small announcements are part of John Healey's pledge to give households help with the cost of living."
+        "published_at": "2026-10-27T12:53:49Z",
+        "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
+      },
+      {
+        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
+        "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T12:28:35Z",
+        "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
+      },
+      {
+        "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
+        "url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T12:25:14Z",
+        "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence."
       },
       {
         "title": "Turnout so far highest in decades as Israelis vote in pivotal election",
@@ -73,12 +85,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqd093gk1rjeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T22:56:01Z",
         "summary": "The building has been described as a \"gloomy, mice-infested, bomb-curtained rabbit warren\"."
-      },
-      {
-        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-        "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T19:27:21Z",
-        "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
       },
       {
         "title": "Political battle intensifies within Labour over Rosebank oil field",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-25T10:03:17Z",
         "summary": "The move will take funding for the 10-year programme to more than \u00a340bn."
-      },
-      {
-        "title": "Rosebank: Life on the oil field at the centre of a political storm",
-        "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-25T07:15:38Z",
-        "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
       }
     ],
     "saudi": [
@@ -274,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
+        "url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T12:25:14Z",
+        "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence."
+      },
       {
         "title": "What does Israel's election mean for Gaza - and the world",
         "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
@@ -3267,12 +3273,6 @@
         "url": "https://www.bbc.co.uk/news/videos/crx2z07w8yxeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T14:37:39Z",
         "summary": "Burnham pledged to take more control of electricity prices by expanding renewables and and nuclear, with a more pragmatic approach to the North Sea."
-      },
-      {
-        "title": "Rayner announces crackdown on 'cowboy' leasehold property agents",
-        "url": "https://www.bbc.co.uk/news/articles/cjr4vgnq71kpo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T13:07:16Z",
-        "summary": "The housing secretary used her Labour conference speech to announce protections for leaseholders facing 'injustice'."
       }
     ],
     "saudi": [
