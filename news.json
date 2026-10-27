@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-10-27T13:57:45.330576Z",
+  "generated_at": "2026-10-27T14:55:14.179865Z",
   "articles": {
     "world": [
+      {
+        "title": "Norway and Finland leaders hold rare call with Putin",
+        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T14:23:05Z",
+        "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year."
+      },
+      {
+        "title": "Political rivals, and their wives, vote in Israeli election",
+        "url": "https://www.bbc.co.uk/news/videos/c98rz14pjyy2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T14:12:38Z",
+        "summary": "Polling published on Friday suggests incumbent Benjamin Netanyahu is almost neck-and-neck with former military chief Gadi Eisenkot in the race to become prime minister."
+      },
+      {
+        "title": "MPs and MSP detained by Israel and barred from entering West Bank",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T13:58:49Z",
+        "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces."
+      },
       {
         "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
         "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T13:18:37Z",
         "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
-      },
-      {
-        "title": "Norway and Finland leaders hold rare call with Putin",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T13:12:24Z",
-        "summary": "This is the first time European leaders have had direct communication with Russia's president in more than a year."
       },
       {
         "title": "UK and EU officials to discuss freedom of movement",
@@ -21,19 +33,13 @@
         "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
       },
       {
-        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-        "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T12:28:35Z",
-        "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
-      },
-      {
         "title": "Co-ordinated cattle raids kill at least 72 people in South Sudan",
         "url": "https://www.bbc.co.uk/news/articles/cr3wvl9qz3v2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T12:25:14Z",
         "summary": "The cycle of revenge attacks continue as the country heads towards its first election since independence."
       },
       {
-        "title": "Turnout so far at record levels as Israelis vote in pivotal election",
+        "title": "Turnout so far highest on record as Israelis vote in pivotal election",
         "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T11:11:33Z",
         "summary": "The elections - the first since the Hamas-led attacks on Israel and the wars which followed - are widely seen as a referendum on Benjamin Netanyahu."
@@ -49,12 +55,6 @@
         "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T10:17:36Z",
         "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast."
-      },
-      {
-        "title": "MPs and MSP detained by Israel and barred from entering West Bank",
-        "url": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T10:11:46Z",
-        "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces."
       },
       {
         "title": "The Global Story",
@@ -111,22 +111,10 @@
         "summary": "Millions joined a 'Lula's Army' channel that helped to transform online enthusiasm into real-world mobilisation."
       },
       {
-        "title": "What in the World",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct98yb?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T14:55:00Z",
-        "summary": "The Student List-Students Win aren\u2019t politicians, but the movement won the snap election"
-      },
-      {
         "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
         "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T11:39:16Z",
         "summary": "The firebrand left-winger, who has at times been at odds with Trump, has won his fourth term as Brazil's president."
-      },
-      {
-        "title": "Five ways Trump has changed immigration in the US",
-        "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T11:29:02Z",
-        "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations."
       },
       {
         "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
@@ -181,6 +169,18 @@
         "url": "https://www.bbc.co.uk/news/articles/cqm24j9y9zn7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-25T10:03:17Z",
         "summary": "The move will take funding for the 10-year programme to more than \u00a340bn."
+      },
+      {
+        "title": "Rosebank: Life on the oil field at the centre of a political storm",
+        "url": "https://www.bbc.co.uk/news/articles/cqy8ljkle97ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T07:15:38Z",
+        "summary": "Scotland editor James Cook finds out what life is like on board a ship in an untapped oil field awaiting its fate."
+      },
+      {
+        "title": "Four ways Labour could raise money in the Budget without hiking income tax",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn9p55np2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-25T06:00:15Z",
+        "summary": "Chancellor John Healey may need to raise money to boost his fiscal headroom - BBC Verify examines what options could be on the table."
       }
     ],
     "saudi": [
@@ -274,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Political rivals, and their wives, vote in Israeli election",
+        "url": "https://www.bbc.co.uk/news/videos/c98rz14pjyy2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T14:12:38Z",
+        "summary": "Polling published on Friday suggests incumbent Benjamin Netanyahu is almost neck-and-neck with former military chief Gadi Eisenkot in the race to become prime minister."
+      },
       {
         "title": "Norway and Finland leaders hold rare call with Putin",
         "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
@@ -3267,12 +3273,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqn4k9nypxjro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T15:14:39Z",
         "summary": "The prime minister said he wants to reduce energy costs in his first conference speech as Labour leader."
-      },
-      {
-        "title": "Burnham pays emotional tribute to his dad",
-        "url": "https://www.bbc.co.uk/news/videos/cm3wjgd0x504o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T15:04:55Z",
-        "summary": "\"The UK my dad represented was the one I believe in\", Andy Burnham says in his conference address."
       }
     ],
     "saudi": [
