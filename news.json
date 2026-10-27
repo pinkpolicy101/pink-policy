@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-27T23:13:06.109825Z",
+  "generated_at": "2026-10-27T23:41:21.728735Z",
   "articles": {
     "world": [
+      {
+        "title": "Watch: 'No clear winner' in Israel election - what happens now?",
+        "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T23:27:13Z",
+        "summary": "Polls have closed in the Israeli election, but there is no clear winner."
+      },
       {
         "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
         "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
@@ -91,12 +97,6 @@
         "url": "https://www.bbc.co.uk/sounds/play/w3ct8mjf?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T10:00:00Z",
         "summary": "A fierce election campaign ended in the defeat of another Bolsonaro."
-      },
-      {
-        "title": "Why it could take time for a new Israeli government to form",
-        "url": "https://www.bbc.co.uk/news/videos/c574p31l1l2no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T08:37:30Z",
-        "summary": "Israel faces what many view as one of the most pivotal elections in the country's history."
       },
       {
         "title": "Independent review announced into murder of student Henry Nowak",
@@ -195,12 +195,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T12:15:01Z",
         "summary": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand."
-      },
-      {
-        "title": "Watch: CCTV shows people take cover as missile hits Riyadh airport",
-        "url": "https://www.bbc.co.uk/news/videos/cj4g17wz7gv0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T09:38:03Z",
-        "summary": "Footage from inside the airport shows the moment the strike hit on Saturday."
       }
     ],
     "us": [
@@ -256,6 +250,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Watch: 'No clear winner' in Israel election - what happens now?",
+        "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T23:27:13Z",
+        "summary": "Polls have closed in the Israeli election, but there is no clear winner."
+      },
       {
         "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
         "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
@@ -3249,12 +3249,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T17:14:10Z",
         "summary": "Her appointment by the king makes her only the second woman to lead a government in the Arab world."
-      },
-      {
-        "title": "What is the triple lock and why are people talking about it?",
-        "url": "https://www.bbc.co.uk/news/articles/cq6m03ld7nvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T17:09:46Z",
-        "summary": "The triple lock guarantees that the state pension is not overtaken by inflation or wage increases."
       }
     ],
     "saudi": [
