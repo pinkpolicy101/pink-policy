@@ -1,18 +1,36 @@
 {
-  "generated_at": "2026-10-28T07:01:48.093771Z",
+  "generated_at": "2026-10-28T08:04:55.059319Z",
   "articles": {
     "world": [
+      {
+        "title": "What the changes to gas bills mean for you",
+        "url": "https://www.bbc.co.uk/news/videos/cqkgje0r2jl4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T07:59:14Z",
+        "summary": "The chancellor announced that standing charges are to be scrapped from household gas bills hours ahead of the Budget."
+      },
+      {
+        "title": "What is in the iconic red box?",
+        "url": "https://www.bbc.co.uk/news/videos/cmj6j0k5ernzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T07:41:28Z",
+        "summary": "UK Chancellor John Healey will be carrying a red box as he delivers his Budget today - but what's in the box?"
+      },
+      {
+        "title": "Energy bill help, minimum wage rise and bank taxes - what could be in the Budget?",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T07:39:54Z",
+        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
+      },
+      {
+        "title": "What to expect from this year's Budget",
+        "url": "https://www.bbc.co.uk/news/videos/c6p9gv5vd70lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T07:12:55Z",
+        "summary": "The BBC's political correspondent Harry Farley explains what to expect ahead of John Healey's first Budget."
+      },
       {
         "title": "Watch: What happens now after close vote in Israeli election?",
         "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T04:22:59Z",
         "summary": "Polls have closed in the Israeli election, but there is no clear winner."
-      },
-      {
-        "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T00:03:10Z",
-        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
       },
       {
         "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
@@ -93,12 +111,6 @@
         "summary": "The BBC's diplomatic correspondent James Landale reports from Jerusalem as ballots are cast."
       },
       {
-        "title": "The Global Story",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct8mjf?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T10:00:00Z",
-        "summary": "A fierce election campaign ended in the defeat of another Bolsonaro."
-      },
-      {
         "title": "Independent review announced into murder of student Henry Nowak",
         "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T07:51:57Z",
@@ -151,18 +163,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T10:28:12Z",
         "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April."
-      },
-      {
-        "title": "Fireworks heard as BBC reports Lula's victory in S\u00e3o Paulo",
-        "url": "https://www.bbc.co.uk/news/videos/cq1kdl12y9rdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T03:29:55Z",
-        "summary": "Brazil's left-wing President Lula is elected for a fourth term, beating Fl\u00e1vio Bolsonaro in a knife-edge vote"
-      },
-      {
-        "title": "Fl\u00e1vio Bolsonaro calls for elections to be annulled",
-        "url": "https://www.bbc.co.uk/news/videos/cmd6dw9l8ygvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T03:26:30Z",
-        "summary": "Brazil's left-wing President Lula is elected for a fourth term, beating Fl\u00e1vio Bolsonaro in a knife-edge vote"
       },
       {
         "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
@@ -256,6 +256,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "What the changes to gas bills mean for you",
+        "url": "https://www.bbc.co.uk/news/videos/cqkgje0r2jl4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T07:59:14Z",
+        "summary": "The chancellor announced that standing charges are to be scrapped from household gas bills hours ahead of the Budget."
+      },
+      {
+        "title": "What is in the iconic red box?",
+        "url": "https://www.bbc.co.uk/news/videos/cmj6j0k5ernzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T07:41:28Z",
+        "summary": "UK Chancellor John Healey will be carrying a red box as he delivers his Budget today - but what's in the box?"
+      },
+      {
+        "title": "What to expect from this year's Budget",
+        "url": "https://www.bbc.co.uk/news/videos/c6p9gv5vd70lo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T07:12:55Z",
+        "summary": "The BBC's political correspondent Harry Farley explains what to expect ahead of John Healey's first Budget."
+      },
       {
         "title": "Watch: 'No clear winner' in Israel election - what happens now?",
         "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
@@ -3237,24 +3255,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmeq847qxde5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-29T19:13:14Z",
         "summary": "The key thing to understand about Andy Burnham's speech is these were the words and the delivery of both a new prime minister and a grieving son, the BBC's political editor writes."
-      },
-      {
-        "title": "Burnham vows to end existing pension triple lock in 2030 to help fund care",
-        "url": "https://www.bbc.co.uk/news/articles/cve8x724e9ezo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T17:39:06Z",
-        "summary": "The PM was at times emotional during his conference speech in which he outlined his long-term plan for the UK."
-      },
-      {
-        "title": "Lindsay Clancy appears in court as her lawyer pushes for murder case to be dismissed",
-        "url": "https://www.bbc.co.uk/news/articles/c8046wd93l44o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T17:31:30Z",
-        "summary": "Clancy's defence lawyer wants her to be cleared of murdering her three children in 2023 but prosecutors say the state proved guilt."
-      },
-      {
-        "title": "First female prime minister named in Morocco after winning elections",
-        "url": "https://www.bbc.co.uk/news/articles/c674kkjllw17o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-29T17:14:10Z",
-        "summary": "Her appointment by the king makes her only the second woman to lead a government in the Arab world."
       }
     ],
     "saudi": [
