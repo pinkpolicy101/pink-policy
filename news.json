@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T21:49:00.938970Z",
+  "generated_at": "2026-10-28T22:47:52.207624Z",
   "articles": {
     "world": [
       {
@@ -13,12 +13,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cqd09rdxd78go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T21:22:11Z",
         "summary": "What the latest tax and spending plans could mean for your bills, pay and pocket."
-      },
-      {
-        "title": "Fl\u00e1vio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T21:07:06Z",
-        "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
       },
       {
         "title": "Israel's election deadlock is a sign of the country's deep divisions",
@@ -153,12 +147,6 @@
         "summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget."
       },
       {
-        "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
-        "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T21:46:43Z",
-        "summary": "As the US president casts doubt on the security of the midterm elections, BBC Verify examines his claims."
-      },
-      {
         "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
         "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T21:09:12Z",
@@ -181,15 +169,33 @@
         "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T18:28:23Z",
         "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
+      },
+      {
+        "title": "Healey to promise \u00a315m to tackle misogyny in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cme36gez2d3qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T18:23:09Z",
+        "summary": "The Conservatives doubt whether women and girls will feel safer as a result of the funding."
+      },
+      {
+        "title": "UK and EU officials to discuss freedom of movement",
+        "url": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T17:20:40Z",
+        "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
       }
     ],
     "saudi": [],
     "us": [
       {
-        "title": "Fl\u00e1vio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T21:07:06Z",
-        "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
+        "title": "Details of thousands of US immigration agents leaked in major hack",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T22:12:43Z",
+        "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff."
+      },
+      {
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T21:16:30Z",
+        "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs."
       },
       {
         "title": "US central bank holds interest rates steady ahead of midterm elections \u2013 here's what that means",
@@ -220,12 +226,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cvglwg033027o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T11:00:12Z",
         "summary": "Democrats have promised a wave of probes into the Trump administration if they win back the House."
-      },
-      {
-        "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T02:51:25Z",
-        "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied."
       },
       {
         "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
@@ -3421,6 +3421,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Details of thousands of US immigration agents leaked in major hack",
+        "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T22:12:43Z",
+        "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff."
+      },
+      {
+        "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
+        "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T21:16:30Z",
+        "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs."
+      },
       {
         "title": "US central bank holds interest rates steady ahead of midterm elections \u2013 here's what that means",
         "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
