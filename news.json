@@ -1,18 +1,36 @@
 {
-  "generated_at": "2026-10-28T20:51:05.105801Z",
+  "generated_at": "2026-10-28T21:49:00.938970Z",
   "articles": {
     "world": [
+      {
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T21:38:54Z",
+        "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said."
+      },
+      {
+        "title": "What does John Healey's budget mean for Scotland?",
+        "url": "https://www.bbc.co.uk/news/videos/cqd09rdxd78go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T21:22:11Z",
+        "summary": "What the latest tax and spending plans could mean for your bills, pay and pocket."
+      },
+      {
+        "title": "Fl\u00e1vio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
+        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T21:07:06Z",
+        "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
+      },
+      {
+        "title": "Israel's election deadlock is a sign of the country's deep divisions",
+        "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T20:53:02Z",
+        "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale."
+      },
       {
         "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
         "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T20:24:39Z",
         "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
-      },
-      {
-        "title": "Fl\u00e1vio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
-        "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T20:22:49Z",
-        "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
       },
       {
         "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
@@ -117,18 +135,6 @@
         "summary": "The chancellor gave respects at the onset of his Autumn Budget speech."
       },
       {
-        "title": "Chancellor holds red box outside No 11",
-        "url": "https://www.bbc.co.uk/news/videos/cjx23vypkl6vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T11:42:48Z",
-        "summary": "Inside that box are the details of this year's Budget, which Chancellor John Healey will reveal when he delivers his speech."
-      },
-      {
-        "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-        "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T10:35:13Z",
-        "summary": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties."
-      },
-      {
         "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
         "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T10:18:40Z",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T18:28:23Z",
         "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
-      },
-      {
-        "title": "Healey to promise \u00a315m to tackle misogyny in Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cme36gez2d3qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T18:23:09Z",
-        "summary": "The Conservatives doubt whether women and girls will feel safer as a result of the funding."
       }
     ],
     "saudi": [],
@@ -188,7 +188,7 @@
       {
         "title": "Fl\u00e1vio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
         "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T20:22:49Z",
+        "published_at": "2026-10-28T21:07:06Z",
         "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
       },
       {
@@ -267,6 +267,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "High-speed train crash kills at least 68 people in Spain",
+        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T21:38:54Z",
+        "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said."
+      },
+      {
+        "title": "What does John Healey's budget mean for Scotland?",
+        "url": "https://www.bbc.co.uk/news/videos/cqd09rdxd78go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T21:22:11Z",
+        "summary": "What the latest tax and spending plans could mean for your bills, pay and pocket."
+      },
+      {
+        "title": "Israel's election deadlock is a sign of the country's deep divisions",
+        "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T20:53:02Z",
+        "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale."
+      },
       {
         "title": "Fl\u00e1vio Bolsonaro lands in Miami after defeat in Brazil's presidential election",
         "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
@@ -3248,24 +3266,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T11:37:46Z",
         "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
-      },
-      {
-        "title": "'Why does it have to be OAPs versus young people?'",
-        "url": "https://www.bbc.co.uk/news/videos/cmx2z23znn0do?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T09:43:37Z",
-        "summary": "Should the triple lock on pensions end? Entrepreneur Tim Allan and comedian James Gardner speak alongside the BBC Debate Night audience."
-      },
-      {
-        "title": "Zimbabwe tycoon Wicknell Chivayo and wife killed in helicopter crash",
-        "url": "https://www.bbc.co.uk/news/articles/cr4gvg0yenl4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T07:29:23Z",
-        "summary": "Chivayo was known for his lavish lifestyle, close ties to African presidents and lucrative government contracts."
-      },
-      {
-        "title": "Japan raises permanent residency fee by 20 times",
-        "url": "https://www.bbc.co.uk/news/articles/c6y8z8xeg8j1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T02:57:43Z",
-        "summary": "The hikes are part of immigration policy changes introduced to manage Japan's growing foreign population."
       }
     ],
     "saudi": [
