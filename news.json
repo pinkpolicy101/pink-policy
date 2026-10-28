@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:53:11.384314Z",
+  "generated_at": "2026-10-28T03:52:37.648374Z",
   "articles": {
     "world": [
       {
@@ -203,6 +203,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T02:51:25Z",
         "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied."
+      },
+      {
+        "title": "Defeated presidential candidate Fl\u00e1vio Bolsonaro arrives in US after Brazil cancels his passports",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T02:47:45Z",
+        "summary": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities."
       },
       {
         "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
@@ -3410,6 +3416,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Defeated presidential candidate Fl\u00e1vio Bolsonaro arrives in US after Brazil cancels his passports",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T02:47:45Z",
+        "summary": "The defeated presidential candidate's arrival in the US came hours after he failed to turn in his passports to Brazilian authorities."
+      },
       {
         "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
         "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
