@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-28T14:59:48.964679Z",
+  "generated_at": "2026-10-28T15:58:19.294118Z",
   "articles": {
     "world": [
       {
         "title": "Budget 2026: Key points at a glance",
         "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T14:52:42Z",
+        "published_at": "2026-10-28T15:37:50Z",
         "summary": "Here\u2019s what you need to know from John Healey\u2019s first Budget, as the chancellor sets out the government\u2019s tax and spending plans."
       },
       {
         "title": "Your pay, energy bills and savings: How the Budget affects you",
         "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T14:50:31Z",
+        "published_at": "2026-10-28T15:32:58Z",
         "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how."
+      },
+      {
+        "title": "What are the standout points from the Budget?",
+        "url": "https://www.bbc.co.uk/news/videos/cmdx3kne9r6go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T15:00:45Z",
+        "summary": "Political editor Chris Mason analyses Chancellor John Healey's Budget 2026 announcements."
       },
       {
         "title": "Burnham insists 'no confusion at all' over his Brexit position",
@@ -175,16 +181,16 @@
         "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T18:09:49Z",
         "summary": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans."
-      },
-      {
-        "title": "No 10 appears to backtrack on PM's freedom of movement referendum suggestion",
-        "url": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T17:50:00Z",
-        "summary": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU."
       }
     ],
     "saudi": [],
     "us": [
+      {
+        "title": "Watch: Moment Fl\u00e1vio Bolsonaro arrives in Florida",
+        "url": "https://www.bbc.co.uk/news/videos/ck79pj82jp4qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T14:58:38Z",
+        "summary": "The defeated Brazilian presidential candidate arrived in the US by private jet on Tuesday morning with his wife and two daughters."
+      },
       {
         "title": "Four investigations Democrats could launch if they win control of Congress",
         "url": "https://www.bbc.co.uk/news/articles/cvglwg033027o?at_medium=RSS&at_campaign=rss",
@@ -249,6 +255,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "What are the standout points from the Budget?",
+        "url": "https://www.bbc.co.uk/news/videos/cmdx3kne9r6go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T15:00:45Z",
+        "summary": "Political editor Chris Mason analyses Chancellor John Healey's Budget 2026 announcements."
+      },
       {
         "title": "Your pay, energy bills and savings: How the Budget affects you",
         "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
@@ -3242,12 +3254,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cky9z7z53n2yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T12:59:05Z",
         "summary": "John Swinney had referred to Andy Burnham as the \"last prime minister\"."
-      },
-      {
-        "title": "Botswana condemned for slaughtering elephants for independence celebrations",
-        "url": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T12:06:28Z",
-        "summary": "The government authorises the hunting of 23 elephants and dozens of other wild animals for independence day feasts."
       }
     ],
     "saudi": [
@@ -3403,6 +3409,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Watch: Moment Fl\u00e1vio Bolsonaro arrives in Florida",
+        "url": "https://www.bbc.co.uk/news/videos/ck79pj82jp4qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T14:58:38Z",
+        "summary": "The defeated Brazilian presidential candidate arrived in the US by private jet on Tuesday morning with his wife and two daughters."
+      },
       {
         "title": "Four investigations Democrats could launch if they win Congress",
         "url": "https://www.bbc.co.uk/news/articles/cvglwg033027o?at_medium=RSS&at_campaign=rss",
