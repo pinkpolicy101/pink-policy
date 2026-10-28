@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-10-27T23:41:21.728735Z",
+  "generated_at": "2026-10-28T00:09:50.421649Z",
   "articles": {
     "world": [
       {
         "title": "Watch: 'No clear winner' in Israel election - what happens now?",
         "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T23:27:13Z",
+        "published_at": "2026-10-28T00:04:29Z",
         "summary": "Polls have closed in the Israeli election, but there is no clear winner."
+      },
+      {
+        "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T00:03:10Z",
+        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
       },
       {
         "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
@@ -37,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cwz0vgjj14lmo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T19:12:31Z",
         "summary": "The Chancellor is due to deliver his first Budget."
-      },
-      {
-        "title": "Tax on banks, energy bill help and minimum wage rise - what could be in the Budget?",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T18:45:56Z",
-        "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
       },
       {
         "title": "Norway and Finland leaders hold rare call with Putin",
@@ -198,6 +198,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+        "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T23:41:23Z",
+        "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them."
+      },
       {
         "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
         "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
@@ -3404,6 +3410,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
+        "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T23:41:23Z",
+        "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them."
+      },
       {
         "title": "Trump says US voter fraud is 'rampant' - evidence suggests it is extremely rare",
         "url": "https://www.bbc.co.uk/news/articles/ckeq3vezxlx1o?at_medium=RSS&at_campaign=rss",
