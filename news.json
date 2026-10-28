@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:00:08.826828Z",
+  "generated_at": "2026-10-28T02:53:11.384314Z",
   "articles": {
     "world": [
       {
@@ -94,7 +94,7 @@
       },
       {
         "title": "The Global Story",
-        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+        "url": "https://www.bbc.co.uk/sounds/play/w3ct8mjf?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T10:00:00Z",
         "summary": "A fierce election campaign ended in the defeat of another Bolsonaro."
       },
@@ -199,9 +199,15 @@
     ],
     "us": [
       {
+        "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
+        "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T02:51:25Z",
+        "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied."
+      },
+      {
         "title": "Alexander brothers each sentenced to 30 years in prison in sex trafficking case",
         "url": "https://www.bbc.co.uk/news/articles/cqn498mng08ro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T23:41:23Z",
+        "published_at": "2026-10-28T02:20:25Z",
         "summary": "The trio - two of whom were high-profile US real estate moguls - were found guilty using their social status to lure women to parties and then raping them."
       },
       {
@@ -215,12 +221,6 @@
         "url": "https://www.bbc.co.uk/news/videos/ck5yn5rlz978o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T20:52:30Z",
         "summary": "Cuban delegates reacted in response to claims from US ambassador Mike Waltz that the Havana government has profited off the forced labor of its citizens."
-      },
-      {
-        "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
-        "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T20:02:01Z",
-        "summary": "The California Democrat has faced multiple sexual misconduct allegations which he has denied."
       },
       {
         "title": "Donald Trump's biggest economic problem looks strangely familiar",
