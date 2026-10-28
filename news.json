@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-28T17:53:02.823728Z",
+  "generated_at": "2026-10-28T18:56:31.510260Z",
   "articles": {
     "world": [
+      {
+        "title": "Burnham rules out early general election in next 12 months",
+        "url": "https://www.bbc.co.uk/news/articles/cqx29dj3vv50o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T18:41:42Z",
+        "summary": "The prime minister has denied speculation from some opposition parties that he will go to the country in spring 2027."
+      },
+      {
+        "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+        "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T18:12:24Z",
+        "summary": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years."
+      },
+      {
+        "title": "Healey tells departments to make 1% cuts to fund defence",
+        "url": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T17:52:48Z",
+        "summary": "The reduction in public spending will go towards paying for the Defence Investment Plan."
+      },
       {
         "title": "Netanyahu shares AI image of Arab voters during Israeli election",
         "url": "https://www.bbc.co.uk/news/videos/cmr4y12pp5x9o?at_medium=RSS&at_campaign=rss",
@@ -9,10 +27,10 @@
         "summary": "The image claims to show Arab-Israelis queueing to vote, but BBC Verify analysis shows that it has been generated or manipulated by AI."
       },
       {
-        "title": "Healey tells departments to make 1% cuts to fund defence",
-        "url": "https://www.bbc.co.uk/news/articles/c65ynl0px107o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T17:32:20Z",
-        "summary": "The reduction in public spending will go towards paying for the Defence Investment Plan."
+        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T17:32:51Z",
+        "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options."
       },
       {
         "title": "Burnham insists 'no confusion at all' over his Brexit position",
@@ -43,6 +61,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T16:43:35Z",
         "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how."
+      },
+      {
+        "title": "What we know as Fl\u00e1vio Bolsonaro lands in US after Brazil election loss",
+        "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T16:30:29Z",
+        "summary": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order."
       },
       {
         "title": "Watch: What are the key points from the Budget and how will they be funded?",
@@ -157,30 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T17:20:40Z",
         "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
-      },
-      {
-        "title": "MPs and MSP detained by Israel and barred from entering West Bank",
-        "url": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T16:34:44Z",
-        "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces."
-      },
-      {
-        "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
-        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T15:01:27Z",
-        "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
-      },
-      {
-        "title": "Independent review announced into murder of student Henry Nowak",
-        "url": "https://www.bbc.co.uk/news/articles/cv70pnw784x7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T07:51:57Z",
-        "summary": "\"We must get to truth of what happened before, during and after that awful night,\" the home secretary says while announcing the review."
-      },
-      {
-        "title": "Rise in sales of radios and tinned foods, say retailers, after call to stock up",
-        "url": "https://www.bbc.co.uk/news/articles/c5rmy84np001o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T06:33:11Z",
-        "summary": "Figures obtained by BBC Newsnight show large spikes in sales of torches, radios and power banks."
       }
     ],
     "saudi": [],
@@ -188,7 +188,7 @@
       {
         "title": "US civil rights leader Dolores Huerta dies aged 96",
         "url": "https://www.bbc.co.uk/news/articles/cwp8gdk3rzn3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T17:16:45Z",
+        "published_at": "2026-10-28T18:48:15Z",
         "summary": "Huerta fought for farm workers' rights in the 1960s and 1970s and had continued to work addressing immigration and voting issues."
       },
       {
@@ -262,10 +262,28 @@
   "archive": {
     "world": [
       {
+        "title": "Burnham rules out early general election in next 12 months",
+        "url": "https://www.bbc.co.uk/news/articles/cqx29dj3vv50o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T18:41:42Z",
+        "summary": "The prime minister has denied speculation from some opposition parties that he will go to the country in spring 2027."
+      },
+      {
+        "title": "Tax thresholds remain unchanged - here's what it means for your pay",
+        "url": "https://www.bbc.co.uk/news/articles/clydn7r5pn1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T18:12:24Z",
+        "summary": "The point at which you start to pay tax, and the point where you tip into paying a higher rate of tax have been frozen for three more years."
+      },
+      {
         "title": "Netanyahu shares AI image of Arab voters during Israeli election",
         "url": "https://www.bbc.co.uk/news/videos/cmr4y12pp5x9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T17:51:20Z",
         "summary": "The image claims to show Arab-Israelis queueing to vote, but BBC Verify analysis shows that it has been generated or manipulated by AI."
+      },
+      {
+        "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
+        "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T17:32:51Z",
+        "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options."
       },
       {
         "title": "Healey tells departments to make 1% cuts to fund defence",
@@ -284,6 +302,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cm78pljvqvxeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T16:52:16Z",
         "summary": "The chancellor has had to grapple with a mix of public finances and household finances being a mess."
+      },
+      {
+        "title": "What we know as Fl\u00e1vio Bolsonaro lands in US after Brazil election loss",
+        "url": "https://www.bbc.co.uk/news/videos/c6x29djyx7g9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T16:30:29Z",
+        "summary": "The BBC's Ione Wells unpacks Bolsonaro's journey to Miami after losing Brazil's presidential election and facing a passport surrender order."
       },
       {
         "title": "Watch: What are the key points from the Budget and how will they be funded?",
@@ -3236,30 +3260,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq8r6rjdvlx6o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T23:42:10Z",
         "summary": "The death by lethal injection was scheduled to happen earlier on Wednesday before judges from a lower court paused the execution."
-      },
-      {
-        "title": "Putin shows no sign of stopping the war as Russia doubles down on Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2ze420kpyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T23:10:06Z",
-        "summary": "A foreign policy speech by the Russian president will be keenly watched, but all signs point to the full-scale invasion continuing."
-      },
-      {
-        "title": "Vape prices to rise as new tax takes effect",
-        "url": "https://www.bbc.co.uk/news/articles/c6j4jrjgv2j7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T23:02:11Z",
-        "summary": "Vaping is about to becoming more expensive due to a new tax on products."
-      },
-      {
-        "title": "Conservatives pledge 'tough love' benefit rules for under-25s",
-        "url": "https://www.bbc.co.uk/news/articles/cklyjy9pv93yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T22:38:33Z",
-        "summary": "The party says it would bring in new work requirements for young people claiming Universal Credit."
-      },
-      {
-        "title": "Employers should teach primary-age children about work, says Milburn",
-        "url": "https://www.bbc.co.uk/news/articles/cr2kwlw0p3v9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T21:40:31Z",
-        "summary": "The author of a major report into youth activity in the UK says children as young as four should be learning about careers."
       }
     ],
     "saudi": [
