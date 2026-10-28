@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-28T10:53:25.141094Z",
+  "generated_at": "2026-10-28T11:51:58.527944Z",
   "articles": {
     "world": [
+      {
+        "title": "Chancellor holds red box outside No 11",
+        "url": "https://www.bbc.co.uk/news/videos/cjx23vypkl6vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T11:42:48Z",
+        "summary": "Inside that box are the details of this year's Budget, which Chancellor John Healey will reveal when he delivers his speech."
+      },
       {
         "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
         "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
@@ -13,6 +19,12 @@
         "url": "https://www.bbc.co.uk/news/videos/c63elx3x70jno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T10:29:19Z",
         "summary": "The BBC spoke to people in Cardiff and County Durham about their concerns ahead of the chancellor's Autumn Budget."
+      },
+      {
+        "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T10:17:54Z",
+        "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
       },
       {
         "title": "Former Conservative chancellor unsure Budget will 'fix big problems'",
@@ -37,12 +49,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cqe9lmgdnz45o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T08:36:45Z",
         "summary": "CEO Greg Jackson spoke to BBC Breakfast after the chancellor announced cuts to gas bills for millions."
-      },
-      {
-        "title": "What the changes to gas bills mean for you",
-        "url": "https://www.bbc.co.uk/news/videos/cqkgje0r2jl4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T07:59:14Z",
-        "summary": "The chancellor announced that standing charges are to be scrapped from household gas bills hours ahead of the Budget."
       },
       {
         "title": "Watch: What happens now after close vote in Israeli election?",
@@ -117,12 +123,6 @@
         "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
       },
       {
-        "title": "Trump v Obama - which president has the star power to get out the vote?",
-        "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T13:59:22Z",
-        "summary": "The BBC's Sarah Smith followed the current and former presidents as both parties hope their biggest names can drive midterm turnout."
-      },
-      {
         "title": "What does Israel's election mean for Gaza and the wider world?",
         "url": "https://www.bbc.co.uk/news/videos/ck240dg5n4gjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T10:17:36Z",
@@ -193,6 +193,12 @@
     ],
     "us": [
       {
+        "title": "Four investigations Democrats could launch if they win Congress",
+        "url": "https://www.bbc.co.uk/news/articles/cvglwg033027o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T11:00:12Z",
+        "summary": "Democrats have promised a wave of probes into the Trump administration if they win back the House."
+      },
+      {
         "title": "FBI raids California home tied to former Congressman Eric Swalwell - US media",
         "url": "https://www.bbc.co.uk/news/articles/cwvgrk0zx641o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T02:51:25Z",
@@ -251,10 +257,22 @@
   "archive": {
     "world": [
       {
+        "title": "Chancellor holds red box outside No 11",
+        "url": "https://www.bbc.co.uk/news/videos/cjx23vypkl6vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T11:42:48Z",
+        "summary": "Inside that box are the details of this year's Budget, which Chancellor John Healey will reveal when he delivers his speech."
+      },
+      {
         "title": "What do you want from the Budget?",
         "url": "https://www.bbc.co.uk/news/videos/c63elx3x70jno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T10:29:19Z",
         "summary": "The BBC spoke to people in Cardiff and County Durham about their concerns ahead of the chancellor's Autumn Budget."
+      },
+      {
+        "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
+        "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T10:17:54Z",
+        "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
       },
       {
         "title": "Former Conservative chancellor unsure Budget will 'fix big problems'",
@@ -3237,18 +3255,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T05:27:23Z",
         "summary": "A typical household faces an annual gas and electricity bill of \u00a31,999 from January, based on a key forecast."
-      },
-      {
-        "title": "Move to rejoin EU among options for UK, says Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cmlyewr0lnj3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T05:00:05Z",
-        "summary": "The prime minister tells the BBC the current Brexit settlement has caused \"more harm than good\"."
-      },
-      {
-        "title": "Watch: Moment a government building collapses into a river in Nepal amid floods",
-        "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T03:21:28Z",
-        "summary": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river."
       }
     ],
     "saudi": [
@@ -3404,6 +3410,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Four investigations Democrats could launch if they win Congress",
+        "url": "https://www.bbc.co.uk/news/articles/cvglwg033027o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T11:00:12Z",
+        "summary": "Democrats have promised a wave of probes into the Trump administration if they win back the House."
+      },
       {
         "title": "Defeated presidential candidate Fl\u00e1vio Bolsonaro arrives in US after Brazil cancels his passports",
         "url": "https://www.bbc.co.uk/news/articles/ckly0xpxp243o?at_medium=RSS&at_campaign=rss",
