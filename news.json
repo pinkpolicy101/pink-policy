@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-28T11:51:58.527944Z",
+  "generated_at": "2026-10-28T13:02:48.051406Z",
   "articles": {
     "world": [
+      {
+        "title": "John Healey pays homage to predecessor Rachel Reeves",
+        "url": "https://www.bbc.co.uk/news/videos/c95ynvr04vgdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T12:57:22Z",
+        "summary": "The chancellor gave respects at the onset of his Autumn Budget speech."
+      },
       {
         "title": "Chancellor holds red box outside No 11",
         "url": "https://www.bbc.co.uk/news/videos/cjx23vypkl6vo?at_medium=RSS&at_campaign=rss",
@@ -19,6 +25,12 @@
         "url": "https://www.bbc.co.uk/news/videos/c63elx3x70jno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T10:29:19Z",
         "summary": "The BBC spoke to people in Cardiff and County Durham about their concerns ahead of the chancellor's Autumn Budget."
+      },
+      {
+        "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+        "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T10:18:40Z",
+        "summary": "The energy minister described it as a \"major milestone\" for the East African nation."
       },
       {
         "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
@@ -45,10 +57,10 @@
         "summary": "Chancellor John Healey will set out his plans for UK taxes on 28 October."
       },
       {
-        "title": "Octopus Energy boss on standing charges",
-        "url": "https://www.bbc.co.uk/news/videos/cqe9lmgdnz45o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T08:36:45Z",
-        "summary": "CEO Greg Jackson spoke to BBC Breakfast after the chancellor announced cuts to gas bills for millions."
+        "title": "Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
+        "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T08:28:39Z",
+        "summary": "No official reason has been given for postponing next month\u2019s hearing to May 2027, family says."
       },
       {
         "title": "Watch: What happens now after close vote in Israeli election?",
@@ -79,12 +91,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T20:54:48Z",
         "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say."
-      },
-      {
-        "title": "Egypt court fines journalist Lina Attalah and orders news site's closure",
-        "url": "https://www.bbc.co.uk/news/articles/cw8rz14k1jvxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T20:44:40Z",
-        "summary": "Amnesty International said the verdict against Attalah and independent outlet Mada Masr represented \"a crushing blow to press freedom\"."
       },
       {
         "title": "What do we know about Chancellor John Healey?",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T10:28:12Z",
         "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April."
-      },
-      {
-        "title": "Healey's Budget needs to sustain the stronger economy through gathering clouds",
-        "url": "https://www.bbc.co.uk/news/articles/ck87z4ng2l03o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T00:26:49Z",
-        "summary": "The economic is positive now but come January things could become trickier for the Labour government"
       }
     ],
     "saudi": [
@@ -257,6 +257,12 @@
   "archive": {
     "world": [
       {
+        "title": "John Healey pays homage to predecessor Rachel Reeves",
+        "url": "https://www.bbc.co.uk/news/videos/c95ynvr04vgdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T12:57:22Z",
+        "summary": "The chancellor gave respects at the onset of his Autumn Budget speech."
+      },
+      {
         "title": "Chancellor holds red box outside No 11",
         "url": "https://www.bbc.co.uk/news/videos/cjx23vypkl6vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T11:42:48Z",
@@ -267,6 +273,12 @@
         "url": "https://www.bbc.co.uk/news/videos/c63elx3x70jno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T10:29:19Z",
         "summary": "The BBC spoke to people in Cardiff and County Durham about their concerns ahead of the chancellor's Autumn Budget."
+      },
+      {
+        "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
+        "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T10:18:40Z",
+        "summary": "The energy minister described it as a \"major milestone\" for the East African nation."
       },
       {
         "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
@@ -291,6 +303,12 @@
         "url": "https://www.bbc.co.uk/news/videos/cqe9lmgdnz45o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T08:36:45Z",
         "summary": "CEO Greg Jackson spoke to BBC Breakfast after the chancellor announced cuts to gas bills for millions."
+      },
+      {
+        "title": "Kenyan family protest extradition hearing delay of ex-British soldier accused of murdering kin",
+        "url": "https://www.bbc.co.uk/news/articles/cmly073ql392o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T08:28:39Z",
+        "summary": "No official reason has been given for postponing next month\u2019s hearing to May 2027, family says."
       },
       {
         "title": "What the changes to gas bills mean for you",
@@ -3237,24 +3255,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c51kx9ze1mdzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T08:40:01Z",
         "summary": "The murders of 12 women near Johannesburg has caused a outcry about the scale of violence against women."
-      },
-      {
-        "title": "Israel-bound flight diverted after fight between pilots",
-        "url": "https://www.bbc.co.uk/news/articles/cqjdv7pmj9dno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T07:51:26Z",
-        "summary": "Despite a brief emergency alert signalling a hijacking, the Israeli prime minister's office confirmed this had been ruled out."
-      },
-      {
-        "title": "Tories would keep the triple lock as it is, says party chairman",
-        "url": "https://www.bbc.co.uk/news/videos/c6x2z0jgg34po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T07:37:41Z",
-        "summary": "The triple lock, which was introduced but the Conservative-Lib Dem coalition in 2011, ensures state pensions rise by whichever is highest out of average earnings growth, consumer price index (CPI) inflation or 2.5%."
-      },
-      {
-        "title": "Household energy bills forecast to see biggest rise in four years",
-        "url": "https://www.bbc.co.uk/news/articles/cwz0zvj4m1myo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T05:27:23Z",
-        "summary": "A typical household faces an annual gas and electricity bill of \u00a31,999 from January, based on a key forecast."
       }
     ],
     "saudi": [
