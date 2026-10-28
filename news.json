@@ -1,18 +1,36 @@
 {
-  "generated_at": "2026-10-28T14:05:08.522811Z",
+  "generated_at": "2026-10-28T14:59:48.964679Z",
   "articles": {
     "world": [
       {
         "title": "Budget 2026: Key points at a glance",
         "url": "https://www.bbc.co.uk/news/articles/c6x2zrjl7kjno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T13:48:29Z",
+        "published_at": "2026-10-28T14:52:42Z",
         "summary": "Here\u2019s what you need to know from John Healey\u2019s first Budget, as the chancellor sets out the government\u2019s tax and spending plans."
+      },
+      {
+        "title": "Your pay, energy bills and savings: How the Budget affects you",
+        "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T14:50:31Z",
+        "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how."
       },
       {
         "title": "Burnham insists 'no confusion at all' over his Brexit position",
         "url": "https://www.bbc.co.uk/news/articles/cqlyejngjenxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T13:38:44Z",
+        "published_at": "2026-10-28T14:29:29Z",
         "summary": "The prime minister said it was his \"responsibility\" to improve the Brexit deal at a summit in Brussels next month."
+      },
+      {
+        "title": "Israel's election result is messy - here's why",
+        "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T14:26:24Z",
+        "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell."
+      },
+      {
+        "title": "Badenoch: Budget 'does not come close to meeting the moment'",
+        "url": "https://www.bbc.co.uk/news/videos/cw0730z029lyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T14:06:50Z",
+        "summary": "The Tory leader argued the Budget was not \"bold enough\" and the government had \"overspent, overborrowed and overtaxed\"."
       },
       {
         "title": "Chancellor begins to deliver his first Budget",
@@ -61,18 +79,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c65ynlg4rxvqo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T09:54:35Z",
         "summary": "Sir Jeremy Hunt spoke to BBC Breakfast about his hopes and qualms ahead of John Healey's autumn Budget."
-      },
-      {
-        "title": "'Government to decide who to help and who picks up the tab'",
-        "url": "https://www.bbc.co.uk/news/videos/cw1l39g2n8dyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T09:25:28Z",
-        "summary": "Helen Miller, director at the Institute for Fiscal Studies, speaks to the Today programme about challenges in the budget."
-      },
-      {
-        "title": "Watch: What happens now after close vote in Israeli election?",
-        "url": "https://www.bbc.co.uk/news/videos/cm79p5pxqey2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T04:22:59Z",
-        "summary": "Polls have closed in the Israeli election, but there is no clear winner."
       },
       {
         "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
@@ -175,22 +181,9 @@
         "url": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T17:50:00Z",
         "summary": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU."
-      },
-      {
-        "title": "Funding set to double for plan to get rough sleepers off streets by Christmas",
-        "url": "https://www.bbc.co.uk/news/articles/c3n04yxn2yqro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T11:21:04Z",
-        "summary": "Burnham made ending rough sleeping his first pledge when entering Downing Street in July."
       }
     ],
-    "saudi": [
-      {
-        "title": "Why is it so hard to fight the Houthis?",
-        "url": "https://www.bbc.co.uk/news/videos/cmy56nzd6y69o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T12:15:01Z",
-        "summary": "Security correspondent Frank Gardner explains how the Iran-backed Houthis' precision strikes and guerrilla tactics have made it difficult for Saudi forces to gain the upper hand."
-      }
-    ],
+    "saudi": [],
     "us": [
       {
         "title": "Four investigations Democrats could launch if they win control of Congress",
@@ -256,6 +249,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Your pay, energy bills and savings: How the Budget affects you",
+        "url": "https://www.bbc.co.uk/news/articles/cr0j05vxlwjzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T14:50:31Z",
+        "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how."
+      },
+      {
+        "title": "Israel's election result is messy - here's why",
+        "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T14:26:24Z",
+        "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell."
+      },
+      {
+        "title": "Badenoch: Budget 'does not come close to meeting the moment'",
+        "url": "https://www.bbc.co.uk/news/videos/cw0730z029lyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T14:06:50Z",
+        "summary": "The Tory leader argued the Budget was not \"bold enough\" and the government had \"overspent, overborrowed and overtaxed\"."
+      },
       {
         "title": "Burnham insists 'no confusion at all' over his Brexit position",
         "url": "https://www.bbc.co.uk/news/articles/cqlyejngjenxo?at_medium=RSS&at_campaign=rss",
@@ -3237,24 +3248,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cxm2qmpy57ggo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T12:06:28Z",
         "summary": "The government authorises the hunting of 23 elephants and dozens of other wild animals for independence day feasts."
-      },
-      {
-        "title": "Last UK and US troops leave Iraq as anti-Islamic State mission ends",
-        "url": "https://www.bbc.co.uk/news/articles/c65ym1dyn92mo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T11:36:23Z",
-        "summary": "The withdrawal of coalition forces, under a deal agreed two years ago, was a key demand of the Iraqi government."
-      },
-      {
-        "title": "Luxury prison in Indonesia demolished after public outcry",
-        "url": "https://www.bbc.co.uk/news/videos/cmwyz8j9j85wo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T10:41:03Z",
-        "summary": "Indonesian lawmakers on Wednesday ordered the demolition of a controversial luxury compound inside a penitentiary near the capital."
-      },
-      {
-        "title": "Singapore launches matchmaking service for government workers",
-        "url": "https://www.bbc.co.uk/news/articles/cqzjzr893yv4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T09:42:36Z",
-        "summary": "The launch of FirstDate comes as the ageing nation wrestles with a record-low fertility rate."
       }
     ],
     "saudi": [
