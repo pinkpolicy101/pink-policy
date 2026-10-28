@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-28T09:55:43.586502Z",
+  "generated_at": "2026-10-28T10:53:25.141094Z",
   "articles": {
     "world": [
+      {
+        "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
+        "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T10:35:13Z",
+        "summary": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties."
+      },
+      {
+        "title": "What do you want from the Budget?",
+        "url": "https://www.bbc.co.uk/news/videos/c63elx3x70jno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T10:29:19Z",
+        "summary": "The BBC spoke to people in Cardiff and County Durham about their concerns ahead of the chancellor's Autumn Budget."
+      },
       {
         "title": "Former Conservative chancellor unsure Budget will 'fix big problems'",
         "url": "https://www.bbc.co.uk/news/videos/c65ynlg4rxvqo?at_medium=RSS&at_campaign=rss",
@@ -31,18 +43,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cqkgje0r2jl4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T07:59:14Z",
         "summary": "The chancellor announced that standing charges are to be scrapped from household gas bills hours ahead of the Budget."
-      },
-      {
-        "title": "What is in the iconic red box?",
-        "url": "https://www.bbc.co.uk/news/videos/cmj6j0k5ernzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T07:41:28Z",
-        "summary": "UK Chancellor John Healey will be carrying a red box as he delivers his Budget today - but what's in the box?"
-      },
-      {
-        "title": "Netanyahu and Eisenkot face difficult paths to power as neither set to win majority",
-        "url": "https://www.bbc.co.uk/news/articles/cjy561y4pl56o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T06:53:23Z",
-        "summary": "The two main blocs appear to have too few seats to form the next government without reliance on Arab parties."
       },
       {
         "title": "Watch: What happens now after close vote in Israeli election?",
@@ -250,6 +250,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "What do you want from the Budget?",
+        "url": "https://www.bbc.co.uk/news/videos/c63elx3x70jno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T10:29:19Z",
+        "summary": "The BBC spoke to people in Cardiff and County Durham about their concerns ahead of the chancellor's Autumn Budget."
+      },
       {
         "title": "Former Conservative chancellor unsure Budget will 'fix big problems'",
         "url": "https://www.bbc.co.uk/news/videos/c65ynlg4rxvqo?at_medium=RSS&at_campaign=rss",
@@ -3243,12 +3249,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cv70d2nd6r0yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-09-30T03:21:28Z",
         "summary": "The municipality building in Baglung was left teetering on an unstable ledge due to floods before it fell into a river."
-      },
-      {
-        "title": "Three takeaways from Trump's 'Super Intelligence' summit",
-        "url": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-09-30T02:41:34Z",
-        "summary": "The president also signed an executive order requiring his government to refer to AI as Super Intelligence."
       }
     ],
     "saudi": [
