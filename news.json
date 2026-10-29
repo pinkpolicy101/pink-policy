@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-29T08:59:48.680219Z",
+  "generated_at": "2026-10-29T09:57:12.147037Z",
   "articles": {
     "world": [
+      {
+        "title": "How could Israel break election deadlock? Here are four scenarios",
+        "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T09:06:48Z",
+        "summary": "With more than 90% of votes counted, all signs point to an impasse. The most likely outcome may be new elections."
+      },
       {
         "title": "Ed Davey: 'It's a \u00a376bn stealth tax rise'",
         "url": "https://www.bbc.co.uk/news/videos/cx62y550nrpjo?at_medium=RSS&at_campaign=rss",
@@ -21,22 +27,10 @@
         "summary": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget."
       },
       {
-        "title": "High-speed train crash kills at least 68 people in Spain",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T21:38:54Z",
-        "summary": "The crash, between a moving train and another that was stopped further up the track, was caused by an \"inexplicable\" error, the transport minister said."
-      },
-      {
         "title": "What does John Healey's budget mean for Scotland?",
         "url": "https://www.bbc.co.uk/news/videos/cqd09rdxd78go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T21:22:11Z",
         "summary": "What the latest tax and spending plans could mean for your bills, pay and pocket."
-      },
-      {
-        "title": "Israel's election deadlock is a sign of the country's deep divisions",
-        "url": "https://www.bbc.co.uk/news/articles/cqz0ve94ygpjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T20:53:02Z",
-        "summary": "The election was a celebration of democracy in some ways - but it has left Israel with no clear path to a new government, writes James Landale."
       },
       {
         "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
@@ -129,12 +123,6 @@
         "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?"
       },
       {
-        "title": "How could Israel break election deadlock? Here are four scenarios",
-        "url": "https://www.bbc.co.uk/news/articles/cm62y46d97wwo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T14:30:31Z",
-        "summary": "With 85% of votes counted, all signs point to an impasse. The most likely outcome may be new elections."
-      },
-      {
         "title": "Israel's election result is messy - here's why",
         "url": "https://www.bbc.co.uk/news/videos/c893zeknlvnno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T14:26:24Z",
@@ -181,6 +169,18 @@
         "url": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T17:20:40Z",
         "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
+      },
+      {
+        "title": "MPs and MSP detained by Israel and barred from entering West Bank",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T16:34:44Z",
+        "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces."
+      },
+      {
+        "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T15:01:27Z",
+        "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
       }
     ],
     "saudi": [],
