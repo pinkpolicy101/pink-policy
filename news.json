@@ -1,18 +1,24 @@
 {
-  "generated_at": "2026-10-29T16:59:35.867285Z",
+  "generated_at": "2026-10-29T17:55:07.675491Z",
   "articles": {
     "world": [
       {
+        "title": "Lib Dems and Reform UK in war of words over alleged shove",
+        "url": "https://www.bbc.co.uk/news/articles/cwg7x3kegymvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T17:46:15Z",
+        "summary": "The Lib Dems claim Farage \"attempted to shove\" their South Devon MP but a Reform source accuses the party of \"lying\"."
+      },
+      {
         "title": "DUP blocks Michelle O'Neill's engagements over Drumcree",
         "url": "https://www.bbc.co.uk/news/articles/cwly300mxym3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-29T16:55:48Z",
+        "published_at": "2026-10-29T17:40:21Z",
         "summary": "The DUP leader Gavin Robinson also confirms that Emma Little-Pengelly will not participate in joint engagements with O'Neill."
       },
       {
-        "title": "Lib Dems and Reform UK in war of words over alleged shove",
-        "url": "https://www.bbc.co.uk/news/articles/cwg7x3kegymvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-29T16:53:35Z",
-        "summary": "The Lib Dems claim Farage \"attempted to shove\" their South Devon MP but a Reform source accuses the party of \"lying\"."
+        "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T17:02:59Z",
+        "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany."
       },
       {
         "title": "Further delays for major council overhaul in nine of 14 proposed areas",
@@ -43,12 +49,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-29T15:18:04Z",
         "summary": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault."
-      },
-      {
-        "title": "EU chief lays out vision for new Canada partnership at Montreal summit",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-29T15:14:34Z",
-        "summary": "Ursula von der Leyen continued to use the term \"associate member\" for Canada despite some opposition of the bloc's members, including Germany."
       },
       {
         "title": "Your pay, energy bills and savings: How the Budget affects you",
@@ -186,6 +186,18 @@
     "saudi": [],
     "us": [
       {
+        "title": "US interest rates held steady and economy grows - what it means for you",
+        "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T17:15:05Z",
+        "summary": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans"
+      },
+      {
+        "title": "Fl\u00e1vio Bolsonaro calls himself 'leader of Brazil' after election loss",
+        "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T14:58:28Z",
+        "summary": "The defeated presidential candidate says he will lead the opposition from the US."
+      },
+      {
         "title": "Voter voices: Which issues matter most to Americans?",
         "url": "https://www.bbc.co.uk/news/videos/cm3wv3njppweo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-29T10:52:33Z",
@@ -214,12 +226,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6lylxjkkp0vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T21:16:30Z",
         "summary": "The Heroes and Nashville star died in August from the toxic effects of fentanyl, Xanax and several other drugs."
-      },
-      {
-        "title": "US central bank holds interest rates steady ahead of midterm elections \u2013 here's what that means",
-        "url": "https://www.bbc.co.uk/news/articles/cr15jxzv4w24o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T19:42:42Z",
-        "summary": "The Federal Reserve's interest rate decisions affect everything from mortgages to car loans"
       },
       {
         "title": "US civil rights leader Dolores Huerta dies aged 96",
@@ -3421,6 +3427,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Fl\u00e1vio Bolsonaro calls himself 'leader of Brazil' after election loss",
+        "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T14:58:28Z",
+        "summary": "The defeated presidential candidate says he will lead the opposition from the US."
+      },
       {
         "title": "Voter voices: What issues matter most to Americans?",
         "url": "https://www.bbc.co.uk/news/videos/cm3wv3njppweo?at_medium=RSS&at_campaign=rss",
