@@ -1,9 +1,15 @@
 {
-  "generated_at": "2026-10-29T10:55:19.366031Z",
+  "generated_at": "2026-10-29T11:52:28.868012Z",
   "articles": {
     "world": [
       {
-        "title": "Voter voices: What issues matter most to Americans?",
+        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
+        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T11:22:18Z",
+        "summary": "With 93% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
+      },
+      {
+        "title": "Voter voices: Which issues matter most to Americans?",
         "url": "https://www.bbc.co.uk/news/videos/cm3wv3njppweo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-29T10:52:33Z",
         "summary": "The BBC spoke to voters across the US about their biggest electoral priorities when casting their ballots."
@@ -43,12 +49,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cqd09rdxd78go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T21:22:11Z",
         "summary": "What the latest tax and spending plans could mean for your bills, pay and pocket."
-      },
-      {
-        "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
-        "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T20:24:39Z",
-        "summary": "With 85% of ballots counted, Netanyahu's Likud party and its allies are set to win 53 seats in the 120-seat Knesset."
       },
       {
         "title": "Dharshini David: Healey buys himself some time, but big questions still unanswered",
@@ -186,7 +186,7 @@
     "saudi": [],
     "us": [
       {
-        "title": "Voter voices: What issues matter most to Americans?",
+        "title": "Voter voices: Which issues matter most to Americans?",
         "url": "https://www.bbc.co.uk/news/videos/cm3wv3njppweo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-29T10:52:33Z",
         "summary": "The BBC spoke to voters across the US about their biggest electoral priorities when casting their ballots."
