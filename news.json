@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-29T07:03:19.701388Z",
+  "generated_at": "2026-10-29T08:07:53.854642Z",
   "articles": {
     "world": [
+      {
+        "title": "Ed Davey: 'It's a \u00a376bn stealth tax rise'",
+        "url": "https://www.bbc.co.uk/news/videos/cx62y550nrpjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T07:49:51Z",
+        "summary": "Liberal Democrats leader Ed Davey says a freeze on income tax thresholds is a '\u00a376bn stealth tax'."
+      },
       {
         "title": "Chancellor says government has 'moral duty' to help young people out of work",
         "url": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss",
@@ -43,6 +49,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cqe9l4px0yzxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T19:51:01Z",
         "summary": "The chancellor talked of charting a new course for Britain, but the impact of Iran war has limited his options."
+      },
+      {
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T19:15:58Z",
+        "summary": "The Russian President praised Musk and said they are in \"close\" contact."
       },
       {
         "title": "Healey tells departments to make 1% cuts to fund defence",
@@ -129,12 +141,6 @@
         "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell."
       },
       {
-        "title": "Badenoch: Budget 'does not come close to meeting the moment'",
-        "url": "https://www.bbc.co.uk/news/videos/cw0730z029lyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T14:06:50Z",
-        "summary": "The Tory leader argued the Budget was not \"bold enough\" and the government had \"overspent, overborrowed and overtaxed\"."
-      },
-      {
         "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
         "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T10:18:40Z",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T18:28:23Z",
         "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
-      },
-      {
-        "title": "Healey to promise \u00a315m to tackle misogyny in Budget",
-        "url": "https://www.bbc.co.uk/news/articles/cme36gez2d3qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T18:23:09Z",
-        "summary": "The Conservatives doubt whether women and girls will feel safer as a result of the funding."
       }
     ],
     "saudi": [],
@@ -268,6 +268,12 @@
   "archive": {
     "world": [
       {
+        "title": "Ed Davey: 'It's a \u00a376bn stealth tax rise'",
+        "url": "https://www.bbc.co.uk/news/videos/cx62y550nrpjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T07:49:51Z",
+        "summary": "Liberal Democrats leader Ed Davey says a freeze on income tax thresholds is a '\u00a376bn stealth tax'."
+      },
+      {
         "title": "Chancellor says government has 'moral duty' to help young people out of work",
         "url": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-29T06:56:58Z",
@@ -302,6 +308,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c6kglwe4lxwzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T20:22:49Z",
         "summary": "Bolsonaro's arrival in the US ends speculation about his whereabouts after he failed to comply with an order to surrender his passports."
+      },
+      {
+        "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+        "url": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-28T19:15:58Z",
+        "summary": "The Russian President praised Musk and said they are in \"close\" contact."
       },
       {
         "title": "Healey unveils \u00a3100 for energy bills and bank tax in first Budget",
@@ -3254,18 +3266,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6evwvdwggrlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T15:18:22Z",
         "summary": "Around 4,500 inmates are expected to be released early by June 2027 under a scheme designed to stop prisons becoming full."
-      },
-      {
-        "title": "I'm unaware of bin strike latest, says Greens deputy",
-        "url": "https://www.bbc.co.uk/news/videos/c6wyzy55e78vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T14:54:24Z",
-        "summary": "Greens deputy leader admits she had not been briefed about Birmingham bin strike."
-      },
-      {
-        "title": "Tories committed to pension triple lock, deputy leader says",
-        "url": "https://www.bbc.co.uk/news/articles/c6wyzypvl4l1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T14:31:50Z",
-        "summary": "Alex Bughart says pensioners are a 'special case' as there is nothing they can do to increase their income."
       }
     ],
     "saudi": [
