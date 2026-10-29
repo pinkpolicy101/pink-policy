@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-10-29T05:52:05.243168Z",
+  "generated_at": "2026-10-29T07:03:19.701388Z",
   "articles": {
     "world": [
+      {
+        "title": "Chancellor says government has 'moral duty' to help young people out of work",
+        "url": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T06:56:58Z",
+        "summary": "Chancellor John Healey says any cuts to welfare will be done \"in a Labour way\"."
+      },
+      {
+        "title": "Healey promises reduction in welfare bill before next election",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T05:57:01Z",
+        "summary": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget."
+      },
       {
         "title": "High-speed train crash kills at least 68 people in Spain",
         "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
@@ -123,12 +135,6 @@
         "summary": "The Tory leader argued the Budget was not \"bold enough\" and the government had \"overspent, overborrowed and overtaxed\"."
       },
       {
-        "title": "John Healey pays homage to predecessor Rachel Reeves",
-        "url": "https://www.bbc.co.uk/news/videos/c95ynvr04vgdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T12:57:22Z",
-        "summary": "The chancellor gave respects at the onset of his Autumn Budget speech."
-      },
-      {
         "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
         "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T10:18:40Z",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cme36gez2d3qo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T18:23:09Z",
         "summary": "The Conservatives doubt whether women and girls will feel safer as a result of the funding."
-      },
-      {
-        "title": "UK and EU officials to discuss freedom of movement",
-        "url": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T17:20:40Z",
-        "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
       }
     ],
     "saudi": [],
@@ -267,6 +267,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Chancellor says government has 'moral duty' to help young people out of work",
+        "url": "https://www.bbc.co.uk/news/videos/c3j47008yl7vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T06:56:58Z",
+        "summary": "Chancellor John Healey says any cuts to welfare will be done \"in a Labour way\"."
+      },
+      {
+        "title": "Healey promises reduction in welfare bill before next election",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T05:57:01Z",
+        "summary": "The Conservatives criticised the chancellor for not providing more details on welfare reform in his Budget."
+      },
       {
         "title": "High-speed train crash kills at least 68 people in Spain",
         "url": "https://www.bbc.co.uk/news/articles/c6p3g84kjqjlo?at_medium=RSS&at_campaign=rss",
@@ -3254,18 +3266,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6wyzypvl4l1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-01T14:31:50Z",
         "summary": "Alex Bughart says pensioners are a 'special case' as there is nothing they can do to increase their income."
-      },
-      {
-        "title": "Water system a 'disaster', Green deputy leader says",
-        "url": "https://www.bbc.co.uk/news/articles/cm9w4wyw9g9yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T12:16:29Z",
-        "summary": "Rachel Millward says her party would nationalise water companies to reverse years of \u201cradical underinvestment\"."
-      },
-      {
-        "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-01T11:37:46Z",
-        "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains."
       }
     ],
     "saudi": [
