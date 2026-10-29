@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-10-29T11:52:28.868012Z",
+  "generated_at": "2026-10-29T13:04:00.766106Z",
   "articles": {
     "world": [
+      {
+        "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
+        "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T12:27:31Z",
+        "summary": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties."
+      },
       {
         "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
         "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
@@ -19,12 +25,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm5ynwkjgpz3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-29T10:41:50Z",
         "summary": "The Treasury is disputing that the chancellor suggested to the BBC the benefits bill will be cut before the next election."
-      },
-      {
-        "title": "Carney to push for closer ties at Canada-EU summit in Montreal",
-        "url": "https://www.bbc.co.uk/news/articles/cq8ezj7jylrzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-29T09:51:06Z",
-        "summary": "The term \"associate member\" is reportedly off the table as officials discuss deeper economic and defence ties."
       },
       {
         "title": "How could Israel break election deadlock? Here are four scenarios",
@@ -141,18 +141,6 @@
         "summary": "Despite having the highest voter turnout in nearly three decades, Israel's elections have had no clear winner. What does this mean for the country, asks the BBC's Yolande Knell."
       },
       {
-        "title": "Tanzania celebrates first natural gas discovery in more than 10 years",
-        "url": "https://www.bbc.co.uk/news/articles/c5m2dry2xwwvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T10:18:40Z",
-        "summary": "The energy minister described it as a \"major milestone\" for the East African nation."
-      },
-      {
-        "title": "Serbian shot dead after attacking officer outside Israeli embassy, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ynj4eeyj2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-28T10:17:54Z",
-        "summary": "Authorities say the attacker in Belgrade was an underage male who was being monitored by security services."
-      },
-      {
         "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
         "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T22:30:09Z",
@@ -181,6 +169,18 @@
         "url": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T17:20:40Z",
         "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
+      },
+      {
+        "title": "MPs and MSP detained by Israel and barred from entering West Bank",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xenmde78o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T16:34:44Z",
+        "summary": "SNP MP Lara Bird and the Scottish Greens MSP Kate Nevens were part of an international delegation turned away by Israeli security forces."
+      },
+      {
+        "title": "Minimum wage set to rise but 18-20 year-olds will not get bigger increase",
+        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T15:01:27Z",
+        "summary": "Chancellor John Healey will reveal the new pay rates in the Budget, and has also announced measures to help households with the cost of living."
       }
     ],
     "saudi": [],
