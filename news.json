@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T08:07:53.854642Z",
+  "generated_at": "2026-10-29T08:59:48.680219Z",
   "articles": {
     "world": [
       {
@@ -159,12 +159,6 @@
         "summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget."
       },
       {
-        "title": "Ex-wife of Zimbabwe's vice-president freed after collapse of attempted murder case",
-        "url": "https://www.bbc.co.uk/news/articles/c6e3xgq11jqlo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T21:09:12Z",
-        "summary": "Marry Mubaiwa had been held on remand for seven years after being charged in 2019 for her then husband's attempted murder."
-      },
-      {
         "title": "Landline switchover could cut people off in emergency, minister warned",
         "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T20:54:48Z",
@@ -177,19 +171,37 @@
         "summary": "The Chancellor is due to deliver his first Budget."
       },
       {
-        "title": "Norway and Finland leaders hold rare call with Putin",
-        "url": "https://www.bbc.co.uk/news/articles/c6vgj813mlelo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T18:28:23Z",
-        "summary": "An end to the conflict in Ukraine \"will not be achieved through silence,\" Finland's President Alexander Stubb said."
+        "title": "Healey to promise \u00a315m to tackle misogyny in Budget",
+        "url": "https://www.bbc.co.uk/news/articles/cme36gez2d3qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T18:23:09Z",
+        "summary": "The Conservatives doubt whether women and girls will feel safer as a result of the funding."
+      },
+      {
+        "title": "UK and EU officials to discuss freedom of movement",
+        "url": "https://www.bbc.co.uk/news/articles/cmqlngkz0elxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-27T17:20:40Z",
+        "summary": "Officials are expected to begin discussions on a range of options for the future UK-EU relationship before a summit next month."
       }
     ],
     "saudi": [],
     "us": [
       {
+        "title": "US Health Secretary RFK Jr to expand access to unapproved peptides",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8nwd748v3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T03:09:10Z",
+        "summary": "Health experts have cautioned against use of the drugs, citing a lack of clinical trials for humans and the unknown long-term effects."
+      },
+      {
         "title": "Details of thousands of US immigration agents leaked in major hack",
         "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-29T01:30:43Z",
         "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff."
+      },
+      {
+        "title": "US conservative activists charged with unlawful voting in election stunt",
+        "url": "https://www.bbc.co.uk/news/articles/c52e9vnege7eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T01:17:32Z",
+        "summary": "Prosecutors alleged the pair misrepresented their identities by giving election judges the names of other people."
       },
       {
         "title": "Death of US actress Hayden Panettiere ruled accidental, ending local police probe",
@@ -3421,6 +3433,18 @@
       }
     ],
     "us": [
+      {
+        "title": "US Health Secretary RFK Jr to expand access to unapproved peptides",
+        "url": "https://www.bbc.co.uk/news/articles/cmq8nwd748v3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T03:09:10Z",
+        "summary": "Health experts have cautioned against use of the drugs, citing a lack of clinical trials for humans and the unknown long-term effects."
+      },
+      {
+        "title": "US conservative activists charged with unlawful voting in election stunt",
+        "url": "https://www.bbc.co.uk/news/articles/c52e9vnege7eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T01:17:32Z",
+        "summary": "Prosecutors alleged the pair misrepresented their identities by giving election judges the names of other people."
+      },
       {
         "title": "Details of thousands of US immigration agents leaked in major hack",
         "url": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
