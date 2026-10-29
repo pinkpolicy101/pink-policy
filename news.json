@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-29T16:00:06.487546Z",
+  "generated_at": "2026-10-29T16:59:35.867285Z",
   "articles": {
     "world": [
+      {
+        "title": "DUP blocks Michelle O'Neill's engagements over Drumcree",
+        "url": "https://www.bbc.co.uk/news/articles/cwly300mxym3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T16:55:48Z",
+        "summary": "The DUP leader Gavin Robinson also confirms that Emma Little-Pengelly will not participate in joint engagements with O'Neill."
+      },
+      {
+        "title": "Lib Dems and Reform UK in war of words over alleged shove",
+        "url": "https://www.bbc.co.uk/news/articles/cwg7x3kegymvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T16:53:35Z",
+        "summary": "The Lib Dems claim Farage \"attempted to shove\" their South Devon MP but a Reform source accuses the party of \"lying\"."
+      },
+      {
+        "title": "Further delays for major council overhaul in nine of 14 proposed areas",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg5ed1l3k9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T16:02:51Z",
+        "summary": "Proposals to merge smaller councils to form larger unitary authorities were put on hold last month."
+      },
       {
         "title": "Netanyahu's bloc leading Israel election but short of majority, partial results show",
         "url": "https://www.bbc.co.uk/news/articles/cmdx3knq1xexo?at_medium=RSS&at_campaign=rss",
@@ -12,13 +30,7 @@
         "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
         "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-29T15:42:56Z",
-        "summary": "The prime minister did not outline a timetable, while opponents questioned the Budget's lack of detail on welfare reform."
-      },
-      {
-        "title": "Further delays for major council overhaul in nine of 14 proposed areas",
-        "url": "https://www.bbc.co.uk/news/articles/cwkg5ed1l3k9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-29T15:34:23Z",
-        "summary": "Proposals to merge smaller councils to form larger unitary authorities were put on hold last month."
+        "summary": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions."
       },
       {
         "title": "MP apologises over bullying and harassment",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cy7e8mpdxpro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-28T14:53:29Z",
         "summary": "What are the National Minimum Wage and the National Living Wage, and how much are they worth?"
-      },
-      {
-        "title": "Chris Mason: Budget needs to go some way towards delivering PM's promises",
-        "url": "https://www.bbc.co.uk/news/articles/c6y43wkln1k2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T22:30:09Z",
-        "summary": "Support on the cost of living, and in particular energy bills, as well as announcments on devolution will be central to John Healey's first Budget."
-      },
-      {
-        "title": "Landline switchover could cut people off in emergency, minister warned",
-        "url": "https://www.bbc.co.uk/news/articles/c6x29g1nlr51o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T20:54:48Z",
-        "summary": "Plans to switch to digital landlines by January could leave remote areas of the UK vulnerable, MPs say."
       }
     ],
     "saudi": [],
@@ -267,6 +267,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "DUP blocks Michelle O'Neill's engagements over Drumcree",
+        "url": "https://www.bbc.co.uk/news/articles/cwly300mxym3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T16:55:48Z",
+        "summary": "The DUP leader Gavin Robinson also confirms that Emma Little-Pengelly will not participate in joint engagements with O'Neill."
+      },
+      {
+        "title": "Lib Dems and Reform UK in war of words over alleged shove",
+        "url": "https://www.bbc.co.uk/news/articles/cwg7x3kegymvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T16:53:35Z",
+        "summary": "The Lib Dems claim Farage \"attempted to shove\" their South Devon MP but a Reform source accuses the party of \"lying\"."
+      },
       {
         "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
         "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
@@ -3254,18 +3266,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c9lykydmjlxro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-02T05:17:02Z",
         "summary": "How Gen Z TikToks are shaping Kenyan politics."
-      },
-      {
-        "title": "Move to stop charges for parents to sit by children on flights",
-        "url": "https://www.bbc.co.uk/news/articles/c3n070vxkjl9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T03:55:17Z",
-        "summary": "The government says sitting together can currently cost a parent and child up to \u00a3104 on a return journey."
-      },
-      {
-        "title": "Seoul warns 'further action' if Ukraine does not apologise over prisoner-of-war row",
-        "url": "https://www.bbc.co.uk/news/articles/cm1dld14weero?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-02T03:09:13Z",
-        "summary": "President Lee Jae Myung also accused Kyiv of \"attempting to provoke a war on the Korean Peninsula\"."
       }
     ],
     "saudi": [
