@@ -1,24 +1,36 @@
 {
-  "generated_at": "2026-10-30T20:46:48.069647Z",
+  "generated_at": "2026-10-31T00:09:04.491078Z",
   "articles": {
     "world": [
       {
+        "title": "Why MPs keep talking about an early election despite Burnham's denials",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T00:00:15Z",
+        "summary": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster."
+      },
+      {
+        "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
+        "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-30T22:11:52Z",
+        "summary": "UK Foreign Secretary Ed Miliband confronted his Russian counterpart at the meeting and accused his government of killing innocent civilians in Ukraine."
+      },
+      {
         "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
         "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-30T18:17:27Z",
+        "published_at": "2026-10-30T20:55:18Z",
         "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race."
+      },
+      {
+        "title": "Police deployed during stand-off over control of top Poland court",
+        "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-30T20:52:01Z",
+        "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
       },
       {
         "title": "Treasury accepts role in staff member's death",
         "url": "https://www.bbc.co.uk/news/articles/c620r2vg355ro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-30T17:26:40Z",
         "summary": "A Surrey coroner raises concerns over HM Treasury procedures following the death of Chloe Moffat."
-      },
-      {
-        "title": "G20 'family photo' cancelled after protests over presence of Russian minister",
-        "url": "https://www.bbc.co.uk/news/articles/cmd6dp2y576do?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-30T17:25:20Z",
-        "summary": "European foreign ministers refused to be pictured with Sergei Lavrov at the summit being held in Atlanta."
       },
       {
         "title": "Canada stops using 'avalanche dogs' for rescues in Rocky Mountains, stirring outrage",
@@ -165,37 +177,37 @@
         "summary": "Changes announced by Chancellor John Healey in his first Budget will affect your finances directly. Here's how."
       },
       {
-        "title": "Fl\u00e1vio Bolsonaro calls himself 'leader of Brazil' after election loss",
-        "url": "https://www.bbc.co.uk/news/articles/c3x2w4109pj8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-29T14:58:28Z",
-        "summary": "The defeated presidential candidate says he will lead the opposition from the US."
-      },
-      {
         "title": "Economist and former Burnham advisor scores Budget 4 out of 10",
         "url": "https://www.bbc.co.uk/news/videos/cve8rjl6ewjno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-29T14:45:40Z",
         "summary": "Former Burnham advisor Andy Haldane scores Healey's Budget out of 10"
-      },
-      {
-        "title": "'Painful' years ahead, think tanks warn, as living standards set to fall",
-        "url": "https://www.bbc.co.uk/news/articles/c6z7x8214np7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-29T13:19:24Z",
-        "summary": "Budget forecasts show growth in living standards grinding almost to a halt."
       }
     ],
     "saudi": [],
     "us": [
       {
-        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-30T20:34:46Z",
-        "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
+        "title": "ICE agent charged for hitting Texas immigrant with vehicle during pursuit",
+        "url": "https://www.bbc.co.uk/news/articles/ckjwep125v3eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-30T23:16:43Z",
+        "summary": "The Mexican national, who was living in the US without legal documentation, suffered multiple leg fractures and a hip injury, prosecutors said."
+      },
+      {
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-30T22:20:52Z",
+        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
       },
       {
         "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
         "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-30T18:17:27Z",
+        "published_at": "2026-10-30T20:55:18Z",
         "summary": "Dan S Sullivan, the incumbent Republican senator running for re-election, and allies have accused the Democrats of trying to confuse voters by recruiting Dan J Sullivan to also stand in the race."
+      },
+      {
+        "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+        "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-30T20:34:46Z",
+        "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months."
       },
       {
         "title": "US inmate Christa Pike says she woke up 'confused and in pain' after failed execution",
@@ -267,6 +279,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Why MPs keep talking about an early election despite Burnham's denials",
+        "url": "https://www.bbc.co.uk/news/articles/cm5yn7d0qx1do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T00:00:15Z",
+        "summary": "The prime minister has categorically ruled out an early general election, but it has not stopped speculation at Westminster."
+      },
+      {
+        "title": "Police deployed during stand-off over control of top Poland court",
+        "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-30T20:52:01Z",
+        "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
+      },
       {
         "title": "Treasury accepts role in staff member's death",
         "url": "https://www.bbc.co.uk/news/articles/c620r2vg355ro?at_medium=RSS&at_campaign=rss",
@@ -3254,18 +3278,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c9m2mjj3yvg4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-03T23:30:06Z",
         "summary": "Prime Minister Mark Carney has said the military is running scenarios in the unlikely case the US invades Canada."
-      },
-      {
-        "title": "People shouldn't be punished for working harder, Badenoch says",
-        "url": "https://www.bbc.co.uk/news/videos/cwp8g1l5dlgno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T21:16:55Z",
-        "summary": "The Conservative leader says she would scrap the \u201ccliff edge\u201d cap on childcare in an interview with Laura Kuenssberg."
-      },
-      {
-        "title": "Tories pledge to scrap \u00a3100,000 childcare 'cliff edge'",
-        "url": "https://www.bbc.co.uk/news/articles/cmn06l362ypeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-03T21:03:22Z",
-        "summary": "Party leader Kemi Badenoch tells the BBC that she wants to see \"people who work harder\" not getting punished for doing so."
       }
     ],
     "saudi": [
@@ -3421,6 +3433,18 @@
       }
     ],
     "us": [
+      {
+        "title": "ICE agent charged for hitting Texas immigrant with vehicle during pursuit",
+        "url": "https://www.bbc.co.uk/news/articles/ckjwep125v3eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-30T23:16:43Z",
+        "summary": "The Mexican national, who was living in the US without legal documentation, suffered multiple leg fractures and a hip injury, prosecutors said."
+      },
+      {
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-30T22:20:52Z",
+        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+      },
       {
         "title": "US tech stocks see sharp falls over AI cost fears",
         "url": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
