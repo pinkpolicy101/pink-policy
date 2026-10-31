@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-10-31T05:37:48.073007Z",
+  "generated_at": "2026-10-31T11:14:17.608940Z",
   "articles": {
     "world": [
+      {
+        "title": "Burnham 'open' to calls for slavery apology but not reparations",
+        "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T09:52:52Z",
+        "summary": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders."
+      },
+      {
+        "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+        "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T09:16:14Z",
+        "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed."
+      },
+      {
+        "title": "Spain train disaster clouds S\u00e1nchez chances of re-election",
+        "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T05:44:21Z",
+        "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
+      },
       {
         "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
         "url": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss",
@@ -13,12 +31,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr3wv311dwnlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-31T04:32:07Z",
         "summary": "What does Joseph Kabila launching a new rebel movement mean for DR Congo?"
-      },
-      {
-        "title": "Burnham 'open' to calls for slavery apology but not reparations",
-        "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-31T03:12:08Z",
-        "summary": "The prime minister says Britain must \"face up to the past\" for its role in the transatlantic slave trade but reparations are \"not the right answer\"."
       },
       {
         "title": "Police deployed during stand-off over control of top Poland court",
@@ -169,22 +181,16 @@
         "url": "https://www.bbc.co.uk/news/articles/cwkg5ed1l3k9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-29T16:02:51Z",
         "summary": "Proposals to merge smaller councils to form larger unitary authorities were put on hold last month."
-      },
-      {
-        "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-29T15:42:56Z",
-        "summary": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions."
-      },
-      {
-        "title": "Bereaved families will not face tax bill over pension delays under new rules",
-        "url": "https://www.bbc.co.uk/news/articles/cr5yn9zwnp3qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-29T15:18:04Z",
-        "summary": "Campaigners had warned some families could face an unfair financial penalty because of delays which were not their fault."
       }
     ],
     "saudi": [],
     "us": [
+      {
+        "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+        "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T09:16:14Z",
+        "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed."
+      },
       {
         "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
         "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
@@ -270,12 +276,6 @@
         "summary": "Donald Trump heads into the US midterm elections with an issue similar to his political foe Joe Biden."
       },
       {
-        "title": "Watch: BBC asks Democrat El-Sayed about tight Michigan Senate race",
-        "url": "https://www.bbc.co.uk/news/videos/cmx2dj4z6wz6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T15:46:04Z",
-        "summary": "The BBC's Sarah Smith asks Democrat Abdul El-Sayed why polls suggest his contest against Republican Mike Rogers is so close."
-      },
-      {
         "title": "Five ways Trump has changed immigration in the US",
         "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-26T11:29:02Z",
@@ -285,6 +285,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+        "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T09:16:14Z",
+        "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed."
+      },
+      {
+        "title": "Spain train disaster clouds S\u00e1nchez chances of re-election",
+        "url": "https://www.bbc.co.uk/news/articles/cmeweppr990qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T05:44:21Z",
+        "summary": "The Spanish PM is hit by a succession of crises just weeks before a snap general election."
+      },
       {
         "title": "Mahmood expected to announce changes to rules around indefinite leave to remain",
         "url": "https://www.bbc.co.uk/news/articles/cm62yxxd992eo?at_medium=RSS&at_campaign=rss",
@@ -3272,18 +3284,6 @@
         "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T13:00:00Z",
         "summary": "What if you could map the outcome of an election before a single vote was cast?"
-      },
-      {
-        "title": "Daughter of MP murdered five years ago tells BBC politicians still at risk",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yn0my1656o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T11:59:35Z",
-        "summary": "Katie Amess questions if anything has changed to protect politicians five years after her father's death."
-      },
-      {
-        "title": "Courts backlog will fall despite scrapping of jury trial plan, minister says",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nd9dgz68o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T11:19:58Z",
-        "summary": "Proposals to limit jury trials were first introduced by former justice secretary David Lammy last year."
       }
     ],
     "saudi": [
@@ -3439,6 +3439,12 @@
       }
     ],
     "us": [
+      {
+        "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+        "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T09:16:14Z",
+        "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed."
+      },
       {
         "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
         "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
