@@ -1,15 +1,27 @@
 {
-  "generated_at": "2026-10-31T11:14:17.608940Z",
+  "generated_at": "2026-10-31T16:06:39.303464Z",
   "articles": {
     "world": [
       {
+        "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+        "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T15:16:20Z",
+        "summary": "Government data shows that more than 10,000 people have contracted the rare virus."
+      },
+      {
+        "title": "Ethiopian PM puts ministers through military training",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T14:28:15Z",
+        "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
+      },
+      {
         "title": "Burnham 'open' to calls for slavery apology but not reparations",
         "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-31T09:52:52Z",
+        "published_at": "2026-10-31T13:28:40Z",
         "summary": "The British government has never formally apologised for slavery despite repeated calls from a number of Commonwealth leaders."
       },
       {
-        "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
+        "title": "CCTV and zip ties: How US mail-in votes are secured and counted",
         "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-31T09:16:14Z",
         "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed."
@@ -37,12 +49,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crz9824d5e88o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-31T01:11:43Z",
         "summary": "The escalation came after the government suspended two senior justices and moved to bring criminal charges against them."
-      },
-      {
-        "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-        "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-31T00:29:58Z",
-        "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race."
       },
       {
         "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
@@ -129,12 +135,6 @@
         "summary": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms."
       },
       {
-        "title": "Syrians struggle with soaring prices as crisis challenges post-Assad recovery",
-        "url": "https://www.bbc.co.uk/news/articles/cmn4egvez1yzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-30T06:02:23Z",
-        "summary": "End of subsidies and rising prices drive discontent, testing support for Ahmed al-Sharaa's government."
-      },
-      {
         "title": "Mushroom murderer fails to overturn convictions in Australian court challenge",
         "url": "https://www.bbc.co.uk/news/articles/ck8dz8j5n993o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-30T01:35:40Z",
@@ -145,12 +145,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c574p7z1xm8wo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-30T00:43:04Z",
         "summary": "President Trump's fellow Republicans might feel the brunt of frustration among Cubans at the ballot box, writes the BBC's Will Grant."
-      },
-      {
-        "title": "Student-backed election winners demand sweeping resignations in Serbia",
-        "url": "https://www.bbc.co.uk/news/articles/cmx2dwzp0z0vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-30T00:17:28Z",
-        "summary": "Days after ousting Aleksandar Vu\u010di\u0107's party from power, Student List MPs call for top figures to stand down."
       },
       {
         "title": "MP apologises over bullying and harassment",
@@ -181,10 +175,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cwkg5ed1l3k9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-29T16:02:51Z",
         "summary": "Proposals to merge smaller councils to form larger unitary authorities were put on hold last month."
+      },
+      {
+        "title": "Burnham says he wants to cut welfare bill 'as soon as we possibly can'",
+        "url": "https://www.bbc.co.uk/news/articles/c6x2w4zy15nwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-29T15:42:56Z",
+        "summary": "Opponents have questioned the Budget's lack of detail on welfare reform, with the prime minister not outlining a timetable for any reductions."
       }
     ],
     "saudi": [],
     "us": [
+      {
+        "title": "US approves sale of 500 Patriot missiles to Ukraine",
+        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T12:21:25Z",
+        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
+      },
       {
         "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
         "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
@@ -192,16 +198,10 @@
         "summary": "BBC Verify goes to an election centre to get a behind-the-scenes look at how mail-in ballots for the US midterm elections are processed."
       },
       {
-        "title": "Trump's tariffs could shutter this Canadian town - its residents are fighting to save it",
+        "title": "The fight to save Canadian town threatened by Trump's tariffs",
         "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-31T02:39:25Z",
         "summary": "A century-old paper mill in T\u00e9miscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
-      },
-      {
-        "title": "US approves sale of 500 Patriot missiles to Ukraine",
-        "url": "https://www.bbc.co.uk/news/articles/c3vgxznlx7jzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-31T00:40:43Z",
-        "summary": "The American-made interceptors are the only effective weapon for downing Russia's ballistic missiles."
       },
       {
         "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
@@ -285,6 +285,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "More than 5,000 die from Ebola in DR Congo's deadliest outbreak",
+        "url": "https://www.bbc.co.uk/news/articles/cj5ynryyep2yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T15:16:20Z",
+        "summary": "Government data shows that more than 10,000 people have contracted the rare virus."
+      },
+      {
+        "title": "Ethiopian PM puts ministers through military training",
+        "url": "https://www.bbc.co.uk/news/articles/cmwyv2y7g9l8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-10-31T14:28:15Z",
+        "summary": "The prime minister has previously emphasised military preparedness as central to his government's ambitions."
+      },
       {
         "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
         "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
@@ -3272,18 +3284,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cvp8gn9r69r5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-04T13:10:51Z",
         "summary": "Russell Findlay tells the Conservative Party's UK conference that breaking up the United Kingdom would be \"a gift to our enemies\"."
-      },
-      {
-        "title": "Currently",
-        "url": "https://www.bbc.co.uk/sounds/play/m0032f96?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T13:00:00Z",
-        "summary": "What if you could map the outcome of an election before a single vote was cast?"
-      },
-      {
-        "title": "Currently",
-        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_radio_fourfm?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T13:00:00Z",
-        "summary": "What if you could map the outcome of an election before a single vote was cast?"
       }
     ],
     "saudi": [
