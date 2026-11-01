@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-01T16:25:36.878073Z",
+  "generated_at": "2026-11-01T20:50:13.167356Z",
   "articles": {
     "world": [
+      {
+        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-01T20:11:26Z",
+        "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote."
+      },
+      {
+        "title": "Lindsay Clancy is back in court - where will her case go next?",
+        "url": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-01T17:29:08Z",
+        "summary": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried."
+      },
       {
         "title": "\u2018My vote still matters\u2019 - Americans weigh in on the power of their ballot",
         "url": "https://www.bbc.co.uk/news/videos/cw62yd964e55o?at_medium=RSS&at_campaign=rss",
@@ -13,6 +25,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c6x2wkp7e0q9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-01T15:52:51Z",
         "summary": "Adrian Ramsay suggested the party needs to focus on its \"core values\", including environmental issues."
+      },
+      {
+        "title": "MP facing voice loss after surgery shows recovery signs",
+        "url": "https://www.bbc.co.uk/news/articles/c98rz238lkxvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-01T13:18:06Z",
+        "summary": "Anne Sabine says her voice is showing signs of recovery after facing permanent damage from surgery."
       },
       {
         "title": "Laura Kuenssberg: Healey risks breaking minimum wage promise for younger workers",
@@ -163,28 +181,16 @@
         "url": "https://www.bbc.co.uk/news/articles/cw62yrzxjnk4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-30T11:23:38Z",
         "summary": "The government is under pressure to set out a path to greater defence spending, as ministers unveil plans to boost UK firms."
-      },
-      {
-        "title": "MP apologises over bullying and harassment",
-        "url": "https://www.bbc.co.uk/news/articles/cmgr8lvj21kzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-29T18:41:26Z",
-        "summary": "Tony Vaughan is found to have been \"overbearing and belittling\" towards a female staff member."
-      },
-      {
-        "title": "DUP blocks Michelle O'Neill's engagements over Drumcree",
-        "url": "https://www.bbc.co.uk/news/articles/cwly300mxym3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-29T18:08:15Z",
-        "summary": "The DUP leader Gavin Robinson also confirms that Emma Little-Pengelly will not participate in joint engagements with O'Neill."
-      },
-      {
-        "title": "What are the government's options for reducing welfare spending?",
-        "url": "https://www.bbc.co.uk/news/articles/cwy7l1lrkmk2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-29T17:59:57Z",
-        "summary": "BBC Verify examines how much the welfare system costs and the options the government could use to reduce it."
       }
     ],
     "saudi": [],
     "us": [
+      {
+        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-01T20:11:26Z",
+        "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote."
+      },
       {
         "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
         "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
@@ -214,12 +220,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-31T00:16:03Z",
         "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out."
-      },
-      {
-        "title": "ICE agent charged for hitting Texas immigrant with vehicle during pursuit",
-        "url": "https://www.bbc.co.uk/news/articles/ckjwep125v3eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-30T23:16:43Z",
-        "summary": "The Mexican national, who was living in the US without legal documentation, suffered multiple leg fractures and a hip injury, prosecutors said."
       },
       {
         "title": "US tech stocks see sharp falls as AI spending nears $1tn",
@@ -286,6 +286,18 @@
   "archive": {
     "world": [
       {
+        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-01T20:11:26Z",
+        "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote."
+      },
+      {
+        "title": "Lindsay Clancy is back in court - where will her case go next?",
+        "url": "https://www.bbc.co.uk/news/articles/ck3r5z3pw928o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-01T17:29:08Z",
+        "summary": "The Massachusetts mother, accused of murdering her three children, is expected back in court as she awaits a decision on whether her case will be retried."
+      },
+      {
         "title": "\u2018My vote still matters\u2019 - Americans weigh in on the power of their ballot",
         "url": "https://www.bbc.co.uk/news/videos/cw62yd964e55o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-01T16:08:19Z",
@@ -296,6 +308,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c6x2wkp7e0q9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-01T15:52:51Z",
         "summary": "Adrian Ramsay suggested the party needs to focus on its \"core values\", including environmental issues."
+      },
+      {
+        "title": "MP facing voice loss after surgery shows recovery signs",
+        "url": "https://www.bbc.co.uk/news/articles/c98rz238lkxvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-01T13:18:06Z",
+        "summary": "Anne Sabine says her voice is showing signs of recovery after facing permanent damage from surgery."
       },
       {
         "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
@@ -3266,24 +3284,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T03:37:41Z",
         "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow."
-      },
-      {
-        "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct8klv?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T23:30:00Z",
-        "summary": "James Copnall speaks to Olara Otunnu, veteran Ugandan diplomat, about his UN vision"
-      },
-      {
-        "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service_west_africa?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T23:30:00Z",
-        "summary": "James Copnall speaks to Olara Otunnu, veteran Ugandan diplomat, about his UN vision"
-      },
-      {
-        "title": "Shadow chancellor to unveil Tory plans to cut taxes and regulations",
-        "url": "https://www.bbc.co.uk/news/articles/cqj9kje82jm1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-04T21:35:30Z",
-        "summary": "Shadow ministers will unveil a series of policies on day two of the Conservative Party conference in Birmingham."
       }
     ],
     "saudi": [
@@ -3439,6 +3439,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
+        "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-01T20:11:26Z",
+        "summary": "Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, endorses his opponent days before the vote."
+      },
       {
         "title": "CCTV, zip ties and election watchers: How US mail-in votes are secured and counted",
         "url": "https://www.bbc.co.uk/news/videos/cw4g1vlj4v2jo?at_medium=RSS&at_campaign=rss",
