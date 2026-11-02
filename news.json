@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-11-02T00:43:30.796495Z",
+  "generated_at": "2026-11-02T06:52:15.609663Z",
   "articles": {
     "world": [
       {
-        "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
-        "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-02T00:02:15Z",
-        "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat."
+        "title": "Trump makes fevered campaign push in final weekend before election",
+        "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-02T04:04:28Z",
+        "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress."
+      },
+      {
+        "title": "Nine killed as small jet crashes on Florida street",
+        "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-02T02:59:02Z",
+        "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\"."
       },
       {
         "title": "Lindsay Clancy is back in court - where will her case go next?",
@@ -49,12 +55,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c60qk92dvlwgo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-01T07:00:55Z",
         "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down."
-      },
-      {
-        "title": "Democrats are used to heartbreak in Texas - could Talarico turn the tide?",
-        "url": "https://www.bbc.co.uk/news/articles/cmy0r2y6zeddo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-01T06:03:57Z",
-        "summary": "The state's $500m Senate race may be the most closely watched in the US midterms, and is about far more than control of Congress."
       },
       {
         "title": "How the downfall of Serbia's Vu\u010di\u010b mirrored that of Hungary's Orb\u00e1n",
@@ -186,16 +186,22 @@
     "saudi": [],
     "us": [
       {
+        "title": "Trump makes fevered campaign push in final weekend before election",
+        "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-02T04:04:28Z",
+        "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress."
+      },
+      {
         "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat erupts",
         "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-02T00:02:15Z",
+        "published_at": "2026-11-02T01:45:42Z",
         "summary": "The move by Haley Stevens, who lost out on the Democratic Senate nomination to Abdul El-Sayed, was called a \"despicable betrayal\" by one top Democrat."
       },
       {
-        "title": "Alaska Senate candidate denies knowing about alleged plot to put two Dan Sullivans on ballot",
-        "url": "https://www.bbc.co.uk/news/articles/cmwyq2gg1yzzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-01T00:46:12Z",
-        "summary": "The incumbent Republican running for re-election and allies have accused the Democrats of trying to confuse voters by recruiting a second Dan Sullivan to also stand in the race."
+        "title": "Judge dismisses Trump administration's lawsuit over two Dan Sullivans in Alaska election",
+        "url": "https://www.bbc.co.uk/news/articles/cv4g1y02jejro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-01T23:43:49Z",
+        "summary": "The Department of Justice had sought to delay certifying results in Alaska's crucial Senate race if the Republican incumbent loses."
       },
       {
         "title": "US approves sale of 500 Patriot missiles to Ukraine",
@@ -214,12 +220,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmly016ep243o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-31T02:39:25Z",
         "summary": "A century-old paper mill in T\u00e9miscaming, Quebec is indefinitely closed after the US imposed 50% tariffs on its products, putting hundreds out of work."
-      },
-      {
-        "title": "'The necktie is dead': How US midterm candidates are dressing for votes",
-        "url": "https://www.bbc.co.uk/news/articles/ckq6nz4286r4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-31T00:16:03Z",
-        "summary": "From Alaska to Texas, candidates with an eye on Congress are using their personal style to stand out."
       },
       {
         "title": "US tech stocks see sharp falls as AI spending nears $1tn",
@@ -285,6 +285,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Trump makes fevered campaign push in final weekend before election",
+        "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-02T04:04:28Z",
+        "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress."
+      },
+      {
+        "title": "Nine killed as small jet crashes on Florida street",
+        "url": "https://www.bbc.co.uk/news/articles/cm369yy7lw73o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-02T02:59:02Z",
+        "summary": "Transportation Secretary Sean Duffy described the crash, which happened near President Trump's Mar-a-Lago resort, as a \"horrific tragedy\"."
+      },
       {
         "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
         "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
@@ -3272,18 +3284,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cwp9g54v9xjlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-05T04:51:24Z",
         "summary": "Millions of Brazilians took to the polls on Sunday for the first round of the country's presidential elections."
-      },
-      {
-        "title": "France closes up to 500 schools Monday over student protests",
-        "url": "https://www.bbc.co.uk/news/articles/cwkg5n7lm3y5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T04:49:14Z",
-        "summary": "Lessons will be \"totally or partly suspended\" in some high schools after clashes between riot police and student protesters, France's education minister says."
-      },
-      {
-        "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
-        "url": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T03:37:41Z",
-        "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow."
       }
     ],
     "saudi": [
@@ -3439,6 +3439,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Trump makes fevered campaign push in final weekend before election",
+        "url": "https://www.bbc.co.uk/news/articles/c3j47gjx29vro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-02T04:04:28Z",
+        "summary": "The US president rallied in states that Republicans previously won - showcasing how tight Tuesday's elections could be in determining control of Congress."
+      },
+      {
+        "title": "Judge dismisses Trump administration's lawsuit over two Dan Sullivans in Alaska election",
+        "url": "https://www.bbc.co.uk/news/articles/cv4g1y02jejro?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-01T23:43:49Z",
+        "summary": "The Department of Justice had sought to delay certifying results in Alaska's crucial Senate race if the Republican incumbent loses."
+      },
       {
         "title": "Democrat endorses Republican candidate in key Michigan Senate race as party spat escalates",
         "url": "https://www.bbc.co.uk/news/articles/c95ynzv88n68o?at_medium=RSS&at_campaign=rss",
