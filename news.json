@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-02T23:52:17.206904Z",
+  "generated_at": "2026-11-03T06:44:48.338964Z",
   "articles": {
     "world": [
+      {
+        "title": "North Korea denies being behind record $6.3bn Binance hack",
+        "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T06:22:29Z",
+        "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist."
+      },
+      {
+        "title": "Mahmood scraps settlement plans for migrant care workers",
+        "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T04:28:37Z",
+        "summary": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency."
+      },
+      {
+        "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T03:32:36Z",
+        "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state."
+      },
+      {
+        "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T02:11:13Z",
+        "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+      },
+      {
+        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
+        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T01:56:27Z",
+        "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
+      },
+      {
+        "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
+        "url": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T00:26:04Z",
+        "summary": "The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year."
+      },
       {
         "title": "Legal challenge to Australia's social media ban to start in High Court",
         "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
@@ -19,12 +55,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck0e0jpww9wro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-02T21:57:04Z",
         "summary": "Angela Rayner previously said plans were \"un-British\" and ministers shouldn't shift \"the goalposts\"."
-      },
-      {
-        "title": "Russian bombing kills 26 people at Ukraine aid centre, Kyiv says",
-        "url": "https://www.bbc.co.uk/news/articles/cjy56dndlyz0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-02T21:10:04Z",
-        "summary": "Officials say at least nine 3,000kg aerial bombs hit a southern Ukrainian village in what the president called an \"utterly horrific\" attack."
       },
       {
         "title": "Man guilty of stealing cash from farm owned by South African president",
@@ -75,18 +105,6 @@
         "summary": "A report by the Business, Innovation, Science and Trade Committee said decision-making had been characterised by \"inconsistency\"."
       },
       {
-        "title": "What are Americans voting for in this election?",
-        "url": "https://www.bbc.co.uk/news/videos/cjly0p753dxxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-02T09:22:55Z",
-        "summary": "The BBC's Maddie Gerber explains what's on the ballot in the 2026 midterm elections in the United States."
-      },
-      {
-        "title": "Track UK's latest migration numbers - net migration, visas, asylum and small boats",
-        "url": "https://www.bbc.co.uk/news/articles/c70989jrdweo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-02T08:42:35Z",
-        "summary": "Use our interactive tracker to explore the latest migration statistics for the UK"
-      },
-      {
         "title": "King to address slavery in Antigua as PM says he is open to possible UK apology",
         "url": "https://www.bbc.co.uk/news/articles/cq398y0zj9rpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-02T02:46:55Z",
@@ -129,18 +147,6 @@
         "summary": "Thousands gathered in the heart of delhi, calling for the chief election commissioner to step down."
       },
       {
-        "title": "Judge dismisses Trump's lawsuit against Wall Street Journal over Epstein birthday book",
-        "url": "https://www.bbc.co.uk/news/articles/cwr5yj2lj9myo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-01T00:41:24Z",
-        "summary": "Trump had sued the media outlet after it published a letter to Epstein purportedly written and signed by the president as part of a birthday book."
-      },
-      {
-        "title": "Judge orders Trump administration to stop threatening US election officials",
-        "url": "https://www.bbc.co.uk/news/articles/c8qln1539y37o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-01T00:27:33Z",
-        "summary": "The order comes after election officials received letters demanding they set aside the ballots of possible non-citizen voters."
-      },
-      {
         "title": "Burnham 'open' to calls for slavery apology but not reparations",
         "url": "https://www.bbc.co.uk/news/articles/c5398239je88o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-31T13:28:40Z",
@@ -175,16 +181,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cqr7yp8dngn8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-30T16:56:33Z",
         "summary": "The meeting involved representatives from the UK's four nations to discuss devolving more powers to regions and cities."
-      },
-      {
-        "title": "First minister says Welsh spending powers takes step forward after Andy Burnham meeting",
-        "url": "https://www.bbc.co.uk/news/articles/cmg4706xkp35o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-30T16:37:03Z",
-        "summary": "Rhun ap Iorwerth says new powers for more cash matter of how and when, after meeting."
       }
     ],
     "saudi": [],
     "us": [
+      {
+        "title": "US strikes Iran ahead of midterm elections",
+        "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T03:39:08Z",
+        "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
+      },
+      {
+        "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T03:32:36Z",
+        "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state."
+      },
       {
         "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
         "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
@@ -255,6 +267,36 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "North Korea denies being behind record $6.3bn Binance hack",
+        "url": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T06:22:29Z",
+        "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist."
+      },
+      {
+        "title": "Mahmood scraps settlement plans for migrant care workers",
+        "url": "https://www.bbc.co.uk/news/articles/c6lye8g4w7g1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T04:28:37Z",
+        "summary": "The home secretary laid out a revised proposal for changing when migrants can claim permanent residency."
+      },
+      {
+        "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T03:32:36Z",
+        "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state."
+      },
+      {
+        "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T02:11:13Z",
+        "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+      },
+      {
+        "title": "PM plans debt re-set for Commonwealth nations as slavery apology talks begin",
+        "url": "https://www.bbc.co.uk/news/articles/c58jzn1ve0kjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T00:26:04Z",
+        "summary": "The move comes as the prime minister begins talks about the UK issuing a formal apology for the slave trade in the next year."
+      },
       {
         "title": "Legal challenge to Australia's social media ban to start in High Court",
         "url": "https://www.bbc.co.uk/news/articles/ck79py02p1jlo?at_medium=RSS&at_campaign=rss",
@@ -3224,36 +3266,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crly09gz7ew4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T02:37:46Z",
         "summary": "The Parti Qu\u00e9b\u00e9cois, which secured a minority, has vowed to hold an independence referendum in the years to come."
-      },
-      {
-        "title": "Trump says he will stop using taxpayer funds for ads after bipartisan pushback",
-        "url": "https://www.bbc.co.uk/news/articles/cm9qzlvpqex9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T01:58:29Z",
-        "summary": "The ads, which tout Trump and his policies, could have violated US laws barring public government funds being spent on political advertising."
-      },
-      {
-        "title": "MPs call for investigation after Lutnick-Epstein whistleblower dies",
-        "url": "https://www.bbc.co.uk/news/articles/cwm2686gl6kno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T23:29:02Z",
-        "summary": "Simon Andriesz said he felt let down by the UK's Financial Conduct Authority before his death last month."
-      },
-      {
-        "title": "Tories pledge \u00a310bn 'Britannia Shield' air defence system",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgdl5npl86o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T22:39:20Z",
-        "summary": "The Conservatives said their plan would protect the UK at a time when Nato allies have warned of Russian drone incursions."
-      },
-      {
-        "title": "Author and former politician Jeffrey Archer dies aged 86",
-        "url": "https://www.bbc.co.uk/news/articles/ckj0l401dvpgo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T21:41:53Z",
-        "summary": "His last book, Adam and Eve, is set to release this month."
-      },
-      {
-        "title": "I won't accept exclusion, says Polanski after criticism of Zionist motion",
-        "url": "https://www.bbc.co.uk/news/articles/cjy56yxxwy3po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-05T21:32:19Z",
-        "summary": "Labour MPs and the European Greens have demanded clarity from the Green Party over a \"Zionism is racism\" motion."
       }
     ],
     "saudi": [
@@ -3409,6 +3421,18 @@
       }
     ],
     "us": [
+      {
+        "title": "US strikes Iran ahead of midterm elections",
+        "url": "https://www.bbc.co.uk/news/articles/cx240mrm3g8vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T03:39:08Z",
+        "summary": "US officials described the attacks on Qeshm Island as limited and defensive, according to CBS, the BBC's US partner."
+      },
+      {
+        "title": "Supreme Court rejects Trump's request to stop California counting disputed votes",
+        "url": "https://www.bbc.co.uk/news/articles/cm5ynekkn5qko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T03:32:36Z",
+        "summary": "The ruling, which comes on the eve of the midterm elections, essentially ends the Trump administration's bid to disqualify the ballots in the state."
+      },
       {
         "title": "US midterms campaign 'shattering' spending records to be most expensive ever",
         "url": "https://www.bbc.co.uk/news/articles/cqkgk64z7p58o?at_medium=RSS&at_campaign=rss",
