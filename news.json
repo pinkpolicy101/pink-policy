@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-11-03T20:38:15.348962Z",
+  "generated_at": "2026-11-04T00:54:01.509368Z",
   "articles": {
     "world": [
       {
-        "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-        "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-03T20:36:53Z",
-        "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade."
+        "title": "ANC under pressure to reverse South Africa decline",
+        "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-04T00:03:19Z",
+        "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get."
       },
       {
         "title": "Spanish transport minister resigns days after deadly train crash",
         "url": "https://www.bbc.co.uk/news/articles/c6wydqd4yxdyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-03T20:36:14Z",
+        "published_at": "2026-11-03T22:45:59Z",
         "summary": "At least 69 people were killed and dozens injured in the collision south of the capital, Madrid."
+      },
+      {
+        "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T20:53:03Z",
+        "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
+      },
+      {
+        "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
+        "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T20:38:38Z",
+        "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade."
       },
       {
         "title": "Reform UK councillor charged with rape and sexual assault",
@@ -49,12 +61,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6ly052pdx4no?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-03T12:56:34Z",
         "summary": "The home secretary sets out plans to change requirements for permanent settlement in the UK."
-      },
-      {
-        "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3grwre9xdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-03T12:07:59Z",
-        "summary": "The food deal, ahead of a UK-EU summit later this month, is the most significant part of the so-called Brexit reset agreed so far."
       },
       {
         "title": "Mahmood refuses to put cost on care worker settlement climbdown",
@@ -103,12 +109,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c6m2dg0d7e8ko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-02T23:02:09Z",
         "summary": "In his last public speech before crucial midterm elections, the president gave a detailed recounting of the Washington landmark's troubled renovation."
-      },
-      {
-        "title": "Man guilty of stealing cash from farm owned by South African president",
-        "url": "https://www.bbc.co.uk/news/articles/c9vgrvpk4l6eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-02T20:08:51Z",
-        "summary": "The case, part of the \"Farmgate\" scandal, has left President Cyril Ramaphosa mired in an impeachment saga."
       },
       {
         "title": "MP Carla Lockhart quits DUP in Drumcree row",
@@ -186,6 +186,18 @@
     "saudi": [],
     "us": [
       {
+        "title": "BBC asks voters across US what brought them to the polls today",
+        "url": "https://www.bbc.co.uk/news/videos/cq8rz6xlz6ejo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-04T00:26:48Z",
+        "summary": "Voters in Iowa, Georgia and Ohio spoke to BBC reporters as millions of Americans decide who will control Congress."
+      },
+      {
+        "title": "US voters name economy and state of democracy as top issues, poll says",
+        "url": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T23:55:37Z",
+        "summary": "A major election day survey suggests voters are the most unhappy with the economy."
+      },
+      {
         "title": "Rubio urges Venezuela to release remaining political prisoners",
         "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-03T12:09:20Z",
@@ -226,12 +238,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq2d6k4r5n9ro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-03T09:29:32Z",
         "summary": "The midterms will shape Congress for the last years of his presidency, writes Sarah Smith, but they are also a test of what politics may look like without him."
-      },
-      {
-        "title": "When will we know the US midterms results?",
-        "url": "https://www.bbc.co.uk/news/articles/cq20321y2nlyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-03T07:56:09Z",
-        "summary": "Once polls close, it is possible the results will not be projected for several hours, days or even weeks"
       },
       {
         "title": "How to follow the US midterm elections on the BBC",
@@ -279,6 +285,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "ANC under pressure to reverse South Africa decline",
+        "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-04T00:03:19Z",
+        "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get."
+      },
       {
         "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
         "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
@@ -3272,12 +3284,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c69vzndzdglno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-06T14:50:03Z",
         "summary": "A no-confidence motion in agriculture and environment minister was called over a controversial cattle cull."
-      },
-      {
-        "title": "AfD candidate elected speaker of German regional parliament for first time",
-        "url": "https://www.bbc.co.uk/news/articles/c54g1m2g1pg3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-06T14:44:03Z",
-        "summary": "Although Tobias Rausch's role is largely symbolic, opponents have described the result as a watershed moment."
       }
     ],
     "saudi": [
@@ -3433,6 +3439,18 @@
       }
     ],
     "us": [
+      {
+        "title": "BBC asks voters across US what brought them to the polls today",
+        "url": "https://www.bbc.co.uk/news/videos/cq8rz6xlz6ejo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-04T00:26:48Z",
+        "summary": "Voters in Iowa, Georgia and Ohio spoke to BBC reporters as millions of Americans decide who will control Congress."
+      },
+      {
+        "title": "US voters name economy and state of democracy as top issues, poll says",
+        "url": "https://www.bbc.co.uk/news/articles/c39wz0970eypo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-03T23:55:37Z",
+        "summary": "A major election day survey suggests voters are the most unhappy with the economy."
+      },
       {
         "title": "Rubio urges Venezuela to release remaining political prisoners",
         "url": "https://www.bbc.co.uk/news/articles/cxg5jln586pno?at_medium=RSS&at_campaign=rss",
