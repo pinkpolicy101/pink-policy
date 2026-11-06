@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-06T18:28:51.807603Z",
+  "generated_at": "2026-11-06T23:30:55.101359Z",
   "articles": {
     "world": [
+      {
+        "title": "AI stocks climb after trillions wiped from market values",
+        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T21:06:25Z",
+        "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
+      },
       {
         "title": "Nigerian court rules opposition candidate cannot stand in elections",
         "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
@@ -13,12 +19,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-06T17:19:38Z",
         "summary": "A post-Brexit deal on food standards has raised questions over the future naming of the classic British snack."
-      },
-      {
-        "title": "AI stocks climb after trillions wiped from market values",
-        "url": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-06T17:03:02Z",
-        "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
       },
       {
         "title": "Burnham responds to BBC question over Labour's past links to Brand",
@@ -186,9 +186,21 @@
     "saudi": [],
     "us": [
       {
-        "title": "Could the US midterms burst the AI bubble?",
+        "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
+        "url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T22:22:51Z",
+        "summary": "Lawyers for both campaigns in Mississippi's US Senate race are preparing for a possible legal battle as the close count continues."
+      },
+      {
+        "title": "Trump names Stephen Miller as new White House chief of staff",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T20:11:45Z",
+        "summary": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday."
+      },
+      {
+        "title": "Why the US midterms sparked an AI stock selloff",
         "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-06T16:14:23Z",
+        "published_at": "2026-11-06T18:32:16Z",
         "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time."
       },
       {
@@ -216,22 +228,10 @@
         "summary": "US media reports there are calls to replace Pete Hegseth, who also faces a possible impeachment vote, while Marco Rubio is rumoured to be eyeing a presidential run."
       },
       {
-        "title": "California governor commutes sentences for state's 548 death row inmates",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T23:09:33Z",
-        "summary": "California has historically had the largest population of people on death row in the US."
-      },
-      {
         "title": "Inside Mississippi's ballot counting in tight Senate race",
         "url": "https://www.bbc.co.uk/news/videos/cmj477d0dyxqo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-05T20:31:38Z",
         "summary": "The BBC's Carl Nasman goes inside a county election commission building as votes are counted in the race between Democrat Scott Colom and Republican Cindy Hyde-Smith."
-      },
-      {
-        "title": "Boebert, billionaires' tax and other midterms races still to watch",
-        "url": "https://www.bbc.co.uk/news/articles/c6vg0y2nr445o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T19:02:17Z",
-        "summary": "Democrats have taken control of the House and Senate, and are eyeing some more with several key races still too close to call."
       },
       {
         "title": "When to expect Senate results from the tight race in Mississippi",
@@ -3421,6 +3421,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
+        "url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T22:22:51Z",
+        "summary": "Lawyers for both campaigns in Mississippi's US Senate race are preparing for a possible legal battle as the close count continues."
+      },
+      {
+        "title": "Trump names Stephen Miller as new White House chief of staff",
+        "url": "https://www.bbc.co.uk/news/articles/cm9qzz5x9g5yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T20:11:45Z",
+        "summary": "Miller, considered the architect of Trump's hard-line immigration policy, will move into the role on Monday."
+      },
       {
         "title": "Could the US midterms burst the AI bubble?",
         "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
