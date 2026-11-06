@@ -1,18 +1,36 @@
 {
-  "generated_at": "2026-11-05T22:52:09.299758Z",
+  "generated_at": "2026-11-06T03:25:37.602638Z",
   "articles": {
     "world": [
+      {
+        "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T02:08:57Z",
+        "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses."
+      },
+      {
+        "title": "'Not my job to set a budget,' says secretary of state",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy9zp3e44po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-05T23:39:31Z",
+        "summary": "Sir Chris Bryant is understood to have asked parties to commit to raising an extra \u00a3200m in income."
+      },
+      {
+        "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+        "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-05T23:16:53Z",
+        "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough."
+      },
+      {
+        "title": "Firms told to publish salaries in job adverts ahead of new law",
+        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-05T22:32:02Z",
+        "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination."
+      },
       {
         "title": "More Mandelson papers set to be published before Christmas",
         "url": "https://www.bbc.co.uk/news/articles/c60meenj1ke8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-05T20:15:56Z",
         "summary": "Documents were published in March and June - but others were withheld because they were part of a police investigation."
-      },
-      {
-        "title": "'Not my job to set a budget,' says secretary of state",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy9zp3e44po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T19:37:11Z",
-        "summary": "Sir Chris Bryant is understood to have asked parties to commit to raising an extra \u00a3200m in income."
       },
       {
         "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
@@ -141,12 +159,6 @@
         "summary": "Andy Burnham says prices won't come down until the US's conflict with Iran is resolved."
       },
       {
-        "title": "ANC under pressure to reverse South Africa decline",
-        "url": "https://www.bbc.co.uk/news/articles/cr4g1x6l77xyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-04T11:47:44Z",
-        "summary": "As South Africans vote in local elections, residents tell the BBC they are tired of the poor quality of services they get."
-      },
-      {
         "title": "Children spending too long on maths app TT Rockstars, MP warns",
         "url": "https://www.bbc.co.uk/news/articles/c64g1vyxq4j5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-04T11:31:39Z",
@@ -169,33 +181,27 @@
         "url": "https://www.bbc.co.uk/news/articles/cmqlnxxe71ydo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-03T20:38:41Z",
         "summary": "The original version fell in July in a row over spending on additional learning needs education."
-      },
-      {
-        "title": "King calls slave trade a 'shameful chapter' during Commonwealth address",
-        "url": "https://www.bbc.co.uk/news/articles/cr89znnnn7dno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-03T20:38:38Z",
-        "summary": "The speech comes after calls for the UK government to issue a formal apology for Britain's historic role in the trade."
-      },
-      {
-        "title": "Reform UK councillor charged with rape and sexual assault",
-        "url": "https://www.bbc.co.uk/news/articles/c63elky79np7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-03T19:09:56Z",
-        "summary": "The Crown Prosecution Service has charged George Madgwick with 35 offences, including 12 counts of rape."
       }
     ],
     "saudi": [],
     "us": [
       {
-        "title": "California governor commutes sentences for state's 548 death row inmates",
-        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T22:31:40Z",
-        "summary": "California has historically had the largest population of people on death row in the US."
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T03:17:39Z",
+        "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
       },
       {
-        "title": "Major tech stocks plunge as US midterms add to fears of AI slowdown",
+        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
         "url": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T22:13:38Z",
-        "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US midterms"
+        "published_at": "2026-11-06T02:57:24Z",
+        "summary": "Investors have reacted to possible tougher scrutiny of data centre construction and the AI industry."
+      },
+      {
+        "title": "California governor commutes sentences for state's 548 death row inmates",
+        "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-05T23:09:33Z",
+        "summary": "California has historically had the largest population of people on death row in the US."
       },
       {
         "title": "Inside Mississippi's ballot counting in tight Senate race",
@@ -273,6 +279,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T02:08:57Z",
+        "summary": "The Trump administration has downplayed reports the pair could be on their way out after heavy Republicans election losses."
+      },
+      {
+        "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
+        "url": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-05T23:16:53Z",
+        "summary": "The Delhi government has announced a four-month winter action plan, but experts say that won't be enough."
+      },
+      {
+        "title": "Firms told to publish salaries in job adverts ahead of new law",
+        "url": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-05T22:32:02Z",
+        "summary": "The government argues the change will help jobseekers and could help to prevent pay discrimination."
+      },
       {
         "title": "More Mandelson papers set to be published before Christmas",
         "url": "https://www.bbc.co.uk/news/articles/c60meenj1ke8o?at_medium=RSS&at_campaign=rss",
@@ -3254,24 +3278,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqly3xjy1g11o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T02:27:13Z",
         "summary": "Labour's Sagal Abdi-Wali beats Green Party leader Zack Polanski to hold the north London seat."
-      },
-      {
-        "title": "Burnham calls on Polanski to reverse Green Party's Zionism motion",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d6x11l6pko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T22:10:17Z",
-        "summary": "The prime minister has intervened in the row over the motion passed by members at Green Party conference."
-      },
-      {
-        "title": "Protesters blame 'vulture funds' for Spain's housing crisis",
-        "url": "https://www.bbc.co.uk/news/articles/c3j4790elkx7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T19:10:06Z",
-        "summary": "Hundreds have pitched their tents in central Madrid, while the Spanish prime minister has called a snap election."
-      },
-      {
-        "title": "Italy overhauls electoral system after fiercely contested debate",
-        "url": "https://www.bbc.co.uk/news/articles/c6zxjdw8rdl5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-08T12:32:12Z",
-        "summary": "Prime Minister Giorgia Meloni says the move will deliver more stable government, but opposition parties say her aim is to stay in power."
       }
     ],
     "saudi": [
@@ -3427,6 +3433,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Trump signs order preventing future presidents from changing Oval Office",
+        "url": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T03:17:39Z",
+        "summary": "The order comes after Trump made a series of big changes to the decor of the Oval Office and tore down the White House East Wing."
+      },
       {
         "title": "California governor commutes sentences for state's 548 death row inmates",
         "url": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
