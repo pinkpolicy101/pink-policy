@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-06T23:30:55.101359Z",
+  "generated_at": "2026-11-07T03:13:25.269476Z",
   "articles": {
     "world": [
       {
@@ -73,12 +73,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6kgl0gx19e1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-06T06:25:09Z",
         "summary": "Carl Johnson writes that \"no foreigner\" should be allowed to stand in elections."
-      },
-      {
-        "title": "Did a data centre revolt affect the US midterm election results?",
-        "url": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-06T06:01:13Z",
-        "summary": "BBC Verify examines whether US voters were influenced by the data centre boom - and the impact anti-AI sentiment could have on the industry."
       },
       {
         "title": "Thatcher's Right to Buy created a generation of homeowners - did it also fuel the housing crisis?",
@@ -181,10 +175,22 @@
         "url": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-04T22:34:08Z",
         "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives."
+      },
+      {
+        "title": "Chris Mason: The US elections will change Trump - how will Burnham react?",
+        "url": "https://www.bbc.co.uk/news/articles/c615j8pw1y81o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-04T21:02:58Z",
+        "summary": "The big question for the British government is does defeat at home make it more likely that President Trump gets angrier abroad?"
       }
     ],
     "saudi": [],
     "us": [
+      {
+        "title": "With Stephen Miller pick, Trump readies for a battle",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T23:24:15Z",
+        "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+      },
       {
         "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
         "url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss",
@@ -3421,6 +3427,12 @@
       }
     ],
     "us": [
+      {
+        "title": "With Stephen Miller pick, Trump readies for a battle",
+        "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T23:24:15Z",
+        "summary": "The US president's promotion of Miller, a loyal partisan firebrand to be his new chief of staff sets up likely clashes with Congress."
+      },
       {
         "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
         "url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss",
