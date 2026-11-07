@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-07T20:30:00.001966Z",
+  "generated_at": "2026-11-07T23:58:07.327656Z",
   "articles": {
     "world": [
+      {
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T22:19:59Z",
+        "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+      },
       {
         "title": "Paraguay's former president charged after bank collapse",
         "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-05T02:17:18Z",
         "summary": "British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes."
-      },
-      {
-        "title": "'Hopefully things get done': Americans react to historic political shift",
-        "url": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-04T22:34:08Z",
-        "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives."
       }
     ],
     "saudi": [],
@@ -188,8 +188,8 @@
       {
         "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
         "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-07T19:52:23Z",
-        "summary": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment."
+        "published_at": "2026-11-07T22:29:37Z",
+        "summary": "The BBC has asked the White House and UFC whether the president's job offer is genuine."
       },
       {
         "title": "US offers $20m reward for information about Iran's nuclear programme",
@@ -285,6 +285,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Israel's president tasks opposition leader Eisenkot with forming government",
+        "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T22:19:59Z",
+        "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+      },
       {
         "title": "Italian foreign minister says hackers leaked his personal data",
         "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
@@ -3278,12 +3284,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T23:02:07Z",
         "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering."
-      },
-      {
-        "title": "Analysis: Trump's shock Russia deal highlights mounting pressure to curb fuel prices",
-        "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T22:30:22Z",
-        "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
       }
     ],
     "saudi": [
