@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-07T16:24:54.218653Z",
+  "generated_at": "2026-11-07T20:30:00.001966Z",
   "articles": {
     "world": [
+      {
+        "title": "Paraguay's former president charged after bank collapse",
+        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T19:17:22Z",
+        "summary": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access their money."
+      },
+      {
+        "title": "Italian foreign minister says hackers leaked his personal data",
+        "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T16:50:06Z",
+        "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
+      },
       {
         "title": "No clear winner after tight New Zealand general election",
         "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
@@ -21,22 +33,10 @@
         "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented."
       },
       {
-        "title": "Paraguay's president impeached and under house arrest after bank collapse",
-        "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-07T07:20:00Z",
-        "summary": "Santiago Pe\u00f1a was ousted due to a banking crisis which left millions of people unable to access their money."
-      },
-      {
         "title": "Parliament restoration delays 'frustrating', says Commons Speaker",
         "url": "https://www.bbc.co.uk/news/articles/cm89zznj21ylo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-07T06:04:32Z",
         "summary": "Sir Lindsay Hoyle urges action after a committee warns it is \"crunch time\" for the ailing building."
-      },
-      {
-        "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
-        "url": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-06T23:46:08Z",
-        "summary": "Friday's resolution by academic staff is largely symbolic as they do not have the power to remove those in charge of the university."
       },
       {
         "title": "With Stephen Miller pick, Trump readies for a battle",
@@ -61,12 +61,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cjkgee4yw3xno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-06T16:14:40Z",
         "summary": "The prime minister says that Labour politicians courting the comedian a decade ago had not been aware of his crimes."
-      },
-      {
-        "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
-        "url": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-06T15:30:42Z",
-        "summary": "The Trump administration had hoped the construction of the 250-foot arch could begin as early as this week."
       },
       {
         "title": "PM tells firms to publish salaries in job adverts ahead of new law",
@@ -181,10 +175,28 @@
         "url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-05T02:17:18Z",
         "summary": "British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes."
+      },
+      {
+        "title": "'Hopefully things get done': Americans react to historic political shift",
+        "url": "https://www.bbc.co.uk/news/videos/cwj0l61e2927o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-04T22:34:08Z",
+        "summary": "The BBC spoke to voters from different states for their reaction to Democrats taking control of both the Senate and the House of Representatives."
       }
     ],
     "saudi": [],
     "us": [
+      {
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T19:52:23Z",
+        "summary": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment."
+      },
+      {
+        "title": "US offers $20m reward for information about Iran's nuclear programme",
+        "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T18:14:38Z",
+        "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
+      },
       {
         "title": "Four things we learned this week about 2028 White House race",
         "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
@@ -273,6 +285,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Italian foreign minister says hackers leaked his personal data",
+        "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T16:50:06Z",
+        "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
+      },
       {
         "title": "No clear winner after tight New Zealand general election",
         "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
@@ -3266,12 +3284,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c5lye9z4xw4yo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T22:30:22Z",
         "summary": "The US president hopes to ease his party's pain before next month's midterm elections, writes the BBC's North America correspondent."
-      },
-      {
-        "title": "Trump announces deal for Russian diesel as Zelensky criticises 'gift to Putin'",
-        "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T20:13:23Z",
-        "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended."
       }
     ],
     "saudi": [
@@ -3427,6 +3439,18 @@
       }
     ],
     "us": [
+      {
+        "title": "'Dana, please take the job!' - Trump asks UFC boss to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/articles/cvze47p9jeexo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T19:52:23Z",
+        "summary": "The BBC has asked the White House and TKO Holdings, the parent company of UFC, for comment."
+      },
+      {
+        "title": "US offers $20m reward for information about Iran's nuclear programme",
+        "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T18:14:38Z",
+        "summary": "Donald Trump has repeatedly raised the prospecting of renewing strikes against Iran's nuclear facilities."
+      },
       {
         "title": "With Stephen Miller pick, Trump readies for a battle",
         "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
