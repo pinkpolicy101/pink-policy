@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-11-07T10:08:30.824279Z",
+  "generated_at": "2026-11-07T16:24:54.218653Z",
   "articles": {
     "world": [
+      {
+        "title": "No clear winner after tight New Zealand general election",
+        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T15:56:28Z",
+        "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+      },
+      {
+        "title": "Four things we learned this week about 2028 White House race",
+        "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T12:23:28Z",
+        "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?"
+      },
+      {
+        "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T07:27:44Z",
+        "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented."
+      },
       {
         "title": "Paraguay's president impeached and under house arrest after bank collapse",
         "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
@@ -33,12 +51,6 @@
         "summary": "Investors had been selling off tech shares in part due to concerns the Democrat election victory would mean slower AI development."
       },
       {
-        "title": "Nigerian court rules opposition candidate cannot stand in elections",
-        "url": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-06T17:35:55Z",
-        "summary": "The high court has sacked the leadership of the opposition ADC party with only months to go until elections."
-      },
-      {
         "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
         "url": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-06T17:19:38Z",
@@ -49,12 +61,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cjkgee4yw3xno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-06T16:14:40Z",
         "summary": "The prime minister says that Labour politicians courting the comedian a decade ago had not been aware of his crimes."
-      },
-      {
-        "title": "Four midterms takeaways for 2028 White House race",
-        "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-06T16:12:22Z",
-        "summary": "The buzz about the presidential election is already under way - here's what we learned this week."
       },
       {
         "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
@@ -79,12 +85,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6y43zvwzre1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-06T09:59:42Z",
         "summary": "Highland Council says the formula fails to take into consideration housing challenges it is facing."
-      },
-      {
-        "title": "Somalia's top court rejects president's term extension amid political crisis",
-        "url": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-06T08:18:10Z",
-        "summary": "The country's first nationwide elections since 1969 are due next year - a timetable now thrown into doubt."
       },
       {
         "title": "Reform councillor's post branded racist by Labour",
@@ -115,12 +115,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-05T19:08:48Z",
         "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters."
-      },
-      {
-        "title": "Paraguay President Santiago Pe\u00f1a resigns after bank collapse",
-        "url": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T17:40:40Z",
-        "summary": "The move follows a bank collapse and after the lower house of congress voted in favour of pursuing an impeachment trial against him."
       },
       {
         "title": "Farage says he is worried Trump will step up Iran war after midterm 'disaster'",
@@ -181,10 +175,22 @@
         "url": "https://www.bbc.co.uk/news/articles/cqly0k8l5mdvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-05T03:05:34Z",
         "summary": "MPs told it's crunch time for a decision on refurbishment amid warnings of a Notre Dame-style fire."
+      },
+      {
+        "title": "UK commits to 'time-bound' talks on slavery apology",
+        "url": "https://www.bbc.co.uk/news/articles/cqdr872jkk7vo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-05T02:17:18Z",
+        "summary": "British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes."
       }
     ],
     "saudi": [],
     "us": [
+      {
+        "title": "Four things we learned this week about 2028 White House race",
+        "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T12:23:28Z",
+        "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?"
+      },
       {
         "title": "With Stephen Miller pick, Trump readies for a battle",
         "url": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
@@ -208,12 +214,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-06T18:32:16Z",
         "summary": "Fears of more AI regulation appear to have sparked fear among investors, but concerns about the industry have been growing for some time."
-      },
-      {
-        "title": "Four midterms takeaways for 2028 White House race",
-        "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-06T16:12:22Z",
-        "summary": "The buzz about the presidential election is already under way - here's what we learned this week."
       },
       {
         "title": "How America voted in maps and charts",
@@ -273,6 +273,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "No clear winner after tight New Zealand general election",
+        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T15:56:28Z",
+        "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
+      },
+      {
+        "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
+        "url": "https://www.bbc.co.uk/news/articles/cqgkvv8m8pgyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T07:27:44Z",
+        "summary": "The 82-year-old appeared in court in Florida after the FBI searched two Los Angeles-area storage units he rented."
+      },
       {
         "title": "Paraguay's president impeached and under house arrest after bank collapse",
         "url": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
@@ -3260,18 +3272,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm1dwgr666wno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-09T20:13:23Z",
         "summary": "Ukraine's president said allowing Russia to sell petroleum products would prolong a war that must be ended."
-      },
-      {
-        "title": "US imposes sanctions on International Criminal Court",
-        "url": "https://www.bbc.co.uk/news/articles/cj20vkkx3rdvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T16:06:59Z",
-        "summary": "The US says the measures are aimed at restricting the tribunal's resources and ability to operate."
-      },
-      {
-        "title": "Widdecombe suspect had 'particular hostility to Reform', court told",
-        "url": "https://www.bbc.co.uk/news/articles/cmkgknz19z7po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T14:35:31Z",
-        "summary": "Kerry is charged with the murder of the 78-year-old former Conservative minister and Reform UK spokeswoman."
       }
     ],
     "saudi": [
