@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-11-08T05:58:24.272959Z",
+  "generated_at": "2026-11-08T13:22:08.059399Z",
   "articles": {
     "world": [
+      {
+        "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-08T13:05:30Z",
+        "summary": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
+      },
       {
         "title": "Israel's president tasks opposition leader Eisenkot with forming government",
         "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-07T22:19:59Z",
         "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+      },
+      {
+        "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T21:36:16Z",
+        "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
       },
       {
         "title": "Paraguay's former president charged after bank collapse",
@@ -19,18 +31,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr20wvge32j3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-07T16:50:06Z",
         "summary": "Prime Minister Giorgia Meloni has blamed pro-Russian hackers for publishing the details online."
-      },
-      {
-        "title": "No clear winner after tight New Zealand general election",
-        "url": "https://www.bbc.co.uk/news/articles/c3ewev11g1e0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-07T15:56:28Z",
-        "summary": "Weeks of coalition talks could follow after preliminary results pointed to a highly divided national parliament."
-      },
-      {
-        "title": "Four things we learned this week about 2028 White House race",
-        "url": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-07T12:23:28Z",
-        "summary": "The seismic Democratic gains in Congress could shape the presidential election, so who had a good night and who's making moves?"
       },
       {
         "title": "Meghan's father Thomas Markle under house arrest after child sex abuse material charge",
@@ -183,7 +183,14 @@
         "summary": "British diplomats are looking to offer reassurance that there is a sense of urgency to deal with the issue, even if a date for doing so is not yet confirmed, Chris Mason writes."
       }
     ],
-    "saudi": [],
+    "saudi": [
+      {
+        "title": "Houthis say at least 33 killed in Saudi air strike",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-08T04:03:12Z",
+        "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+      }
+    ],
     "us": [
       {
         "title": "The Trump coalition is shattered - what will Republicans do now?",
@@ -292,10 +299,22 @@
   "archive": {
     "world": [
       {
+        "title": "Nandy rejects claims of politicising Remembrance Sunday after Erasmus row",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg72p1zgvlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-08T13:05:30Z",
+        "summary": "The culture secretary says the UK rejoining the EU's study and work scheme will help honour wartime sacrifice."
+      },
+      {
         "title": "Israel's president tasks opposition leader Eisenkot with forming government",
         "url": "https://www.bbc.co.uk/news/articles/cmy8367lj5xlo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-07T22:19:59Z",
         "summary": "Neither PM Benjamin Netanyahu's bloc nor that of his rival secured a majority in last week's election."
+      },
+      {
+        "title": "'Flat', 'tired', 'cynical': Unusually gloomy Kiwis deliver New Zealand's tightest election in years",
+        "url": "https://www.bbc.co.uk/news/articles/cxr5yyg2nj9eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-07T21:36:16Z",
+        "summary": "The national mood is low, and faith in politics even lower - with voters deserting the major parties at the polls."
       },
       {
         "title": "Italian foreign minister says hackers leaked his personal data",
@@ -3278,21 +3297,15 @@
         "url": "https://www.bbc.co.uk/sounds/play/m0032qm8?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-10T05:00:00Z",
         "summary": "Conservative Party Leader and Leader of the Opposition."
-      },
-      {
-        "title": "'Stain on the country': Trump criticises Norway over Nobel Peace Prize",
-        "url": "https://www.bbc.co.uk/news/articles/ckgj921e14jdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-10T04:07:11Z",
-        "summary": "The US president told a rally he had \"never heard of\" the winner, former International Criminal Court judge Navi Pillay."
-      },
-      {
-        "title": "Thousands of security personnel deployed as Delhi braces for \u2018cockroach\u2019 protest",
-        "url": "https://www.bbc.co.uk/news/articles/cm2d6xd2g4w2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-09T23:02:07Z",
-        "summary": "Several trains to Delhi have been cancelled and dozens of metro stations are shut to stop protesters from gathering."
       }
     ],
     "saudi": [
+      {
+        "title": "Houthis say at least 33 killed in Saudi air strike",
+        "url": "https://www.bbc.co.uk/news/articles/c65yn1v99ypmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-08T04:03:12Z",
+        "summary": "Saudi Arabia, which leads a coalition fighting the Houthis in Yemen, has not commented."
+      },
       {
         "title": "Two killed in attack on airport in eastern Saudi Arabia, authorities say",
         "url": "https://www.bbc.co.uk/news/articles/cqwy71ww156ro?at_medium=RSS&at_campaign=rss",
