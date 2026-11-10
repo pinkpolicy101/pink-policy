@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-10T18:16:23.656559Z",
+  "generated_at": "2026-11-10T23:27:00.681966Z",
   "articles": {
     "world": [
+      {
+        "title": "Census should include black English and Asian English options, says MP",
+        "url": "https://www.bbc.co.uk/news/articles/c3lylyy24xl5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T22:04:54Z",
+        "summary": "Josh Babarinde's proposal is also supported by other MPs, including David Lammy and Sir James Cleverly."
+      },
+      {
+        "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T19:26:42Z",
+        "summary": "Supporters of Sheikh Hasina want her to return from exile in India."
+      },
+      {
+        "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+        "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T18:43:04Z",
+        "summary": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION."
+      },
+      {
+        "title": "Arrests made after visit from former US President Biden",
+        "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T18:07:56Z",
+        "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse"
+      },
       {
         "title": "Scottish Labour leader says the UK should re-join EU",
         "url": "https://www.bbc.co.uk/news/articles/c820v0e43xr4o?at_medium=RSS&at_campaign=rss",
@@ -157,30 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6y43zvwzre1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-06T09:59:42Z",
         "summary": "Highland Council says the formula fails to take into consideration housing challenges it is facing."
-      },
-      {
-        "title": "Reform councillor's post branded racist by Labour",
-        "url": "https://www.bbc.co.uk/news/articles/c6kgl0gx19e1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-06T06:25:09Z",
-        "summary": "Carl Johnson writes that \"no foreigner\" should be allowed to stand in elections."
-      },
-      {
-        "title": "Thatcher's Right to Buy created a generation of homeowners - did it also fuel the housing crisis?",
-        "url": "https://www.bbc.co.uk/news/articles/c699zde85xn7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-06T00:09:56Z",
-        "summary": "Labour is weakening Margaret Thatcher's landmark housing policy. Will it really fix Britain's social housing woes?"
-      },
-      {
-        "title": "More Mandelson papers set to be published before Christmas",
-        "url": "https://www.bbc.co.uk/news/articles/c60meenj1ke8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T20:15:56Z",
-        "summary": "Documents were published in March and June - but others were withheld because they were part of a police investigation."
-      },
-      {
-        "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-        "url": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T19:08:48Z",
-        "summary": "New Zealanders will head to the polls on 7 November to elect a new government, with rising cost of living a key concern for voters."
       }
     ],
     "saudi": [
@@ -268,6 +268,30 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Census should include black English and Asian English options, says MP",
+        "url": "https://www.bbc.co.uk/news/articles/c3lylyy24xl5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T22:04:54Z",
+        "summary": "Josh Babarinde's proposal is also supported by other MPs, including David Lammy and Sir James Cleverly."
+      },
+      {
+        "title": "Violence erupts in Bangladesh as ousted PM's supporters stage protest",
+        "url": "https://www.bbc.co.uk/news/articles/cwkg5g5pjpyko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T19:26:42Z",
+        "summary": "Supporters of Sheikh Hasina want her to return from exile in India."
+      },
+      {
+        "title": "Makers of GLP-1 drugs ordered to add warnings about rare eye condition that can lead to blindness",
+        "url": "https://www.bbc.co.uk/news/articles/crwydyde0lp3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T18:43:04Z",
+        "summary": "The US Food and Drug Administration says Ozempic, Wegovy, and other weight-loss drugs must have labels about the condition, known as NAION."
+      },
+      {
+        "title": "Arrests made after visit from former US President Biden",
+        "url": "https://www.bbc.co.uk/news/articles/ck78p827y642o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T18:07:56Z",
+        "summary": "Joe Biden was in Dublin to see his son Hunter awarded the Gold Medal for Outstanding Contribution for Public Discourse"
+      },
       {
         "title": "Scottish Labour leader says the UK should re-join EU",
         "url": "https://www.bbc.co.uk/news/articles/c820v0e43xr4o?at_medium=RSS&at_campaign=rss",
@@ -3243,30 +3267,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T17:24:27Z",
         "summary": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life."
-      },
-      {
-        "title": "Burnham to push for new post-Brexit deals at EU summit",
-        "url": "https://www.bbc.co.uk/news/articles/cqev3xvejyvjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T17:20:04Z",
-        "summary": "Conservative leader Kemi Badenoch said the prime minister was \"unpicking\" the deal the UK signed with the EU."
-      },
-      {
-        "title": "Six Ukrainian energy sites hit by Russia since Trump announced ceasefire, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cvlyd4pdlwkxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T16:53:00Z",
-        "summary": "Despite the US president announcing energy infrastructure would not be targeted strikes have continued, Ukraine says."
-      },
-      {
-        "title": "Baroness Campbell: People with disabilities can achieve almost anything with right support",
-        "url": "https://www.bbc.co.uk/news/videos/c95ynryxgl78o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T16:40:18Z",
-        "summary": "Disability rights campaigner Baroness Campbell speaks about her experience as a peer in the House of Lords."
-      },
-      {
-        "title": "Michelle O'Neill and other Sinn F\u00e9in ministers face no-confidence vote",
-        "url": "https://www.bbc.co.uk/news/videos/cr89zy9pypv9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T16:31:35Z",
-        "summary": "The motion against will be debated after it received the backing of unionist parties last week."
       }
     ],
     "saudi": [
