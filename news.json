@@ -1,12 +1,42 @@
 {
-  "generated_at": "2026-11-10T02:43:24.176861Z",
+  "generated_at": "2026-11-10T10:27:03.466167Z",
   "articles": {
     "world": [
       {
+        "title": "Trump says more US attacks on Iran 'highly unlikely'",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T09:40:31Z",
+        "summary": "The president says the US is keeping \"status quo\" with Iran but remains \u201clocked and loaded\u201d should the situation change."
+      },
+      {
+        "title": "Watch: Man smashes Chinese government building with excavator",
+        "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T09:37:15Z",
+        "summary": "Police say they have detained a 47-year-old suspect and no one was injured in the incident."
+      },
+      {
+        "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+        "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T09:25:03Z",
+        "summary": "The government says it is strengthening its guidance for schools in England, which came into force in June."
+      },
+      {
+        "title": "Hundreds more offenders leaving jail on Tuesday",
+        "url": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T08:44:59Z",
+        "summary": "At least 1,350 offenders have been released from jail early under the scheme so far."
+      },
+      {
         "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
         "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-10T01:44:53Z",
+        "published_at": "2026-11-10T08:23:21Z",
         "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+      },
+      {
+        "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T05:22:39Z",
+        "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites."
       },
       {
         "title": "Republican congressman to force impeachment vote on Defence Secretary Hegseth",
@@ -19,6 +49,12 @@
         "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-09T22:46:27Z",
         "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\"."
+      },
+      {
+        "title": "How a civil servant got away with juggling five jobs for so long",
+        "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T18:40:31Z",
+        "summary": "Kashim Chowdhury has been convicted of fraud after pocketing \u00a3284,000 of taxpayers' money over three years."
       },
       {
         "title": "Why are hundreds of prisoners being released early?",
@@ -145,42 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqz0vz55jpglo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-05T17:23:49Z",
         "summary": "Donald Trump \"broke a promise\" to the American electorate by launching the war, Reform UK leader adds."
-      },
-      {
-        "title": "Interest rates hiked to 4% in first increase in over three years",
-        "url": "https://www.bbc.co.uk/news/articles/ck5ynw45jrgqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T17:09:55Z",
-        "summary": "Most analysts expected the increase from 3.75% to 4%."
-      },
-      {
-        "title": "Swinney criticises UK move to ban new North Sea drilling",
-        "url": "https://www.bbc.co.uk/news/articles/crq5nxvx48pjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T16:43:36Z",
-        "summary": "The first minister has told Holyrood fossil fuels will be required \"for some years to come\"."
-      },
-      {
-        "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
-        "url": "https://www.bbc.co.uk/news/articles/cmze4zk4d789o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T15:27:09Z",
-        "summary": "A consultation will consider fines and other ways to clamp down on dangerous e-bike riders."
-      },
-      {
-        "title": "Putin not invited to G20 summit in Manchester, says Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/cmqjnkn8951qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T13:35:03Z",
-        "summary": "The prime minister has said sanctions against Russia mean Putin will not attend the summit in November 2027."
-      },
-      {
-        "title": "Could this be the last Bonfire Night for noisy fireworks?",
-        "url": "https://www.bbc.co.uk/news/articles/crp3gk07850zo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T13:24:26Z",
-        "summary": "About 20 million people enjoy fireworks at home every year, but some campaigners want quieter displays."
-      },
-      {
-        "title": "Pound rises to its highest level since the Brexit referendum",
-        "url": "https://www.bbc.co.uk/news/articles/c6lykq2qjn2vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-05T04:21:35Z",
-        "summary": "Pound reaches highest level against a basket of currencies since the Brexit referendum a decade ago."
       }
     ],
     "saudi": [
@@ -199,6 +199,36 @@
     ],
     "us": [
       {
+        "title": "Trump says more US attacks on Iran 'highly unlikely'",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T09:40:31Z",
+        "summary": "The president says the US is keeping \"status quo\" with Iran but remains \u201clocked and loaded\u201d should the situation change."
+      },
+      {
+        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T08:23:21Z",
+        "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+      },
+      {
+        "title": "Dana White declines Trump\u2019s offer to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T22:46:27Z",
+        "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\"."
+      },
+      {
+        "title": "Biden says Trump should carry weight of US Capitol riot 'to his grave' in new book",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0yqwz925o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T20:53:57Z",
+        "summary": "Biden sharply criticises Trump in his soon-to-be released memoir, while the White House calls Biden the worst US president."
+      },
+      {
+        "title": "Moment Republican Congressman introduces articles of impeachment against Pete Hegseth",
+        "url": "https://www.bbc.co.uk/news/videos/cje3635ny101o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T20:06:40Z",
+        "summary": "The Republican congressman alleges Defence Secretary Pete Hegseth has violated the US Constitution, citing the Iran war."
+      },
+      {
         "title": "Razor-tight Mississippi Senate race sparks ballot battle - could there be a recount?",
         "url": "https://www.bbc.co.uk/news/articles/cwj0llvqqm72o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-09T16:40:11Z",
@@ -215,12 +245,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm3r5gnxqz3jo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-08T00:52:39Z",
         "summary": "Republicans can stick with Trumpism or chart a new path, writes BBC Washington correspondent Daniel Bush."
-      },
-      {
-        "title": "US offers $20m reward for information about Iran's nuclear programme",
-        "url": "https://www.bbc.co.uk/news/articles/c6d091ev3p0jo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-07T18:14:38Z",
-        "summary": "Donald Trump has repeatedly raised the prospect of renewing strikes against Iran's nuclear facilities."
       },
       {
         "title": "Four things we learned from midterms about 2028 White House race",
@@ -245,6 +269,36 @@
   "archive": {
     "world": [
       {
+        "title": "Trump says more US attacks on Iran 'highly unlikely'",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T09:40:31Z",
+        "summary": "The president says the US is keeping \"status quo\" with Iran but remains \u201clocked and loaded\u201d should the situation change."
+      },
+      {
+        "title": "Watch: Man smashes Chinese government building with excavator",
+        "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T09:37:15Z",
+        "summary": "Police say they have detained a 47-year-old suspect and no one was injured in the incident."
+      },
+      {
+        "title": "Phones to be banned from pupils' bags or pockets under stricter rules for schools in England",
+        "url": "https://www.bbc.co.uk/news/articles/c51kdk422w8jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T09:25:03Z",
+        "summary": "The government says it is strengthening its guidance for schools in England, which came into force in June."
+      },
+      {
+        "title": "Hundreds more offenders leaving jail on Tuesday",
+        "url": "https://www.bbc.co.uk/news/articles/c51kdk8z7ym3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T08:44:59Z",
+        "summary": "At least 1,350 offenders have been released from jail early under the scheme so far."
+      },
+      {
+        "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
+        "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T05:22:39Z",
+        "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites."
+      },
+      {
         "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
         "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-10T01:44:53Z",
@@ -261,6 +315,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cwr5y58jjp8ro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-09T19:39:33Z",
         "summary": "The effort will likely fail, but Representative Thomas Massie wants to push Trump to fire Hegseth before Democrats can launch their own impeachment process."
+      },
+      {
+        "title": "How a civil servant got away with juggling five jobs for so long",
+        "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T18:40:31Z",
+        "summary": "Kashim Chowdhury has been convicted of fraud after pocketing \u00a3284,000 of taxpayers' money over three years."
       },
       {
         "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
@@ -3207,42 +3267,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cjly0zqq27e4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T10:28:47Z",
         "summary": "It comes after the armed group hit Riyadh's international airport and another facility, killing 13 people, in a significant escalation."
-      },
-      {
-        "title": "Indian opposition leaders march to top court to demand election chief resign",
-        "url": "https://www.bbc.co.uk/news/articles/cwr5y2lgr4gdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T06:42:35Z",
-        "summary": "The march follows a chaotic weekend in Delhi which saw thousands of protesters being detained by police."
-      },
-      {
-        "title": "Healey faces \u00a335bn Budget challenge to meet spending pledges, says think tank",
-        "url": "https://www.bbc.co.uk/news/articles/cm78pwdp3n5qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T06:23:50Z",
-        "summary": "The impact of the Iran war poses significant risks for the government\u2019s spending plans, the Institute for Fiscal Studies says."
-      },
-      {
-        "title": "Rejecting closer EU ties would be dereliction of duty, PM to say",
-        "url": "https://www.bbc.co.uk/news/articles/c6lyk8e3lxz0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T05:01:22Z",
-        "summary": "Addressing the Commons, Burnham is expected to say that a new deal with the EU could help tackle illegal immigration and boost economic growth."
-      },
-      {
-        "title": "Trump faces growing backlash over plans to import diesel from Russia",
-        "url": "https://www.bbc.co.uk/news/articles/cjn5v21py07vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-11T23:18:45Z",
-        "summary": "Both Republican and Democratic lawmakers have criticised the deal, which was announced weeks before the US midterm elections."
-      },
-      {
-        "title": "American ranchers wrestle with soaring costs - and their loyalty to Trump",
-        "url": "https://www.bbc.co.uk/news/articles/c6d7q5z17gp5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-11T23:13:51Z",
-        "summary": "Many farmers in states that backed the president say they are being hit from all sides, with the crucial midterm elections just weeks away."
-      },
-      {
-        "title": "Reform would suspend asylum system for parliamentary term if in government",
-        "url": "https://www.bbc.co.uk/news/articles/cwnv0zmjld51o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-11T21:18:15Z",
-        "summary": "All asylum applications would be rejected and existing ones voided, with all claimants marked for deportation."
       }
     ],
     "saudi": [
@@ -3410,6 +3434,36 @@
       }
     ],
     "us": [
+      {
+        "title": "Trump says more US attacks on Iran 'highly unlikely'",
+        "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T09:40:31Z",
+        "summary": "The president says the US is keeping \"status quo\" with Iran but remains \u201clocked and loaded\u201d should the situation change."
+      },
+      {
+        "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+        "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-10T08:23:21Z",
+        "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
+      },
+      {
+        "title": "Dana White declines Trump\u2019s offer to be White House press secretary",
+        "url": "https://www.bbc.co.uk/news/videos/cwm2328pyy1jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T22:46:27Z",
+        "summary": "In a social media post over the weekend, the president asked the UFC boss to take over the role, but later said he was \"having a little fun\"."
+      },
+      {
+        "title": "Biden says Trump should carry weight of US Capitol riot 'to his grave' in new book",
+        "url": "https://www.bbc.co.uk/news/articles/ckly0yqwz925o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T20:53:57Z",
+        "summary": "Biden sharply criticises Trump in his soon-to-be released memoir, while the White House calls Biden the worst US president."
+      },
+      {
+        "title": "Moment Republican Congressman introduces articles of impeachment against Pete Hegseth",
+        "url": "https://www.bbc.co.uk/news/videos/cje3635ny101o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-09T20:06:40Z",
+        "summary": "The Republican congressman alleges Defence Secretary Pete Hegseth has violated the US Constitution, citing the Iran war."
+      },
       {
         "title": "What do we know about Nvidia CEO\u2019s affair with a suspected Chinese spy?",
         "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_medium=RSS&at_campaign=rss",
