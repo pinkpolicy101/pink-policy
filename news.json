@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-10T23:27:00.681966Z",
+  "generated_at": "2026-11-11T03:01:39.562243Z",
   "articles": {
     "world": [
+      {
+        "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-11T02:47:59Z",
+        "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis."
+      },
       {
         "title": "Census should include black English and Asian English options, says MP",
         "url": "https://www.bbc.co.uk/news/articles/c3lylyy24xl5o?at_medium=RSS&at_campaign=rss",
@@ -57,12 +63,6 @@
         "summary": "Shopping centre will 'make Wakefield the city to be in'"
       },
       {
-        "title": "Trump says more US attacks on Iran 'highly unlikely'",
-        "url": "https://www.bbc.co.uk/news/articles/cq5yny4nl2d3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-10T09:40:31Z",
-        "summary": "The president says the US is keeping \"status quo\" with Iran but remains \u201clocked and loaded\u201d should the situation change."
-      },
-      {
         "title": "Watch: Man smashes Chinese government building with excavator",
         "url": "https://www.bbc.co.uk/news/videos/ckp8g8p4myv8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-10T09:37:15Z",
@@ -85,12 +85,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqg7x7dpvym8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-10T08:23:21Z",
         "summary": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy."
-      },
-      {
-        "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-        "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-10T05:22:39Z",
-        "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites."
       },
       {
         "title": "How a civil servant got away with juggling five jobs for so long",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c6y43zvwzre1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-06T09:59:42Z",
         "summary": "Highland Council says the formula fails to take into consideration housing challenges it is facing."
+      },
+      {
+        "title": "Reform councillor's post branded racist by Labour",
+        "url": "https://www.bbc.co.uk/news/articles/c6kgl0gx19e1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-06T06:25:09Z",
+        "summary": "Carl Johnson writes that \"no foreigner\" should be allowed to stand in elections."
       }
     ],
     "saudi": [
@@ -198,6 +198,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-11T01:14:40Z",
+        "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
+      },
       {
         "title": "US inflation higher than expected in October - here's what is happening with prices",
         "url": "https://www.bbc.co.uk/news/articles/cwy8lx3pg4k2o?at_medium=RSS&at_campaign=rss",
@@ -268,6 +274,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-11T02:47:59Z",
+        "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis."
+      },
       {
         "title": "Census should include black English and Asian English options, says MP",
         "url": "https://www.bbc.co.uk/news/articles/c3lylyy24xl5o?at_medium=RSS&at_campaign=rss",
@@ -3261,12 +3273,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crq8nynzpq0vo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-12T20:50:53Z",
         "summary": "It is among a series of amendments the government has tabled for its bill, which seeks to deal with the unresolved legacy of the decades-long violent conflict."
-      },
-      {
-        "title": "Government expands police support to political figures who are not MPs",
-        "url": "https://www.bbc.co.uk/news/articles/c3gr82rk70l8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-12T17:24:27Z",
-        "summary": "Shabana Mahmood says there is \"insufficient protection\" for those who play a role in public life."
       }
     ],
     "saudi": [
@@ -3434,6 +3440,12 @@
       }
     ],
     "us": [
+      {
+        "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+        "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-11T01:14:40Z",
+        "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year."
+      },
       {
         "title": "Hegseth: Impeachment effort is 'farce' and 'stunt'",
         "url": "https://www.bbc.co.uk/news/videos/cxj0l03ln8zpo?at_medium=RSS&at_campaign=rss",
