@@ -1,18 +1,48 @@
 {
-  "generated_at": "2026-11-12T17:05:16.139099Z",
+  "generated_at": "2026-11-12T22:43:10.159556Z",
   "articles": {
     "world": [
+      {
+        "title": "Military base asylum plans granted planning approval",
+        "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T22:16:34Z",
+        "summary": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked."
+      },
+      {
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T21:00:42Z",
+        "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
+      },
+      {
+        "title": "Can Burnham avoid another Labour welfare rebellion?",
+        "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T18:21:38Z",
+        "summary": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government."
+      },
+      {
+        "title": "Some under-25s should get fewer benefits, Milburn review to say",
+        "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T17:32:14Z",
+        "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
+      },
+      {
+        "title": "Some childhood offenders may no longer have to reveal convictions to employers",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T17:24:48Z",
+        "summary": "The proposals would change how crimes committed by children are disclosed to bosses in England and Wales."
+      },
+      {
+        "title": "Parliament date set for 'summer of sex' debate",
+        "url": "https://www.bbc.co.uk/news/articles/ckjwjd39nyn3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T17:02:58Z",
+        "summary": "South Derbyshire MP Samantha Niblett is campaigning for lifelong sex education."
+      },
       {
         "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
         "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-12T13:58:49Z",
         "summary": "A suspected gang leader considered a \"priority target\" was among those killed, the Colombian president says."
-      },
-      {
-        "title": "Some under-25s should get fewer benefits, Milburn review to say",
-        "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-12T13:16:59Z",
-        "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
       },
       {
         "title": "Democrat Scott Colom makes history as Mississippi's first black senator since 19th Century",
@@ -105,12 +135,6 @@
         "summary": "Over \u00a314m is available to be spent due to the cancellation of a new leisure centre in Bradford."
       },
       {
-        "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
-        "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-11T11:33:24Z",
-        "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state."
-      },
-      {
         "title": "Governments 'asleep at the wheel' over social care, says head of review",
         "url": "https://www.bbc.co.uk/news/articles/c9143zxyyvndo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-11T09:08:48Z",
@@ -157,30 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-09T18:40:31Z",
         "summary": "Kashim Chowdhury has been convicted of fraud after pocketing \u00a3284,000 of taxpayers' money over three years."
-      },
-      {
-        "title": "Why are hundreds of prisoners being released early?",
-        "url": "https://www.bbc.co.uk/news/articles/cp3rxlyz6w3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-09T16:51:40Z",
-        "summary": "More people going to prison, and for longer, is why governments including the current one have had to release prisoners early."
-      },
-      {
-        "title": "Action on energy costs is my overriding aim, says Fahnbulleh",
-        "url": "https://www.bbc.co.uk/news/articles/cmz7x7q7q8vvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-09T16:01:19Z",
-        "summary": "The energy secretary says reducing bills is key to maintaining public support for climate action."
-      },
-      {
-        "title": "Man jailed over racist Badenoch death threats",
-        "url": "https://www.bbc.co.uk/news/articles/c5n494x9kgp0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-09T13:06:31Z",
-        "summary": "Kieran Kyle sent emails to the Tory party leader in which he made racist references, a court hears."
-      },
-      {
-        "title": "Government's EV targets expected to be reduced this week",
-        "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-09T12:06:22Z",
-        "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission."
       }
     ],
     "saudi": [
@@ -198,6 +198,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Police identify gunman in Washington DC shooting that left one dead and four injured",
+        "url": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T21:52:58Z",
+        "summary": "One victim is in a critical condition and three others have non life-threatening injuries, officials say."
+      },
+      {
+        "title": "'We just ran' - One killed, four injured in shooting near Washington DC gym",
+        "url": "https://www.bbc.co.uk/news/videos/cv702w84r5l1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T19:24:33Z",
+        "summary": "The shooting began Thursday morning local time at a gym in an apartment building about a mile (1.6km) north of the White House."
+      },
       {
         "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
         "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
@@ -229,22 +241,10 @@
         "summary": "US President Donald Trump placed a wreath at the Tomb of the Unknown Soldier before making remarks at the Veterans Day ceremony at Arlington National Cemetery."
       },
       {
-        "title": "Three Iran-backed suspects plotted attacks including incident near UK air base, US says",
-        "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-11T16:59:34Z",
-        "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near RAF Fairford, which is used by US armed forces."
-      },
-      {
         "title": "US Treasury Secretary Scott Bessent relocated after alleged Iranian threats",
         "url": "https://www.bbc.co.uk/news/articles/cqr7gr0010r2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-11T16:45:11Z",
         "summary": "Bessent is now one of several Trump administration officials to live on military bases due to safety concerns."
-      },
-      {
-        "title": "Watch: BBC talks to Mississippi voters awaiting Senate result",
-        "url": "https://www.bbc.co.uk/news/videos/crvg2xex290no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-11T13:03:05Z",
-        "summary": "Democrat Scott Colom's razor-thin advantage has defied political gravity in a conservative fortress that President Donald Trump won in 2024 by over 22 points."
       },
       {
         "title": "US inflation higher than expected in October - here's what is happening with prices",
@@ -262,6 +262,36 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Military base asylum plans granted planning approval",
+        "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T22:16:34Z",
+        "summary": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked."
+      },
+      {
+        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
+        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T21:00:42Z",
+        "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
+      },
+      {
+        "title": "Can Burnham avoid another Labour welfare rebellion?",
+        "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T18:21:38Z",
+        "summary": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government."
+      },
+      {
+        "title": "Some childhood offenders may no longer have to reveal convictions to employers",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy0e44pjgdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T17:24:48Z",
+        "summary": "The proposals would change how crimes committed by children are disclosed to bosses in England and Wales."
+      },
+      {
+        "title": "Parliament date set for 'summer of sex' debate",
+        "url": "https://www.bbc.co.uk/news/articles/ckjwjd39nyn3o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T17:02:58Z",
+        "summary": "South Derbyshire MP Samantha Niblett is campaigning for lifelong sex education."
+      },
       {
         "title": "Eight killed in Colombian air strike targeting Gulf Clan gang",
         "url": "https://www.bbc.co.uk/news/articles/crgj3v3z10dno?at_medium=RSS&at_campaign=rss",
@@ -3231,36 +3261,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T14:18:18Z",
         "summary": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government."
-      },
-      {
-        "title": "Burnham rules out coalition with Greens after 'Zionism is racism' motion",
-        "url": "https://www.bbc.co.uk/news/articles/cr3el59j9y17o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T13:39:16Z",
-        "summary": "Andy Burnham condemns the motion approved by Green Party members and says his party would \"have nothing to do with it\"."
-      },
-      {
-        "title": "Australia's first-ever Michelin stars go to 11 restaurants in one state",
-        "url": "https://www.bbc.co.uk/news/articles/crje5we583qwo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T13:35:29Z",
-        "summary": "All of the spots are in South Australia, reportedly because the state government paid for incognito inspectors to visit."
-      },
-      {
-        "title": "Mauritius reels from worst riots in decades after woman shot by police",
-        "url": "https://www.bbc.co.uk/news/articles/cm4g1rnj5qweo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T11:24:25Z",
-        "summary": "Prime Minister Navin Ramgoolam imposed a curfew after days of unrest that first began over water shortages."
-      },
-      {
-        "title": "Turkish police raid opposition TV station, halting live broadcasts",
-        "url": "https://www.bbc.co.uk/news/articles/crx23y3d970vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T10:07:02Z",
-        "summary": "It is the latest in a series of crackdowns on media critical of the Turkish president and his government."
-      },
-      {
-        "title": "Burnham had two hospitality dinners with Man City chairman, deleted records show",
-        "url": "https://www.bbc.co.uk/news/articles/c83vq9vpwwr1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T10:06:48Z",
-        "summary": "The prime minister has been under growing pressure since the club was found guilty of Premier League rule breaches."
       }
     ],
     "saudi": [
@@ -3428,6 +3428,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Police identify gunman in Washington DC shooting that left one dead and four injured",
+        "url": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T21:52:58Z",
+        "summary": "One victim is in a critical condition and three others have non life-threatening injuries, officials say."
+      },
+      {
+        "title": "'We just ran' - One killed, four injured in shooting near Washington DC gym",
+        "url": "https://www.bbc.co.uk/news/videos/cv702w84r5l1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T19:24:33Z",
+        "summary": "The shooting began Thursday morning local time at a gym in an apartment building about a mile (1.6km) north of the White House."
+      },
       {
         "title": "Before Scott Colom, these two men were the last black US senators from Mississippi",
         "url": "https://www.bbc.co.uk/news/articles/cmde1y19g19do?at_medium=RSS&at_campaign=rss",
