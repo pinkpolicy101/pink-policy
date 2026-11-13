@@ -1,30 +1,42 @@
 {
-  "generated_at": "2026-11-12T22:43:10.159556Z",
+  "generated_at": "2026-11-13T02:55:16.728524Z",
   "articles": {
     "world": [
       {
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T02:39:00Z",
+        "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+      },
+      {
         "title": "Military base asylum plans granted planning approval",
         "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-12T22:16:34Z",
+        "published_at": "2026-11-13T02:31:02Z",
         "summary": "The Home Office's application to house up to 1,256 men at the site near Bicester was fast-tracked."
       },
       {
-        "title": "US envoys meet Zelensky in Dublin after talks with Putin in Moscow",
-        "url": "https://www.bbc.co.uk/news/articles/cwrkgmymk55zo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-12T21:00:42Z",
-        "summary": "US envoy Steve Witkoff says President Putin has agreed to European negotiators joining the next round of Ukraine talks."
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T02:01:35Z",
+        "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
+      },
+      {
+        "title": "Young, Welsh and torn on independence",
+        "url": "https://www.bbc.co.uk/news/videos/cm702j0gp5v2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T22:55:29Z",
+        "summary": "A body has been set up to consider the case for Welsh independence as well as more devolved powers."
+      },
+      {
+        "title": "Some under-25s should get fewer benefits, Milburn review to say",
+        "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T22:51:18Z",
+        "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
       },
       {
         "title": "Can Burnham avoid another Labour welfare rebellion?",
         "url": "https://www.bbc.co.uk/news/articles/c95y100nrm41o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-12T18:21:38Z",
         "summary": "Any revolt among MPs is likely to be smaller than the one that badly damaged Keir Starmer's government."
-      },
-      {
-        "title": "Some under-25s should get fewer benefits, Milburn review to say",
-        "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-12T17:32:14Z",
-        "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits."
       },
       {
         "title": "Some childhood offenders may no longer have to reveal convictions to employers",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqev3vl4ek33o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-10T15:10:20Z",
         "summary": "Sales of essential goods such as hand sanitiser soar after the government called on households to be prepared for emergencies."
-      },
-      {
-        "title": "Shopping centre will 'make Wakefield the city to be in'",
-        "url": "https://www.bbc.co.uk/news/videos/cm4g1gv05qljo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-10T14:14:09Z",
-        "summary": "Shopping centre will 'make Wakefield the city to be in'"
-      },
-      {
-        "title": "How a civil servant got away with juggling five jobs for so long",
-        "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-09T18:40:31Z",
-        "summary": "Kashim Chowdhury has been convicted of fraud after pocketing \u00a3284,000 of taxpayers' money over three years."
       }
     ],
     "saudi": [
@@ -199,10 +199,28 @@
     ],
     "us": [
       {
-        "title": "Police identify gunman in Washington DC shooting that left one dead and four injured",
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T02:39:00Z",
+        "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+      },
+      {
+        "title": "US doctor kills building manager after long-running dispute over mould, police say",
         "url": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-12T21:52:58Z",
-        "summary": "One victim is in a critical condition and three others have non life-threatening injuries, officials say."
+        "published_at": "2026-11-13T02:35:34Z",
+        "summary": "Authorities say the shooting in Washington DC left four people injured, with the suspect dying of a self-inflicted gunshot wound."
+      },
+      {
+        "title": "How could the Nvidia CEO\u2019s affair threaten US national security?",
+        "url": "https://www.bbc.co.uk/news/videos/cm7526d2qeg4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T02:15:59Z",
+        "summary": "BBC's Asma Khalid explains how the Nvidia affair could threaten US national security and risk sensitive US technology getting into China."
+      },
+      {
+        "title": "Why midterm vote-counting is taking so long in America's largest state",
+        "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T00:35:05Z",
+        "summary": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola."
       },
       {
         "title": "'We just ran' - One killed, four injured in shooting near Washington DC gym",
@@ -262,6 +280,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T02:39:00Z",
+        "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+      },
+      {
+        "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+        "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T02:01:35Z",
+        "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU."
+      },
+      {
+        "title": "Young, Welsh and torn on independence",
+        "url": "https://www.bbc.co.uk/news/videos/cm702j0gp5v2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T22:55:29Z",
+        "summary": "A body has been set up to consider the case for Welsh independence as well as more devolved powers."
+      },
       {
         "title": "Military base asylum plans granted planning approval",
         "url": "https://www.bbc.co.uk/news/articles/c58j4798874go?at_medium=RSS&at_campaign=rss",
@@ -3243,24 +3279,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm0rl1gkz97do?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-14T17:07:37Z",
         "summary": "The Ukrainian president visited London in an effort to bolster support among European allies following a row with Donald Trump."
-      },
-      {
-        "title": "The Media Show",
-        "url": "https://www.bbc.co.uk/sounds/play/m0032r5s?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T16:48:00Z",
-        "summary": "An extended interview with acclaimed screenwriter and producer Russell T Davies."
-      },
-      {
-        "title": "Analysis: Burnham careful ahead of meeting with Zelensky",
-        "url": "https://www.bbc.co.uk/news/articles/cmx23q4dwvneo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T14:30:48Z",
-        "summary": "The UK's prime minister meets with Volodymyr Zelensky after a rocky week for the Ukraine president."
-      },
-      {
-        "title": "Hundreds of thousands of workers on strike across Republic of Ireland",
-        "url": "https://www.bbc.co.uk/news/articles/cjn5vxlrgqn4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-14T14:18:18Z",
-        "summary": "It comes amidst an an ongoing pay dispute between public sector workers and the Irish government."
       }
     ],
     "saudi": [
@@ -3428,6 +3446,24 @@
       }
     ],
     "us": [
+      {
+        "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+        "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T02:39:00Z",
+        "summary": "US lawmakers now want to question him over whether one of his alleged relationships was with a Chinese spy."
+      },
+      {
+        "title": "How could the Nvidia CEO\u2019s affair threaten US national security?",
+        "url": "https://www.bbc.co.uk/news/videos/cm7526d2qeg4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T02:15:59Z",
+        "summary": "BBC's Asma Khalid explains how the Nvidia affair could threaten US national security and risk sensitive US technology getting into China."
+      },
+      {
+        "title": "Why midterm vote-counting is taking so long in America's largest state",
+        "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T00:35:05Z",
+        "summary": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola."
+      },
       {
         "title": "Police identify gunman in Washington DC shooting that left one dead and four injured",
         "url": "https://www.bbc.co.uk/news/articles/crgqx2qqnwpjo?at_medium=RSS&at_campaign=rss",
