@@ -1,17 +1,35 @@
 {
-  "generated_at": "2026-11-14T13:47:48.690454Z",
+  "generated_at": "2026-11-14T19:09:28.493590Z",
   "articles": {
     "world": [
       {
+        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T17:16:36Z",
+        "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+      },
+      {
+        "title": "Welsh Labour 'didn't focus on improving people's lives'",
+        "url": "https://www.bbc.co.uk/news/videos/c8e39y006qx1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T16:41:53Z",
+        "summary": "He was speaking at the first Welsh Labour conference since May's Senedd election."
+      },
+      {
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T15:15:57Z",
+        "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
+      },
+      {
         "title": "Welsh Labour leader says party has focused too much on powers for Senedd",
         "url": "https://www.bbc.co.uk/news/articles/c6jre3q9jjwro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-14T13:19:36Z",
+        "published_at": "2026-11-14T14:56:05Z",
         "summary": "Ken Skates apologises to voters after May's historic election defeat."
       },
       {
         "title": "Young people should have legal guarantee of job or training, Milburn tells BBC",
         "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-14T12:39:41Z",
+        "published_at": "2026-11-14T13:48:37Z",
         "summary": "The author of a major review on youth unemployment, due next week, acknowledges the change would mean some young people losing out on benefits."
       },
       {
@@ -19,12 +37,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-14T12:22:43Z",
         "summary": "Milburn is not the first to try and fix the Neets problem - so what\u2019s different this time round, asks Laura Kuenssberg."
-      },
-      {
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-14T11:41:20Z",
-        "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
       },
       {
         "title": "Hungarian authorities uncover $20m during probe of Orb\u00e1n-era minister",
@@ -45,12 +57,6 @@
         "summary": "The 52-year-old general\u2019s provocative posts and military threats have fuelled rumours of a dynastic succession."
       },
       {
-        "title": "Democratic Senate leader Schumer set to face leadership challenge",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-13T19:03:10Z",
-        "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
-      },
-      {
         "title": "Tories pay artist for Burnham images after legal threat",
         "url": "https://www.bbc.co.uk/news/articles/cr5y139wplppo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-13T18:41:13Z",
@@ -67,12 +73,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-13T14:34:21Z",
         "summary": "Reform's Zia Yusuf and Tory Chris Philp were speaking against converting a former military site into asylum accommodation."
-      },
-      {
-        "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
-        "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-13T13:11:23Z",
-        "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov."
       },
       {
         "title": "Reform could try to remove Senedd presiding officer over member's speaking ban",
@@ -186,9 +186,9 @@
     "saudi": [],
     "us": [
       {
-        "title": "What we know about the US ground stop and what to do if your flight is affected",
+        "title": "How telecoms upgrade work sparked US flight chaos",
         "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-14T07:42:11Z",
+        "published_at": "2026-11-14T19:00:16Z",
         "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
       },
       {
@@ -255,6 +255,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T17:16:36Z",
+        "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+      },
+      {
+        "title": "Welsh Labour 'didn't focus on improving people's lives'",
+        "url": "https://www.bbc.co.uk/news/videos/c8e39y006qx1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T16:41:53Z",
+        "summary": "He was speaking at the first Welsh Labour conference since May's Senedd election."
+      },
       {
         "title": "Neets review won't be for the faint-hearted - and will test Burnham's appetite for a welfare fight",
         "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
@@ -3242,18 +3254,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cvglwed77p91o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T17:17:31Z",
         "summary": "The prime minister had faced calls to apologise for his comments about the alleged murder of the former minister."
-      },
-      {
-        "title": "Banks say Healey is planning Budget tax raid on their profits",
-        "url": "https://www.bbc.co.uk/news/articles/c32l4k2xdvrzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T17:14:36Z",
-        "summary": "Senior banking executives have told the BBC they expect to be \"on the menu\" in the chancellor's Budget tax later this month."
-      },
-      {
-        "title": "Maduro pleads not guilty to new torture-related charges in New York",
-        "url": "https://www.bbc.co.uk/news/articles/cqwyrn1l74zro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T16:52:44Z",
-        "summary": "\"I reject this document entirely,\" Maduro said in court, responding to newly added torture-related charges."
       }
     ],
     "saudi": [
