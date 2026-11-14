@@ -1,11 +1,23 @@
 {
-  "generated_at": "2026-11-14T19:09:28.493590Z",
+  "generated_at": "2026-11-14T22:58:06.000131Z",
   "articles": {
     "world": [
       {
+        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T22:37:25Z",
+        "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
+      },
+      {
+        "title": "UK ethics watchdog chief steps back from role over sexual misconduct claims",
+        "url": "https://www.bbc.co.uk/news/articles/cmewv2kzq2e5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T21:14:52Z",
+        "summary": "The government says Stuart Sterling has stepped back from his role after claims made during the early 2000s emerged."
+      },
+      {
         "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
         "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-14T17:16:36Z",
+        "published_at": "2026-11-14T19:12:25Z",
         "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
       },
       {
@@ -13,12 +25,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c8e39y006qx1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-14T16:41:53Z",
         "summary": "He was speaking at the first Welsh Labour conference since May's Senedd election."
-      },
-      {
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-14T15:15:57Z",
-        "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia."
       },
       {
         "title": "Welsh Labour leader says party has focused too much on powers for Senedd",
@@ -175,12 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-12T00:30:48Z",
         "summary": "Ahead of a week which will focus minds on the UK's relationship with the bloc, the prime minister's stance on Europe is causing MPs to think about their leaders' individual strategy."
-      },
-      {
-        "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-        "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-11T21:42:20Z",
-        "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light."
       }
     ],
     "saudi": [],
@@ -188,7 +188,7 @@
       {
         "title": "How telecoms upgrade work sparked US flight chaos",
         "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-14T19:00:16Z",
+        "published_at": "2026-11-14T20:03:48Z",
         "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
       },
       {
@@ -255,6 +255,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "UK ethics watchdog chief steps back from role over sexual misconduct claims",
+        "url": "https://www.bbc.co.uk/news/articles/cmewv2kzq2e5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T21:14:52Z",
+        "summary": "The government says Stuart Sterling has stepped back from his role after claims made during the early 2000s emerged."
+      },
       {
         "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
         "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
@@ -3248,12 +3254,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm62y6lp73zdo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T17:18:49Z",
         "summary": "Yemen's information minister says the prime minister and other ministers were unhurt when ballistic missiles hit al-Maashiq Palace."
-      },
-      {
-        "title": "Burnham asks for his Widdecombe remarks to be corrected",
-        "url": "https://www.bbc.co.uk/news/articles/cvglwed77p91o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T17:17:31Z",
-        "summary": "The prime minister had faced calls to apologise for his comments about the alleged murder of the former minister."
       }
     ],
     "saudi": [
