@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-11-13T23:53:05.802501Z",
+  "generated_at": "2026-11-14T06:19:35.931001Z",
   "articles": {
     "world": [
+      {
+        "title": "Young people should have legal guarantee to job or training, says Milburn",
+        "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T06:00:04Z",
+        "summary": "Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from benefits for young people."
+      },
+      {
+        "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+        "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T01:47:36Z",
+        "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as \u201csafety and communication issues\u201d."
+      },
+      {
+        "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+        "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T00:03:52Z",
+        "summary": "The 52-year-old general\u2019s provocative posts and military threats have fuelled rumours of a dynastic succession."
+      },
       {
         "title": "Democratic Senate leader Schumer set to face leadership challenge",
         "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
@@ -79,12 +97,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm369259g0j2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-13T00:53:49Z",
         "summary": "Politicians are worried about the outcomes of white, working-class pupils. But one school in Sunderland seems to have defied gravity"
-      },
-      {
-        "title": "Why midterm vote-counting is taking so long in America's largest state",
-        "url": "https://www.bbc.co.uk/news/articles/cqly4ljvr4pjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-13T00:35:05Z",
-        "summary": "Alaskans are still waiting for the full results, including in the close Senate race between Republican Dan Sullivan and Democrat Mary Peltola."
       },
       {
         "title": "Young, Welsh and torn on independence",
@@ -169,22 +181,16 @@
         "url": "https://www.bbc.co.uk/news/articles/ck9q8g0x14geo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-11T17:56:49Z",
         "summary": "New technology would block the live-streaming of child sexual abuse on phones, tablets and laptops."
-      },
-      {
-        "title": "Reform boycotts Senedd after member banned for saying white people are being replaced",
-        "url": "https://www.bbc.co.uk/news/articles/cm15egny92lvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-11T17:32:44Z",
-        "summary": "Party members withdrew from most of Wednesday's Senedd proceedings over Joe Martin's speaking ban."
-      },
-      {
-        "title": "Governments 'asleep at the wheel' over social care, says head of review",
-        "url": "https://www.bbc.co.uk/news/articles/c9143zxyyvndo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-11T09:08:48Z",
-        "summary": "Baroness Casey criticises variability of services and fees charged to self-funders in England."
       }
     ],
     "saudi": [],
     "us": [
+      {
+        "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T03:45:21Z",
+        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage."
+      },
       {
         "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
         "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
@@ -249,6 +255,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Young people should have legal guarantee to job or training, says Milburn",
+        "url": "https://www.bbc.co.uk/news/articles/c69vwp09d7vvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T06:00:04Z",
+        "summary": "Speaking to the BBC, Alan Milburn also calls for a radical shift in government spending away from benefits for young people."
+      },
+      {
+        "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+        "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T01:47:36Z",
+        "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as \u201csafety and communication issues\u201d."
+      },
+      {
+        "title": "Arrested generals and a threatened VP: President's son fuels Ugandan succession fever",
+        "url": "https://www.bbc.co.uk/news/articles/cmlydy0xw45wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T00:03:52Z",
+        "summary": "The 52-year-old general\u2019s provocative posts and military threats have fuelled rumours of a dynastic succession."
+      },
       {
         "title": "Labour lost its connection with voters, says Welsh leader",
         "url": "https://www.bbc.co.uk/news/articles/c6jre3q9jjwro?at_medium=RSS&at_campaign=rss",
@@ -3230,24 +3254,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crlykvgx1wvxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T14:27:05Z",
         "summary": "The Reform leader says \"you can't vet for future comments\", after undercover filming of party activists."
-      },
-      {
-        "title": "'Bring it on': Flynn challenges Burnham on independence referendum",
-        "url": "https://www.bbc.co.uk/news/articles/cv2d658g1erro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T14:08:55Z",
-        "summary": "The SNP's Stephen Flynn tells his party's conference independence supporters are \"winning the argument\"."
-      },
-      {
-        "title": "Burnham asks for 'manual trawl' of records for former Man City links",
-        "url": "https://www.bbc.co.uk/news/articles/c6x2ve4nr9pgo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T14:08:02Z",
-        "summary": "The PM has faced fresh questions about hospitality dinners since the club was found guilty of Premier League rule breaches."
-      },
-      {
-        "title": "Nandy 'minded to intervene' in Sky's \u00a31.6bn takeover of ITV entertainment arm",
-        "url": "https://www.bbc.co.uk/news/articles/cm79pe5yej7no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T13:44:51Z",
-        "summary": "The culture secretary says the deal could affect free expression in the media and the variety of Britain's news landscape."
       }
     ],
     "saudi": [
@@ -3415,6 +3421,12 @@
       }
     ],
     "us": [
+      {
+        "title": "What we know about the longest US nationwide flight ground stop since 9/11",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T03:45:21Z",
+        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack or a Microsoft outage."
+      },
       {
         "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
         "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
