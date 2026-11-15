@@ -1,18 +1,30 @@
 {
-  "generated_at": "2026-11-15T09:56:04.874792Z",
+  "generated_at": "2026-11-15T17:07:55.696979Z",
   "articles": {
     "world": [
+      {
+        "title": "Czechs rally against plan to switch funding of public media",
+        "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T16:36:42Z",
+        "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs."
+      },
+      {
+        "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T15:57:03Z",
+        "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course."
+      },
+      {
+        "title": "Minister backs legal right to job support for young people",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T13:06:15Z",
+        "summary": "The work and pensions secretary said the level of support currently on offer was too vague."
+      },
       {
         "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
         "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-15T07:10:31Z",
         "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
-      },
-      {
-        "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-15T03:21:04Z",
-        "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links."
       },
       {
         "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
@@ -169,33 +181,21 @@
         "url": "https://www.bbc.co.uk/news/videos/c6qx5j3n3n37o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-12T09:05:48Z",
         "summary": "Joe Martin has been banned from speaking until he apologises for his comments, as Gareth Lewis explains."
-      },
-      {
-        "title": "Burnham's push for closer EU ties causes ripples in his party and others",
-        "url": "https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-12T00:30:48Z",
-        "summary": "Ahead of a week which will focus minds on the UK's relationship with the bloc, the prime minister's stance on Europe is causing MPs to think about their leaders' individual strategy."
-      },
-      {
-        "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-        "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-11T21:42:20Z",
-        "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light."
       }
     ],
     "saudi": [],
     "us": [
       {
+        "title": "How telecoms upgrade work sparked US flight chaos",
+        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T14:57:15Z",
+        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+      },
+      {
         "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
         "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-15T07:10:31Z",
         "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
-      },
-      {
-        "title": "How telecoms upgrade work sparked US flight chaos",
-        "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-14T23:11:27Z",
-        "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
       },
       {
         "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
@@ -267,6 +267,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Czechs rally against plan to switch funding of public media",
+        "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T16:36:42Z",
+        "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs."
+      },
+      {
+        "title": "Minister backs legal right to job support for young people",
+        "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T13:06:15Z",
+        "summary": "The work and pensions secretary said the level of support currently on offer was too vague."
+      },
       {
         "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
         "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
@@ -3254,18 +3266,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T23:25:06Z",
         "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too."
-      },
-      {
-        "title": "Letters with 'suspicious substances' sent to US election offices",
-        "url": "https://www.bbc.co.uk/news/articles/cmq8n513x523o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T19:13:09Z",
-        "summary": "A number of states have confirmed they were targeted by the mailings, including Oklahoma, Ohio and Louisiana."
-      },
-      {
-        "title": "Watch: What does Starlink have to do with the Ukraine-Russia war?",
-        "url": "https://www.bbc.co.uk/news/videos/cqr7yzpxm083o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T17:31:37Z",
-        "summary": "Ukraine's president has told Elon Musk that any restriction on the Starlink's system cost lives."
       }
     ],
     "saudi": [
