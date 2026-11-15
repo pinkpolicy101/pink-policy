@@ -1,12 +1,18 @@
 {
-  "generated_at": "2026-11-15T17:07:55.696979Z",
+  "generated_at": "2026-11-15T21:46:56.482708Z",
   "articles": {
     "world": [
       {
         "title": "Czechs rally against plan to switch funding of public media",
         "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-15T16:36:42Z",
-        "summary": "Protesters say the move will stifle media freedom, while the coalition government insists broadcasters need to cut costs."
+        "published_at": "2026-11-15T21:03:40Z",
+        "summary": "Protesters say the move will stifle media freedom, while the government insists broadcasters need to cut costs."
+      },
+      {
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T19:32:39Z",
+        "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
       },
       {
         "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
@@ -19,18 +25,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqr7gn1zmlj1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-15T13:06:15Z",
         "summary": "The work and pensions secretary said the level of support currently on offer was too vague."
-      },
-      {
-        "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-15T07:10:31Z",
-        "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
-      },
-      {
-        "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
-        "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-14T22:37:25Z",
-        "summary": "The US has not confirmed the Ukrainian president's comments - a US official told the BBC \"many ideas continue to be discussed\"."
       },
       {
         "title": "UK ethics watchdog chief steps back from role over sexual misconduct claims",
@@ -61,12 +55,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmg46qgkl7r4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-14T12:22:43Z",
         "summary": "Milburn is not the first to try and fix the Neets problem - so what\u2019s different this time round, asks Laura Kuenssberg."
-      },
-      {
-        "title": "Hungarian authorities uncover $20m during probe of Orb\u00e1n-era minister",
-        "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-14T10:42:20Z",
-        "summary": "Prime Minister P\u00e9ter Magyar promised a sweeping anti-corruption drive after ousting Orb\u00e1n in April."
       },
       {
         "title": "Tories pay artist for Burnham images after legal threat",
@@ -181,10 +169,34 @@
         "url": "https://www.bbc.co.uk/news/videos/c6qx5j3n3n37o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-12T09:05:48Z",
         "summary": "Joe Martin has been banned from speaking until he apologises for his comments, as Gareth Lewis explains."
+      },
+      {
+        "title": "Burnham's push for closer EU ties causes ripples in his party and others",
+        "url": "https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-12T00:30:48Z",
+        "summary": "Ahead of a week which will focus minds on the UK's relationship with the bloc, the prime minister's stance on Europe is causing MPs to think about their leaders' individual strategy."
+      },
+      {
+        "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+        "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-11T21:42:20Z",
+        "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light."
       }
     ],
     "saudi": [],
     "us": [
+      {
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T19:32:39Z",
+        "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
+      },
+      {
+        "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T15:57:03Z",
+        "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course."
+      },
       {
         "title": "How telecoms upgrade work sparked US flight chaos",
         "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
@@ -267,6 +279,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T19:32:39Z",
+        "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
+      },
       {
         "title": "Czechs rally against plan to switch funding of public media",
         "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
@@ -3260,12 +3278,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T23:27:57Z",
         "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin"
-      },
-      {
-        "title": "Are student protests being manipulated ahead of France's presidential election?",
-        "url": "https://www.bbc.co.uk/news/articles/c8zxlyg965r3o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T23:25:06Z",
-        "summary": "France's prime minister has suggested that student anger is being weaponised, as the unions and other protesters prepare to take to the streets too."
       }
     ],
     "saudi": [
@@ -3433,6 +3445,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T19:32:39Z",
+        "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
+      },
+      {
+        "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T15:57:03Z",
+        "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course."
+      },
       {
         "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
         "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
