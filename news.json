@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T22:58:06.000131Z",
+  "generated_at": "2026-11-15T02:38:20.023074Z",
   "articles": {
     "world": [
       {
@@ -188,14 +188,26 @@
       {
         "title": "How telecoms upgrade work sparked US flight chaos",
         "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-14T20:03:48Z",
+        "published_at": "2026-11-14T23:11:27Z",
         "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
+      },
+      {
+        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T19:12:25Z",
+        "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
       },
       {
         "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
         "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-13T22:12:33Z",
         "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening."
+      },
+      {
+        "title": "Lauren Boebert, once a MAGA star, loses her Colorado seat",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9mlldgpgjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T20:06:46Z",
+        "summary": "Boebert, who rose to fame as one of Donald Trump's biggest cheerleaders, will not serve a fourth term in Congress."
       },
       {
         "title": "Democratic Senate leader Schumer set to face leadership challenge",
@@ -3422,6 +3434,12 @@
     ],
     "us": [
       {
+        "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-14T19:12:25Z",
+        "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
+      },
+      {
         "title": "What we know about the longest US nationwide flight ground stop since 9/11",
         "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-14T03:45:21Z",
@@ -3432,6 +3450,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-13T22:12:33Z",
         "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening."
+      },
+      {
+        "title": "Lauren Boebert, once a MAGA star, loses her Colorado seat",
+        "url": "https://www.bbc.co.uk/news/articles/c6j9mlldgpgjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-13T20:06:46Z",
+        "summary": "Boebert, who rose to fame as one of Donald Trump's biggest cheerleaders, will not serve a fourth term in Congress."
       },
       {
         "title": "What could El Ni\u00f1o mean for winter weather in the US and Canada?",
