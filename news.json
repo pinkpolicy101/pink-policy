@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-11-15T21:46:56.482708Z",
+  "generated_at": "2026-11-16T01:25:47.514631Z",
   "articles": {
     "world": [
+      {
+        "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+        "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T22:30:03Z",
+        "summary": "The report being launched this week will suggest gradually reducing employment costs over five years."
+      },
+      {
+        "title": "Tories pledge to halt screen-based school exams and cut coursework",
+        "url": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T22:00:37Z",
+        "summary": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI."
+      },
+      {
+        "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T22:00:24Z",
+        "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
+      },
       {
         "title": "Czechs rally against plan to switch funding of public media",
         "url": "https://www.bbc.co.uk/news/articles/cm8e0knr7604o?at_medium=RSS&at_campaign=rss",
@@ -12,13 +30,7 @@
         "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
         "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-15T19:32:39Z",
-        "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
-      },
-      {
-        "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-15T15:57:03Z",
-        "summary": "The temporary order is part of a months-long challenge to the US president's plans to upgrade East Potomac Golf Links into a championship course."
+        "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
       },
       {
         "title": "Minister backs legal right to job support for young people",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c6qx5j3n3n37o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-12T09:05:48Z",
         "summary": "Joe Martin has been banned from speaking until he apologises for his comments, as Gareth Lewis explains."
-      },
-      {
-        "title": "Burnham's push for closer EU ties causes ripples in his party and others",
-        "url": "https://www.bbc.co.uk/news/articles/cr78251892z7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-12T00:30:48Z",
-        "summary": "Ahead of a week which will focus minds on the UK's relationship with the bloc, the prime minister's stance on Europe is causing MPs to think about their leaders' individual strategy."
-      },
-      {
-        "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
-        "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-11T21:42:20Z",
-        "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light."
       }
     ],
     "saudi": [],
@@ -189,7 +189,7 @@
         "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
         "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-15T19:32:39Z",
-        "summary": "The Ukrainian president says restrictions are still in place and making it difficult to stop Russian attacks."
+        "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks."
       },
       {
         "title": "Judge blocks Trump closure of 'Trash Island' Washington DC golf course on Sunday",
@@ -279,6 +279,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+        "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T22:30:03Z",
+        "summary": "The report being launched this week will suggest gradually reducing employment costs over five years."
+      },
+      {
+        "title": "Tories pledge to halt screen-based school exams and cut coursework",
+        "url": "https://www.bbc.co.uk/news/articles/cwr7gnkd7m04o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T22:00:37Z",
+        "summary": "The party says its proposals for England aim to address excessive screen time and over-reliance on AI."
+      },
+      {
+        "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-15T22:00:24Z",
+        "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
+      },
       {
         "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
         "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
@@ -3260,24 +3278,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-15T23:52:27Z",
         "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\"."
-      },
-      {
-        "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct98kt?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T23:30:00Z",
-        "summary": "Nigerian opposition leader Peter Obi on his presidential bid and his claim he won in 2023"
-      },
-      {
-        "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T23:30:00Z",
-        "summary": "Nigerian opposition leader Peter Obi on his presidential bid and his claim he won in 2023"
-      },
-      {
-        "title": "Porn showing choking or incest to be banned from early November, government says",
-        "url": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T23:27:57Z",
-        "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin"
       }
     ],
     "saudi": [
