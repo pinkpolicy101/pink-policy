@@ -1,9 +1,27 @@
 {
-  "generated_at": "2026-11-16T01:25:47.514631Z",
+  "generated_at": "2026-11-16T08:35:49.611247Z",
   "articles": {
     "world": [
       {
-        "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+        "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+        "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-16T08:15:07Z",
+        "summary": "The prime minister will say the \"Brexit we were given has not worked\" in a speech on Monday."
+      },
+      {
+        "title": "Workers should get paid time off to train for crises, say peers",
+        "url": "https://www.bbc.co.uk/news/articles/cq8j4yn1vjymo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-16T06:04:24Z",
+        "summary": "A House of Lords committee says more preparation is needed for war, power cuts, and cyber-attacks."
+      },
+      {
+        "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-16T05:06:59Z",
+        "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021."
+      },
+      {
+        "title": "Cut National Insurance for under-25s to create jobs, Milburn report to say",
         "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-15T22:30:03Z",
         "summary": "The report being launched this week will suggest gradually reducing employment costs over five years."
@@ -163,28 +181,29 @@
         "url": "https://www.bbc.co.uk/news/articles/ckdd17m79yldo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-12T12:48:37Z",
         "summary": "It has been over two years since Labour promised to ban imports of the parts of animals hunted for sport."
-      },
-      {
-        "title": "UK economy grows at fastest rate for more than two years",
-        "url": "https://www.bbc.co.uk/news/articles/ck3rgd429zd5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-12T11:20:25Z",
-        "summary": "\ufeffThe UK economy grew by 0.7% in the three months to September, according to official figures."
-      },
-      {
-        "title": "Burnham says climate consensus 'gone' but pledges 'new era of leadership'",
-        "url": "https://www.bbc.co.uk/news/articles/cmg46y7wev42o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-12T11:03:53Z",
-        "summary": "PM Andy Burnham was addressing delegates at the COP31 UN climate summit in Antalya, Turkey."
-      },
-      {
-        "title": "Why has a Reform MS been banned from speaking in the Senedd?",
-        "url": "https://www.bbc.co.uk/news/videos/c6qx5j3n3n37o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-12T09:05:48Z",
-        "summary": "Joe Martin has been banned from speaking until he apologises for his comments, as Gareth Lewis explains."
       }
     ],
-    "saudi": [],
+    "saudi": [
+      {
+        "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-16T07:23:23Z",
+        "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden."
+      }
+    ],
     "us": [
+      {
+        "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
+        "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-16T07:24:45Z",
+        "summary": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs."
+      },
+      {
+        "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+        "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-16T00:03:29Z",
+        "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday."
+      },
       {
         "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
         "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
@@ -204,28 +223,10 @@
         "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack."
       },
       {
-        "title": "Copper wire upgrade behind US flight suspension, transport secretary says",
-        "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-15T07:10:31Z",
-        "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment."
-      },
-      {
-        "title": "US Air Force says it responded to 'suspected drones' over RAF Lakenheath",
-        "url": "https://www.bbc.co.uk/news/articles/c6jd75geegzyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-13T22:12:33Z",
-        "summary": "The American military says there were no injuries or damage after \"suspected unauthorised drone activity\" this evening."
-      },
-      {
         "title": "Lauren Boebert, once a MAGA star, loses her Colorado seat",
         "url": "https://www.bbc.co.uk/news/articles/c6j9mlldgpgjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-13T20:06:46Z",
         "summary": "Boebert, who rose to fame as one of Donald Trump's biggest cheerleaders, will not serve a fourth term in Congress."
-      },
-      {
-        "title": "Democratic Senate leader Schumer set to face leadership challenge",
-        "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-13T19:03:10Z",
-        "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes."
       },
       {
         "title": "What could El Ni\u00f1o mean for winter weather in the US and Canada?",
@@ -279,6 +280,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "UK lost more than it gained from Brexit, Burnham to say ahead of EU summit",
+        "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-16T08:15:07Z",
+        "summary": "The prime minister will say the \"Brexit we were given has not worked\" in a speech on Monday."
+      },
+      {
+        "title": "Workers should get paid time off to train for crises, say peers",
+        "url": "https://www.bbc.co.uk/news/articles/cq8j4yn1vjymo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-16T06:04:24Z",
+        "summary": "A House of Lords committee says more preparation is needed for war, power cuts, and cyber-attacks."
+      },
+      {
+        "title": "Wife of assassinated ex-Haitian leader registers for presidential election",
+        "url": "https://www.bbc.co.uk/news/articles/cmwy83432q1jo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-16T05:06:59Z",
+        "summary": "There has not been an election in Haiti since before the death of Jovenel Moise in 2021."
+      },
       {
         "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
         "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_medium=RSS&at_campaign=rss",
@@ -3260,27 +3279,15 @@
         "url": "https://www.bbc.co.uk/news/articles/cqdjv9pzzkd7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-16T07:59:47Z",
         "summary": "The government says the process \"needs to be well considered\", warning that banning traffic could damage local economies."
-      },
-      {
-        "title": "Burnham to urge Swinney to work with him on devolution during Scottish visit",
-        "url": "https://www.bbc.co.uk/news/articles/cmlykv9pey7go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T05:22:31Z",
-        "summary": "The prime minister will speak on his first substantive trip to Scotland since moving into Downing Street."
-      },
-      {
-        "title": "They fled Russia, but the West sent them back",
-        "url": "https://www.bbc.co.uk/news/articles/c6x23qpzjklwo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T04:57:28Z",
-        "summary": "Over the past year there has been a stark rise in anti-government activists deported to Russia from the EU and US where they were seeking refuge."
-      },
-      {
-        "title": "Reform faces questions over candidate vetting after undercover filming",
-        "url": "https://www.bbc.co.uk/news/articles/cqm26yr42ezko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-15T23:52:27Z",
-        "summary": "Reform UK says the party has \"improved and prioritised its vetting procedures\"."
       }
     ],
     "saudi": [
+      {
+        "title": "Yemeni forces' retreat leaves Houthis in control of key area on coast of Red Sea waterway",
+        "url": "https://www.bbc.co.uk/news/articles/cqvg2xgyvnjpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-16T07:23:23Z",
+        "summary": "Saudi-backed forces say they are moving troops from the Bab al-Mandab Strait to defend the interim capital Aden."
+      },
       {
         "title": "Aramco Tower hit in heart of Saudi capital as Houthis launch fresh strikes",
         "url": "https://www.bbc.co.uk/news/articles/c6ly3mjx958eo?at_medium=RSS&at_campaign=rss",
@@ -3445,6 +3452,18 @@
       }
     ],
     "us": [
+      {
+        "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
+        "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-16T07:24:45Z",
+        "summary": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs."
+      },
+      {
+        "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+        "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-16T00:03:29Z",
+        "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday."
+      },
       {
         "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
         "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
