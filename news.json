@@ -1,7 +1,43 @@
 {
-  "generated_at": "2026-11-17T02:27:48.993218Z",
+  "generated_at": "2026-11-17T11:09:47.091366Z",
   "articles": {
     "world": [
+      {
+        "title": "Cass report author tells BBC draft conversion practices bill is not workable",
+        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T10:36:21Z",
+        "summary": "The gender care review author says the bill\u2019s wording risks \"serious unintended consequences\" for parents and therapists."
+      },
+      {
+        "title": "Will President Trump meet Kim Jong Un?",
+        "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T10:13:27Z",
+        "summary": "President Trump says he would be keen to meet the North Korea leader in China."
+      },
+      {
+        "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+        "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T09:27:44Z",
+        "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back."
+      },
+      {
+        "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+        "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T09:20:29Z",
+        "summary": "Ven\u00e2ncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead."
+      },
+      {
+        "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T02:38:08Z",
+        "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan."
+      },
+      {
+        "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+        "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T01:26:01Z",
+        "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice."
+      },
       {
         "title": "Failed asylum seekers face removal without five-day notice period",
         "url": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
@@ -9,16 +45,16 @@
         "summary": "Under proposed new rules, the Home Office would have six months in which to remove a person without telling them in advance."
       },
       {
+        "title": "The young people caught up in Britain's Neets crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T00:06:34Z",
+        "summary": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training."
+      },
+      {
         "title": "Five EU countries announce migrant deportation centre in Rwanda",
         "url": "https://www.bbc.co.uk/news/articles/cw987343352go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-16T23:20:45Z",
         "summary": "Germany, Denmark, Austria, Greece and the Netherlands have announced a \"return hub\" for failed asylum seekers."
-      },
-      {
-        "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
-        "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-16T22:32:47Z",
-        "summary": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems."
       },
       {
         "title": "Children dropping out of school: What can politicians do about it?",
@@ -31,12 +67,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crp3e1n5kezpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-16T22:10:26Z",
         "summary": "The prime minister tells an audience at the Lord Mayor's Banquet that the \"Brexit we were given has not worked\"."
-      },
-      {
-        "title": "Cass report author says she does not support draft conversion practices bill",
-        "url": "https://www.bbc.co.uk/news/articles/c6m25vd2yxgdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-16T22:08:03Z",
-        "summary": "The gender care review author says the bill\u2019s wording risks \"serious unintended consequences\" for parents and therapists."
       },
       {
         "title": "Will enough Labour MPs back benefit cuts this time?",
@@ -67,12 +97,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-16T15:40:16Z",
         "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal."
-      },
-      {
-        "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
-        "url": "https://www.bbc.co.uk/news/articles/cqp83nk673reo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-16T14:22:36Z",
-        "summary": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies."
       },
       {
         "title": "Barristers must stop using rape myths in trials, justice secretary says",
@@ -107,7 +131,7 @@
       {
         "title": "Sunday with Laura Kuenssberg",
         "url": "https://www.bbc.co.uk/iplayer/episode/m0034dl4?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-15T10:00:01Z",
+        "published_at": "2026-11-15T10:00:07Z",
         "summary": "Laura Kuenssberg talks to Alan Milburn, Pat McFadden, Helen Whately and Ali Campbell."
       },
       {
@@ -157,30 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cr9d7y937n58o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-13T14:34:21Z",
         "summary": "Reform's Zia Yusuf and Tory Chris Philp were speaking against converting a former military site into asylum accommodation."
-      },
-      {
-        "title": "Reform could try to remove Senedd presiding officer over member's speaking ban",
-        "url": "https://www.bbc.co.uk/news/articles/crq5ve0l0416o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-13T12:41:03Z",
-        "summary": "The party's chief whip says it has not ruled out triggering a no confidence vote in Huw Irranca-Davies."
-      },
-      {
-        "title": "Smart glasses banned from Welsh Parliament after ruling they could be used for speeches",
-        "url": "https://www.bbc.co.uk/news/articles/c6p3ew5e4d70o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-13T07:33:10Z",
-        "summary": "The decision comes while a review of the use of the devices in the Senedd takes place."
-      },
-      {
-        "title": "Young, Welsh and into politics - but with different views on independence",
-        "url": "https://www.bbc.co.uk/news/articles/ckvgdd9p7171o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-13T06:25:49Z",
-        "summary": "A body has been set up to consider the case for Welsh independence as well as more devolved powers."
-      },
-      {
-        "title": "Youth scheme branded 'failure' over success rate",
-        "url": "https://www.bbc.co.uk/news/articles/c6zjrygynpgzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-13T06:18:18Z",
-        "summary": "Under half of those on the youth schemes took up work, education or training in London, new data suggests."
       }
     ],
     "saudi": [
@@ -193,6 +193,24 @@
     ],
     "us": [
       {
+        "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+        "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T03:07:23Z",
+        "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\"."
+      },
+      {
+        "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T02:38:08Z",
+        "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan."
+      },
+      {
+        "title": "Customers report service outages at major US banks",
+        "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T00:18:01Z",
+        "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\"."
+      },
+      {
         "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
         "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-16T20:16:15Z",
@@ -203,12 +221,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-16T17:34:22Z",
         "summary": "Every US airline was affected by Friday's ground stop, as the national air-traffic control system recovered from a technical failure."
-      },
-      {
-        "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
-        "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-16T07:24:45Z",
-        "summary": "The anti-drugs agency says the American attempted to leave the airport, abandoning his luggage with the drugs."
       },
       {
         "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
@@ -245,10 +257,46 @@
   "archive": {
     "world": [
       {
+        "title": "Will President Trump meet Kim Jong Un?",
+        "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T10:13:27Z",
+        "summary": "President Trump says he would be keen to meet the North Korea leader in China."
+      },
+      {
+        "title": "Indian woman gang-raped while pregnant in 2002 'heartbroken' after two perpetrators bailed",
+        "url": "https://www.bbc.co.uk/news/articles/cr868wd2qg18o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T09:27:44Z",
+        "summary": "Bilkis Bano has spoken of her \"pain, shock and disbelief\" at the top court order and vowed to fight back."
+      },
+      {
+        "title": "Mozambique opposition leader faces trial over deadly 2024 election unrest",
+        "url": "https://www.bbc.co.uk/news/articles/crq5vl1l6z2po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T09:20:29Z",
+        "summary": "Ven\u00e2ncio Mondlane faces several charges over 2024 post-election protests that left hundreds of people dead."
+      },
+      {
+        "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T02:38:08Z",
+        "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan."
+      },
+      {
+        "title": "Imran Khan seeks urgent medical care fearing he 'may not return alive'",
+        "url": "https://www.bbc.co.uk/news/articles/cr894xq5yeyko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T01:26:01Z",
+        "summary": "Pakistan's ex-prime minister, who has been in prison since August 2023, says he has been denied justice."
+      },
+      {
         "title": "Failed asylum seekers face removal without five-day notice period",
         "url": "https://www.bbc.co.uk/news/articles/cq20xnp2egm8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-17T01:24:49Z",
         "summary": "Under proposed new rules, the Home Office would have six months in which to remove a person without telling them in advance."
+      },
+      {
+        "title": "The young people caught up in Britain's Neets crisis",
+        "url": "https://www.bbc.co.uk/news/articles/cj75pkgrv151o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T00:06:34Z",
+        "summary": "BBC News speaks to four of the million young people aged 16 to 24 who are not in work, education or training."
       },
       {
         "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
@@ -3207,42 +3255,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cqe8rzg6zl00o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-17T02:33:09Z",
         "summary": "The Amazon rainforest is a crucial buffer against climate change - but deforestation had expanded under former president Jair Bolsonaro."
-      },
-      {
-        "title": "A thousand slogans echoed here - but it could be the end for iconic Delhi protest site",
-        "url": "https://www.bbc.co.uk/news/articles/c6kgqjvdv4n2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-17T00:41:58Z",
-        "summary": "Jantar Mantar, an 18th Century site almost synonymous with demonstrations in Delhi, has been denotified as a protest site."
-      },
-      {
-        "title": "Trump 'completely wrong' to restrict support for Ukraine, Italian minister tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c64g18ljjd8do?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T23:54:35Z",
-        "summary": "Defence Minister Guido Crosetto tells the BBC the US risks prolonging Russia's full-scale invasion rather than helping to end it."
-      },
-      {
-        "title": "Chris Mason: Burnham and Swinney tussle over where power lies in Scotland",
-        "url": "https://www.bbc.co.uk/news/articles/cmlyl889jqzjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T20:08:07Z",
-        "summary": "UK political debate has a distinctly Scottish feel after SNP's annual conference, says the BBC's political editor Chris Mason."
-      },
-      {
-        "title": "What we learned from heated US midterm Senate debates",
-        "url": "https://www.bbc.co.uk/news/articles/cqly03y3zg7lo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T19:09:37Z",
-        "summary": "As the 3 November election approaches and both parties fight for control of Congress, some clear themes have emerged."
-      },
-      {
-        "title": "Police assess Palestine Action post by national security adviser's wife",
-        "url": "https://www.bbc.co.uk/news/articles/crn4el88y7p2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T18:58:05Z",
-        "summary": "Downing Street says Sarah Helm, the wife of Jonathan Powell, \"does not represent the government in any capacity\"."
-      },
-      {
-        "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
-        "url": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-16T18:11:29Z",
-        "summary": "The Australian government hopes to protect social media users from being served content they don't want to see."
       }
     ],
     "saudi": [
@@ -3416,6 +3428,24 @@
       }
     ],
     "us": [
+      {
+        "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
+        "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T03:07:23Z",
+        "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\"."
+      },
+      {
+        "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T02:38:08Z",
+        "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan."
+      },
+      {
+        "title": "Customers report service outages at major US banks",
+        "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T00:18:01Z",
+        "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\"."
+      },
       {
         "title": "US basketball player arrested with 34kg of cannabis at Nigerian airport",
         "url": "https://www.bbc.co.uk/news/articles/cj93rggenq4xo?at_medium=RSS&at_campaign=rss",
