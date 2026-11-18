@@ -1,7 +1,31 @@
 {
-  "generated_at": "2026-11-18T02:25:36.251894Z",
+  "generated_at": "2026-11-18T10:45:04.753484Z",
   "articles": {
     "world": [
+      {
+        "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T10:23:57Z",
+        "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election."
+      },
+      {
+        "title": "Lammy urges Burnham to take UK back into the EU",
+        "url": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T09:03:15Z",
+        "summary": "The former deputy PM's intervention comes after Burnham reopened a debate over the UK's long-term future."
+      },
+      {
+        "title": "Chris Mason: Milburn may have gifted Labour MPs a moral argument for welfare reform",
+        "url": "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T06:00:38Z",
+        "summary": "There is hope his Neets report has created a case on benefits which MPs can back, writes political editor Chris Mason."
+      },
+      {
+        "title": "Burnham promises to 'move quickly' on Neets report",
+        "url": "https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T06:00:24Z",
+        "summary": "The prime minister tells the BBC he wants to get \"stuck in\" after the Milburn report proposes wide-ranging changes to help unemployed young people."
+      },
       {
         "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
         "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
@@ -31,18 +55,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck1ewz7p0qlyo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-17T20:59:43Z",
         "summary": "Sir David Evennett was a Conservative MP in south-east London for more than 30 years."
-      },
-      {
-        "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-        "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-17T20:25:46Z",
-        "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\"."
-      },
-      {
-        "title": "Government backs welfare shake-up to prevent 'lost generation'",
-        "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-17T18:43:05Z",
-        "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support."
       },
       {
         "title": "UK sanctions firms over Israeli West Bank settlements",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmqj5z71y7qeo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-16T18:29:26Z",
         "summary": "Northern Ireland's public funding has worsened relative to rest of the UK as a result of the Westminster budget, Stormont's Finance Minister has claimed."
-      },
-      {
-        "title": "Americast",
-        "url": "https://www.bbc.co.uk/sounds/play/p0pn9lj2?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-16T17:48:00Z",
-        "summary": "And, who is positioning to run for president in 2028?"
-      },
-      {
-        "title": "Miliband says he won't resign if government approves Rosebank oil field",
-        "url": "https://www.bbc.co.uk/news/articles/crvg2n8vwyqdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-16T16:05:37Z",
-        "summary": "Energy Secretary Miatta Fahnbulleh is to make a decision on Britain's largest untapped oil field."
       }
     ],
     "saudi": [
@@ -193,16 +193,46 @@
     ],
     "us": [
       {
+        "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T10:23:57Z",
+        "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election."
+      },
+      {
+        "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?",
+        "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T08:33:21Z",
+        "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan."
+      },
+      {
+        "title": "How important are Nvidia and Jensen Huang to the US economy?",
+        "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T06:04:21Z",
+        "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom."
+      },
+      {
+        "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+        "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T04:57:06Z",
+        "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected."
+      },
+      {
+        "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+        "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T02:29:52Z",
+        "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president."
+      },
+      {
+        "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+        "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T23:02:12Z",
+        "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
+      },
+      {
         "title": "US loses measles elimination status after 26 years amid record case numbers",
         "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-17T21:04:00Z",
         "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s."
-      },
-      {
-        "title": "Trump in Asia ahead of talks with Russian and Chinese presidents",
-        "url": "https://www.bbc.co.uk/news/articles/crq5vlxxx32no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-17T20:25:46Z",
-        "summary": "The US president said he would be open to a one-on-one meeting with Russia's Vladimir Putin \"if it's available\"."
       },
       {
         "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
@@ -215,24 +245,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq808vzd3nnpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-17T17:37:04Z",
         "summary": "Tehran rejects any suggestion it was plotting a so-called dirty bomb attack on the US capital as \"baseless\"."
-      },
-      {
-        "title": "US bank services returning to normal after major outage",
-        "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-17T15:04:24Z",
-        "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\"."
-      },
-      {
-        "title": "Vance says he will decide 'sometime next year' about 2028 US presidential run",
-        "url": "https://www.bbc.co.uk/news/articles/cwkgr9m41engo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-17T03:07:23Z",
-        "summary": "The US vice-president tells Fox News that when he makes a decision to run or otherwise, he will \"be all in on whatever that decision is\"."
-      },
-      {
-        "title": "Trump says Alaska voters chose the wrong Dan Sullivan. What does the data show?",
-        "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-17T02:38:08Z",
-        "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan."
       },
       {
         "title": "How telecoms upgrade work sparked US flight chaos",
@@ -256,6 +268,30 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T10:23:57Z",
+        "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election."
+      },
+      {
+        "title": "Lammy urges Burnham to take UK back into the EU",
+        "url": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T09:03:15Z",
+        "summary": "The former deputy PM's intervention comes after Burnham reopened a debate over the UK's long-term future."
+      },
+      {
+        "title": "Chris Mason: Milburn may have gifted Labour MPs a moral argument for welfare reform",
+        "url": "https://www.bbc.co.uk/news/articles/cj62p66zl6kyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T06:00:38Z",
+        "summary": "There is hope his Neets report has created a case on benefits which MPs can back, writes political editor Chris Mason."
+      },
+      {
+        "title": "Burnham promises to 'move quickly' on Neets report",
+        "url": "https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T06:00:24Z",
+        "summary": "The prime minister tells the BBC he wants to get \"stuck in\" after the Milburn report proposes wide-ranging changes to help unemployed young people."
+      },
       {
         "title": "Government risks missing climate targets if EV rules weakened, adviser warns",
         "url": "https://www.bbc.co.uk/news/articles/c63rgqg5l9l2o?at_medium=RSS&at_campaign=rss",
@@ -3231,30 +3267,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck98zlzyqle3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T11:41:24Z",
         "summary": "The race heats up just days before the run-off between the left-wing incumbent and his right-wing challenger."
-      },
-      {
-        "title": "Bereaved families could face 'unjust' tax bill after civil service pension delays",
-        "url": "https://www.bbc.co.uk/news/articles/cq1m4zz9e44go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T11:34:15Z",
-        "summary": "The chairman of Parliament's Public Accounts Committee says families should not be taxed through no fault of their own."
-      },
-      {
-        "title": "Italy plans tougher security measures after violent protests",
-        "url": "https://www.bbc.co.uk/news/articles/c6j9kwxxmxydo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T11:23:36Z",
-        "summary": "The government crackdown comes after protests over rising costs broke out into violent clashes."
-      },
-      {
-        "title": "Reform MSP quits party to sit as independent",
-        "url": "https://www.bbc.co.uk/news/articles/cq398dgkdg8xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T10:52:43Z",
-        "summary": "Amanda Bland's decision relegates the party to the third-largest group at Holyrood, with one member fewer than Labour."
-      },
-      {
-        "title": "Alberta heads to polls to decide whether to hold vote on separation from Canada",
-        "url": "https://www.bbc.co.uk/news/articles/cxvgd0ymgzgyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T09:24:33Z",
-        "summary": "Polling suggests most Albertans favour remaining part of the country, although the debate alone has proven divisive."
       }
     ],
     "saudi": [
@@ -3428,6 +3440,36 @@
       }
     ],
     "us": [
+      {
+        "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
+        "url": "https://www.bbc.co.uk/news/articles/cqev3v2ygzlvo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T10:23:57Z",
+        "summary": "Confirmation of Mary Peltola's victory caps of the party's rout of the Republicans in the midterms Senate election."
+      },
+      {
+        "title": "How important are Nvidia and Jensen Huang to the US economy?",
+        "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T06:04:21Z",
+        "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom."
+      },
+      {
+        "title": "Rubio says US not 'under systemic attack' after series of tech outages",
+        "url": "https://www.bbc.co.uk/news/articles/crkgvxxwpwz2o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T04:57:06Z",
+        "summary": "Secretary of State Marco Rubio said there was \"zero evidence\" supporting theories online that recent disruptions affecting Microsoft, banks and flights are connected."
+      },
+      {
+        "title": "Pakistani man sentenced to 27 years for Iran-backed plot to kill Trump",
+        "url": "https://www.bbc.co.uk/news/articles/cm15ezz8n394o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T02:29:52Z",
+        "summary": "Asif Merchant was found guilty in March of trying to hire undercover FBI agents as hitmen to assassinate US officials, including the president."
+      },
+      {
+        "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+        "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T23:02:12Z",
+        "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
+      },
       {
         "title": "Carney looks to China as Trump tariffs squeeze Canada's car industry",
         "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
