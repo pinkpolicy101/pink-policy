@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-18T19:06:06.274680Z",
+  "generated_at": "2026-11-19T01:12:09.413735Z",
   "articles": {
     "world": [
+      {
+        "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
+        "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T23:29:14Z",
+        "summary": "This comes after Brand's wife shared a message from him in which he claimed his innocence."
+      },
+      {
+        "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+        "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T23:04:06Z",
+        "summary": "No state has ever been found guilty by an international court of committing genocide."
+      },
       {
         "title": "Council wins legal fight against flags on lamp-posts",
         "url": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&at_campaign=rss",
@@ -19,12 +31,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-18T16:33:16Z",
         "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021."
-      },
-      {
-        "title": "Trump shakes hands with Putin and Xi ahead of historic talks in China",
-        "url": "https://www.bbc.co.uk/news/articles/ck9d75x5wwwwo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T16:10:44Z",
-        "summary": "The three leaders will meet together for the first time on Thursday during a closely-watched summit."
       },
       {
         "title": "Burnham promises to 'move quickly' on Neets report",
@@ -49,12 +55,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cq702k1w8xd3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-18T12:11:39Z",
         "summary": "Lucy Powell says outlets shouldn't have played a clip of a message read by the jailed rapist's wife."
-      },
-      {
-        "title": "Who to watch in Spain's election race",
-        "url": "https://www.bbc.co.uk/news/articles/cxr5g4lyp94no?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T11:44:25Z",
-        "summary": "Spain votes on 29 November, with the conservatives leading most polls after eight years of Socialist-led rule."
       },
       {
         "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
@@ -108,7 +108,7 @@
         "title": "Ex-Reform Wales leader Dan Thomas faces no further police action after assault arrest",
         "url": "https://www.bbc.co.uk/news/articles/cq98xl8jgp0go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-17T18:13:27Z",
-        "summary": "Gwent Police says Reform MS faces no further action for arrest that led to him standing down as leader."
+        "summary": "Gwent Police says the Reform Member of the Senedd faces no further action following the arrest that led to him standing down as leader."
       },
       {
         "title": "We can't afford to hire under-25s, say firms. Will Milburn plans help?",
@@ -193,22 +193,28 @@
     ],
     "us": [
       {
+        "title": "The seven Anthropic founders who are about to become multi-billionaires",
+        "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T23:42:07Z",
+        "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
+      },
+      {
+        "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T21:28:08Z",
+        "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain."
+      },
+      {
         "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
         "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T17:34:23Z",
+        "published_at": "2026-11-18T21:13:06Z",
         "summary": "The nomination sets him on the path to become the first black lawmaker to lead the chamber when Democrats take control of the House in January."
       },
       {
         "title": "Why Carney is looking to China as Canada's car industry comes under US pressure",
         "url": "https://www.bbc.co.uk/news/articles/cq98xlz09ye0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T14:35:18Z",
-        "summary": "Prime Minister Carney downplayed US concerns on Wednesday, saying its ties are not a \"top issue\" for President Trump as Canada eyes trade with Chinese carmakers."
-      },
-      {
-        "title": "The seven Anthropic founders who are about to become multi-billionaires",
-        "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T13:55:14Z",
-        "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
+        "published_at": "2026-11-18T20:02:02Z",
+        "summary": "Prime Minister Carney said on Wednesday that \"if the US doesn't want to do the deal, we're busy\", as he eyes alternatives for Canada's auto sector in Beijing."
       },
       {
         "title": "Democrats win Alaska Senate race two weeks after midterms counting began",
@@ -221,12 +227,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-18T08:33:21Z",
         "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan."
-      },
-      {
-        "title": "Linares in ICE detention and facing deportation",
-        "url": "https://www.bbc.co.uk/sport/boxing/articles/cknv4q197dymo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T07:34:53Z",
-        "summary": "Former three-weight world champion Jorge Linares remains in the custody of US immigration authorities in Texas and is facing deportation."
       },
       {
         "title": "How important are Nvidia and Jensen Huang to the US economy?",
@@ -245,12 +245,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-17T23:02:12Z",
         "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
-      },
-      {
-        "title": "US loses measles elimination status after 26 years amid record case numbers",
-        "url": "https://www.bbc.co.uk/news/articles/c977p71jx0xxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-17T21:04:00Z",
-        "summary": "States have reported over 5,400 cases and 10 measles-related deaths for the first time since the early 1990s."
       },
       {
         "title": "How telecoms upgrade work sparked US flight chaos",
@@ -274,6 +268,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
+        "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T23:29:14Z",
+        "summary": "This comes after Brand's wife shared a message from him in which he claimed his innocence."
+      },
+      {
+        "title": "Myanmar faces historic genocide verdict at UN court over Rohingya massacres",
+        "url": "https://www.bbc.co.uk/news/articles/c5m2l90ez144o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T23:04:06Z",
+        "summary": "No state has ever been found guilty by an international court of committing genocide."
+      },
       {
         "title": "Council wins legal fight against flags on lamp-posts",
         "url": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&at_campaign=rss",
@@ -3261,18 +3267,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ckz7xrjg924no?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-19T20:53:30Z",
         "summary": "Plaid Cymru's leader makes pledge ahead of talks with Andy Burnham, who wants more devolution to councils."
-      },
-      {
-        "title": "Reform UK mayor investigated over naked photo claims",
-        "url": "https://www.bbc.co.uk/news/articles/c6eq3y4zz899o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T16:31:18Z",
-        "summary": "Reform UK's Luke Campbell denies claims that he showed nude photos of himself to a female colleague."
-      },
-      {
-        "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
-        "url": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-19T16:22:12Z",
-        "summary": "The Saudi government did not immediately respond to BBC requests for comment."
       }
     ],
     "saudi": [
@@ -3446,6 +3440,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+        "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T21:28:08Z",
+        "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain."
+      },
       {
         "title": "Democrats nominate Hakeem Jeffries to be US Speaker of the House",
         "url": "https://www.bbc.co.uk/news/articles/cmy49873dn95o?at_medium=RSS&at_campaign=rss",
