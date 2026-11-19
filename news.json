@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T01:12:09.413735Z",
+  "generated_at": "2026-11-19T08:46:41.167972Z",
   "articles": {
     "world": [
       {
         "title": "Google rejects UK request for Russell Brand YouTube video to be removed, sources say",
         "url": "https://www.bbc.co.uk/news/articles/cmgrenln8p29o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T23:29:14Z",
+        "published_at": "2026-11-19T08:35:07Z",
         "summary": "This comes after Brand's wife shared a message from him in which he claimed his innocence."
       },
       {
@@ -193,13 +193,19 @@
     ],
     "us": [
       {
-        "title": "The seven Anthropic founders who are about to become multi-billionaires",
-        "url": "https://www.bbc.co.uk/news/articles/cmd7159vlr85o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T23:42:07Z",
-        "summary": "The AI company behind Claude is about to sell its shares on the US stock market - making its founders very rich."
+        "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+        "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-19T02:59:06Z",
+        "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
       },
       {
-        "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
+        "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+        "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T23:28:03Z",
+        "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say."
+      },
+      {
+        "title": "Simon Jack: Can Anthropic's record-breaking IPO stop the AI bubble bursting?",
         "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-18T21:28:08Z",
         "summary": "Anthropic's hotly anticipated IPO is expected to put it in the top 10 most valuable US companies, but the future is uncertain."
@@ -3440,6 +3446,18 @@
       }
     ],
     "us": [
+      {
+        "title": "Elon Musk says record $446m spending on US midterms was 'pretty foolish'",
+        "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-19T02:59:06Z",
+        "summary": "The multi-billionaire also said he was \"not Maga\", distancing himself from the political movement linked to Trump."
+      },
+      {
+        "title": "Russian arrested for spying on US defence company Palantir over Ukraine support",
+        "url": "https://www.bbc.co.uk/news/articles/cq20xg80ly47o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-18T23:28:03Z",
+        "summary": "The suspect followed employees and was found with fake US IDs and two Russian passports, prosecutors say."
+      },
       {
         "title": "Can Anthropic's record breaking IPO stop the AI bubble bursting?",
         "url": "https://www.bbc.co.uk/news/articles/cj4gnpzll020o?at_medium=RSS&at_campaign=rss",
