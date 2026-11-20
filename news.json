@@ -1,21 +1,57 @@
 {
-  "generated_at": "2026-11-20T16:07:54.442284Z",
+  "generated_at": "2026-11-20T22:39:54.950372Z",
   "articles": {
     "world": [
       {
+        "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+        "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T21:43:22Z",
+        "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU."
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T20:54:12Z",
+        "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
+      },
+      {
+        "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
+        "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T19:41:30Z",
+        "summary": "The prime minister says he is \"not persuaded\" by the argument that devolution would benefit Wales."
+      },
+      {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T17:49:48Z",
+        "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
+      },
+      {
+        "title": "Cost of living protests sweep across Europe",
+        "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T16:45:34Z",
+        "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues."
+      },
+      {
+        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+        "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T16:41:52Z",
+        "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
+      },
+      {
         "title": "Henry Zeffman: Burnham's first taste of EU deal-making unlikely to be his last",
         "url": "https://www.bbc.co.uk/news/articles/cm4gn092gydwo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T15:47:45Z",
-        "summary": "The prime minister is learning how complex EU negotiations can be - but it is unlikely to deter him from seeking closer ties."
+        "published_at": "2026-11-20T16:19:08Z",
+        "summary": "The prime minister is learning how tough EU negotiations can be - but it won't deter him from seeking closer ties."
       },
       {
         "title": "What is the EU-UK youth experience scheme and when will it start?",
         "url": "https://www.bbc.co.uk/news/articles/c6jeqv9nv5eqo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T15:43:31Z",
+        "published_at": "2026-11-20T16:07:55Z",
         "summary": "The agreement will allow young people between 18 and 31 year-olds to travel, work or study in the EU for up to three years."
       },
       {
-        "title": "New Brexit deal 'won't solve' all issues, but is a 'step in the right direction'",
+        "title": "What does the new Brexit deal mean for Northern Ireland?",
         "url": "https://www.bbc.co.uk/news/articles/cm4gn9xw1v99o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-20T14:41:53Z",
         "summary": "The agreement is expected to be confirmed when Andy Burnham and Ursula von der Leyen meet in Brussels."
@@ -43,12 +79,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cxj05q23emgvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-20T08:42:55Z",
         "summary": "Watch: Start talks to rejoin EU now, says ex-minister"
-      },
-      {
-        "title": "PM has no 'democratic mandate' for Brexit changes, Farage tells BBC",
-        "url": "https://www.bbc.co.uk/news/videos/cx7v2zmr5dv0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T08:27:53Z",
-        "summary": "The Reform UK leader told BBC Breakfast that the proposed changes would take steps towards reintegrating the UK into the EU's single market."
       },
       {
         "title": "What the Brussels summit could mean for the UK-EU Brexit deal",
@@ -81,28 +111,10 @@
         "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change."
       },
       {
-        "title": "US army warns detonation of unstable explosives will create toxic plume",
-        "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T01:27:27Z",
-        "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers."
-      },
-      {
         "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
         "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-20T00:50:24Z",
         "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
-      },
-      {
-        "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
-        "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-19T22:48:22Z",
-        "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist."
-      },
-      {
-        "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
-        "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-19T20:07:02Z",
-        "summary": "The unprecedented International Court of Justice verdict concerns a 2017 military crackdown that killed thousands."
       },
       {
         "title": "Faults not fixed in 90% of homes in government insulation scheme",
@@ -121,12 +133,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cw987ynpd0n1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-19T17:49:48Z",
         "summary": "Under the government's plans, a ban on the sale of most new leasehold flats is expected around 2031."
-      },
-      {
-        "title": "Rohingya genocide: What was said in court and what happens now?",
-        "url": "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-19T17:35:05Z",
-        "summary": "The verdict marks the first time a state has ever been found to have committed genocide by an international court."
       },
       {
         "title": "PM urges social media companies to 'show some decency' and take down Brand video",
@@ -151,12 +157,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwy80x8pe4v3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-19T11:48:01Z",
         "summary": "Many of the names and arguments that defined the Brexit period are emerging again, as the debate over the UK being part of the EU is back on the agenda."
-      },
-      {
-        "title": "Florida pastor found guilty over role in assassination of Haitian president",
-        "url": "https://www.bbc.co.uk/news/articles/cm702q0lg50po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-19T11:44:57Z",
-        "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Mo\u00efse."
       },
       {
         "title": "Council wins legal fight against flags on lamp-posts",
@@ -193,16 +193,34 @@
     ],
     "us": [
       {
-        "title": "White House removes cyber-security chief after series of tech outages",
-        "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T13:28:32Z",
-        "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller."
+        "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T21:40:45Z",
+        "summary": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders."
       },
       {
-        "title": "US army warns detonation of unstable explosives will create toxic plume",
-        "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T01:27:27Z",
-        "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers."
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T20:54:12Z",
+        "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
+      },
+      {
+        "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+        "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T19:27:49Z",
+        "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February."
+      },
+      {
+        "title": "White House removes cyber-security chief after series of tech outages",
+        "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T19:03:56Z",
+        "summary": "He has been fired after losing the confidence of new White House chief of staff Stephen Miller, according to reports."
+      },
+      {
+        "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg2e0e9138o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T16:29:18Z",
+        "summary": "The game's fans waited over a decade for this moment, and now police are reminding them \"real-life laws don't come with cheat codes, respawns, or mission restarts\"."
       },
       {
         "title": "Why Canada is embracing AI data centres while the US pushes back",
@@ -211,28 +229,10 @@
         "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition."
       },
       {
-        "title": "Trump posthumously pardons US baseball legend Pete Rose",
-        "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-19T23:51:50Z",
-        "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year."
-      },
-      {
-        "title": "Venezuela signs military deal with US less than a year after Maduro's removal",
-        "url": "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-19T13:31:23Z",
-        "summary": "The US Secretary of Defence says Venezuela has \"gone from our most aggressive regional threat to a compliant security partner\"."
-      },
-      {
         "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
         "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-19T11:43:06Z",
         "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward."
-      },
-      {
-        "title": "Why has Waymo pulled all its driverless cars from US freeways?",
-        "url": "https://www.bbc.co.uk/news/videos/cmx2ryw97x4go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T23:47:46Z",
-        "summary": "The vehicles currently operate in 15 US cities, though freeway rides are only offered in a handful, including San Francisco and Los Angeles."
       },
       {
         "title": "The seven Anthropic founders who are about to become multi-billionaires",
@@ -253,27 +253,51 @@
         "summary": "Prime Minister Carney said on Wednesday that \"if the US doesn't want to do the deal, we're busy\", as he eyes alternatives for Canada's auto sector in Beijing."
       },
       {
-        "title": "Democrats win Alaska after Trump says voters chose wrong Dan Sullivan. What does voting data show?",
-        "url": "https://www.bbc.co.uk/news/articles/cxnv4jlr269eo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T08:33:21Z",
-        "summary": "Votes are still being counted in the Alaska Senate race, with Democrat Mary Peltola ahead of Republican incumbent Senator Dan S Sullivan."
-      },
-      {
         "title": "How important are Nvidia and Jensen Huang to the US economy?",
         "url": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-18T06:04:21Z",
         "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom."
-      },
-      {
-        "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
-        "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-17T23:02:12Z",
-        "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips."
       }
     ]
   },
   "archive": {
     "world": [
+      {
+        "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+        "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T21:43:22Z",
+        "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU."
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T20:54:12Z",
+        "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
+      },
+      {
+        "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
+        "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T19:41:30Z",
+        "summary": "The prime minister says he is \"not persuaded\" by the argument that devolution would benefit Wales."
+      },
+      {
+        "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
+        "url": "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T17:49:48Z",
+        "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
+      },
+      {
+        "title": "Cost of living protests sweep across Europe",
+        "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T16:45:34Z",
+        "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues."
+      },
+      {
+        "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
+        "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T16:41:52Z",
+        "summary": "The trade deal is unlikely lower food prices for shoppers, but should boost the economy more than other post-Brexit agreements."
+      },
       {
         "title": "Henry Zeffman: Burnham's first taste of EU deal-making unlikely to be his last",
         "url": "https://www.bbc.co.uk/news/articles/cm4gn092gydwo?at_medium=RSS&at_campaign=rss",
@@ -3237,42 +3261,6 @@
         "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T02:37:13Z",
         "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
-      },
-      {
-        "title": "Is Ebola under control in Kenya after nine cases confirmed?",
-        "url": "https://www.bbc.co.uk/news/articles/c693z948px0jo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T23:41:30Z",
-        "summary": "The US has advised its citizens to reconsider travelling to Kenya but the government tries to reassure people."
-      },
-      {
-        "title": "The Interview",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct98hl?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T23:30:00Z",
-        "summary": "Julie Etchingham speaks to Archbishop Paul Gallagher about diplomacy in the Vatican"
-      },
-      {
-        "title": "Is Donald Trump ready to do business with Myanmar?",
-        "url": "https://www.bbc.co.uk/news/articles/cw203zx1x1rno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T23:21:39Z",
-        "summary": "There are signs the United States is shifting its policy towards Myanmar, formerly a global pariah."
-      },
-      {
-        "title": "Tory MP questions government advisor's position after wife's Palestine Action post",
-        "url": "https://www.bbc.co.uk/news/articles/cke8r0me3y9vo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T22:29:24Z",
-        "summary": "A Downing Street spokeswoman told the BBC: \"These views are held by an individual who does not represent the government in any capacity.\""
-      },
-      {
-        "title": "Alberta's decisive decision to stay in Canada gives Carney backing to take on Trump",
-        "url": "https://www.bbc.co.uk/news/articles/cr62ylj832vxo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T22:22:17Z",
-        "summary": "The overwhelming vote by Alberta to stay in Canada gives Mark Carney political capital to focus on remaking the country's economy, writes the BBC's Lyse Doucet."
-      },
-      {
-        "title": "Second Labour MP suspended over Covid loan repayments",
-        "url": "https://www.bbc.co.uk/news/articles/cqgkvnp0lkv5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T21:20:28Z",
-        "summary": "Perran Moon, MP for Camborne and Redruth, voluntarily referred himself for investigation."
       }
     ],
     "saudi": [
@@ -3446,6 +3434,30 @@
       }
     ],
     "us": [
+      {
+        "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
+        "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T21:40:45Z",
+        "summary": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders."
+      },
+      {
+        "title": "Trump threatens ban on US firms building AI data centres overseas",
+        "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T20:54:12Z",
+        "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
+      },
+      {
+        "title": "Indian man sentenced to 19-plus years in plot to assassinate US-based Sikh separatist leader",
+        "url": "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T19:27:49Z",
+        "summary": "Nikhil Gupta pleaded guilty to murder-for-hire, conspiracy to commit murder-for-hire, and conspiracy to commit money laundering in February."
+      },
+      {
+        "title": "'What happens in GTA 6 stays in GTA 6': Police across US warn fans about taking the game to their real lives",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg2e0e9138o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T16:29:18Z",
+        "summary": "The game's fans waited over a decade for this moment, and now police are reminding them \"real-life laws don't come with cheat codes, respawns, or mission restarts\"."
+      },
       {
         "title": "White House removes cyber-security chief after series of tech outages",
         "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
