@@ -1,24 +1,30 @@
 {
-  "generated_at": "2026-11-19T23:50:52.748570Z",
+  "generated_at": "2026-11-20T07:12:21.516867Z",
   "articles": {
     "world": [
+      {
+        "title": "More climate money for Africa? Europe says use what's already pledged",
+        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T05:03:43Z",
+        "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change."
+      },
+      {
+        "title": "UK and EU to agree youth mobility scheme, BBC understands",
+        "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T04:35:51Z",
+        "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table."
+      },
+      {
+        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
+        "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T00:50:24Z",
+        "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
+      },
       {
         "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
         "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-19T22:48:22Z",
         "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist."
-      },
-      {
-        "title": "EU-UK talks going down to the wire, says No 10",
-        "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-19T22:26:04Z",
-        "summary": "The EU and UK are expected to reach new deals on food trade and visas for young people at a summit on Friday."
-      },
-      {
-        "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
-        "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-19T21:21:43Z",
-        "summary": "European allies of Ukraine say they have a \"united\" negotiating position at a summit in Berlin."
       },
       {
         "title": "Myanmar committed genocide against Rohingya minority, top UN court rules",
@@ -87,12 +93,6 @@
         "summary": "Christian Emmanuel Sanon is convicted of involvement in the plot that resulted in the killing of Jovenel Mo\u00efse."
       },
       {
-        "title": "'Frustrated' - Democrats remain a divided party despite winning big in midterms",
-        "url": "https://www.bbc.co.uk/news/articles/c6174edpp5e8o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-19T11:43:06Z",
-        "summary": "After winning power in Congress, a Democratic conference in Denver was animated with talk on the best way forward."
-      },
-      {
         "title": "Council wins legal fight against flags on lamp-posts",
         "url": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-18T18:19:34Z",
@@ -103,12 +103,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-18T17:09:35Z",
         "summary": "The former deputy PM's intervention comes after Burnham reopened a debate over the UK's long-term future."
-      },
-      {
-        "title": "Julio Iglesias facing court investigation over alleged sexual offences",
-        "url": "https://www.bbc.co.uk/news/articles/c6x284pnn4e2o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T16:33:16Z",
-        "summary": "The 83-year-old singer is accused of abusing two former employees at Caribbean residences in 2021."
       },
       {
         "title": "Burnham promises to 'move quickly' on Neets report",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/c6d01e8m15mko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-17T15:56:04Z",
         "summary": "The proposal to cut employers' National Insurance costs is \"essential\" to tackling the Neet problem, one business group says."
+      },
+      {
+        "title": "What does Neet stand for and why does the UK have so many?",
+        "url": "https://www.bbc.co.uk/news/articles/cly9rq35de8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-17T14:23:37Z",
+        "summary": "Ministers want to tackle the high number of young people not in education, employment or training."
       }
     ],
     "saudi": [
@@ -193,9 +193,21 @@
     ],
     "us": [
       {
+        "title": "US army warns detonation of unstable explosives will create toxic plume",
+        "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T01:27:27Z",
+        "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers."
+      },
+      {
+        "title": "Why Canada is embracing AI data centres while the US pushes back",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T00:13:24Z",
+        "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition."
+      },
+      {
         "title": "Trump posthumously pardons US baseball legend Pete Rose",
         "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-19T23:18:43Z",
+        "published_at": "2026-11-19T23:51:50Z",
         "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year."
       },
       {
@@ -256,6 +268,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "More climate money for Africa? Europe says use what's already pledged",
+        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T05:03:43Z",
+        "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change."
+      },
       {
         "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
         "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_medium=RSS&at_campaign=rss",
@@ -3249,12 +3267,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cry835v68dq9o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-20T13:22:03Z",
         "summary": "Speaking ahead of next week's Budget, the Conservative leader says her party would make \u00a370bn of cuts."
-      },
-      {
-        "title": "Burnham risks wrath of Commons Speaker for talking too much at PMQs",
-        "url": "https://www.bbc.co.uk/news/articles/crvg6qjw6dz5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-20T12:54:43Z",
-        "summary": "The prime minister takes longer than his predecessors to respond to questions from MPs, writes Matt Chorley."
       }
     ],
     "saudi": [
@@ -3428,6 +3440,18 @@
       }
     ],
     "us": [
+      {
+        "title": "US army warns detonation of unstable explosives will create toxic plume",
+        "url": "https://www.bbc.co.uk/news/articles/cmlye2334wlyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T01:27:27Z",
+        "summary": "The Army has delayed the controlled explosion of unstable lead azide in eastern Iowa to Monday after concerns from residents and lawmakers."
+      },
+      {
+        "title": "Why Canada is embracing AI data centres while the US pushes back",
+        "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T00:13:24Z",
+        "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition."
+      },
       {
         "title": "Trump posthumously pardons US baseball legend Pete Rose",
         "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_medium=RSS&at_campaign=rss",
