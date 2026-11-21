@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-11-21T11:47:48.945285Z",
+  "generated_at": "2026-11-21T19:13:29.502569Z",
   "articles": {
     "world": [
       {
         "title": "First minister 'gobsmacked' by Burnham's devolution calls rejection",
         "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-21T10:53:21Z",
+        "published_at": "2026-11-21T16:11:58Z",
         "summary": "The prime minister says he is \"not persuaded\" by the argument that devolution would benefit Wales."
+      },
+      {
+        "title": "Scouts say they face \u00a31m tourist tax cost for overnight trips",
+        "url": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T13:29:55Z",
+        "summary": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said."
+      },
+      {
+        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T13:17:38Z",
+        "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
       },
       {
         "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cwy80x8pe4v3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-19T11:48:01Z",
         "summary": "Many of the names and arguments that defined the Brexit period are emerging again, as the debate over the UK being part of the EU is back on the agenda."
-      },
-      {
-        "title": "Council wins legal fight against flags on lamp-posts",
-        "url": "https://www.bbc.co.uk/news/articles/ckq5vg81805qo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T18:19:34Z",
-        "summary": "In her decision, Judge Emma Kelly says there was a \"compelling need\" to grant the interim injunction."
-      },
-      {
-        "title": "Lammy urges Burnham to take UK back into the EU",
-        "url": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T17:09:35Z",
-        "summary": "The former deputy PM's intervention comes after Burnham reopened a debate over the UK's long-term future."
       }
     ],
     "saudi": [
@@ -286,6 +286,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Scouts say they face \u00a31m tourist tax cost for overnight trips",
+        "url": "https://www.bbc.co.uk/news/articles/cxdd1e9yvlzjo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T13:29:55Z",
+        "summary": "The increased cost after the proposed Visitors Levy is imposed could price some young people out of joining Scout camps and other trips, the group said."
+      },
+      {
+        "title": "Zelensky says Crimean Bridge strikes 'fair response' as he meets UK's Streeting",
+        "url": "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T13:17:38Z",
+        "summary": "Ukraine's president says Kyiv acted after 109 separate Russian aerial attacks on bridges in Ukraine."
+      },
       {
         "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
         "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
@@ -3273,18 +3285,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm3wv9pn22e5o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T10:20:15Z",
         "summary": "The economic figures released on Wednesday show the constraints for John Healey as he puts the finishing touches to his Budget."
-      },
-      {
-        "title": "Inflation and government borrowing highest for a year ahead of next week's Budget",
-        "url": "https://www.bbc.co.uk/news/articles/c6gel2xv4493o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T09:45:31Z",
-        "summary": "Inflation accelerated to 3.5% from 3.1% in the year to September, according to the Office for National Statistics (ONS)."
-      },
-      {
-        "title": "What is happening to UK prices?",
-        "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T08:35:47Z",
-        "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices."
       }
     ],
     "saudi": [
