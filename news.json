@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-11-21T03:29:35.971042Z",
+  "generated_at": "2026-11-21T11:47:48.945285Z",
   "articles": {
     "world": [
+      {
+        "title": "First minister 'gobsmacked' by Burnham's devolution calls rejection",
+        "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T10:53:21Z",
+        "summary": "The prime minister says he is \"not persuaded\" by the argument that devolution would benefit Wales."
+      },
+      {
+        "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T09:40:55Z",
+        "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
+      },
+      {
+        "title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/cwdr1xyzr5lmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T06:01:04Z",
+        "summary": "Ministers are expected to publish the details of how an independent review of the working environment at the Information Commission will be carried out next week."
+      },
       {
         "title": "ANC fights to keep control of South Africa's key cities after election setback",
         "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
@@ -25,12 +43,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-20T20:54:12Z",
         "summary": "The US president provided little detail on the potential policy, saying others in his team were hearing about it for the first time."
-      },
-      {
-        "title": "Burnham rejects calls for devolution of powers in letter to Welsh FM",
-        "url": "https://www.bbc.co.uk/news/articles/ck9874vydr83o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T19:41:30Z",
-        "summary": "The prime minister says he is \"not persuaded\" by the argument that devolution would benefit Wales."
       },
       {
         "title": "UK to explore even closer ties with EU after agreeing deal, says Burnham",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cm9q8jx05q3go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-18T17:09:35Z",
         "summary": "The former deputy PM's intervention comes after Burnham reopened a debate over the UK's long-term future."
-      },
-      {
-        "title": "Burnham promises to 'move quickly' on Neets report",
-        "url": "https://www.bbc.co.uk/news/articles/c8n50457edd4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T13:23:49Z",
-        "summary": "The prime minister tells the BBC he wants to get \"stuck in\" after the Milburn report proposes wide-ranging changes to help unemployed young people."
-      },
-      {
-        "title": "Home secretary plans to tackle 'corrosive' perception of two-tier policing",
-        "url": "https://www.bbc.co.uk/news/articles/c3vg24wpg040o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-18T13:19:39Z",
-        "summary": "Shabana Mahmood announces stronger guidance on police impartiality in a speech to police chiefs."
       }
     ],
     "saudi": [
@@ -286,6 +286,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Deal with EU not dependent on tuition fees agreement, Miliband says",
+        "url": "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T09:40:55Z",
+        "summary": "Brussels sources had previously suggested the bloc might not apply the wider deal until fees were lowered for EU students in Britain."
+      },
+      {
+        "title": "Staff gagging clauses lifted ahead of probe into culture at data watchdog",
+        "url": "https://www.bbc.co.uk/news/articles/cwdr1xyzr5lmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T06:01:04Z",
+        "summary": "Ministers are expected to publish the details of how an independent review of the working environment at the Information Commission will be carried out next week."
+      },
       {
         "title": "ANC fights to keep control of South Africa's key cities after election setback",
         "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
@@ -3273,18 +3285,6 @@
         "url": "https://www.bbc.co.uk/news/articles/c17rgd8e9gjo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T08:35:47Z",
         "summary": "UK inflation rose in September, pushed up by higher petrol and diesel prices."
-      },
-      {
-        "title": "Australian MP loses both legs after alleged car attack, husband says",
-        "url": "https://www.bbc.co.uk/news/articles/ckwyqdqxw6d0o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T07:56:30Z",
-        "summary": "Her alleged attacker, 43-year-old Brendan Nugent, faces multiple charges and appeared in court for the first time on Wednesday."
-      },
-      {
-        "title": "Chris Mason: Jackdaw approved but tricky energy trade-offs remain",
-        "url": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T07:06:10Z",
-        "summary": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy."
       }
     ],
     "saudi": [
