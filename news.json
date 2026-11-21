@@ -1,7 +1,19 @@
 {
-  "generated_at": "2026-11-20T22:39:54.950372Z",
+  "generated_at": "2026-11-21T03:29:35.971042Z",
   "articles": {
     "world": [
+      {
+        "title": "ANC fights to keep control of South Africa's key cities after election setback",
+        "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T00:34:51Z",
+        "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level."
+      },
+      {
+        "title": "French police officers sentenced for beating of music producer Michel Zecler",
+        "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T22:37:09Z",
+        "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+      },
       {
         "title": "What the new UK-EU deal could mean for future post-Brexit relations",
         "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
@@ -99,18 +111,6 @@
         "summary": "Simon Harris says a conversation between the British and Irish governments over the criteria for a border poll would be \"useful\"."
       },
       {
-        "title": "Nigeria moves to end jail terms for attempted suicide",
-        "url": "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T06:32:17Z",
-        "summary": "Nigeria's proposed reform follows years of calls from psychiatrists and a parallel Senate bill."
-      },
-      {
-        "title": "More climate money for Africa? Europe says use what's already pledged",
-        "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T05:03:43Z",
-        "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change."
-      },
-      {
         "title": "Europe ready for talks with Russia on ending war in Ukraine, leaders say",
         "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-20T00:50:24Z",
@@ -195,8 +195,32 @@
       {
         "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
         "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T21:40:45Z",
+        "published_at": "2026-11-21T01:19:25Z",
         "summary": "At the funeral for the 15-year-old who was fatally shot last month, Mamdani spoke alongside the boy's father and civil rights leaders."
+      },
+      {
+        "title": "Trump says US flight systems are 'ancient' but 'safe' after ground stop",
+        "url": "https://www.bbc.co.uk/news/articles/cr930ney9d1po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T01:02:08Z",
+        "summary": "Trump backed members of his administration who are asking for $50bn to rebuild air traffic control systems in the wake of last Friday's major outage."
+      },
+      {
+        "title": "US declassifies more UFO footage filmed in the Middle East",
+        "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T23:15:20Z",
+        "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026."
+      },
+      {
+        "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+        "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T22:57:26Z",
+        "summary": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns."
+      },
+      {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T22:42:47Z",
+        "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
       },
       {
         "title": "Trump threatens ban on US firms building AI data centres overseas",
@@ -262,6 +286,18 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "ANC fights to keep control of South Africa's key cities after election setback",
+        "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T00:34:51Z",
+        "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level."
+      },
+      {
+        "title": "French police officers sentenced for beating of music producer Michel Zecler",
+        "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T22:37:09Z",
+        "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism."
+      },
       {
         "title": "What the new UK-EU deal could mean for future post-Brexit relations",
         "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_medium=RSS&at_campaign=rss",
@@ -3249,18 +3285,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cked35dz47y7o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T07:06:10Z",
         "summary": "Jackdaw and Rosebank are case studies in the slow motion awkwardness the UK has over energy."
-      },
-      {
-        "title": "BBC inside Australian court as man charged with attacking MP stays silent in first hearing",
-        "url": "https://www.bbc.co.uk/news/videos/cq398rg0lnd1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T03:58:16Z",
-        "summary": "BBC's Katy Watson describes what unfolded in Wangaratta as 43-year-old Brendan Nugent appeared before court over the alleged attack of Helen Haines."
-      },
-      {
-        "title": "Haitian migrants changed this US town - Trump's deportation drive is reshaping it again",
-        "url": "https://www.bbc.co.uk/news/articles/crp3gvpek8njo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T02:37:13Z",
-        "summary": "The president thrust Springfield, Ohio, into the spotlight with a false pet-eating claim - years later, it remains at the heart of the immigration debate."
       }
     ],
     "saudi": [
@@ -3434,6 +3458,30 @@
       }
     ],
     "us": [
+      {
+        "title": "Trump says US flight systems are 'ancient' but 'safe' after ground stop",
+        "url": "https://www.bbc.co.uk/news/articles/cr930ney9d1po?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T01:02:08Z",
+        "summary": "Trump backed members of his administration who are asking for $50bn to rebuild air traffic control systems in the wake of last Friday's major outage."
+      },
+      {
+        "title": "US declassifies more UFO footage filmed in the Middle East",
+        "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T23:15:20Z",
+        "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026."
+      },
+      {
+        "title": "Birds killed in blaze at one of the largest foie gras farms in the US",
+        "url": "https://www.bbc.co.uk/news/articles/cq4gn0dg9194o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T22:57:26Z",
+        "summary": "Hundreds of young birds were also rescued from the fire, which comes as foie gras is under renewed scrutiny over animal welfare concerns."
+      },
+      {
+        "title": "Tech stock sell-off drags markets down as Anthropic shares slide",
+        "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-20T22:42:47Z",
+        "summary": "Pressures weighed on US markets, with the S&P 500 and the Dow Jones Industrial Average pushed into correction territory."
+      },
       {
         "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
         "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
