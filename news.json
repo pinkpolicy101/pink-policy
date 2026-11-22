@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-11-22T14:54:58.822820Z",
+  "generated_at": "2026-11-22T21:03:06.998227Z",
   "articles": {
     "world": [
+      {
+        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-22T20:28:09Z",
+        "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-22T18:57:24Z",
+        "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+      },
+      {
+        "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+        "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-22T18:29:46Z",
+        "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa."
+      },
       {
         "title": "Tories would scrap Burnham's deal with EU, deputy leader says",
         "url": "https://www.bbc.co.uk/news/articles/cr868jnlllpgo?at_medium=RSS&at_campaign=rss",
@@ -117,12 +135,6 @@
         "summary": "The UK-EU deal agreed on Friday covers British food exports, emissions trading and a youth experience scheme."
       },
       {
-        "title": "Cost of living protests sweep across Europe",
-        "url": "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T16:45:34Z",
-        "summary": "Thousands marched across European cities on Friday to protest against the cost of living and other issues."
-      },
-      {
         "title": "Faisal Islam: This cost-cutting UK-EU deal doesn't mean lower prices will follow",
         "url": "https://www.bbc.co.uk/news/articles/cm1wr029evnqo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-20T16:41:52Z",
@@ -169,18 +181,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cxj05q23emgvo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-20T08:42:55Z",
         "summary": "Watch: Start talks to rejoin EU now, says ex-minister"
-      },
-      {
-        "title": "What the Brussels summit could mean for the UK-EU Brexit deal",
-        "url": "https://www.bbc.co.uk/news/videos/c6lymr5x4ye5o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T08:07:06Z",
-        "summary": "BBC political editor Chris Mason looks at the potential agreements between the UK and EU that could be reached on food, energy and youth mobility."
-      },
-      {
-        "title": "UK and EU to agree youth mobility scheme, BBC understands",
-        "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-20T07:14:46Z",
-        "summary": "The scheme is expected to be approved at Friday's UK-EU summit, with new deals on food trade and carbon emissions also on the table."
       }
     ],
     "saudi": [
@@ -192,6 +192,18 @@
       }
     ],
     "us": [
+      {
+        "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+        "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-22T18:29:46Z",
+        "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa."
+      },
+      {
+        "title": "Lock of former US President George Washington's hair sells for $4,000",
+        "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T22:01:19Z",
+        "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner."
+      },
       {
         "title": "Ghanaian boy killed in US 'deserved so much better', says New York Mayor Mamdani",
         "url": "https://www.bbc.co.uk/news/articles/cv8e07825l90o?at_medium=RSS&at_campaign=rss",
@@ -286,6 +298,24 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Explosion on Russian ship at Libya port caused by suspected drone attack, officials say",
+        "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-22T20:28:09Z",
+        "summary": "Libya's eastern government says the ship had stopped for fuel and supplies on its way back to Russia."
+      },
+      {
+        "title": "What's next after no deal at COP31 climate talks?",
+        "url": "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-22T18:57:24Z",
+        "summary": "The talks have been the longest-running in the summit's history, with negotiations breaking down two days after they had been due to end."
+      },
+      {
+        "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+        "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-22T18:29:46Z",
+        "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa."
+      },
       {
         "title": "Tories would scrap Burnham's deal with EU, deputy leader says",
         "url": "https://www.bbc.co.uk/news/articles/cr868jnlllpgo?at_medium=RSS&at_campaign=rss",
@@ -3267,24 +3297,6 @@
         "url": "https://www.bbc.co.uk/news/articles/cmd7qrew7z72o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-21T21:45:57Z",
         "summary": "It is the latest heated debate in the Senedd on a Wednesday prompted by Reform MSs."
-      },
-      {
-        "title": "Rosenberg: US diplomatic push offers little hope for imminent Ukraine peace",
-        "url": "https://www.bbc.co.uk/news/articles/cm98zn5j89kdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T19:58:06Z",
-        "summary": "Russia's President Putin does not feel under pressure right now to end the war."
-      },
-      {
-        "title": "India 'cockroach' leaders who called on election chief to quit are freed from jail",
-        "url": "https://www.bbc.co.uk/news/articles/c674p0xepljeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T18:22:28Z",
-        "summary": "Saurav Das and Ashutosh Ranka were accused of breaking into an unauthorised protest venue in Delhi."
-      },
-      {
-        "title": "Burnham proposes plan to cut standing charges from gas bills",
-        "url": "https://www.bbc.co.uk/news/articles/cw0541p65dyzo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-21T17:06:16Z",
-        "summary": "The prime minister provided little detail, and there are questions over shifting the fees onto unit costs."
       }
     ],
     "saudi": [
@@ -3458,6 +3470,18 @@
       }
     ],
     "us": [
+      {
+        "title": "US Army to detonate tonnes of unstable explosives in Iowa despite court order",
+        "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-22T18:29:46Z",
+        "summary": "The Army says \"swift action\" is necessary to protect its personnel and nearby communities around its ammunition plant in Iowa."
+      },
+      {
+        "title": "Lock of former US President George Washington's hair sells for $4,000",
+        "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-21T22:01:19Z",
+        "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner."
+      },
       {
         "title": "Trump says US flight systems are 'ancient' but 'safe' after ground stop",
         "url": "https://www.bbc.co.uk/news/articles/cr930ney9d1po?at_medium=RSS&at_campaign=rss",
