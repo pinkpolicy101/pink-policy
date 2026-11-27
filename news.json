@@ -1,7 +1,85 @@
 {
-  "generated_at": "2026-11-27T04:13:56.911511Z",
+  "generated_at": "2026-11-27T13:52:36.185681Z",
   "articles": {
     "world": [
+      {
+        "title": "What we know about Department for Work and Pensions 'cyber incident'",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T13:50:15Z",
+        "summary": "Nearly all of the DWP's online systems have been taken down, including those for pensions, universal credit and Pip applications."
+      },
+      {
+        "title": "Reform wins by-elections after offensive comments",
+        "url": "https://www.bbc.co.uk/news/articles/cqkg5y3gr1w7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T13:27:17Z",
+        "summary": "They are held after previous councillor Alan Feeney was filmed calling Asian homeowners \"parasites\"."
+      },
+      {
+        "title": "Government to limit 'abusive lawsuits' aimed at silencing whistleblowers",
+        "url": "https://www.bbc.co.uk/news/articles/cw24ez2zvge0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T13:23:02Z",
+        "summary": "An MP cited former Harrods owner Mohamed Al Fayed as someone who used legal action to suppress his \"appalling abuse\"."
+      },
+      {
+        "title": "'Big moment' as net migration now in tens of thousands",
+        "url": "https://www.bbc.co.uk/news/videos/c35y1kqlx28ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T10:28:30Z",
+        "summary": "\"Big moment\" as net migration falls to tens of thousands. BBC political editor Chris Mason explains the significance of migration in the UK falling to 77,000, according to the Office for National Statistics."
+      },
+      {
+        "title": "Clashes mar European games as Macron condemns violence",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T10:24:24Z",
+        "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia."
+      },
+      {
+        "title": "Zelensky criticises 'strange' Trump-Putin friendship in BBC interview",
+        "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T09:07:48Z",
+        "summary": "Ukraine's president voices frustration with US and says it is not pushing Russia hard enough in peace talks to end the war."
+      },
+      {
+        "title": "Immigration stats are down but will that be the end of the issue?",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg23ql63ypo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T06:12:19Z",
+        "summary": "Net migration falling to the tens of thousands is a landmark moment in our collective national conversation about immigration, says Chris Mason."
+      },
+      {
+        "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+        "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T06:09:31Z",
+        "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia."
+      },
+      {
+        "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T06:04:51Z",
+        "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them."
+      },
+      {
+        "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T06:03:39Z",
+        "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign."
+      },
+      {
+        "title": "Reform UK pledges to scrap hospital parking fees in England",
+        "url": "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T06:00:41Z",
+        "summary": "The party says it would compensate NHS trusts for lost fees by charging foreign nationals more for care."
+      },
+      {
+        "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+        "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T05:54:38Z",
+        "summary": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023."
+      },
+      {
+        "title": "Venezuela to scrap law that bars opposition from public office",
+        "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T05:35:10Z",
+        "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago."
+      },
       {
         "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
         "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
@@ -13,12 +91,6 @@
         "url": "https://www.bbc.co.uk/news/articles/ck2057x387ego?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-26T23:17:12Z",
         "summary": "Details of the contribution towards EU running costs have been revealed in new legal documents."
-      },
-      {
-        "title": "US too focused on Middle East and not pushing Russia hard enough, Zelensky tells BBC",
-        "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-26T22:49:27Z",
-        "summary": "Ukraine's president voices frustration with US and says it is \"strange\" Trump has described Vladimir Putin as a friend."
       },
       {
         "title": "Zelensky questions 'strange' Trump-Putin friendship in BBC interview",
@@ -75,12 +147,6 @@
         "summary": "Net migration figures of 77,000 in the year to the end of June mark the lowest this century outside of the Covid pandemic."
       },
       {
-        "title": "G\u00e9rard Depardieu to stand trial for alleged rape of actress in 2018, court rules",
-        "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-26T14:44:26Z",
-        "summary": "A Paris appeals court rules Depardieu will go on trial for the alleged rape of Charlotte Arnould."
-      },
-      {
         "title": "Ministers hiding behind data protection on Sir Galahad bombing files, says veteran",
         "url": "https://www.bbc.co.uk/news/articles/cw0k6z8jxl82o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-26T14:29:32Z",
@@ -115,75 +181,15 @@
         "url": "https://www.bbc.co.uk/news/videos/c6x289n79vx1o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-26T11:43:52Z",
         "summary": "Mims Davies MP says women will be put off careers in public life."
-      },
-      {
-        "title": "Myanmar refuses to comply with parts of ICJ genocide ruling",
-        "url": "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-26T10:25:51Z",
-        "summary": "A landmark ruling by the International Court of Justice (ICJ) convicted Myanmar of genocide against its Rohingya minority."
-      },
-      {
-        "title": "Government preparing to publish more Mandelson papers",
-        "url": "https://www.bbc.co.uk/news/articles/c3qj5yl7vj2xo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-26T09:52:08Z",
-        "summary": "The peer was sacked as UK ambassador to the US due to his links with the late convicted sex offender Jeffrey Epstein."
-      },
-      {
-        "title": "Politics and peek-a-boo in Australian parliament as senator brings baby to work",
-        "url": "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-26T09:49:42Z",
-        "summary": "Senator Lidia Thorpe kept 6-month-old Aaliyah entertained, as her mum Senator Fatima Payman, participated in an online safety bill debate."
-      },
-      {
-        "title": "UK signs \u00a38bn deal to ensure submarines are 'warfighting ready'",
-        "url": "https://www.bbc.co.uk/news/articles/cq39gz99l1pyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-26T09:23:46Z",
-        "summary": "The deal will allow \"work around the clock to get our submarines back out to sea\" , Wes Streeting says."
-      },
-      {
-        "title": "Government set to double spending on social media unit to \u00a325m",
-        "url": "https://www.bbc.co.uk/news/articles/c62l5j02lj0go?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-26T05:58:36Z",
-        "summary": "The budget of the New Media Unit, which uses ads and content creators to reach the public, has increased."
-      },
-      {
-        "title": "France's political mainstream risks presidential vote debacle with no clear candidate",
-        "url": "https://www.bbc.co.uk/news/articles/cq772vedgepro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-26T00:23:27Z",
-        "summary": "Hard-right and hard-left candidates dominate the polls ahead of next year's presidential election."
-      },
-      {
-        "title": "Six members re-elected to Sark's Chief Pleas",
-        "url": "https://www.bbc.co.uk/news/articles/cm1dvnp55xryo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-25T22:14:05Z",
-        "summary": "Sark general election records highest voter turnout in 20 years."
-      },
-      {
-        "title": "AI porn deepfakes put women off public life, MP says",
-        "url": "https://www.bbc.co.uk/news/articles/cr742z9gx894o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-25T19:01:59Z",
-        "summary": "Mims Davies urged people to report any incidents so that \"culprits can be held to account\"."
-      },
-      {
-        "title": "Farage helps launch new campaign against the UK rejoining the EU",
-        "url": "https://www.bbc.co.uk/news/articles/cmewv071817po?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-25T18:42:44Z",
-        "summary": "The Reform UK leader reunites with businessman Arron Banks in support of the Keep Britain Out campaign."
-      },
-      {
-        "title": "Badenoch challenges Burnham over university fees for EU students",
-        "url": "https://www.bbc.co.uk/news/articles/cw4gn8lxj5r1o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-25T16:46:17Z",
-        "summary": "The PM says EU students paying the same as British students is the European position and \"won't be put on the table\"."
-      },
-      {
-        "title": "EU offers UK fresh deal on 'Made in Europe' scheme",
-        "url": "https://www.bbc.co.uk/news/articles/c50md8x9gdgro?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-25T16:45:09Z",
-        "summary": "The draft proposal could see the UK join the scheme without having to increase import taxes on Chinese cars."
       }
     ],
     "saudi": [
+      {
+        "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T06:04:51Z",
+        "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them."
+      },
       {
         "title": "Why AI fakes are spreading after Saudi skyscraper attack",
         "url": "https://www.bbc.co.uk/news/videos/cx30gmy6qqn1o?at_medium=RSS&at_campaign=rss",
@@ -193,10 +199,10 @@
     ],
     "us": [
       {
-        "title": "Major Thanksgiving storm brings flooding, flight delays across US",
-        "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-27T00:52:11Z",
-        "summary": "Almost one million customers in the US had no power on Thursday evening as storms descended on both US coasts, bringing wind gusts, heavy rain and flooding."
+        "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+        "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T10:26:28Z",
+        "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain."
       },
       {
         "title": "Watch: Roofs torn off and streets under water as severe weather hits US",
@@ -250,6 +256,78 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "What we know about Department for Work and Pensions 'cyber incident'",
+        "url": "https://www.bbc.co.uk/news/articles/ck1l0e946dqmo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T13:50:15Z",
+        "summary": "Nearly all of the DWP's online systems have been taken down, including those for pensions, universal credit and Pip applications."
+      },
+      {
+        "title": "Reform wins by-elections after offensive comments",
+        "url": "https://www.bbc.co.uk/news/articles/cqkg5y3gr1w7o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T13:27:17Z",
+        "summary": "They are held after previous councillor Alan Feeney was filmed calling Asian homeowners \"parasites\"."
+      },
+      {
+        "title": "Government to limit 'abusive lawsuits' aimed at silencing whistleblowers",
+        "url": "https://www.bbc.co.uk/news/articles/cw24ez2zvge0o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T13:23:02Z",
+        "summary": "An MP cited former Harrods owner Mohamed Al Fayed as someone who used legal action to suppress his \"appalling abuse\"."
+      },
+      {
+        "title": "'Big moment' as net migration now in tens of thousands",
+        "url": "https://www.bbc.co.uk/news/videos/c35y1kqlx28ko?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T10:28:30Z",
+        "summary": "\"Big moment\" as net migration falls to tens of thousands. BBC political editor Chris Mason explains the significance of migration in the UK falling to 77,000, according to the Office for National Statistics."
+      },
+      {
+        "title": "Clashes mar European games as Macron condemns violence",
+        "url": "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T10:24:24Z",
+        "summary": "Violent clashes mar a number of European football matches on Thursday night, with French president Emmanuel Macron condemning trouble at Marseille's home game against Levski Sofia."
+      },
+      {
+        "title": "Chris Mason: Immigration stats are down but will that be the end of the issue?",
+        "url": "https://www.bbc.co.uk/news/articles/cmvg23ql63ypo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T06:12:19Z",
+        "summary": "Net migration falling to the tens of thousands is a landmark moment in our collective national conversation about immigration, says Chris Mason."
+      },
+      {
+        "title": "'It's impossible': Spain's young people on housing ahead of Sunday's election",
+        "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T06:09:31Z",
+        "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia."
+      },
+      {
+        "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T06:04:51Z",
+        "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them."
+      },
+      {
+        "title": "Leaders clash in final Spain election debate as housing dominates run-in",
+        "url": "https://www.bbc.co.uk/news/articles/ckr5gr4g8gn5o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T06:03:39Z",
+        "summary": "The struggle many face in buying a home has been the biggest issue of a bitter campaign."
+      },
+      {
+        "title": "Reform UK pledges to scrap hospital parking fees in England",
+        "url": "https://www.bbc.co.uk/news/articles/cw62pn8mdn39o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T06:00:41Z",
+        "summary": "The party says it would compensate NHS trusts for lost fees by charging foreign nationals more for care."
+      },
+      {
+        "title": "Mushroom murderer Erin Patterson launches last-ditch High Court appeal",
+        "url": "https://www.bbc.co.uk/news/articles/ck053e1d3ly1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T05:54:38Z",
+        "summary": "Erin Patterson is serving life in prison for poisoning her relatives with a toxic mushroom lunch in 2023."
+      },
+      {
+        "title": "Venezuela to scrap law that bars opposition from public office",
+        "url": "https://www.bbc.co.uk/news/articles/c58j4pw9xjrlo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T05:35:10Z",
+        "summary": "The legislation has been criticised for enabling political persecution since it was introduced two years ago."
+      },
       {
         "title": "Sheikh Hasina's planned return puts Bangladesh on edge - and India in a bind",
         "url": "https://www.bbc.co.uk/news/articles/cx30g71rev23o?at_medium=RSS&at_campaign=rss",
@@ -3177,81 +3255,15 @@
         "url": "https://www.bbc.co.uk/news/articles/c3j47l4kdez4o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T05:45:08Z",
         "summary": "Many fear neither of the leading political blocs will win enough seats for a majority - meaning weeks or months of political wrangling may lie ahead."
-      },
-      {
-        "title": "Chris Mason: The Budget is imminent as tricky things pile up for Burnham",
-        "url": "https://www.bbc.co.uk/news/articles/c317k85r5lglo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T23:03:14Z",
-        "summary": "From Brexit debates to North Sea oil, there is plenty getting the cabinet, the Labour Party and the country talking."
-      },
-      {
-        "title": "Healey vows cheaper marmalade and gherkins in pre-Budget package of 'everyday fixes'",
-        "url": "https://www.bbc.co.uk/news/articles/c6d93gq1xdgno?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T22:30:02Z",
-        "summary": "The chancellor will axe tariffs on some staples as part of plans to give households \"breathing space\"."
-      },
-      {
-        "title": "Trump administration illegally fired James Comey's daughter, judge rules",
-        "url": "https://www.bbc.co.uk/news/articles/ck78px6glw3lo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T19:27:21Z",
-        "summary": "Maurene Comey believes she was let go from her job as a federal prosecutor because her father is the former FBI director."
-      },
-      {
-        "title": "Keir Starmer's government discussed moving out of 10 Downing Street",
-        "url": "https://www.bbc.co.uk/news/articles/cqd093gk1rjeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T18:33:31Z",
-        "summary": "The building has been described as a \"gloomy, mice-infested, bomb-curtained rabbit warren\"."
-      },
-      {
-        "title": "Political battle intensifies within Labour over Rosebank oil field",
-        "url": "https://www.bbc.co.uk/news/articles/c6zxj7dvxr5yo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T18:09:49Z",
-        "summary": "Scottish Labour leader Michael Marra is urging the energy secretary to approve the controversial plans."
-      },
-      {
-        "title": "How 'Lula's Army' WhatsApp chat helped turn Brazil election around",
-        "url": "https://www.bbc.co.uk/news/articles/cwz0vg4v3ndeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T15:37:33Z",
-        "summary": "As polls pointed to defeat, millions joined a 'Lula's Army' channel that is credited with helping transform online enthusiasm into real-world mobilisation."
-      },
-      {
-        "title": "What in the World",
-        "url": "https://www.bbc.co.uk/sounds/play/w3ct98yb?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T14:55:00Z",
-        "summary": "The Student List-Students Win aren\u2019t politicians, but the movement won the snap election"
-      },
-      {
-        "title": "Lula wins fourth term in dramatic Brazil election comeback",
-        "url": "https://www.bbc.co.uk/news/articles/ckm23y3mg1yyo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T13:54:21Z",
-        "summary": "The left-wing incumbent president had lost the first round to right-wing challenger Fl\u00e1vio Bolsonaro."
-      },
-      {
-        "title": "Burnham leaves door open to referendum on EU free movement",
-        "url": "https://www.bbc.co.uk/news/articles/cx240dpzv009o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T12:20:41Z",
-        "summary": "The PM says he wants to start a conversation about potential options for the UK's future relationship with the EU."
-      },
-      {
-        "title": "Who is Lula? From ex-worker and prisoner to Brazil's president again",
-        "url": "https://www.bbc.co.uk/news/articles/c35yn2ye1x85o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T11:39:16Z",
-        "summary": "The firebrand left-winger, who has at times been at odds with Trump, has won his fourth term as Brazil's president."
-      },
-      {
-        "title": "Five ways Trump has changed immigration in the US",
-        "url": "https://www.bbc.co.uk/news/articles/c9203k1jrmpvo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T11:29:02Z",
-        "summary": "This is how his signature policy has played out after returning to power promising a closed border and mass deportations."
-      },
-      {
-        "title": "Healey to shield low-income pensioners from income tax in the Budget",
-        "url": "https://www.bbc.co.uk/news/articles/ck98zp7zeq65o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-26T09:47:21Z",
-        "summary": "Changes are needed to prevent the full, flat-rate state pension becoming liable for income tax after it rises in April."
       }
     ],
     "saudi": [
+      {
+        "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
+        "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T06:04:51Z",
+        "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them."
+      },
       {
         "title": "Why AI fakes are spreading after Saudi skyscraper attack",
         "url": "https://www.bbc.co.uk/news/videos/cx30gmy6qqn1o?at_medium=RSS&at_campaign=rss",
@@ -3428,6 +3440,12 @@
       }
     ],
     "us": [
+      {
+        "title": "Hundreds of thousands still without power after storms hit US on Thanksgiving",
+        "url": "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-27T10:26:28Z",
+        "summary": "Pennsylvania and neighbouring states remain badly affected on Friday after both coasts were lashed with wind and rain."
+      },
       {
         "title": "Major Thanksgiving storm brings flooding, flight delays across US",
         "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o?at_medium=RSS&at_campaign=rss",
