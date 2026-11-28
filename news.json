@@ -1,7 +1,13 @@
 {
-  "generated_at": "2026-11-28T04:14:56.106740Z",
+  "generated_at": "2026-11-28T13:01:34.648154Z",
   "articles": {
     "world": [
+      {
+        "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-28T04:13:45Z",
+        "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government."
+      },
       {
         "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
         "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
@@ -9,7 +15,7 @@
         "summary": "The Canadian man, who pleaded guilty to 14 counts of aiding and abetting suicide earlier this year, said he was remorseful for his actions."
       },
       {
-        "title": "A clinic is reassessing people with ADHD and autism diagnoses - but critics fear it could deepen stigma",
+        "title": "A clinic is offering to reassess ADHD and autism diagnoses - and hundreds of people are interested",
         "url": "https://www.bbc.co.uk/news/articles/cr9309nyg2vno?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-28T00:05:17Z",
         "summary": "While many people find a diagnosis for ADHD or autism affirming, a government-funded clinic in Sweden is re-assessing people who feel it does not reflect them."
@@ -63,12 +69,6 @@
         "summary": "An MP cited former Harrods owner Mohamed Al Fayed as someone who used legal action to suppress his \"appalling abuse\"."
       },
       {
-        "title": "Brazil pushes back on Macron calling its meat 'doped'",
-        "url": "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-27T15:54:15Z",
-        "summary": "France's president made the comment while speaking to French farming representatives, months after the EU banned Brazil beef and poultry products."
-      },
-      {
         "title": "Reform's Joe Martin threatens legal challenge after being banned from speaking in Senedd",
         "url": "https://www.bbc.co.uk/news/articles/crz9d30wklz3o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-27T15:28:20Z",
@@ -103,12 +103,6 @@
         "url": "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-27T06:09:31Z",
         "summary": "Europe correspondent Nick Beake speaks to one couple kept apart by high rents in Valencia."
-      },
-      {
-        "title": "Inside Saudi Arabia, Houthi attacks test kingdom's image of security",
-        "url": "https://www.bbc.co.uk/news/articles/c6ly7jgv7jzdo?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-11-27T06:04:51Z",
-        "summary": "Despite the strikes, markets and restaurants in Riyadh remain busy as residents express trust in the government to protect them."
       },
       {
         "title": "Reform UK pledges to scrap hospital parking fees in England",
@@ -181,6 +175,12 @@
         "url": "https://www.bbc.co.uk/news/articles/cw0k6z8jxl82o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-11-26T14:29:32Z",
         "summary": "Falklands veterans demand UK government release more files from 1982 inquiry."
+      },
+      {
+        "title": "Heathrow third runway plans 'should be grounded'",
+        "url": "https://www.bbc.co.uk/news/articles/crjeqy2ndzy1o?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-26T13:29:54Z",
+        "summary": "The runway plans do not fully address issues including climate tests, the Transport Committee says."
       }
     ],
     "saudi": [
@@ -268,6 +268,12 @@
   },
   "archive": {
     "world": [
+      {
+        "title": "Turkish officials 'destroyed' pro-opposition TV channel, owner tells BBC",
+        "url": "https://www.bbc.co.uk/news/articles/cq36gk151xkdo?at_medium=RSS&at_campaign=rss",
+        "published_at": "2026-11-28T04:13:45Z",
+        "summary": "The headquarters of Halk TV were raided last month, the latest in a series of crackdowns on news sources deemed critical of the government."
+      },
       {
         "title": "'Poison seller' Kenneth Law apologises in court to the families of his victims",
         "url": "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo?at_medium=RSS&at_campaign=rss",
@@ -3261,12 +3267,6 @@
         "url": "https://www.bbc.co.uk/news/videos/c98rz14pjyy2o?at_medium=RSS&at_campaign=rss",
         "published_at": "2026-10-27T14:12:38Z",
         "summary": "Polling published on Friday suggests incumbent Benjamin Netanyahu is almost neck-and-neck with former military chief Gadi Eisenkot in the race to become prime minister."
-      },
-      {
-        "title": "Trump vs Obama - which president has the star power to get out the vote?",
-        "url": "https://www.bbc.co.uk/news/videos/cv0ldjez8z32o?at_medium=RSS&at_campaign=rss",
-        "published_at": "2026-10-27T13:59:22Z",
-        "summary": "The BBC's Sarah Smith followed Trump and Obama as both parties hope their biggest names can drive midterm turnout."
       }
     ],
     "saudi": [
